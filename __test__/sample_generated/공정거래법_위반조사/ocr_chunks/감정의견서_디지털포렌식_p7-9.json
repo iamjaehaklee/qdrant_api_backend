@@ -1,0 +1,161 @@
+{
+  "chunk_id": "b74bcc18-b4d8-4f64-95a8-5fa30e6bb6dc",
+  "file_id": 13,
+  "project_id": 3001,
+  "storage_file_name": "4c60e1c8-601c-4fae-9949-bfb287fbf77e-1760885381790.pdf",
+  "original_file_name": "감정의견서_디지털포렌식.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 14,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    7,
+    8,
+    9
+  ],
+  "chunk_number": 4,
+  "paragraph_texts": [
+    "복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일 89건 복구 (가격 협의 내용). 증거의",
+    "127건 복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일 89건 복구 (가격 협의 내용).",
+    "관련 핵심 대화 포함), 삭제된 이메일 89건 복구 (가격 협의 내용). 증거의 진정성 및 무결성",
+    "대상: PC 22대, 서버 3대, 외장저장장치 8개. 감정 결과: 삭제된 카카오톡 대화 127건 복구 성공",
+    "PC 22대, 서버 3대, 외장저장장치 8개. 감정 결과: 삭제된 카카오톡 대화 127건 복구 성공 (담합",
+    "대화 포함), 삭제된 이메일 89건 복구 (가격 협의 내용). 증거의 진정성 및 무결성 확인. 법정",
+    "디지털 포렌식 감정의견서. 감정기관: 국립과학수사연구원 디지털증거분석과. 감정 기간 2024년 5월. 감정 대상: PC 22대, 서버",
+    "2024년 5월. 감정 대상: PC 22대, 서버 3대, 외장저장장치 8개. 감정 결과: 삭제된 카카오톡 대화"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "286c0414-1c86-4466-b2b4-ea86edfbf68e",
+        "idx_in_page": 0,
+        "text": "복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일 89건 복구 (가격 협의 내용). 증거의",
+        "page": 7,
+        "bbox": {
+          "x": 198.0,
+          "y": 226.0,
+          "width": 1212.0,
+          "height": 157.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "84ceb0fb-e92a-4a2a-9ca0-01f030943cdc",
+        "idx_in_page": 1,
+        "text": "127건 복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일 89건 복구 (가격 협의 내용).",
+        "page": 7,
+        "bbox": {
+          "x": 183.0,
+          "y": 812.0,
+          "width": 1228.0,
+          "height": 183.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "f8acb153-7cf4-498f-84e6-c65a8d7c8718",
+        "idx_in_page": 0,
+        "text": "관련 핵심 대화 포함), 삭제된 이메일 89건 복구 (가격 협의 내용). 증거의 진정성 및 무결성",
+        "page": 8,
+        "bbox": {
+          "x": 194.0,
+          "y": 283.0,
+          "width": 1289.0,
+          "height": 347.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "23779ce6-1222-4b3e-8320-ed9d10980925",
+        "idx_in_page": 1,
+        "text": "대상: PC 22대, 서버 3대, 외장저장장치 8개. 감정 결과: 삭제된 카카오톡 대화 127건 복구 성공",
+        "page": 8,
+        "bbox": {
+          "x": 185.0,
+          "y": 962.0,
+          "width": 1281.0,
+          "height": 230.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "f42d8efb-0d8a-4648-bbdb-e4a5ba4895f3",
+        "idx_in_page": 2,
+        "text": "PC 22대, 서버 3대, 외장저장장치 8개. 감정 결과: 삭제된 카카오톡 대화 127건 복구 성공 (담합",
+        "page": 8,
+        "bbox": {
+          "x": 192.0,
+          "y": 1525.0,
+          "width": 1278.0,
+          "height": 175.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "59419cf6-c4f6-4643-a20c-964c18da32d8",
+        "idx_in_page": 0,
+        "text": "대화 포함), 삭제된 이메일 89건 복구 (가격 협의 내용). 증거의 진정성 및 무결성 확인. 법정",
+        "page": 9,
+        "bbox": {
+          "x": 200.0,
+          "y": 229.0,
+          "width": 1244.0,
+          "height": 183.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "77d431a5-7f59-4dce-9bc5-3ec228c0c65e",
+        "idx_in_page": 1,
+        "text": "디지털 포렌식 감정의견서. 감정기관: 국립과학수사연구원 디지털증거분석과. 감정 기간 2024년 5월. 감정 대상: PC 22대, 서버",
+        "page": 9,
+        "bbox": {
+          "x": 190.0,
+          "y": 856.0,
+          "width": 1259.0,
+          "height": 280.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "825c79a7-9bb8-4cce-ae8a-7f57baee70f2",
+        "idx_in_page": 2,
+        "text": "2024년 5월. 감정 대상: PC 22대, 서버 3대, 외장저장장치 8개. 감정 결과: 삭제된 카카오톡 대화",
+        "page": 9,
+        "bbox": {
+          "x": 184.0,
+          "y": 1430.0,
+          "width": 1242.0,
+          "height": 178.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 8,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.790019+00:00"
+}

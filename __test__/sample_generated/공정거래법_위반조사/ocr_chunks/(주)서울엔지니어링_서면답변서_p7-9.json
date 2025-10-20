@@ -1,0 +1,161 @@
+{
+  "chunk_id": "e532bce3-c178-4505-a44a-31e4c800f13e",
+  "file_id": 4,
+  "project_id": 3001,
+  "storage_file_name": "4e0dfd44-a566-43f0-ac74-696ca00fd8ce-1760885381775.pdf",
+  "original_file_name": "(주)서울엔지니어링_서면답변서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 16,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    7,
+    8,
+    9
+  ],
+  "chunk_number": 4,
+  "paragraph_texts": [
+    "사전 협의도 하지 않았음. 공정위가 제시한 통화기록은 단순한 업계 정보 교류에 불과하며, 가격 담합과는 무관함.",
+    "판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한 통화기록은 단순한",
+    "타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한 통화기록은 단순한 업계 정보 교류에 불과하며,",
+    "부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지",
+    "않았음. 공정위가 제시한 통화기록은 단순한 업계 정보 교류에 불과하며, 가격 담합과는 무관함. 입찰 낙찰률이 높은",
+    "(사건번호 2024심제1001, 제출일 2024년 3월). 당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서",
+    "당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음.",
+    "입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한 통화기록은 단순한 업계 정보"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "014f2652-e57a-4c4e-beab-af64248379a6",
+        "idx_in_page": 0,
+        "text": "사전 협의도 하지 않았음. 공정위가 제시한 통화기록은 단순한 업계 정보 교류에 불과하며, 가격 담합과는 무관함.",
+        "page": 7,
+        "bbox": {
+          "x": 187.0,
+          "y": 358.0,
+          "width": 1267.0,
+          "height": 295.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "3cceb7a9-e42f-4692-a068-d7c6e8be5a6e",
+        "idx_in_page": 1,
+        "text": "판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한 통화기록은 단순한",
+        "page": 7,
+        "bbox": {
+          "x": 187.0,
+          "y": 901.0,
+          "width": 1208.0,
+          "height": 316.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "2f1aa66b-8598-412d-838a-94d701ac6ed7",
+        "idx_in_page": 2,
+        "text": "타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한 통화기록은 단순한 업계 정보 교류에 불과하며,",
+        "page": 7,
+        "bbox": {
+          "x": 184.0,
+          "y": 1424.0,
+          "width": 1288.0,
+          "height": 394.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "e74948b5-d706-4fa7-bb1d-d9beb191d12a",
+        "idx_in_page": 0,
+        "text": "부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지",
+        "page": 8,
+        "bbox": {
+          "x": 182.0,
+          "y": 369.0,
+          "width": 1273.0,
+          "height": 236.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "51b29faf-d778-40ba-adba-b8421c2ee3b1",
+        "idx_in_page": 1,
+        "text": "않았음. 공정위가 제시한 통화기록은 단순한 업계 정보 교류에 불과하며, 가격 담합과는 무관함. 입찰 낙찰률이 높은",
+        "page": 8,
+        "bbox": {
+          "x": 194.0,
+          "y": 845.0,
+          "width": 1206.0,
+          "height": 227.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "48b7ce5a-0341-4f91-8da0-af1f341d7d23",
+        "idx_in_page": 0,
+        "text": "(사건번호 2024심제1001, 제출일 2024년 3월). 당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서",
+        "page": 9,
+        "bbox": {
+          "x": 191.0,
+          "y": 332.0,
+          "width": 1211.0,
+          "height": 353.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "163c70bc-e4b2-42d8-8761-95d9d8183c7e",
+        "idx_in_page": 1,
+        "text": "당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음.",
+        "page": 9,
+        "bbox": {
+          "x": 195.0,
+          "y": 865.0,
+          "width": 1224.0,
+          "height": 271.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "dd9c0012-061a-4686-bdbc-9b8750a209ff",
+        "idx_in_page": 2,
+        "text": "입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한 통화기록은 단순한 업계 정보",
+        "page": 9,
+        "bbox": {
+          "x": 190.0,
+          "y": 1489.0,
+          "width": 1220.0,
+          "height": 160.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 8,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.775495+00:00"
+}

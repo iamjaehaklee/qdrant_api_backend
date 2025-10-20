@@ -1,0 +1,131 @@
+{
+  "chunk_id": "87914307-2163-434e-98d6-f08bceacc6b6",
+  "file_id": 49,
+  "project_id": 1001,
+  "storage_file_name": "final_hearing_1210.pdf",
+  "original_file_name": "최종변론기일녹취록_1210.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 17,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "[1페이지] 최종변론기일녹취록_1210 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[2페이지] 최종변론기일녹취록_1210 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[3페이지] 최종변론기일녹취록_1210 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-049-001-000-0",
+        "idx_in_page": 0,
+        "text": "[1페이지] 최종변론기일녹취록_1210 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 1,
+        "bbox": {
+          "x": 214.15,
+          "y": 105.34,
+          "width": 1275.39,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-049-001-000-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 1,
+        "bbox": {
+          "x": 182.89,
+          "y": 1199.21,
+          "width": 1329.7,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-049-001-001-0",
+        "idx_in_page": 0,
+        "text": "[2페이지] 최종변론기일녹취록_1210 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 2,
+        "bbox": {
+          "x": 180.5,
+          "y": 109.74,
+          "width": 1281.39,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-049-001-001-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 2,
+        "bbox": {
+          "x": 199.39,
+          "y": 1194.62,
+          "width": 1273.39,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-049-001-002-0",
+        "idx_in_page": 0,
+        "text": "[3페이지] 최종변론기일녹취록_1210 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 3,
+        "bbox": {
+          "x": 192.84,
+          "y": 98.75,
+          "width": 1304.85,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-049-001-002-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 3,
+        "bbox": {
+          "x": 208.1,
+          "y": 1198.43,
+          "width": 1248.75,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-02T00:00:00+00:00"
+}

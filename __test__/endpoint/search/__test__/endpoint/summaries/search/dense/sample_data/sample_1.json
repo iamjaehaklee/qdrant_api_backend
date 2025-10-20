@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/dense",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "contract terms and conditions",
+    "limit": 10
+  }
+}

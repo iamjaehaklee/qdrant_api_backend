@@ -1,0 +1,68 @@
+{
+  "method": "POST",
+  "path": "/api/documentai-ocr/store-chunks",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "document_ai_result": {
+      "text": "日本語の文書\nユーザーマニュアル",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "dimension": {
+            "width": 595.0,
+            "height": 842.0
+          },
+          "blocks": [
+            {
+              "layout": {
+                "textAnchor": {
+                  "content": "日本語の文書"
+                },
+                "confidence": 0.96,
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.15,
+                      "y": 0.12
+                    },
+                    {
+                      "x": 0.55,
+                      "y": 0.12
+                    },
+                    {
+                      "x": 0.55,
+                      "y": 0.17
+                    },
+                    {
+                      "x": 0.15,
+                      "y": 0.17
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "detected_languages": [
+            {
+              "languageCode": "ja",
+              "confidence": 0.97
+            }
+          ]
+        }
+      ]
+    },
+    "file_metadata": {
+      "file_id": 180,
+      "project_id": 15,
+      "storage_file_name": "2024/06/japanese_manual.pdf",
+      "original_file_name": "ユーザーマニュアル.pdf",
+      "mime_type": "application/pdf",
+      "total_pages": 1
+    }
+  }
+}

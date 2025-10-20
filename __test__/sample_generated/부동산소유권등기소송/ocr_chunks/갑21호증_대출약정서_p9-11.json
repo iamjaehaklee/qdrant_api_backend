@@ -1,0 +1,356 @@
+{
+  "chunk_id": "8f838549-890d-4f40-9cfd-ffbf60aa52f2",
+  "file_id": 32,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a21_loan_agreement.pdf",
+  "original_file_name": "갑21호증_대출약정서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 11,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    9,
+    10,
+    11
+  ],
+  "chunk_number": 5,
+  "paragraph_texts": [
+    "① 본 약정은 대한민국 법률에 따라 해석되고 적용된다.",
+    "② 본 약정과 관련한 분쟁은 대출기관 소재지 관할 법원을 제1심 전속관할법원으로 한다.",
+    "제16조 (특약사항)",
+    "① 차주는 본 대출금으로 서울특별시 강남구 테헤란로 123 소재 아크로타워 456동 789호를 매수한다.",
+    "② 매매대금 총액은 금 칠억원정(₩700,000,000)이며, 본 대출금 외 차액은 차주의 자기자금으로 충당한다.",
+    "③ 대출 실행은 소유권이전등기 완료를 조건으로 하며, 등기 완료 후 3영업일 이내에 실행한다.",
+    "④ 차주가 소유권이전등기를 완료하지 못하는 경우 본 대출약정은 자동으로 효력을 상실한다.",
+    "⑤ 본 특약사항은 본 약정서의 다른 조항에 우선하여 적용된다.",
+    "제17조 (약정서의 효력)",
+    "① 본 약정서는 대출기관과 차주가 서명 날인함으로써 효력이 발생한다.",
+    "② 본 약정서는 2통을 작성하여 대출기관과 차주가 각 1통씩 보관한다.",
+    "③ 본 약정의 내용을 변경하고자 하는 경우에는 당사자 쌍방의 합의에 의한 서면합의서를 작성하여야 한다.",
+    "본 약정서 체결을 증명하기 위하여 대출기관과 차주는 아래와 같이 서명 날인한다.",
+    "2024년 6월 10일",
+    "대출기관: 신한은행 서초지점",
+    "대표자: 김영호 (인)",
+    "주소: 서울특별시 서초구 서초대로 74길 11",
+    "차주: 김철수 (인)",
+    "주민등록번호: 750415-1******",
+    "주소: 서울특별시 송파구 올림픽로 212",
+    "연락처: 010-1234-5678"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-032-005-000-0",
+        "idx_in_page": 0,
+        "text": "① 본 약정은 대한민국 법률에 따라 해석되고 적용된다.",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 220,
+          "width": 880,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-005-000-1",
+        "idx_in_page": 1,
+        "text": "② 본 약정과 관련한 분쟁은 대출기관 소재지 관할 법원을 제1심 전속관할법원으로 한다.",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 260,
+          "width": 1260,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-032-005-000-2",
+        "idx_in_page": 2,
+        "text": "제16조 (특약사항)",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 340,
+          "width": 320,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-005-000-3",
+        "idx_in_page": 3,
+        "text": "① 차주는 본 대출금으로 서울특별시 강남구 테헤란로 123 소재 아크로타워 456동 789호를 매수한다.",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 380,
+          "width": 1340,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-032-005-000-4",
+        "idx_in_page": 4,
+        "text": "② 매매대금 총액은 금 칠억원정(₩700,000,000)이며, 본 대출금 외 차액은 차주의 자기자금으로 충당한다.",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 420,
+          "width": 1380,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-032-005-000-5",
+        "idx_in_page": 5,
+        "text": "③ 대출 실행은 소유권이전등기 완료를 조건으로 하며, 등기 완료 후 3영업일 이내에 실행한다.",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 460,
+          "width": 1280,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-032-005-000-6",
+        "idx_in_page": 6,
+        "text": "④ 차주가 소유권이전등기를 완료하지 못하는 경우 본 대출약정은 자동으로 효력을 상실한다.",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 500,
+          "width": 1300,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-032-005-000-7",
+        "idx_in_page": 7,
+        "text": "⑤ 본 특약사항은 본 약정서의 다른 조항에 우선하여 적용된다.",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 540,
+          "width": 960,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-032-005-001-0",
+        "idx_in_page": 0,
+        "text": "제17조 (약정서의 효력)",
+        "page": 10,
+        "bbox": {
+          "x": 180,
+          "y": 180,
+          "width": 360,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-005-001-1",
+        "idx_in_page": 1,
+        "text": "① 본 약정서는 대출기관과 차주가 서명 날인함으로써 효력이 발생한다.",
+        "page": 10,
+        "bbox": {
+          "x": 180,
+          "y": 220,
+          "width": 1080,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-032-005-001-2",
+        "idx_in_page": 2,
+        "text": "② 본 약정서는 2통을 작성하여 대출기관과 차주가 각 1통씩 보관한다.",
+        "page": 10,
+        "bbox": {
+          "x": 180,
+          "y": 260,
+          "width": 1040,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-005-001-3",
+        "idx_in_page": 3,
+        "text": "③ 본 약정의 내용을 변경하고자 하는 경우에는 당사자 쌍방의 합의에 의한 서면합의서를 작성하여야 한다.",
+        "page": 10,
+        "bbox": {
+          "x": 180,
+          "y": 300,
+          "width": 1380,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-032-005-002-0",
+        "idx_in_page": 0,
+        "text": "본 약정서 체결을 증명하기 위하여 대출기관과 차주는 아래와 같이 서명 날인한다.",
+        "page": 11,
+        "bbox": {
+          "x": 180,
+          "y": 180,
+          "width": 1200,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-032-005-002-1",
+        "idx_in_page": 1,
+        "text": "2024년 6월 10일",
+        "page": 11,
+        "bbox": {
+          "x": 180,
+          "y": 260,
+          "width": 280,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-005-002-2",
+        "idx_in_page": 2,
+        "text": "대출기관: 신한은행 서초지점",
+        "page": 11,
+        "bbox": {
+          "x": 180,
+          "y": 340,
+          "width": 480,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-005-002-3",
+        "idx_in_page": 3,
+        "text": "대표자: 김영호 (인)",
+        "page": 11,
+        "bbox": {
+          "x": 180,
+          "y": 380,
+          "width": 320,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-005-002-4",
+        "idx_in_page": 4,
+        "text": "주소: 서울특별시 서초구 서초대로 74길 11",
+        "page": 11,
+        "bbox": {
+          "x": 180,
+          "y": 420,
+          "width": 640,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-005-002-5",
+        "idx_in_page": 5,
+        "text": "차주: 김철수 (인)",
+        "page": 11,
+        "bbox": {
+          "x": 180,
+          "y": 520,
+          "width": 300,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-005-002-6",
+        "idx_in_page": 6,
+        "text": "주민등록번호: 750415-1******",
+        "page": 11,
+        "bbox": {
+          "x": 180,
+          "y": 560,
+          "width": 440,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-005-002-7",
+        "idx_in_page": 7,
+        "text": "주소: 서울특별시 송파구 올림픽로 212",
+        "page": 11,
+        "bbox": {
+          "x": 180,
+          "y": 600,
+          "width": 580,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-005-002-8",
+        "idx_in_page": 8,
+        "text": "연락처: 010-1234-5678",
+        "page": 11,
+        "bbox": {
+          "x": 180,
+          "y": 640,
+          "width": 340,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 10,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-06T00:00:00+00:00"
+}

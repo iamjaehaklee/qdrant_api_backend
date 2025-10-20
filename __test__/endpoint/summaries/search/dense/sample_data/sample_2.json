@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/dense",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "재무 보고서 요약",
+    "limit": 10,
+    "score_threshold": 0.7
+  }
+}

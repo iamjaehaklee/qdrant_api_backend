@@ -1,0 +1,131 @@
+{
+  "chunk_id": "6535bf47-b603-4930-b82d-fd3e8b7ef873",
+  "file_id": 46,
+  "project_id": 3001,
+  "storage_file_name": "c57b4c2b-86e7-43c9-925d-36d77f17cba0-1760885381844.pdf",
+  "original_file_name": "전원회의_의결서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 15,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    9,
+    10,
+    11
+  ],
+  "chunk_number": 5,
+  "paragraph_texts": [
+    "내용을 심의한 결과, 4개 건설사의 입찰담합 행위가 공정거래법 위반에 해당한다고 판단함. 표결 결과 찬성 8명,",
+    "표결 결과 찬성 8명, 반대 1명으로 위반행위 인정. 시정명령 및 과징금 총 487억원 부과를 의결함.",
+    "심사보고서 내용을 심의한 결과, 4개 건설사의 입찰담합 행위가 공정거래법 위반에 해당한다고 판단함. 표결 결과 찬성",
+    "반대 1명으로 위반행위 인정. 시정명령 및 과징금 총 487억원 부과를 의결함. 검찰 고발 및 언론공표도",
+    "공정거래위원회 전원회의 의결서 (사건번호 2024심제1001, 2024년 9월 15일). 심사보고서 내용을 심의한 결과, 4개 건설사의 입찰담합",
+    "판단함. 표결 결과 찬성 8명, 반대 1명으로 위반행위 인정. 시정명령 및 과징금 총 487억원 부과를"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "da87ff1d-813d-4a92-ba1a-47b39cce82c2",
+        "idx_in_page": 0,
+        "text": "내용을 심의한 결과, 4개 건설사의 입찰담합 행위가 공정거래법 위반에 해당한다고 판단함. 표결 결과 찬성 8명,",
+        "page": 9,
+        "bbox": {
+          "x": 187.0,
+          "y": 244.0,
+          "width": 1291.0,
+          "height": 393.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "4265d816-9a27-4225-b364-76254882e587",
+        "idx_in_page": 1,
+        "text": "표결 결과 찬성 8명, 반대 1명으로 위반행위 인정. 시정명령 및 과징금 총 487억원 부과를 의결함.",
+        "page": 9,
+        "bbox": {
+          "x": 180.0,
+          "y": 933.0,
+          "width": 1243.0,
+          "height": 386.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "83df5d62-9ed4-4d35-95b7-c38b2ba978fb",
+        "idx_in_page": 0,
+        "text": "심사보고서 내용을 심의한 결과, 4개 건설사의 입찰담합 행위가 공정거래법 위반에 해당한다고 판단함. 표결 결과 찬성",
+        "page": 10,
+        "bbox": {
+          "x": 197.0,
+          "y": 353.0,
+          "width": 1267.0,
+          "height": 280.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "f0b1f845-8757-46dc-8360-78684287b771",
+        "idx_in_page": 1,
+        "text": "반대 1명으로 위반행위 인정. 시정명령 및 과징금 총 487억원 부과를 의결함. 검찰 고발 및 언론공표도",
+        "page": 10,
+        "bbox": {
+          "x": 183.0,
+          "y": 909.0,
+          "width": 1224.0,
+          "height": 306.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "2965bf1c-9f74-45a4-a9f0-2b8021c661ba",
+        "idx_in_page": 0,
+        "text": "공정거래위원회 전원회의 의결서 (사건번호 2024심제1001, 2024년 9월 15일). 심사보고서 내용을 심의한 결과, 4개 건설사의 입찰담합",
+        "page": 11,
+        "bbox": {
+          "x": 192.0,
+          "y": 323.0,
+          "width": 1294.0,
+          "height": 275.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "d7557e91-0ae9-46b4-8326-2835c5d63eac",
+        "idx_in_page": 1,
+        "text": "판단함. 표결 결과 찬성 8명, 반대 1명으로 위반행위 인정. 시정명령 및 과징금 총 487억원 부과를",
+        "page": 11,
+        "bbox": {
+          "x": 184.0,
+          "y": 904.0,
+          "width": 1222.0,
+          "height": 276.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 10,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.844680+00:00"
+}

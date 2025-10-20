@@ -1,0 +1,146 @@
+{
+  "chunk_id": "2b8fb866-4cd9-4470-95b2-478a1e8f9a20",
+  "file_id": 4,
+  "project_id": 3001,
+  "storage_file_name": "5c3b3e0a-8b21-4c2b-adc0-0b90db1c059f-1760885381775.pdf",
+  "original_file_name": "(주)서울엔지니어링_서면답변서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 16,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    9,
+    10,
+    11
+  ],
+  "chunk_number": 5,
+  "paragraph_texts": [
+    "공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타",
+    "혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전",
+    "모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가",
+    "입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한",
+    "제출일 2024년 3월). 당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에",
+    "2024년 3월). 당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에 따라",
+    "부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "e2aef177-6dda-4a56-a44d-d991567aae2b",
+        "idx_in_page": 0,
+        "text": "공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타",
+        "page": 9,
+        "bbox": {
+          "x": 199.0,
+          "y": 278.0,
+          "width": 1269.0,
+          "height": 394.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "3280cab9-4939-4d4f-be9b-95ed8032fb58",
+        "idx_in_page": 1,
+        "text": "혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전",
+        "page": 9,
+        "bbox": {
+          "x": 188.0,
+          "y": 970.0,
+          "width": 1231.0,
+          "height": 357.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "1b73a9fc-9de1-4bbf-ab89-8a59d5f714b8",
+        "idx_in_page": 0,
+        "text": "모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가",
+        "page": 10,
+        "bbox": {
+          "x": 181.0,
+          "y": 256.0,
+          "width": 1209.0,
+          "height": 290.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "afcabd90-2ffe-4ecb-8a7a-aed305889818",
+        "idx_in_page": 1,
+        "text": "입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한",
+        "page": 10,
+        "bbox": {
+          "x": 185.0,
+          "y": 896.0,
+          "width": 1286.0,
+          "height": 347.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "b7349a0e-281b-4f99-b847-048a8b9f7abb",
+        "idx_in_page": 2,
+        "text": "제출일 2024년 3월). 당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에",
+        "page": 10,
+        "bbox": {
+          "x": 183.0,
+          "y": 1470.0,
+          "width": 1214.0,
+          "height": 356.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "ae0dc993-dcfc-46ec-b804-20f160bf3c8e",
+        "idx_in_page": 0,
+        "text": "2024년 3월). 당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에 따라",
+        "page": 11,
+        "bbox": {
+          "x": 194.0,
+          "y": 233.0,
+          "width": 1255.0,
+          "height": 165.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "e811dcd3-c8ae-4471-a8bd-f54b7997f9ca",
+        "idx_in_page": 1,
+        "text": "부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지",
+        "page": 11,
+        "bbox": {
+          "x": 186.0,
+          "y": 893.0,
+          "width": 1281.0,
+          "height": 246.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 10,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.775735+00:00"
+}

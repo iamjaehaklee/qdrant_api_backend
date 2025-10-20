@@ -1,0 +1,10 @@
+{
+  "method": "GET",
+  "path": "/collection/info",
+  "headers": {
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": null
+}

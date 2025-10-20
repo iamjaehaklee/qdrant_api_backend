@@ -1,0 +1,95 @@
+{
+  "chunk_id": "de12fe44-0315-4125-8daa-cea95e6361d6",
+  "file_id": 14,
+  "project_id": 3001,
+  "storage_file_name": "b3321edf-be2e-4fba-9f9c-2775190b3027-1760885381792.pdf",
+  "original_file_name": "검찰_고발장.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 10,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    9,
+    10
+  ],
+  "chunk_number": 5,
+  "paragraph_texts": [
+    "각 사 대표이사 4명 및 담합 실무 담당 임직원 5명. 혐의: 공정거래법 제40조 위반(부당한 공동행위),",
+    "(주)태평양건설, (주)한국종합건설, (주)대한건설산업, (주)서울엔지니어링. 개인 9명: 각 사 대표이사 4명 및 담합 실무 담당 임직원",
+    "담당 임직원 5명. 혐의: 공정거래법 제40조 위반(부당한 공동행위), 형법 제315조 위반(경쟁입찰방해). 국민경제 질서를 심각하게 훼손한",
+    "9명: 각 사 대표이사 4명 및 담합 실무 담당 임직원 5명. 혐의: 공정거래법 제40조 위반(부당한"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "b87c15a2-3b60-4ce5-80f1-1af93a6bcbae",
+        "idx_in_page": 0,
+        "text": "각 사 대표이사 4명 및 담합 실무 담당 임직원 5명. 혐의: 공정거래법 제40조 위반(부당한 공동행위),",
+        "page": 9,
+        "bbox": {
+          "x": 182.0,
+          "y": 219.0,
+          "width": 1239.0,
+          "height": 215.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "c7000236-c107-419a-9fa3-a7fa79502ac3",
+        "idx_in_page": 1,
+        "text": "(주)태평양건설, (주)한국종합건설, (주)대한건설산업, (주)서울엔지니어링. 개인 9명: 각 사 대표이사 4명 및 담합 실무 담당 임직원",
+        "page": 9,
+        "bbox": {
+          "x": 193.0,
+          "y": 902.0,
+          "width": 1234.0,
+          "height": 340.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "a4344330-c419-43b7-b193-2aae6a93abe3",
+        "idx_in_page": 0,
+        "text": "담당 임직원 5명. 혐의: 공정거래법 제40조 위반(부당한 공동행위), 형법 제315조 위반(경쟁입찰방해). 국민경제 질서를 심각하게 훼손한",
+        "page": 10,
+        "bbox": {
+          "x": 197.0,
+          "y": 320.0,
+          "width": 1251.0,
+          "height": 349.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "a70977f1-171d-46d8-9318-164adf3bd3a8",
+        "idx_in_page": 1,
+        "text": "9명: 각 사 대표이사 4명 및 담합 실무 담당 임직원 5명. 혐의: 공정거래법 제40조 위반(부당한",
+        "page": 10,
+        "bbox": {
+          "x": 181.0,
+          "y": 954.0,
+          "width": 1258.0,
+          "height": 185.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 10,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.792077+00:00"
+}

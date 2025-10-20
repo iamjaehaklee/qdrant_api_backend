@@ -1,0 +1,13 @@
+{
+  "method": "GET",
+  "path": "/points/project/999",
+  "headers": {
+    "Accept": "application/json"
+  },
+  "path_params": {
+    "project_id": 999
+  },
+  "query_params": {},
+  "body": null,
+  "description": "Test with non-existent project_id - should return empty results"
+}

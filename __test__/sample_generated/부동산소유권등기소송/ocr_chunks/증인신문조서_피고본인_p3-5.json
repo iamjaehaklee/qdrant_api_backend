@@ -1,0 +1,131 @@
+{
+  "chunk_id": "3ed35e1d-8efb-4562-99d9-836bbe6c8c32",
+  "file_id": 42,
+  "project_id": 1001,
+  "storage_file_name": "witness_exam_defendant.pdf",
+  "original_file_name": "증인신문조서_피고본인.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 16,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "chunk_number": 2,
+  "paragraph_texts": [
+    "[3페이지] 증인신문조서 재판장: 계약 체결 당시 상황에 대해 진술하시기 바랍니다.",
+    "증인: 2024년 3월 15일 강남부동산공인중개사사무소에서 계약이 체결되었습니다. 재판장: 특약사항에 대해서는 어떻게 기억하십니까?",
+    "[4페이지] 증인신문조서 재판장: 계약 체결 당시 상황에 대해 진술하시기 바랍니다.",
+    "증인: 2024년 3월 15일 강남부동산공인중개사사무소에서 계약이 체결되었습니다. 재판장: 특약사항에 대해서는 어떻게 기억하십니까?",
+    "[5페이지] 증인신문조서 재판장: 계약 체결 당시 상황에 대해 진술하시기 바랍니다.",
+    "증인: 2024년 3월 15일 강남부동산공인중개사사무소에서 계약이 체결되었습니다. 재판장: 특약사항에 대해서는 어떻게 기억하십니까?"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-042-002-000-0",
+        "idx_in_page": 0,
+        "text": "[3페이지] 증인신문조서 재판장: 계약 체결 당시 상황에 대해 진술하시기 바랍니다.",
+        "page": 3,
+        "bbox": {
+          "x": 185.51,
+          "y": 106.13,
+          "width": 1328.5,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-042-002-000-1",
+        "idx_in_page": 1,
+        "text": "증인: 2024년 3월 15일 강남부동산공인중개사사무소에서 계약이 체결되었습니다. 재판장: 특약사항에 대해서는 어떻게 기억하십니까?",
+        "page": 3,
+        "bbox": {
+          "x": 185.66,
+          "y": 1189.37,
+          "width": 1312.43,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-042-002-001-0",
+        "idx_in_page": 0,
+        "text": "[4페이지] 증인신문조서 재판장: 계약 체결 당시 상황에 대해 진술하시기 바랍니다.",
+        "page": 4,
+        "bbox": {
+          "x": 184.18,
+          "y": 103.35,
+          "width": 1327.77,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-042-002-001-1",
+        "idx_in_page": 1,
+        "text": "증인: 2024년 3월 15일 강남부동산공인중개사사무소에서 계약이 체결되었습니다. 재판장: 특약사항에 대해서는 어떻게 기억하십니까?",
+        "page": 4,
+        "bbox": {
+          "x": 183.76,
+          "y": 1187.72,
+          "width": 1328.42,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-042-002-002-0",
+        "idx_in_page": 0,
+        "text": "[5페이지] 증인신문조서 재판장: 계약 체결 당시 상황에 대해 진술하시기 바랍니다.",
+        "page": 5,
+        "bbox": {
+          "x": 200.75,
+          "y": 101.52,
+          "width": 1258.09,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-042-002-002-1",
+        "idx_in_page": 1,
+        "text": "증인: 2024년 3월 15일 강남부동산공인중개사사무소에서 계약이 체결되었습니다. 재판장: 특약사항에 대해서는 어떻게 기억하십니까?",
+        "page": 5,
+        "bbox": {
+          "x": 199.1,
+          "y": 1188.33,
+          "width": 1241.81,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 4,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-03T00:00:00+00:00"
+}

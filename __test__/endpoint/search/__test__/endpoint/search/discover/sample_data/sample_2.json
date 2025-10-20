@@ -1,0 +1,18 @@
+{
+  "method": "POST",
+  "path": "/search/discover",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "target": {
+      "positive": ["550e8400-e29b-41d4-a716-446655440011", "550e8400-e29b-41d4-a716-446655440012"],
+      "negative": ["550e8400-e29b-41d4-a716-446655440091"]
+    },
+    "limit": 15,
+    "score_threshold": 0.6
+  }
+}

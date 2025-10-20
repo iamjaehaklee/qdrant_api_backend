@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/dense",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "technical specifications",
+    "limit": 10,
+    "filter_file_id": 128
+  }
+}

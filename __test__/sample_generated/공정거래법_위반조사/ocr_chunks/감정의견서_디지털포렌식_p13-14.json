@@ -1,0 +1,110 @@
+{
+  "chunk_id": "37a0ca84-ba7f-486f-8547-f980a983bd8e",
+  "file_id": 13,
+  "project_id": 3001,
+  "storage_file_name": "47e37d3a-f2ac-48a8-b3ea-58a7302cffa4-1760885381790.pdf",
+  "original_file_name": "감정의견서_디지털포렌식.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 14,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    13,
+    14
+  ],
+  "chunk_number": 7,
+  "paragraph_texts": [
+    "감정 결과: 삭제된 카카오톡 대화 127건 복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일",
+    "2024년 5월. 감정 대상: PC 22대, 서버 3대, 외장저장장치 8개. 감정 결과: 삭제된 카카오톡 대화",
+    "결과: 삭제된 카카오톡 대화 127건 복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일 89건",
+    "국립과학수사연구원 디지털증거분석과. 감정 기간 2024년 5월. 감정 대상: PC 22대, 서버 3대, 외장저장장치 8개. 감정",
+    "감정 결과: 삭제된 카카오톡 대화 127건 복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "a58c9bec-2811-4333-b450-c9b95259c5ed",
+        "idx_in_page": 0,
+        "text": "감정 결과: 삭제된 카카오톡 대화 127건 복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일",
+        "page": 13,
+        "bbox": {
+          "x": 189.0,
+          "y": 326.0,
+          "width": 1236.0,
+          "height": 268.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "715f2ee9-45c7-424f-9293-e5776c53c7f1",
+        "idx_in_page": 1,
+        "text": "2024년 5월. 감정 대상: PC 22대, 서버 3대, 외장저장장치 8개. 감정 결과: 삭제된 카카오톡 대화",
+        "page": 13,
+        "bbox": {
+          "x": 191.0,
+          "y": 836.0,
+          "width": 1288.0,
+          "height": 253.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "792d9a71-c419-4ad8-bd03-3f93033dcc64",
+        "idx_in_page": 2,
+        "text": "결과: 삭제된 카카오톡 대화 127건 복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일 89건",
+        "page": 13,
+        "bbox": {
+          "x": 183.0,
+          "y": 1554.0,
+          "width": 1291.0,
+          "height": 262.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "021706d5-0b23-469c-88ca-43cb4b51692d",
+        "idx_in_page": 0,
+        "text": "국립과학수사연구원 디지털증거분석과. 감정 기간 2024년 5월. 감정 대상: PC 22대, 서버 3대, 외장저장장치 8개. 감정",
+        "page": 14,
+        "bbox": {
+          "x": 194.0,
+          "y": 216.0,
+          "width": 1200.0,
+          "height": 327.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "e6ac355b-0c8f-4ae8-bfd3-50d1d741537d",
+        "idx_in_page": 1,
+        "text": "감정 결과: 삭제된 카카오톡 대화 127건 복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일",
+        "page": 14,
+        "bbox": {
+          "x": 184.0,
+          "y": 911.0,
+          "width": 1209.0,
+          "height": 169.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 13,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 14,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.790784+00:00"
+}

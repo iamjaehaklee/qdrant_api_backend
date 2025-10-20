@@ -1,0 +1,12 @@
+{
+  "method": "DELETE",
+  "path": "/points/f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "headers": {
+    "Accept": "application/json"
+  },
+  "path_params": {
+    "point_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "query_params": {},
+  "body": null
+}

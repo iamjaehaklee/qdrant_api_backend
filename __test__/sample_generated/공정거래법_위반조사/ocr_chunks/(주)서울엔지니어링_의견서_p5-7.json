@@ -1,0 +1,131 @@
+{
+  "chunk_id": "220e9aba-32ff-4f5e-98b7-9417b8f37279",
+  "file_id": 6,
+  "project_id": 3001,
+  "storage_file_name": "c30bd992-17af-490e-857d-1b8d15009d3a-1760885381779.pdf",
+  "original_file_name": "(주)서울엔지니어링_의견서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 14,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "chunk_number": 3,
+  "paragraph_texts": [
+    "의견서 (사건번호 2024심제1001, 제출일 2024년 6월). 공정거래위원회가 부과하고자 하는 과징금은 당사의 실제 위반 정도에 비해",
+    "적자를 기록하고 있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로",
+    "6월). 공정거래위원회가 부과하고자 하는 과징금은 당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근",
+    "적자를 기록하고 있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로",
+    "기록하고 있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을",
+    "생계가 걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히 요청함. 당사는 재발방지를 위해"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "a794c126-fd1a-4538-9b2d-a7b8dc5ba091",
+        "idx_in_page": 0,
+        "text": "의견서 (사건번호 2024심제1001, 제출일 2024년 6월). 공정거래위원회가 부과하고자 하는 과징금은 당사의 실제 위반 정도에 비해",
+        "page": 5,
+        "bbox": {
+          "x": 188.0,
+          "y": 229.0,
+          "width": 1225.0,
+          "height": 150.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "1aa440dc-1e6e-4f36-9372-e083801ced1d",
+        "idx_in_page": 1,
+        "text": "적자를 기록하고 있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로",
+        "page": 5,
+        "bbox": {
+          "x": 198.0,
+          "y": 898.0,
+          "width": 1253.0,
+          "height": 315.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "b69eecbb-af45-4e0f-9648-4ef05ad0f728",
+        "idx_in_page": 0,
+        "text": "6월). 공정거래위원회가 부과하고자 하는 과징금은 당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근",
+        "page": 6,
+        "bbox": {
+          "x": 195.0,
+          "y": 299.0,
+          "width": 1247.0,
+          "height": 174.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "61ba0a25-880e-4470-9b36-bcc358724a28",
+        "idx_in_page": 1,
+        "text": "적자를 기록하고 있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로",
+        "page": 6,
+        "bbox": {
+          "x": 198.0,
+          "y": 955.0,
+          "width": 1270.0,
+          "height": 179.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "26ba578a-5db8-4813-b289-b1045adf3326",
+        "idx_in_page": 0,
+        "text": "기록하고 있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을",
+        "page": 7,
+        "bbox": {
+          "x": 193.0,
+          "y": 293.0,
+          "width": 1270.0,
+          "height": 167.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "8a5e16f2-2f7b-4c5e-b06d-a887f0e426e1",
+        "idx_in_page": 1,
+        "text": "생계가 걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히 요청함. 당사는 재발방지를 위해",
+        "page": 7,
+        "bbox": {
+          "x": 180.0,
+          "y": 805.0,
+          "width": 1219.0,
+          "height": 232.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 6,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.779357+00:00"
+}

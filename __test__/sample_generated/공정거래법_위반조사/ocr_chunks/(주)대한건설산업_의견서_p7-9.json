@@ -1,0 +1,161 @@
+{
+  "chunk_id": "dc352c8d-bda1-418b-8b07-339744acbabc",
+  "file_id": 3,
+  "project_id": 3001,
+  "storage_file_name": "c566b6ca-986e-4d70-bedd-e18e06e0f3e5-1760885381774.pdf",
+  "original_file_name": "(주)대한건설산업_의견서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 12,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    7,
+    8,
+    9
+  ],
+  "chunk_number": 4,
+  "paragraph_texts": [
+    "예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히 요청함.",
+    "있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을 최소",
+    "부과하고자 하는 과징금은 당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를",
+    "비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고 있으며, 과징금 부과 시 경영에 심각한",
+    "과징금은 당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고 있으며,",
+    "의견서 (사건번호 2024심제1001, 제출일 2024년 6월). 공정거래위원회가 부과하고자 하는 과징금은 당사의 실제 위반 정도에 비해",
+    "최근 3년간 적자를 기록하고 있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가",
+    "임직원 1,200명의 생계가 걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히 요청함. 당사는"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "b26f9c30-7dbd-444f-989d-ba454cac434c",
+        "idx_in_page": 0,
+        "text": "예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히 요청함.",
+        "page": 7,
+        "bbox": {
+          "x": 183.0,
+          "y": 244.0,
+          "width": 1280.0,
+          "height": 320.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "561543a1-7257-4225-b949-f060f94a5cfd",
+        "idx_in_page": 1,
+        "text": "있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을 최소",
+        "page": 7,
+        "bbox": {
+          "x": 188.0,
+          "y": 942.0,
+          "width": 1225.0,
+          "height": 186.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "c511f41f-172b-48b6-811e-942e96211c14",
+        "idx_in_page": 0,
+        "text": "부과하고자 하는 과징금은 당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를",
+        "page": 8,
+        "bbox": {
+          "x": 185.0,
+          "y": 224.0,
+          "width": 1240.0,
+          "height": 294.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "342fbbee-feb6-428a-b73d-184f9902a798",
+        "idx_in_page": 1,
+        "text": "비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고 있으며, 과징금 부과 시 경영에 심각한",
+        "page": 8,
+        "bbox": {
+          "x": 181.0,
+          "y": 948.0,
+          "width": 1252.0,
+          "height": 380.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "911c08e7-f7c2-4105-83be-91422197cbb1",
+        "idx_in_page": 2,
+        "text": "과징금은 당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고 있으며,",
+        "page": 8,
+        "bbox": {
+          "x": 194.0,
+          "y": 1529.0,
+          "width": 1236.0,
+          "height": 344.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "f127bcdf-ac71-470f-b07e-6e2ba923c32b",
+        "idx_in_page": 0,
+        "text": "의견서 (사건번호 2024심제1001, 제출일 2024년 6월). 공정거래위원회가 부과하고자 하는 과징금은 당사의 실제 위반 정도에 비해",
+        "page": 9,
+        "bbox": {
+          "x": 193.0,
+          "y": 327.0,
+          "width": 1275.0,
+          "height": 367.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "af536885-afc6-4567-8a93-74ac6b85f2ac",
+        "idx_in_page": 1,
+        "text": "최근 3년간 적자를 기록하고 있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가",
+        "page": 9,
+        "bbox": {
+          "x": 198.0,
+          "y": 864.0,
+          "width": 1255.0,
+          "height": 238.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "1eec8afa-6d70-41ba-ad26-b3de1432ac70",
+        "idx_in_page": 2,
+        "text": "임직원 1,200명의 생계가 걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히 요청함. 당사는",
+        "page": 9,
+        "bbox": {
+          "x": 186.0,
+          "y": 1509.0,
+          "width": 1222.0,
+          "height": 328.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 8,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.774043+00:00"
+}

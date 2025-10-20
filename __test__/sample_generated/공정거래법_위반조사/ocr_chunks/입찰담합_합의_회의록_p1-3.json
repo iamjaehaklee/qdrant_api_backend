@@ -1,0 +1,161 @@
+{
+  "chunk_id": "d263a93b-4e74-46c3-9688-51cfee763b6a",
+  "file_id": 45,
+  "project_id": 3001,
+  "storage_file_name": "f2f21402-ca99-418c-bfcf-54c696ffcada-1760885381843.pdf",
+  "original_file_name": "입찰담합_합의_회의록.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 5,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "서울 강남구 소재 특급호텔 연회장. 참석자: 4개사 대표이사 및 영업담당 임원 총 8명. 안건: 향후",
+    "최저가 방지 협약 - 입찰가는 예정가 95% 이상 유지. (3) 위반 시 제재 - 합의",
+    "합의 내용: (1) 순번제 도입 - 대형 공사는 4개사가 돌아가며 낙찰. (2) 최저가 방지 협약",
+    "도입 - 대형 공사는 4개사가 돌아가며 낙찰. (2) 최저가 방지 협약 - 입찰가는 예정가 95%",
+    "8명. 안건: 향후 입찰 물량배분 원칙 합의. 합의 내용: (1) 순번제 도입 - 대형 공사는",
+    "합의. 합의 내용: (1) 순번제 도입 - 대형 공사는 4개사가 돌아가며 낙찰. (2) 최저가 방지",
+    "협약 - 입찰가는 예정가 95% 이상 유지. (3) 위반 시 제재 - 합의 위반 업체는",
+    "서울 강남구 소재 특급호텔 연회장. 참석자: 4개사 대표이사 및 영업담당 임원 총 8명. 안건: 향후"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "ac93ebcf-943f-4141-80d8-bf1509b3692a",
+        "idx_in_page": 0,
+        "text": "서울 강남구 소재 특급호텔 연회장. 참석자: 4개사 대표이사 및 영업담당 임원 총 8명. 안건: 향후",
+        "page": 1,
+        "bbox": {
+          "x": 183.0,
+          "y": 203.0,
+          "width": 1268.0,
+          "height": 315.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "fa17b4e1-1c1c-4c9b-8e6d-08b44451acb7",
+        "idx_in_page": 1,
+        "text": "최저가 방지 협약 - 입찰가는 예정가 95% 이상 유지. (3) 위반 시 제재 - 합의",
+        "page": 1,
+        "bbox": {
+          "x": 199.0,
+          "y": 801.0,
+          "width": 1237.0,
+          "height": 398.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "5e28b13d-d3db-4c5c-92c0-b6045efdfebb",
+        "idx_in_page": 2,
+        "text": "합의 내용: (1) 순번제 도입 - 대형 공사는 4개사가 돌아가며 낙찰. (2) 최저가 방지 협약",
+        "page": 1,
+        "bbox": {
+          "x": 184.0,
+          "y": 1581.0,
+          "width": 1262.0,
+          "height": 307.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "50e52b01-f19d-49bc-bafa-18744b24a1e7",
+        "idx_in_page": 0,
+        "text": "도입 - 대형 공사는 4개사가 돌아가며 낙찰. (2) 최저가 방지 협약 - 입찰가는 예정가 95%",
+        "page": 2,
+        "bbox": {
+          "x": 193.0,
+          "y": 341.0,
+          "width": 1288.0,
+          "height": 193.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "db1c095f-dce8-47d9-84c2-96cc4312e2fe",
+        "idx_in_page": 1,
+        "text": "8명. 안건: 향후 입찰 물량배분 원칙 합의. 합의 내용: (1) 순번제 도입 - 대형 공사는",
+        "page": 2,
+        "bbox": {
+          "x": 183.0,
+          "y": 817.0,
+          "width": 1280.0,
+          "height": 386.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "abb151c4-b40c-434c-98ca-d436d1859662",
+        "idx_in_page": 2,
+        "text": "합의. 합의 내용: (1) 순번제 도입 - 대형 공사는 4개사가 돌아가며 낙찰. (2) 최저가 방지",
+        "page": 2,
+        "bbox": {
+          "x": 190.0,
+          "y": 1451.0,
+          "width": 1272.0,
+          "height": 247.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "d9d4cd0c-5e14-4160-b874-54d9dcf9db6d",
+        "idx_in_page": 0,
+        "text": "협약 - 입찰가는 예정가 95% 이상 유지. (3) 위반 시 제재 - 합의 위반 업체는",
+        "page": 3,
+        "bbox": {
+          "x": 181.0,
+          "y": 216.0,
+          "width": 1255.0,
+          "height": 283.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "a907fec1-8291-4788-ba7f-a6bb69affc3b",
+        "idx_in_page": 1,
+        "text": "서울 강남구 소재 특급호텔 연회장. 참석자: 4개사 대표이사 및 영업담당 임원 총 8명. 안건: 향후",
+        "page": 3,
+        "bbox": {
+          "x": 190.0,
+          "y": 957.0,
+          "width": 1238.0,
+          "height": 257.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.843072+00:00"
+}

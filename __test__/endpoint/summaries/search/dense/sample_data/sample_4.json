@@ -1,0 +1,17 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/dense",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "프로젝트 개요",
+    "limit": 15,
+    "score_threshold": 0.75,
+    "filter_project_id": 8,
+    "filter_file_id": 128
+  }
+}

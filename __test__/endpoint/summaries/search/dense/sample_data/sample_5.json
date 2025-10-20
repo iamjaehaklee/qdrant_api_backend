@@ -1,0 +1,16 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/dense",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "comprehensive analysis summary",
+    "limit": 20,
+    "score_threshold": 0.8,
+    "filter_file_id": 256
+  }
+}

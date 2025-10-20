@@ -1,0 +1,12 @@
+{
+  "method": "GET",
+  "path": "/points/project/1",
+  "headers": {
+    "Accept": "application/json"
+  },
+  "path_params": {
+    "project_id": 1
+  },
+  "query_params": {},
+  "body": null
+}

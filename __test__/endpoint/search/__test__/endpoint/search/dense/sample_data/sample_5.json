@@ -1,0 +1,17 @@
+{
+  "method": "POST",
+  "path": "/search/dense",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "comprehensive document search query",
+    "limit": 100,
+    "score_threshold": 0.7,
+    "filter_project_id": 12,
+    "filter_file_id": 256
+  }
+}

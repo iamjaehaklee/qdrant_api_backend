@@ -1,0 +1,131 @@
+{
+  "chunk_id": "3ec9e848-c516-4cee-866a-3a0338cfd3e3",
+  "file_id": 36,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_b4_mortgage_docs.pdf",
+  "original_file_name": "을4호증_부동산담보대출서류.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 14,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    11,
+    12,
+    13
+  ],
+  "chunk_number": 6,
+  "paragraph_texts": [
+    "[11페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[12페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[13페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-036-006-000-0",
+        "idx_in_page": 0,
+        "text": "[11페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 11,
+        "bbox": {
+          "x": 207.63,
+          "y": 99.04,
+          "width": 1253.81,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-036-006-000-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 11,
+        "bbox": {
+          "x": 200.12,
+          "y": 1191.95,
+          "width": 1244.19,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-036-006-001-0",
+        "idx_in_page": 0,
+        "text": "[12페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 12,
+        "bbox": {
+          "x": 203.42,
+          "y": 99.07,
+          "width": 1316.56,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-036-006-001-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 12,
+        "bbox": {
+          "x": 204.36,
+          "y": 1186.95,
+          "width": 1281.61,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-036-006-002-0",
+        "idx_in_page": 0,
+        "text": "[13페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 13,
+        "bbox": {
+          "x": 184.71,
+          "y": 100.89,
+          "width": 1304.04,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-036-006-002-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 13,
+        "bbox": {
+          "x": 204.11,
+          "y": 1184.34,
+          "width": 1316.98,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 12,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 13,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-07T00:00:00+00:00"
+}

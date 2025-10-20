@@ -1,0 +1,131 @@
+{
+  "chunk_id": "3512ffb3-b53c-4c9c-8377-d8f850b4a3b1",
+  "file_id": 40,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_b8_third_party_statement.pdf",
+  "original_file_name": "을8호증_제3자진술서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 8,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "chunk_number": 3,
+  "paragraph_texts": [
+    "[5페이지] 을8호증_제3자진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[6페이지] 을8호증_제3자진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[7페이지] 을8호증_제3자진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-040-003-000-0",
+        "idx_in_page": 0,
+        "text": "[5페이지] 을8호증_제3자진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 5,
+        "bbox": {
+          "x": 186.74,
+          "y": 92.46,
+          "width": 1257.12,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-040-003-000-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 5,
+        "bbox": {
+          "x": 193.56,
+          "y": 1199.22,
+          "width": 1247.26,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-040-003-001-0",
+        "idx_in_page": 0,
+        "text": "[6페이지] 을8호증_제3자진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 6,
+        "bbox": {
+          "x": 199.35,
+          "y": 96.86,
+          "width": 1255.17,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-040-003-001-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 6,
+        "bbox": {
+          "x": 209.28,
+          "y": 1192.46,
+          "width": 1286.14,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-040-003-002-0",
+        "idx_in_page": 0,
+        "text": "[7페이지] 을8호증_제3자진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 7,
+        "bbox": {
+          "x": 185.33,
+          "y": 99.72,
+          "width": 1294.9,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-040-003-002-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 7,
+        "bbox": {
+          "x": 185.57,
+          "y": 1194.45,
+          "width": 1305.11,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 6,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-04T00:00:00+00:00"
+}

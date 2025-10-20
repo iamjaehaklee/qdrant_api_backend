@@ -1,0 +1,161 @@
+{
+  "chunk_id": "b2f079ee-9a6c-4a91-840d-8e0ce0570aa7",
+  "file_id": 46,
+  "project_id": 3001,
+  "storage_file_name": "8b4b2c9a-d392-4c18-8a27-1d38e3ebc079-1760885381843.pdf",
+  "original_file_name": "전원회의_의결서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 15,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "chunk_number": 2,
+  "paragraph_texts": [
+    "해당한다고 판단함. 표결 결과 찬성 8명, 반대 1명으로 위반행위 인정. 시정명령 및 과징금 총 487억원",
+    "표결 결과 찬성 8명, 반대 1명으로 위반행위 인정. 시정명령 및 과징금 총 487억원 부과를 의결함.",
+    "(사건번호 2024심제1001, 2024년 9월 15일). 심사보고서 내용을 심의한 결과, 4개 건설사의 입찰담합 행위가 공정거래법 위반에",
+    "4개 건설사의 입찰담합 행위가 공정거래법 위반에 해당한다고 판단함. 표결 결과 찬성 8명, 반대 1명으로 위반행위",
+    "위반행위 인정. 시정명령 및 과징금 총 487억원 부과를 의결함. 검찰 고발 및 언론공표도 함께 결정.",
+    "8명, 반대 1명으로 위반행위 인정. 시정명령 및 과징금 총 487억원 부과를 의결함. 검찰 고발 및",
+    "판단함. 표결 결과 찬성 8명, 반대 1명으로 위반행위 인정. 시정명령 및 과징금 총 487억원 부과를",
+    "1명으로 위반행위 인정. 시정명령 및 과징금 총 487억원 부과를 의결함. 검찰 고발 및 언론공표도 함께"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "2810349b-03ae-420a-b6a1-0f57362ce397",
+        "idx_in_page": 0,
+        "text": "해당한다고 판단함. 표결 결과 찬성 8명, 반대 1명으로 위반행위 인정. 시정명령 및 과징금 총 487억원",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 222.0,
+          "width": 1265.0,
+          "height": 247.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "3015bf7e-8377-4ab7-a7ba-6d28c2a0ce01",
+        "idx_in_page": 1,
+        "text": "표결 결과 찬성 8명, 반대 1명으로 위반행위 인정. 시정명령 및 과징금 총 487억원 부과를 의결함.",
+        "page": 3,
+        "bbox": {
+          "x": 187.0,
+          "y": 925.0,
+          "width": 1256.0,
+          "height": 342.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "670fe37f-082d-45d5-a728-19e08e2014d7",
+        "idx_in_page": 0,
+        "text": "(사건번호 2024심제1001, 2024년 9월 15일). 심사보고서 내용을 심의한 결과, 4개 건설사의 입찰담합 행위가 공정거래법 위반에",
+        "page": 4,
+        "bbox": {
+          "x": 181.0,
+          "y": 380.0,
+          "width": 1224.0,
+          "height": 372.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "1beafe00-4791-4049-a3b7-3b7403b8828c",
+        "idx_in_page": 1,
+        "text": "4개 건설사의 입찰담합 행위가 공정거래법 위반에 해당한다고 판단함. 표결 결과 찬성 8명, 반대 1명으로 위반행위",
+        "page": 4,
+        "bbox": {
+          "x": 180.0,
+          "y": 829.0,
+          "width": 1293.0,
+          "height": 332.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "260d63c5-d6df-46e1-a6e3-a3d574f325a8",
+        "idx_in_page": 2,
+        "text": "위반행위 인정. 시정명령 및 과징금 총 487억원 부과를 의결함. 검찰 고발 및 언론공표도 함께 결정.",
+        "page": 4,
+        "bbox": {
+          "x": 183.0,
+          "y": 1406.0,
+          "width": 1233.0,
+          "height": 373.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "55fbb928-78c6-4d2c-b67e-b9e4f2abcd73",
+        "idx_in_page": 0,
+        "text": "8명, 반대 1명으로 위반행위 인정. 시정명령 및 과징금 총 487억원 부과를 의결함. 검찰 고발 및",
+        "page": 5,
+        "bbox": {
+          "x": 185.0,
+          "y": 284.0,
+          "width": 1202.0,
+          "height": 333.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "113c32c0-c7d8-49ed-804e-18f92f2dfee7",
+        "idx_in_page": 1,
+        "text": "판단함. 표결 결과 찬성 8명, 반대 1명으로 위반행위 인정. 시정명령 및 과징금 총 487억원 부과를",
+        "page": 5,
+        "bbox": {
+          "x": 186.0,
+          "y": 953.0,
+          "width": 1271.0,
+          "height": 222.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "ed5de49f-9cd1-4c56-9120-11dde75907b3",
+        "idx_in_page": 2,
+        "text": "1명으로 위반행위 인정. 시정명령 및 과징금 총 487억원 부과를 의결함. 검찰 고발 및 언론공표도 함께",
+        "page": 5,
+        "bbox": {
+          "x": 181.0,
+          "y": 1564.0,
+          "width": 1210.0,
+          "height": 176.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 4,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.843894+00:00"
+}

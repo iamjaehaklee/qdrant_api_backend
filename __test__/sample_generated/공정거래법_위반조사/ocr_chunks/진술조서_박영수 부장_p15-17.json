@@ -1,0 +1,146 @@
+{
+  "chunk_id": "87eaa8b0-a083-4cb5-a961-523a9a46de98",
+  "file_id": 48,
+  "project_id": 3001,
+  "storage_file_name": "91e6286e-fdee-4509-bb6f-f610ca209a92-1760885381848.pdf",
+  "original_file_name": "진술조서_박영수 부장.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 18,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    15,
+    16,
+    17
+  ],
+  "chunk_number": 8,
+  "paragraph_texts": [
+    "그러나 회사 경영진의 지시에 따른 것일 뿐 본인 의사가 아니었다고 주장. 책임 회피 태도 보임.",
+    "추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에 따른 것일 뿐 본인",
+    "추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에 따른 것일 뿐 본인",
+    "사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사",
+    "인정하나 단순 친목 모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의",
+    "진술조서 (2024년 5월 15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순 친목 모임이었다고 주장.",
+    "협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에 따른 것일 뿐 본인 의사가 아니었다고 주장."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "6a55e999-727b-4bab-865a-1590c903eaeb",
+        "idx_in_page": 0,
+        "text": "그러나 회사 경영진의 지시에 따른 것일 뿐 본인 의사가 아니었다고 주장. 책임 회피 태도 보임.",
+        "page": 15,
+        "bbox": {
+          "x": 193.0,
+          "y": 217.0,
+          "width": 1288.0,
+          "height": 297.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "c3692991-b409-48f8-9bbe-0eb4c454bfa8",
+        "idx_in_page": 1,
+        "text": "추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에 따른 것일 뿐 본인",
+        "page": 15,
+        "bbox": {
+          "x": 187.0,
+          "y": 898.0,
+          "width": 1226.0,
+          "height": 354.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "2f06b212-7e46-432e-b731-2917d1eeb757",
+        "idx_in_page": 2,
+        "text": "추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에 따른 것일 뿐 본인",
+        "page": 15,
+        "bbox": {
+          "x": 191.0,
+          "y": 1503.0,
+          "width": 1298.0,
+          "height": 346.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "777df0ad-e06f-47b4-8519-13a2d4e1e6a0",
+        "idx_in_page": 0,
+        "text": "사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사",
+        "page": 16,
+        "bbox": {
+          "x": 192.0,
+          "y": 335.0,
+          "width": 1227.0,
+          "height": 260.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "aa6066c6-6bbf-4c03-bf36-5e5aaf35fb1a",
+        "idx_in_page": 1,
+        "text": "인정하나 단순 친목 모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의",
+        "page": 16,
+        "bbox": {
+          "x": 197.0,
+          "y": 828.0,
+          "width": 1234.0,
+          "height": 265.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "96c01288-4c14-447d-959f-f8f8d6e5ef00",
+        "idx_in_page": 0,
+        "text": "진술조서 (2024년 5월 15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순 친목 모임이었다고 주장.",
+        "page": 17,
+        "bbox": {
+          "x": 194.0,
+          "y": 205.0,
+          "width": 1227.0,
+          "height": 333.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "b997384d-d5dc-40a5-8166-147758a2d0eb",
+        "idx_in_page": 1,
+        "text": "협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에 따른 것일 뿐 본인 의사가 아니었다고 주장.",
+        "page": 17,
+        "bbox": {
+          "x": 189.0,
+          "y": 865.0,
+          "width": 1286.0,
+          "height": 244.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 15,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 16,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 17,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.848648+00:00"
+}

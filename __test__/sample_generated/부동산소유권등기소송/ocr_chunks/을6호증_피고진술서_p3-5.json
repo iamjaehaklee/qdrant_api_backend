@@ -1,0 +1,131 @@
+{
+  "chunk_id": "ad1306d1-2b22-4b82-bfbc-f994fe202b3d",
+  "file_id": 38,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_b6_defendant_statement.pdf",
+  "original_file_name": "을6호증_피고진술서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 9,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "chunk_number": 2,
+  "paragraph_texts": [
+    "[3페이지] 을6호증_피고진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[4페이지] 을6호증_피고진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[5페이지] 을6호증_피고진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-038-002-000-0",
+        "idx_in_page": 0,
+        "text": "[3페이지] 을6호증_피고진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 3,
+        "bbox": {
+          "x": 184.7,
+          "y": 96.52,
+          "width": 1293.22,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-038-002-000-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 3,
+        "bbox": {
+          "x": 195.51,
+          "y": 1184.73,
+          "width": 1310.53,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-038-002-001-0",
+        "idx_in_page": 0,
+        "text": "[4페이지] 을6호증_피고진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 4,
+        "bbox": {
+          "x": 196.73,
+          "y": 108.43,
+          "width": 1301.19,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-038-002-001-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 4,
+        "bbox": {
+          "x": 192.1,
+          "y": 1191.46,
+          "width": 1249.55,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-038-002-002-0",
+        "idx_in_page": 0,
+        "text": "[5페이지] 을6호증_피고진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 5,
+        "bbox": {
+          "x": 181.33,
+          "y": 93.06,
+          "width": 1265.32,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-038-002-002-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 5,
+        "bbox": {
+          "x": 189.94,
+          "y": 1198.82,
+          "width": 1276.0,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 4,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-03T00:00:00+00:00"
+}

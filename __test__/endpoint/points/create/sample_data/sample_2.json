@@ -1,0 +1,80 @@
+{
+  "method": "POST",
+  "path": "/points",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "chunk_id": "550e8400-e29b-41d4-a716-446655440000",
+    "file_id": 256,
+    "project_id": 12,
+    "storage_file_name": "2024/04/invoice_002.pdf",
+    "original_file_name": "invoice_april.pdf",
+    "mime_type": "application/pdf",
+    "total_pages": 5,
+    "processing_duration_seconds": 45,
+    "language": "ko",
+    "pages": [
+      1,
+      2,
+      3
+    ],
+    "chunk_number": 1,
+    "paragraph_texts": [
+      "청구서",
+      "2024년 4월 청구 내역"
+    ],
+    "chunk_content": {
+      "paragraphs": [
+        {
+          "paragraph_id": "para_ko_1",
+          "idx_in_page": 0,
+          "text": "청구서",
+          "page": 1,
+          "bbox": {
+            "x": 100.0,
+            "y": 80.0,
+            "width": 300.0,
+            "height": 25.0
+          },
+          "type": "title",
+          "confidence_score": 0.99
+        },
+        {
+          "paragraph_id": "para_ko_2",
+          "idx_in_page": 1,
+          "text": "2024년 4월 청구 내역",
+          "page": 1,
+          "bbox": {
+            "x": 100.0,
+            "y": 120.0,
+            "width": 350.0,
+            "height": 20.0
+          },
+          "type": "text",
+          "confidence_score": 0.97
+        }
+      ]
+    },
+    "page_dimensions": [
+      {
+        "page": 1,
+        "width": 595,
+        "height": 842
+      },
+      {
+        "page": 2,
+        "width": 595,
+        "height": 842
+      },
+      {
+        "page": 3,
+        "width": 595,
+        "height": 842
+      }
+    ]
+  }
+}

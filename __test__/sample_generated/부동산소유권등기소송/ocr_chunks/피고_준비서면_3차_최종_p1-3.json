@@ -1,0 +1,131 @@
+{
+  "chunk_id": "36df4ec2-4ff1-4f29-8a86-3b1a8d5c668d",
+  "file_id": 8,
+  "project_id": 1001,
+  "storage_file_name": "defendant_brief_3rd_final_202410.pdf",
+  "original_file_name": "피고_준비서면_3차_최종.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 9,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "[1페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
+    "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
+    "[2페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
+    "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
+    "[3페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
+    "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-008-001-000-0",
+        "idx_in_page": 0,
+        "text": "[1페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
+        "page": 1,
+        "bbox": {
+          "x": 206.72,
+          "y": 100.5,
+          "width": 1236.34,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-008-001-000-1",
+        "idx_in_page": 1,
+        "text": "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
+        "page": 1,
+        "bbox": {
+          "x": 209.34,
+          "y": 1195.09,
+          "width": 1247.51,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-008-001-001-0",
+        "idx_in_page": 0,
+        "text": "[2페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
+        "page": 2,
+        "bbox": {
+          "x": 212.08,
+          "y": 90.85,
+          "width": 1279.92,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-008-001-001-1",
+        "idx_in_page": 1,
+        "text": "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
+        "page": 2,
+        "bbox": {
+          "x": 180.59,
+          "y": 1185.42,
+          "width": 1232.98,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-008-001-002-0",
+        "idx_in_page": 0,
+        "text": "[3페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
+        "page": 3,
+        "bbox": {
+          "x": 203.91,
+          "y": 94.47,
+          "width": 1256.14,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-008-001-002-1",
+        "idx_in_page": 1,
+        "text": "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
+        "page": 3,
+        "bbox": {
+          "x": 202.41,
+          "y": 1186.93,
+          "width": 1259.14,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-02T00:00:00+00:00"
+}

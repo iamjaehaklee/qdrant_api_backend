@@ -1,0 +1,341 @@
+{
+  "chunk_id": "19b0e7e0-d165-481d-9862-c730ffc7284c",
+  "file_id": 32,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a21_loan_agreement.pdf",
+  "original_file_name": "갑21호증_대출약정서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 11,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    7,
+    8,
+    9
+  ],
+  "chunk_number": 4,
+  "paragraph_texts": [
+    "제11조 (비용의 부담)",
+    "① 본 약정과 관련한 모든 비용은 차주가 부담한다.",
+    "② 인지세, 등기비용, 감정평가 비용, 채권발행비용 등은 차주가 별도로 납부한다.",
+    "제12조 (계약의 해지)",
+    "① 대출기관은 차주가 제8조의 기한이익 상실 사유에 해당하는 경우 본 약정을 해지할 수 있다.",
+    "② 대출기관이 약정을 해지하는 경우 차주에게 서면으로 통지하여야 한다.",
+    "③ 차주는 대출원리금을 전액 상환함으로써 언제든지 본 약정을 해지할 수 있다.",
+    "제13조 (통지의 방법)",
+    "① 본 약정과 관련한 모든 통지는 서면으로 한다.",
+    "② 통지는 상대방이 본 약정서에 기재한 주소 또는 연락처로 발송한다.",
+    "③ 주소 또는 연락처가 변경된 경우 즉시 서면으로 상대방에게 통지하여야 한다.",
+    "④ 통지가 주소불명 등으로 반송된 경우 발송한 때에 도달한 것으로 본다.",
+    "제14조 (개인정보의 수집 및 이용)",
+    "① 대출기관은 본 대출업무 수행을 위하여 차주의 개인정보를 수집·이용한다.",
+    "② 수집된 개인정보는 신용정보의 이용 및 보호에 관한 법률에 따라 처리된다.",
+    "③ 차주는 개인정보 제공에 동의하며, 이는 별도의 동의서로 갈음한다.",
+    "제15조 (준거법 및 관할)",
+    "① 본 약정은 대한민국 법률에 따라 해석되고 적용된다.",
+    "② 본 약정과 관련한 분쟁은 대출기관 소재지 관할 법원을 제1심 전속관할법원으로 한다.",
+    "제16조 (특약사항)"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-032-004-000-0",
+        "idx_in_page": 0,
+        "text": "제11조 (비용의 부담)",
+        "page": 7,
+        "bbox": {
+          "x": 180,
+          "y": 260,
+          "width": 340,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-004-000-1",
+        "idx_in_page": 1,
+        "text": "① 본 약정과 관련한 모든 비용은 차주가 부담한다.",
+        "page": 7,
+        "bbox": {
+          "x": 180,
+          "y": 300,
+          "width": 840,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-004-000-2",
+        "idx_in_page": 2,
+        "text": "② 인지세, 등기비용, 감정평가 비용, 채권발행비용 등은 차주가 별도로 납부한다.",
+        "page": 7,
+        "bbox": {
+          "x": 180,
+          "y": 340,
+          "width": 1180,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-032-004-000-3",
+        "idx_in_page": 3,
+        "text": "제12조 (계약의 해지)",
+        "page": 7,
+        "bbox": {
+          "x": 180,
+          "y": 420,
+          "width": 340,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-004-000-4",
+        "idx_in_page": 4,
+        "text": "① 대출기관은 차주가 제8조의 기한이익 상실 사유에 해당하는 경우 본 약정을 해지할 수 있다.",
+        "page": 7,
+        "bbox": {
+          "x": 180,
+          "y": 460,
+          "width": 1260,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-032-004-000-5",
+        "idx_in_page": 5,
+        "text": "② 대출기관이 약정을 해지하는 경우 차주에게 서면으로 통지하여야 한다.",
+        "page": 7,
+        "bbox": {
+          "x": 180,
+          "y": 500,
+          "width": 1080,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-032-004-000-6",
+        "idx_in_page": 6,
+        "text": "③ 차주는 대출원리금을 전액 상환함으로써 언제든지 본 약정을 해지할 수 있다.",
+        "page": 7,
+        "bbox": {
+          "x": 180,
+          "y": 540,
+          "width": 1160,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-032-004-001-0",
+        "idx_in_page": 0,
+        "text": "제13조 (통지의 방법)",
+        "page": 8,
+        "bbox": {
+          "x": 180,
+          "y": 180,
+          "width": 340,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-004-001-1",
+        "idx_in_page": 1,
+        "text": "① 본 약정과 관련한 모든 통지는 서면으로 한다.",
+        "page": 8,
+        "bbox": {
+          "x": 180,
+          "y": 220,
+          "width": 780,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-004-001-2",
+        "idx_in_page": 2,
+        "text": "② 통지는 상대방이 본 약정서에 기재한 주소 또는 연락처로 발송한다.",
+        "page": 8,
+        "bbox": {
+          "x": 180,
+          "y": 260,
+          "width": 1040,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-032-004-001-3",
+        "idx_in_page": 3,
+        "text": "③ 주소 또는 연락처가 변경된 경우 즉시 서면으로 상대방에게 통지하여야 한다.",
+        "page": 8,
+        "bbox": {
+          "x": 180,
+          "y": 300,
+          "width": 1140,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-032-004-001-4",
+        "idx_in_page": 4,
+        "text": "④ 통지가 주소불명 등으로 반송된 경우 발송한 때에 도달한 것으로 본다.",
+        "page": 8,
+        "bbox": {
+          "x": 180,
+          "y": 340,
+          "width": 1040,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-032-004-001-5",
+        "idx_in_page": 5,
+        "text": "제14조 (개인정보의 수집 및 이용)",
+        "page": 8,
+        "bbox": {
+          "x": 180,
+          "y": 420,
+          "width": 460,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-004-001-6",
+        "idx_in_page": 6,
+        "text": "① 대출기관은 본 대출업무 수행을 위하여 차주의 개인정보를 수집·이용한다.",
+        "page": 8,
+        "bbox": {
+          "x": 180,
+          "y": 460,
+          "width": 1120,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-032-004-001-7",
+        "idx_in_page": 7,
+        "text": "② 수집된 개인정보는 신용정보의 이용 및 보호에 관한 법률에 따라 처리된다.",
+        "page": 8,
+        "bbox": {
+          "x": 180,
+          "y": 500,
+          "width": 1160,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-032-004-001-8",
+        "idx_in_page": 8,
+        "text": "③ 차주는 개인정보 제공에 동의하며, 이는 별도의 동의서로 갈음한다.",
+        "page": 8,
+        "bbox": {
+          "x": 180,
+          "y": 540,
+          "width": 1020,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-032-004-002-0",
+        "idx_in_page": 0,
+        "text": "제15조 (준거법 및 관할)",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 180,
+          "width": 380,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-004-002-1",
+        "idx_in_page": 1,
+        "text": "① 본 약정은 대한민국 법률에 따라 해석되고 적용된다.",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 220,
+          "width": 880,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-004-002-2",
+        "idx_in_page": 2,
+        "text": "② 본 약정과 관련한 분쟁은 대출기관 소재지 관할 법원을 제1심 전속관할법원으로 한다.",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 260,
+          "width": 1260,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-032-004-002-3",
+        "idx_in_page": 3,
+        "text": "제16조 (특약사항)",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 340,
+          "width": 320,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 8,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-05T00:00:00+00:00"
+}

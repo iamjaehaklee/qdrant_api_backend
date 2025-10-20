@@ -1,0 +1,95 @@
+{
+  "chunk_id": "d2554855-e115-448f-8291-9c39554da211",
+  "file_id": 40,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_b8_third_party_statement.pdf",
+  "original_file_name": "을8호증_제3자진술서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 8,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    7,
+    8
+  ],
+  "chunk_number": 4,
+  "paragraph_texts": [
+    "[7페이지] 을8호증_제3자진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[8페이지] 을8호증_제3자진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-040-004-000-0",
+        "idx_in_page": 0,
+        "text": "[7페이지] 을8호증_제3자진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 7,
+        "bbox": {
+          "x": 202.26,
+          "y": 100.38,
+          "width": 1327.39,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-040-004-000-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 7,
+        "bbox": {
+          "x": 210.82,
+          "y": 1186.1,
+          "width": 1322.28,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-040-004-001-0",
+        "idx_in_page": 0,
+        "text": "[8페이지] 을8호증_제3자진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 8,
+        "bbox": {
+          "x": 195.0,
+          "y": 91.95,
+          "width": 1293.18,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-040-004-001-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 8,
+        "bbox": {
+          "x": 214.06,
+          "y": 1191.52,
+          "width": 1314.93,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 8,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-05T00:00:00+00:00"
+}

@@ -1,0 +1,146 @@
+{
+  "chunk_id": "c7f2f529-a353-4183-96c6-81a4f27b5a1a",
+  "file_id": 26,
+  "project_id": 3001,
+  "storage_file_name": "4665cfef-efd9-4f04-b512-d11c28b16155-1760885381811.pdf",
+  "original_file_name": "내부문서_입찰전략보고서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 10,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "chunk_number": 3,
+  "paragraph_texts": [
+    "경영진. 내용: 타사와의 협의 결과 정리. 2024년 1분기 당사 할당 물량 2건 (서울시 지하철 9호선,",
+    "수준 입찰, 타사는 96% 이상 유지 약속. 낙찰 확률 95% 이상. 경영진이 담합을 인지하고 승인했음을",
+    "20일). 보고 대상: 대표이사 및 경영진. 내용: 타사와의 협의 결과 정리. 2024년 1분기 당사 할당",
+    "보고서 (2024년 1월 20일). 보고 대상: 대표이사 및 경영진. 내용: 타사와의 협의 결과 정리. 2024년",
+    "타사는 96% 이상 유지 약속. 낙찰 확률 95% 이상. 경영진이 담합을 인지하고 승인했음을 보여주는 증거.",
+    "타사와의 협의 결과 정리. 2024년 1분기 당사 할당 물량 2건 (서울시 지하철 9호선, 부산항 신항).",
+    "부산항 신항). 입찰 전략: 예정가격 95.5% 수준 입찰, 타사는 96% 이상 유지 약속. 낙찰 확률"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "9cfbf36b-ab26-4cfa-af23-aec7fa17efa0",
+        "idx_in_page": 0,
+        "text": "경영진. 내용: 타사와의 협의 결과 정리. 2024년 1분기 당사 할당 물량 2건 (서울시 지하철 9호선,",
+        "page": 5,
+        "bbox": {
+          "x": 181.0,
+          "y": 277.0,
+          "width": 1266.0,
+          "height": 296.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "a5670664-578c-437c-912e-7f75fc8fc823",
+        "idx_in_page": 1,
+        "text": "수준 입찰, 타사는 96% 이상 유지 약속. 낙찰 확률 95% 이상. 경영진이 담합을 인지하고 승인했음을",
+        "page": 5,
+        "bbox": {
+          "x": 188.0,
+          "y": 974.0,
+          "width": 1279.0,
+          "height": 265.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "542adb35-bfcb-4fc4-adc7-1c96e9170f5d",
+        "idx_in_page": 0,
+        "text": "20일). 보고 대상: 대표이사 및 경영진. 내용: 타사와의 협의 결과 정리. 2024년 1분기 당사 할당",
+        "page": 6,
+        "bbox": {
+          "x": 180.0,
+          "y": 298.0,
+          "width": 1284.0,
+          "height": 282.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "9ff49615-4f6a-4218-b1fa-daebd5115976",
+        "idx_in_page": 1,
+        "text": "보고서 (2024년 1월 20일). 보고 대상: 대표이사 및 경영진. 내용: 타사와의 협의 결과 정리. 2024년",
+        "page": 6,
+        "bbox": {
+          "x": 185.0,
+          "y": 815.0,
+          "width": 1204.0,
+          "height": 276.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "fb3c57e7-5581-444d-a2ca-2422262816a1",
+        "idx_in_page": 2,
+        "text": "타사는 96% 이상 유지 약속. 낙찰 확률 95% 이상. 경영진이 담합을 인지하고 승인했음을 보여주는 증거.",
+        "page": 6,
+        "bbox": {
+          "x": 187.0,
+          "y": 1418.0,
+          "width": 1216.0,
+          "height": 207.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "eb5f7b6c-c557-4ee5-afbd-fbfd660ce972",
+        "idx_in_page": 0,
+        "text": "타사와의 협의 결과 정리. 2024년 1분기 당사 할당 물량 2건 (서울시 지하철 9호선, 부산항 신항).",
+        "page": 7,
+        "bbox": {
+          "x": 195.0,
+          "y": 298.0,
+          "width": 1214.0,
+          "height": 385.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "4ce64690-3002-490d-aba3-13ff8caa44e0",
+        "idx_in_page": 1,
+        "text": "부산항 신항). 입찰 전략: 예정가격 95.5% 수준 입찰, 타사는 96% 이상 유지 약속. 낙찰 확률",
+        "page": 7,
+        "bbox": {
+          "x": 194.0,
+          "y": 801.0,
+          "width": 1204.0,
+          "height": 315.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 6,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.811863+00:00"
+}

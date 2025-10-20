@@ -1,0 +1,131 @@
+{
+  "chunk_id": "edd7c767-c2e6-4fd2-a07f-3d53944fa8c6",
+  "file_id": 27,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a16_text_messages.pdf",
+  "original_file_name": "갑16호증_문자메시지.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 18,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "chunk_number": 3,
+  "paragraph_texts": [
+    "[5페이지] 갑16호증_문자메시지 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[6페이지] 갑16호증_문자메시지 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[7페이지] 갑16호증_문자메시지 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-027-003-000-0",
+        "idx_in_page": 0,
+        "text": "[5페이지] 갑16호증_문자메시지 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 5,
+        "bbox": {
+          "x": 196.57,
+          "y": 104.08,
+          "width": 1329.92,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-027-003-000-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 5,
+        "bbox": {
+          "x": 218.32,
+          "y": 1195.44,
+          "width": 1267.83,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-027-003-001-0",
+        "idx_in_page": 0,
+        "text": "[6페이지] 갑16호증_문자메시지 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 6,
+        "bbox": {
+          "x": 182.38,
+          "y": 104.04,
+          "width": 1280.72,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-027-003-001-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 6,
+        "bbox": {
+          "x": 199.54,
+          "y": 1190.29,
+          "width": 1248.92,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-027-003-002-0",
+        "idx_in_page": 0,
+        "text": "[7페이지] 갑16호증_문자메시지 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 7,
+        "bbox": {
+          "x": 207.52,
+          "y": 97.6,
+          "width": 1288.26,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-027-003-002-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 7,
+        "bbox": {
+          "x": 218.15,
+          "y": 1186.98,
+          "width": 1236.92,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 6,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-04T00:00:00+00:00"
+}

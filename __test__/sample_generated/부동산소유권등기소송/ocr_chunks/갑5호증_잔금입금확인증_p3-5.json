@@ -1,0 +1,356 @@
+{
+  "chunk_id": "23bbbfb6-9b9f-4cea-bde7-ec46bb0e2ab3",
+  "file_id": 16,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a5_balance_confirmation.pdf",
+  "original_file_name": "갑5호증_잔금입금확인증.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 6,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "chunk_number": 2,
+  "paragraph_texts": [
+    "영수증 발급 거부 경위",
+    "원고는 2024년 6월 15일 잔금 150,000,000원을 피고의 계좌로 정상 입금하였습니다.",
+    "그러나 피고 이영희는 영수증 발급을 거부하였습니다.",
+    "원고가 여러 차례 영수증 발급을 요청하였으나, 피고는 다음과 같이 답변하였습니다:",
+    "\"영수증은 나중에 드리겠습니다. 지금은 바빠서 발급할 수 없습니다.\"",
+    "원고는 2024년 6월 16일, 17일, 18일 총 3회에 걸쳐 영수증 발급을 요청하였으나,",
+    "피고는 계속해서 발급을 미루었습니다.",
+    "계약 해제 통보",
+    "2024년 6월 20일, 피고는 원고에게 카카오톡 메시지로 다음과 같은 내용을 전송하였습니다:",
+    "\"매매계약을 해제하고자 합니다. 받은 돈은 모두 돌려드리겠습니다.\"",
+    "원고는 즉시 피고에게 연락하여 계약 해제 사유를 물었으나,",
+    "피고는 \"개인적인 사정\"이라고만 답변하였습니다.",
+    "원고는 정당한 계약 이행을 주장하며, 계약 해제를 거부하였습니다.",
+    "법적 대응",
+    "원고는 다음과 같은 증거자료를 바탕으로 본 소송을 제기합니다:",
+    "1. 국민은행 계좌이체 확인증 (본 문서)",
+    "2. 부동산 매매계약서 원본",
+    "3. 중도금 영수증 1차, 2차 (갑2호증, 갑4호증)",
+    "4. 카카오톡 대화 내역 (계약 해제 통보 및 영수증 요청 기록)",
+    "원고는 총 매매대금 500,000,000원 중 500,000,000원을 모두 지급하였으며,",
+    "피고는 정당한 사유 없이 일방적으로 계약 해제를 통보하였습니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-016-002-000-0",
+        "idx_in_page": 0,
+        "text": "영수증 발급 거부 경위",
+        "page": 3,
+        "bbox": {
+          "x": 182.53,
+          "y": 120.36,
+          "width": 405.75,
+          "height": 52
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-016-002-000-1",
+        "idx_in_page": 1,
+        "text": "원고는 2024년 6월 15일 잔금 150,000,000원을 피고의 계좌로 정상 입금하였습니다.",
+        "page": 3,
+        "bbox": {
+          "x": 182.53,
+          "y": 195.01,
+          "width": 1266.86,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-016-002-000-2",
+        "idx_in_page": 2,
+        "text": "그러나 피고 이영희는 영수증 발급을 거부하였습니다.",
+        "page": 3,
+        "bbox": {
+          "x": 182.53,
+          "y": 255.42,
+          "width": 925.42,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-016-002-000-3",
+        "idx_in_page": 3,
+        "text": "원고가 여러 차례 영수증 발급을 요청하였으나, 피고는 다음과 같이 답변하였습니다:",
+        "page": 3,
+        "bbox": {
+          "x": 182.53,
+          "y": 315.83,
+          "width": 1235.67,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-016-002-000-4",
+        "idx_in_page": 4,
+        "text": "\"영수증은 나중에 드리겠습니다. 지금은 바빠서 발급할 수 없습니다.\"",
+        "page": 3,
+        "bbox": {
+          "x": 215.25,
+          "y": 376.24,
+          "width": 1125.23,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-016-002-000-5",
+        "idx_in_page": 5,
+        "text": "원고는 2024년 6월 16일, 17일, 18일 총 3회에 걸쳐 영수증 발급을 요청하였으나,",
+        "page": 3,
+        "bbox": {
+          "x": 182.53,
+          "y": 451.65,
+          "width": 1265.89,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-016-002-000-6",
+        "idx_in_page": 6,
+        "text": "피고는 계속해서 발급을 미루었습니다.",
+        "page": 3,
+        "bbox": {
+          "x": 182.53,
+          "y": 512.06,
+          "width": 765.34,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-016-002-001-0",
+        "idx_in_page": 0,
+        "text": "계약 해제 통보",
+        "page": 4,
+        "bbox": {
+          "x": 182.53,
+          "y": 120.73,
+          "width": 285.63,
+          "height": 52
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-016-002-001-1",
+        "idx_in_page": 1,
+        "text": "2024년 6월 20일, 피고는 원고에게 카카오톡 메시지로 다음과 같은 내용을 전송하였습니다:",
+        "page": 4,
+        "bbox": {
+          "x": 182.53,
+          "y": 195.36,
+          "width": 1305.24,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-016-002-001-2",
+        "idx_in_page": 2,
+        "text": "\"매매계약을 해제하고자 합니다. 받은 돈은 모두 돌려드리겠습니다.\"",
+        "page": 4,
+        "bbox": {
+          "x": 215.25,
+          "y": 255.77,
+          "width": 1145.78,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-016-002-001-3",
+        "idx_in_page": 3,
+        "text": "원고는 즉시 피고에게 연락하여 계약 해제 사유를 물었으나,",
+        "page": 4,
+        "bbox": {
+          "x": 182.53,
+          "y": 331.18,
+          "width": 1025.67,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-016-002-001-4",
+        "idx_in_page": 4,
+        "text": "피고는 \"개인적인 사정\"이라고만 답변하였습니다.",
+        "page": 4,
+        "bbox": {
+          "x": 182.53,
+          "y": 391.59,
+          "width": 865.89,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-016-002-001-5",
+        "idx_in_page": 5,
+        "text": "원고는 정당한 계약 이행을 주장하며, 계약 해제를 거부하였습니다.",
+        "page": 4,
+        "bbox": {
+          "x": 182.53,
+          "y": 467.0,
+          "width": 1125.34,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-016-002-002-0",
+        "idx_in_page": 0,
+        "text": "법적 대응",
+        "page": 5,
+        "bbox": {
+          "x": 182.53,
+          "y": 120.55,
+          "width": 205.47,
+          "height": 52
+        },
+        "type": "heading",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-016-002-002-1",
+        "idx_in_page": 1,
+        "text": "원고는 다음과 같은 증거자료를 바탕으로 본 소송을 제기합니다:",
+        "page": 5,
+        "bbox": {
+          "x": 182.53,
+          "y": 195.27,
+          "width": 1065.14,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-016-002-002-2",
+        "idx_in_page": 2,
+        "text": "1. 국민은행 계좌이체 확인증 (본 문서)",
+        "page": 5,
+        "bbox": {
+          "x": 215.25,
+          "y": 255.68,
+          "width": 665.72,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-016-002-002-3",
+        "idx_in_page": 3,
+        "text": "2. 부동산 매매계약서 원본",
+        "page": 5,
+        "bbox": {
+          "x": 215.25,
+          "y": 312.4,
+          "width": 465.47,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-016-002-002-4",
+        "idx_in_page": 4,
+        "text": "3. 중도금 영수증 1차, 2차 (갑2호증, 갑4호증)",
+        "page": 5,
+        "bbox": {
+          "x": 215.25,
+          "y": 369.12,
+          "width": 765.23,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-016-002-002-5",
+        "idx_in_page": 5,
+        "text": "4. 카카오톡 대화 내역 (계약 해제 통보 및 영수증 요청 기록)",
+        "page": 5,
+        "bbox": {
+          "x": 215.25,
+          "y": 425.84,
+          "width": 945.86,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-016-002-002-6",
+        "idx_in_page": 6,
+        "text": "원고는 총 매매대금 500,000,000원 중 500,000,000원을 모두 지급하였으며,",
+        "page": 5,
+        "bbox": {
+          "x": 182.53,
+          "y": 511.25,
+          "width": 1225.34,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-016-002-002-7",
+        "idx_in_page": 7,
+        "text": "피고는 정당한 사유 없이 일방적으로 계약 해제를 통보하였습니다.",
+        "page": 5,
+        "bbox": {
+          "x": 182.53,
+          "y": 571.66,
+          "width": 1125.89,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 4,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-03T00:00:00+00:00"
+}

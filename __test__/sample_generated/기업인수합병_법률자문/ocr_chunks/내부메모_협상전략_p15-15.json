@@ -1,0 +1,89 @@
+{
+  "chunk_id": "23fc7eb4-f102-4259-99b8-6f6a83112b20",
+  "file_id": 15,
+  "project_id": 5001,
+  "storage_file_name": "d36b3651-6c1d-4b18-8678-933d0477bacd-1767301746141.pdf",
+  "original_file_name": "내부메모_협상전략.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 15,
+  "processing_duration_seconds": 4,
+  "language": "ko",
+  "pages": [
+    15
+  ],
+  "chunk_number": 8,
+  "paragraph_texts": [
+    "본 계약에서 사용하는 용어의 정의는 다음과 같다. 수신: 김현우 (전략기획본부장), 최지영 (재무본부장)",
+    "제1조 (당사자) 작성자: 박준영 (글로벌미디어 대표) 양 당사자는 본 계약에 정한 권리와 의무를 성실히 이행한다.",
+    "제2조 (거래조건) 내부 메모: 협상 전략 본 거래의 세부 조건은 별첨 자료에 명시된 바와 같다.",
+    "제3조 (진술 및 보증) 6 각 당사자는 상기 진술 및 보증이 진실하고 정확함을 확인한다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "5d545940-b0f7-459e-a864-eced24577ae2",
+        "idx_in_page": 0,
+        "text": "본 계약에서 사용하는 용어의 정의는 다음과 같다. 수신: 김현우 (전략기획본부장), 최지영 (재무본부장)",
+        "page": 15,
+        "bbox": {
+          "x": 36.0,
+          "y": 51.0,
+          "width": 1357.0,
+          "height": 29.0
+        },
+        "type": "body",
+        "confidence_score": 0.9623921662
+      },
+      {
+        "paragraph_id": "a6c24c73-3f53-4731-8543-6bca59e69824",
+        "idx_in_page": 1,
+        "text": "제1조 (당사자) 작성자: 박준영 (글로벌미디어 대표) 양 당사자는 본 계약에 정한 권리와 의무를 성실히 이행한다.",
+        "page": 15,
+        "bbox": {
+          "x": 182.13607464915896,
+          "y": 237.68744835213926,
+          "width": 1317.6724963225838,
+          "height": 50.0
+        },
+        "type": "body",
+        "confidence_score": 0.9705773422
+      },
+      {
+        "paragraph_id": "4e9485d3-e562-434a-a58b-a583aebffa3b",
+        "idx_in_page": 2,
+        "text": "제2조 (거래조건) 내부 메모: 협상 전략 본 거래의 세부 조건은 별첨 자료에 명시된 바와 같다.",
+        "page": 15,
+        "bbox": {
+          "x": 184.96684060863063,
+          "y": 387.86154817564557,
+          "width": 1335.623921953415,
+          "height": 50.0
+        },
+        "type": "body",
+        "confidence_score": 0.9540513009
+      },
+      {
+        "paragraph_id": "948e6519-b82c-4b65-8c5b-7851af2b47c4",
+        "idx_in_page": 3,
+        "text": "제3조 (진술 및 보증) 6 각 당사자는 상기 진술 및 보증이 진실하고 정확함을 확인한다.",
+        "page": 15,
+        "bbox": {
+          "x": 187.63775626142134,
+          "y": 545.1560314485833,
+          "width": 1309.785782920776,
+          "height": 50.0
+        },
+        "type": "body",
+        "confidence_score": 0.9663577924
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 15,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-05-30T00:00:00+00:00"
+}

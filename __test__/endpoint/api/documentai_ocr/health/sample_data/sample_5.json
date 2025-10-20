@@ -1,0 +1,10 @@
+{
+  "method": "GET",
+  "path": "/api/documentai-ocr/health",
+  "headers": {
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": null
+}

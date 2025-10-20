@@ -1,0 +1,146 @@
+{
+  "chunk_id": "4c329fbd-f12b-4011-9049-b4aa0b8dd304",
+  "file_id": 2,
+  "project_id": 3001,
+  "storage_file_name": "d92fee91-94bc-44e0-bfa0-d4cee76a33c1-1760885381770.pdf",
+  "original_file_name": "(주)대한건설산업_소명자료.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 18,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "경영진의 3단계 독립 검토 시스템. (2) 입찰가격 산정 회의록 15건 - 외부와의 접촉 없이 내부에서만",
+    "15건 - 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 - 2020년부터 시행 중.",
+    "- 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 - 2020년부터 시행 중. 당사는",
+    "원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템. (2) 입찰가격 산정 회의록 15건 - 외부와의 접촉",
+    "2024년 8월). 당사의 입찰 프로세스가 독립적이고 자율적으로 운영되었음을 입증하는 자료 27건 제출. 주요 내용: (1)",
+    "(2) 입찰가격 산정 회의록 15건 - 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인",
+    "사내 입찰가격 결정 프로세스 매뉴얼 - 원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템. (2) 입찰가격"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "c7fb74d3-ce09-432a-86f5-885a087e4962",
+        "idx_in_page": 0,
+        "text": "경영진의 3단계 독립 검토 시스템. (2) 입찰가격 산정 회의록 15건 - 외부와의 접촉 없이 내부에서만",
+        "page": 1,
+        "bbox": {
+          "x": 190.0,
+          "y": 211.0,
+          "width": 1211.0,
+          "height": 363.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "a3e75706-3e06-45f9-b949-111e9e66b9c4",
+        "idx_in_page": 1,
+        "text": "15건 - 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 - 2020년부터 시행 중.",
+        "page": 1,
+        "bbox": {
+          "x": 180.0,
+          "y": 856.0,
+          "width": 1233.0,
+          "height": 209.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "0702671f-75eb-4e04-8b92-87b23abf36bc",
+        "idx_in_page": 0,
+        "text": "- 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 - 2020년부터 시행 중. 당사는",
+        "page": 2,
+        "bbox": {
+          "x": 188.0,
+          "y": 225.0,
+          "width": 1201.0,
+          "height": 204.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "710322de-fb64-4e4d-814a-8bdab59f26d6",
+        "idx_in_page": 1,
+        "text": "원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템. (2) 입찰가격 산정 회의록 15건 - 외부와의 접촉",
+        "page": 2,
+        "bbox": {
+          "x": 189.0,
+          "y": 916.0,
+          "width": 1270.0,
+          "height": 303.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "cf5322f6-23da-4bc1-b8de-cedf7226adae",
+        "idx_in_page": 0,
+        "text": "2024년 8월). 당사의 입찰 프로세스가 독립적이고 자율적으로 운영되었음을 입증하는 자료 27건 제출. 주요 내용: (1)",
+        "page": 3,
+        "bbox": {
+          "x": 184.0,
+          "y": 205.0,
+          "width": 1249.0,
+          "height": 156.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "9b89f950-8051-4216-a1ae-8a4882bfa34b",
+        "idx_in_page": 1,
+        "text": "(2) 입찰가격 산정 회의록 15건 - 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인",
+        "page": 3,
+        "bbox": {
+          "x": 184.0,
+          "y": 974.0,
+          "width": 1232.0,
+          "height": 194.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "d89a335a-bc33-460c-92e9-626eacf85c5f",
+        "idx_in_page": 2,
+        "text": "사내 입찰가격 결정 프로세스 매뉴얼 - 원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템. (2) 입찰가격",
+        "page": 3,
+        "bbox": {
+          "x": 185.0,
+          "y": 1406.0,
+          "width": 1219.0,
+          "height": 289.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.770872+00:00"
+}

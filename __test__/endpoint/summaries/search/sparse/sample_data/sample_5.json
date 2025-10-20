@@ -1,0 +1,16 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/sparse",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "분석 결과 정리",
+    "limit": 20,
+    "score_threshold": 0.7,
+    "filter_file_id": 256
+  }
+}

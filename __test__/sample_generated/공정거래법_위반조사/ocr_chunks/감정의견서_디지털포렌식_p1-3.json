@@ -1,0 +1,146 @@
+{
+  "chunk_id": "eecaa1c0-22dd-4c5a-a13a-2c2ebd8cc22e",
+  "file_id": 13,
+  "project_id": 3001,
+  "storage_file_name": "23aed66f-ae90-426b-9105-c9529db3136b-1760885381789.pdf",
+  "original_file_name": "감정의견서_디지털포렌식.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 14,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "감정 결과: 삭제된 카카오톡 대화 127건 복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일",
+    "127건 복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일 89건 복구 (가격 협의 내용).",
+    "삭제된 이메일 89건 복구 (가격 협의 내용). 증거의 진정성 및 무결성 확인. 법정 증거능력 인정",
+    "삭제된 카카오톡 대화 127건 복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일 89건 복구",
+    "대상: PC 22대, 서버 3대, 외장저장장치 8개. 감정 결과: 삭제된 카카오톡 대화 127건 복구 성공",
+    "5월. 감정 대상: PC 22대, 서버 3대, 외장저장장치 8개. 감정 결과: 삭제된 카카오톡 대화 127건",
+    "디지털 포렌식 감정의견서. 감정기관: 국립과학수사연구원 디지털증거분석과. 감정 기간 2024년 5월. 감정 대상: PC 22대, 서버"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "4a1f671a-3f5b-422d-972f-6b5bf85737a9",
+        "idx_in_page": 0,
+        "text": "감정 결과: 삭제된 카카오톡 대화 127건 복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일",
+        "page": 1,
+        "bbox": {
+          "x": 189.0,
+          "y": 254.0,
+          "width": 1252.0,
+          "height": 347.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "cb3c7572-ba08-4b94-8f8c-bbd75386902d",
+        "idx_in_page": 1,
+        "text": "127건 복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일 89건 복구 (가격 협의 내용).",
+        "page": 1,
+        "bbox": {
+          "x": 193.0,
+          "y": 920.0,
+          "width": 1290.0,
+          "height": 160.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "78e8bf42-2dbd-4540-95ff-22338753a6e5",
+        "idx_in_page": 2,
+        "text": "삭제된 이메일 89건 복구 (가격 협의 내용). 증거의 진정성 및 무결성 확인. 법정 증거능력 인정",
+        "page": 1,
+        "bbox": {
+          "x": 180.0,
+          "y": 1488.0,
+          "width": 1285.0,
+          "height": 235.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "bfe3229b-930d-4c37-afc0-ef091a7c1d2c",
+        "idx_in_page": 0,
+        "text": "삭제된 카카오톡 대화 127건 복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일 89건 복구",
+        "page": 2,
+        "bbox": {
+          "x": 189.0,
+          "y": 278.0,
+          "width": 1288.0,
+          "height": 321.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "9f661318-7fc3-456c-ba8c-9b7c79602671",
+        "idx_in_page": 1,
+        "text": "대상: PC 22대, 서버 3대, 외장저장장치 8개. 감정 결과: 삭제된 카카오톡 대화 127건 복구 성공",
+        "page": 2,
+        "bbox": {
+          "x": 192.0,
+          "y": 918.0,
+          "width": 1297.0,
+          "height": 338.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "3337b2dc-6f17-4cfe-ba0b-91a5eaeccae7",
+        "idx_in_page": 0,
+        "text": "5월. 감정 대상: PC 22대, 서버 3대, 외장저장장치 8개. 감정 결과: 삭제된 카카오톡 대화 127건",
+        "page": 3,
+        "bbox": {
+          "x": 188.0,
+          "y": 275.0,
+          "width": 1218.0,
+          "height": 170.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "ad115eea-339b-48f4-a620-22f4f40e7357",
+        "idx_in_page": 1,
+        "text": "디지털 포렌식 감정의견서. 감정기관: 국립과학수사연구원 디지털증거분석과. 감정 기간 2024년 5월. 감정 대상: PC 22대, 서버",
+        "page": 3,
+        "bbox": {
+          "x": 193.0,
+          "y": 839.0,
+          "width": 1222.0,
+          "height": 189.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.789167+00:00"
+}

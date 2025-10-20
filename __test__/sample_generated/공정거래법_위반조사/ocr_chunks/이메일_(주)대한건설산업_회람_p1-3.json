@@ -1,0 +1,146 @@
+{
+  "chunk_id": "da322205-e99a-471c-9251-96c91ec2e45a",
+  "file_id": 37,
+  "project_id": 3001,
+  "storage_file_name": "1fdf8c30-4000-4677-a90f-89cdd0b82e22-1760885381827.pdf",
+  "original_file_name": "이메일_(주)대한건설산업_회람.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 7,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "준수할 것. 독자적으로 가격을 내려 입찰하는 행위는 절대 금지함. 이를 위반할 경우 인사상 불이익이 있을",
+    "'입찰 주의사항 - 필독'. 본문: '각 담당자는 타사와 협의된 가격을 반드시 준수할 것. 독자적으로 가격을",
+    "본문: '각 담당자는 타사와 협의된 가격을 반드시 준수할 것. 독자적으로 가격을 내려 입찰하는 행위는 절대",
+    "제목: '입찰 주의사항 - 필독'. 본문: '각 담당자는 타사와 협의된 가격을 반드시 준수할 것. 독자적으로",
+    "독자적으로 가격을 내려 입찰하는 행위는 절대 금지함. 이를 위반할 경우 인사상 불이익이 있을 수 있음.'",
+    "담당자는 타사와 협의된 가격을 반드시 준수할 것. 독자적으로 가격을 내려 입찰하는 행위는 절대 금지함. 이를",
+    "주의사항 - 필독'. 본문: '각 담당자는 타사와 협의된 가격을 반드시 준수할 것. 독자적으로 가격을 내려"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "f36cae9e-c794-455b-83c1-99c50c10d507",
+        "idx_in_page": 0,
+        "text": "준수할 것. 독자적으로 가격을 내려 입찰하는 행위는 절대 금지함. 이를 위반할 경우 인사상 불이익이 있을",
+        "page": 1,
+        "bbox": {
+          "x": 185.0,
+          "y": 326.0,
+          "width": 1253.0,
+          "height": 311.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "72aa13a3-1b1f-4f76-8da2-5e2467a23491",
+        "idx_in_page": 1,
+        "text": "'입찰 주의사항 - 필독'. 본문: '각 담당자는 타사와 협의된 가격을 반드시 준수할 것. 독자적으로 가격을",
+        "page": 1,
+        "bbox": {
+          "x": 200.0,
+          "y": 912.0,
+          "width": 1248.0,
+          "height": 370.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "e3cd9935-cab0-4491-9a3a-47e86aad6d0a",
+        "idx_in_page": 0,
+        "text": "본문: '각 담당자는 타사와 협의된 가격을 반드시 준수할 것. 독자적으로 가격을 내려 입찰하는 행위는 절대",
+        "page": 2,
+        "bbox": {
+          "x": 196.0,
+          "y": 281.0,
+          "width": 1218.0,
+          "height": 263.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "37ac7dd9-d15b-4540-96e6-35feaa95dd4a",
+        "idx_in_page": 1,
+        "text": "제목: '입찰 주의사항 - 필독'. 본문: '각 담당자는 타사와 협의된 가격을 반드시 준수할 것. 독자적으로",
+        "page": 2,
+        "bbox": {
+          "x": 200.0,
+          "y": 834.0,
+          "width": 1233.0,
+          "height": 186.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "e045a6e6-ef01-4ca7-a315-ef044f120a29",
+        "idx_in_page": 0,
+        "text": "독자적으로 가격을 내려 입찰하는 행위는 절대 금지함. 이를 위반할 경우 인사상 불이익이 있을 수 있음.'",
+        "page": 3,
+        "bbox": {
+          "x": 184.0,
+          "y": 230.0,
+          "width": 1233.0,
+          "height": 353.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "2bfbf4a7-04d6-43a5-b272-1d1d91ce1b04",
+        "idx_in_page": 1,
+        "text": "담당자는 타사와 협의된 가격을 반드시 준수할 것. 독자적으로 가격을 내려 입찰하는 행위는 절대 금지함. 이를",
+        "page": 3,
+        "bbox": {
+          "x": 183.0,
+          "y": 818.0,
+          "width": 1237.0,
+          "height": 302.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "2e973cba-179f-497e-8d58-9da37f5d7082",
+        "idx_in_page": 2,
+        "text": "주의사항 - 필독'. 본문: '각 담당자는 타사와 협의된 가격을 반드시 준수할 것. 독자적으로 가격을 내려",
+        "page": 3,
+        "bbox": {
+          "x": 196.0,
+          "y": 1472.0,
+          "width": 1289.0,
+          "height": 387.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.827311+00:00"
+}

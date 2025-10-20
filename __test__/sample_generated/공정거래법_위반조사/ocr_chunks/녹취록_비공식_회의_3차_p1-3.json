@@ -1,0 +1,146 @@
+{
+  "chunk_id": "c5bcef88-c59c-4e99-b5dc-84222d2e8414",
+  "file_id": 29,
+  "project_id": 3001,
+  "storage_file_name": "e778f3ba-72e8-4571-8ae4-972520592e18-1760885381814.pdf",
+  "original_file_name": "녹취록_비공식_회의_3차.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 5,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "순번 확정. 향후 6개월간 예정된 대형 공사 입찰 건을 4개사가 순번제로 나누어 가지기로 최종 합의.",
+    "확정. 향후 6개월간 예정된 대형 공사 입찰 건을 4개사가 순번제로 나누어 가지기로 최종 합의. '1월",
+    "대형 공사 입찰 건을 4개사가 순번제로 나누어 가지기로 최종 합의. '1월 부산항은 C사, 2월 광역상수도는",
+    "나누어 가지기로 최종 합의. '1월 부산항은 C사, 2월 광역상수도는 D사, 3월 다시 A사 순서로'. 조직적이고",
+    "'1월 부산항은 C사, 2월 광역상수도는 D사, 3월 다시 A사 순서로'. 조직적이고 장기적인 담합 모의를 보여주는",
+    "소재 프라이빗 회의실). 참석자: 4개 건설사 담당자 전원 (12명). 회의 시간 3시간 20분. 주요 논의:",
+    "합의. '1월 부산항은 C사, 2월 광역상수도는 D사, 3월 다시 A사 순서로'. 조직적이고 장기적인 담합 모의를"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "40c56e70-a5b5-45c1-906b-bd7dc9714c5e",
+        "idx_in_page": 0,
+        "text": "순번 확정. 향후 6개월간 예정된 대형 공사 입찰 건을 4개사가 순번제로 나누어 가지기로 최종 합의.",
+        "page": 1,
+        "bbox": {
+          "x": 190.0,
+          "y": 379.0,
+          "width": 1244.0,
+          "height": 290.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "2f03f9b7-5611-4e54-8019-d153871d4c28",
+        "idx_in_page": 1,
+        "text": "확정. 향후 6개월간 예정된 대형 공사 입찰 건을 4개사가 순번제로 나누어 가지기로 최종 합의. '1월",
+        "page": 1,
+        "bbox": {
+          "x": 186.0,
+          "y": 865.0,
+          "width": 1245.0,
+          "height": 386.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "40e0f6d6-cd83-4526-9841-1559e71a99a2",
+        "idx_in_page": 0,
+        "text": "대형 공사 입찰 건을 4개사가 순번제로 나누어 가지기로 최종 합의. '1월 부산항은 C사, 2월 광역상수도는",
+        "page": 2,
+        "bbox": {
+          "x": 200.0,
+          "y": 323.0,
+          "width": 1209.0,
+          "height": 158.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "9762381d-ad49-4caf-8d3a-f1adf43323a9",
+        "idx_in_page": 1,
+        "text": "나누어 가지기로 최종 합의. '1월 부산항은 C사, 2월 광역상수도는 D사, 3월 다시 A사 순서로'. 조직적이고",
+        "page": 2,
+        "bbox": {
+          "x": 181.0,
+          "y": 982.0,
+          "width": 1283.0,
+          "height": 203.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "71b465eb-84d9-4f75-8eab-f6e6f4dfe763",
+        "idx_in_page": 0,
+        "text": "'1월 부산항은 C사, 2월 광역상수도는 D사, 3월 다시 A사 순서로'. 조직적이고 장기적인 담합 모의를 보여주는",
+        "page": 3,
+        "bbox": {
+          "x": 183.0,
+          "y": 321.0,
+          "width": 1232.0,
+          "height": 286.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "841fabe2-0c60-482c-9c1b-b36bcafd69b3",
+        "idx_in_page": 1,
+        "text": "소재 프라이빗 회의실). 참석자: 4개 건설사 담당자 전원 (12명). 회의 시간 3시간 20분. 주요 논의:",
+        "page": 3,
+        "bbox": {
+          "x": 187.0,
+          "y": 810.0,
+          "width": 1275.0,
+          "height": 323.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "3de53e98-429a-4dd5-a1ae-de8a9c3aa34d",
+        "idx_in_page": 2,
+        "text": "합의. '1월 부산항은 C사, 2월 광역상수도는 D사, 3월 다시 A사 순서로'. 조직적이고 장기적인 담합 모의를",
+        "page": 3,
+        "bbox": {
+          "x": 192.0,
+          "y": 1523.0,
+          "width": 1281.0,
+          "height": 284.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.814973+00:00"
+}

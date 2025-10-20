@@ -1,0 +1,356 @@
+{
+  "chunk_id": "4ad06aeb-91b8-4621-8460-e42280abf0fa",
+  "file_id": 15,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a4_interim2_receipt.pdf",
+  "original_file_name": "갑4호증_중도금2차영수증.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 5,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "영 수 증",
+    "수령인: 이영희 (매도인)",
+    "지급인: 김철수 (매수인)",
+    "금액: 금 일억오천만원정 (₩150,000,000)",
+    "위 금액을 아래 부동산 매매계약의 중도금 제2차 대금으로 정히 수령하였습니다.",
+    "부동산의 표시",
+    "소재지: 서울특별시 강남구 테헤란로 123",
+    "건물명: 아크로타워 456동 789호",
+    "전용면적: 84.95㎡ (약 25.69평)",
+    "수령일자: 2024년 5월 15일",
+    "수령방법: 국민은행 계좌이체",
+    "입금계좌: 국민은행 123-45-678901 (예금주: 이영희)",
+    "매매계약일: 2024년 3월 1일",
+    "계약금 수령일: 2024년 3월 1일 (금 50,000,000원)",
+    "중도금 1차 수령일: 2024년 4월 15일 (금 150,000,000원)",
+    "중도금 2차 수령일: 2024년 5월 15일 (금 150,000,000원)",
+    "잔금 지급 예정일: 2024년 6월 15일 (금 150,000,000원)",
+    "총 매매대금: 금 오억원정 (₩500,000,000)",
+    "상기 금액을 정히 수령하였음을 확인하며, 본 영수증을 발행합니다.",
+    "2024년 5월 15일",
+    "매도인 이영희 (인)"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-015-001-000-0",
+        "idx_in_page": 0,
+        "text": "영 수 증",
+        "page": 1,
+        "bbox": {
+          "x": 682.53,
+          "y": 120.95,
+          "width": 316.56,
+          "height": 62
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-015-001-000-1",
+        "idx_in_page": 1,
+        "text": "수령인: 이영희 (매도인)",
+        "page": 1,
+        "bbox": {
+          "x": 182.53,
+          "y": 250.95,
+          "width": 425.56,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-015-001-000-2",
+        "idx_in_page": 2,
+        "text": "지급인: 김철수 (매수인)",
+        "page": 1,
+        "bbox": {
+          "x": 182.53,
+          "y": 310.45,
+          "width": 425.56,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-015-001-000-3",
+        "idx_in_page": 3,
+        "text": "금액: 금 일억오천만원정 (₩150,000,000)",
+        "page": 1,
+        "bbox": {
+          "x": 182.53,
+          "y": 370.28,
+          "width": 685.1,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-015-001-000-4",
+        "idx_in_page": 4,
+        "text": "위 금액을 아래 부동산 매매계약의 중도금 제2차 대금으로 정히 수령하였습니다.",
+        "page": 1,
+        "bbox": {
+          "x": 182.53,
+          "y": 445.85,
+          "width": 1254.1,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-015-001-000-5",
+        "idx_in_page": 5,
+        "text": "부동산의 표시",
+        "page": 1,
+        "bbox": {
+          "x": 182.53,
+          "y": 540.43,
+          "width": 246.78,
+          "height": 48
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-015-001-000-6",
+        "idx_in_page": 6,
+        "text": "소재지: 서울특별시 강남구 테헤란로 123",
+        "page": 1,
+        "bbox": {
+          "x": 215.25,
+          "y": 605.43,
+          "width": 625.78,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-015-001-000-7",
+        "idx_in_page": 7,
+        "text": "건물명: 아크로타워 456동 789호",
+        "page": 1,
+        "bbox": {
+          "x": 215.25,
+          "y": 662.15,
+          "width": 525.34,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-015-001-000-8",
+        "idx_in_page": 8,
+        "text": "전용면적: 84.95㎡ (약 25.69평)",
+        "page": 1,
+        "bbox": {
+          "x": 215.25,
+          "y": 718.87,
+          "width": 465.89,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-015-001-000-9",
+        "idx_in_page": 9,
+        "text": "수령일자: 2024년 5월 15일",
+        "page": 1,
+        "bbox": {
+          "x": 182.53,
+          "y": 815.62,
+          "width": 425.67,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-015-001-000-10",
+        "idx_in_page": 10,
+        "text": "수령방법: 국민은행 계좌이체",
+        "page": 1,
+        "bbox": {
+          "x": 182.53,
+          "y": 872.34,
+          "width": 465.23,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-015-001-000-11",
+        "idx_in_page": 11,
+        "text": "입금계좌: 국민은행 123-45-678901 (예금주: 이영희)",
+        "page": 1,
+        "bbox": {
+          "x": 182.53,
+          "y": 929.06,
+          "width": 785.45,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-015-001-001-0",
+        "idx_in_page": 0,
+        "text": "매매계약일: 2024년 3월 1일",
+        "page": 2,
+        "bbox": {
+          "x": 182.53,
+          "y": 120.43,
+          "width": 445.78,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-015-001-001-1",
+        "idx_in_page": 1,
+        "text": "계약금 수령일: 2024년 3월 1일 (금 50,000,000원)",
+        "page": 2,
+        "bbox": {
+          "x": 182.53,
+          "y": 177.15,
+          "width": 745.24,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-015-001-001-2",
+        "idx_in_page": 2,
+        "text": "중도금 1차 수령일: 2024년 4월 15일 (금 150,000,000원)",
+        "page": 2,
+        "bbox": {
+          "x": 182.53,
+          "y": 233.87,
+          "width": 825.67,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-015-001-001-3",
+        "idx_in_page": 3,
+        "text": "중도금 2차 수령일: 2024년 5월 15일 (금 150,000,000원)",
+        "page": 2,
+        "bbox": {
+          "x": 182.53,
+          "y": 290.59,
+          "width": 825.67,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-015-001-001-4",
+        "idx_in_page": 4,
+        "text": "잔금 지급 예정일: 2024년 6월 15일 (금 150,000,000원)",
+        "page": 2,
+        "bbox": {
+          "x": 182.53,
+          "y": 347.31,
+          "width": 825.67,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-015-001-001-5",
+        "idx_in_page": 5,
+        "text": "총 매매대금: 금 오억원정 (₩500,000,000)",
+        "page": 2,
+        "bbox": {
+          "x": 182.53,
+          "y": 425.18,
+          "width": 685.34,
+          "height": 48
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-015-001-002-0",
+        "idx_in_page": 0,
+        "text": "상기 금액을 정히 수령하였음을 확인하며, 본 영수증을 발행합니다.",
+        "page": 3,
+        "bbox": {
+          "x": 182.53,
+          "y": 150.74,
+          "width": 1125.23,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-015-001-002-1",
+        "idx_in_page": 1,
+        "text": "2024년 5월 15일",
+        "page": 3,
+        "bbox": {
+          "x": 682.53,
+          "y": 350.28,
+          "width": 315.67,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-015-001-002-2",
+        "idx_in_page": 2,
+        "text": "매도인 이영희 (인)",
+        "page": 3,
+        "bbox": {
+          "x": 682.53,
+          "y": 550.49,
+          "width": 315.6,
+          "height": 55
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-02T00:00:00+00:00"
+}

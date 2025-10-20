@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/matchtext",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "payment terms",
+    "limit": 25
+  }
+}

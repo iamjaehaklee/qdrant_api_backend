@@ -1,0 +1,131 @@
+{
+  "chunk_id": "966d01f6-b21b-4329-849e-649e8f4b5e7f",
+  "file_id": 25,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a14_kakao_negotiation.pdf",
+  "original_file_name": "갑14호증_카카오톡대화_계약논의.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 15,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    9,
+    10,
+    11
+  ],
+  "chunk_number": 5,
+  "paragraph_texts": [
+    "[9페이지] 카카오톡 대화내역 2024년 2월 28일 15:30 - 피고: 임차인이 완전히 이사 나갔습니다.",
+    "2024년 3월 10일 10:15 - 원고: 매매대금은 5억 맞죠? 2024년 3월 10일 10:17 - 피고: 네, 5억 맞습니다.",
+    "[10페이지] 카카오톡 대화내역 2024년 2월 28일 15:30 - 피고: 임차인이 완전히 이사 나갔습니다.",
+    "2024년 3월 10일 10:15 - 원고: 매매대금은 5억 맞죠? 2024년 3월 10일 10:17 - 피고: 네, 5억 맞습니다.",
+    "[11페이지] 카카오톡 대화내역 2024년 2월 28일 15:30 - 피고: 임차인이 완전히 이사 나갔습니다.",
+    "2024년 3월 10일 10:15 - 원고: 매매대금은 5억 맞죠? 2024년 3월 10일 10:17 - 피고: 네, 5억 맞습니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-025-005-000-0",
+        "idx_in_page": 0,
+        "text": "[9페이지] 카카오톡 대화내역 2024년 2월 28일 15:30 - 피고: 임차인이 완전히 이사 나갔습니다.",
+        "page": 9,
+        "bbox": {
+          "x": 205.24,
+          "y": 90.94,
+          "width": 1280.1,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-025-005-000-1",
+        "idx_in_page": 1,
+        "text": "2024년 3월 10일 10:15 - 원고: 매매대금은 5억 맞죠? 2024년 3월 10일 10:17 - 피고: 네, 5억 맞습니다.",
+        "page": 9,
+        "bbox": {
+          "x": 213.14,
+          "y": 1190.65,
+          "width": 1244.97,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-025-005-001-0",
+        "idx_in_page": 0,
+        "text": "[10페이지] 카카오톡 대화내역 2024년 2월 28일 15:30 - 피고: 임차인이 완전히 이사 나갔습니다.",
+        "page": 10,
+        "bbox": {
+          "x": 213.82,
+          "y": 93.1,
+          "width": 1289.52,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-025-005-001-1",
+        "idx_in_page": 1,
+        "text": "2024년 3월 10일 10:15 - 원고: 매매대금은 5억 맞죠? 2024년 3월 10일 10:17 - 피고: 네, 5억 맞습니다.",
+        "page": 10,
+        "bbox": {
+          "x": 193.94,
+          "y": 1182.31,
+          "width": 1326.25,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-025-005-002-0",
+        "idx_in_page": 0,
+        "text": "[11페이지] 카카오톡 대화내역 2024년 2월 28일 15:30 - 피고: 임차인이 완전히 이사 나갔습니다.",
+        "page": 11,
+        "bbox": {
+          "x": 202.97,
+          "y": 104.57,
+          "width": 1318.93,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-025-005-002-1",
+        "idx_in_page": 1,
+        "text": "2024년 3월 10일 10:15 - 원고: 매매대금은 5억 맞죠? 2024년 3월 10일 10:17 - 피고: 네, 5억 맞습니다.",
+        "page": 11,
+        "bbox": {
+          "x": 197.09,
+          "y": 1193.55,
+          "width": 1323.45,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 10,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-06T00:00:00+00:00"
+}

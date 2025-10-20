@@ -1,0 +1,146 @@
+{
+  "chunk_id": "ea9f12d8-d2f6-4523-8419-6683740945c9",
+  "file_id": 15,
+  "project_id": 3001,
+  "storage_file_name": "47953ad3-0a76-450a-8af7-8f7677eb63bc-1760885381792.pdf",
+  "original_file_name": "경제분석보고서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 15,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "chunk_number": 2,
+  "paragraph_texts": [
+    "결과: (1) 평균 낙찰률 95.7% (정상 입찰 시 85% 수준). (2) 낙찰가격 간 분산도 0.8%",
+    "분석 결과: (1) 평균 낙찰률 95.7% (정상 입찰 시 85% 수준). (2) 낙찰가격 간 분산도",
+    "간 규칙적으로 순환되는 패턴 확인. (4) 입찰 공고 직전 4개사 간 통신량 급증. 결론: 담합",
+    "참여한 입찰 23건. 분석 결과: (1) 평균 낙찰률 95.7% (정상 입찰 시 85% 수준). (2)",
+    "규칙적으로 순환되는 패턴 확인. (4) 입찰 공고 직전 4개사 간 통신량 급증. 결론: 담합 개연성",
+    "(정상 시 5% 이상). (3) 낙찰자가 4개사 간 규칙적으로 순환되는 패턴 확인. (4) 입찰 공고",
+    "낙찰자가 4개사 간 규칙적으로 순환되는 패턴 확인. (4) 입찰 공고 직전 4개사 간 통신량 급증."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "873e53b8-ac1d-48fc-b82e-01ca0bc912b7",
+        "idx_in_page": 0,
+        "text": "결과: (1) 평균 낙찰률 95.7% (정상 입찰 시 85% 수준). (2) 낙찰가격 간 분산도 0.8%",
+        "page": 3,
+        "bbox": {
+          "x": 196.0,
+          "y": 243.0,
+          "width": 1247.0,
+          "height": 171.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "2b5a03ea-70d6-4d44-bc5c-df03e2547c2a",
+        "idx_in_page": 1,
+        "text": "분석 결과: (1) 평균 낙찰률 95.7% (정상 입찰 시 85% 수준). (2) 낙찰가격 간 분산도",
+        "page": 3,
+        "bbox": {
+          "x": 187.0,
+          "y": 847.0,
+          "width": 1261.0,
+          "height": 293.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "f66a6175-fa3c-4798-af9e-226d3a908495",
+        "idx_in_page": 0,
+        "text": "간 규칙적으로 순환되는 패턴 확인. (4) 입찰 공고 직전 4개사 간 통신량 급증. 결론: 담합",
+        "page": 4,
+        "bbox": {
+          "x": 191.0,
+          "y": 230.0,
+          "width": 1236.0,
+          "height": 167.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "2d627b44-edee-43a5-89cc-2e13474d9f4f",
+        "idx_in_page": 1,
+        "text": "참여한 입찰 23건. 분석 결과: (1) 평균 낙찰률 95.7% (정상 입찰 시 85% 수준). (2)",
+        "page": 4,
+        "bbox": {
+          "x": 192.0,
+          "y": 803.0,
+          "width": 1238.0,
+          "height": 397.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "82cd650c-aee8-4677-bad9-92f641cdf405",
+        "idx_in_page": 2,
+        "text": "규칙적으로 순환되는 패턴 확인. (4) 입찰 공고 직전 4개사 간 통신량 급증. 결론: 담합 개연성",
+        "page": 4,
+        "bbox": {
+          "x": 182.0,
+          "y": 1411.0,
+          "width": 1298.0,
+          "height": 207.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "1e0b932f-2803-4cc2-ac5c-f5d2758485b3",
+        "idx_in_page": 0,
+        "text": "(정상 시 5% 이상). (3) 낙찰자가 4개사 간 규칙적으로 순환되는 패턴 확인. (4) 입찰 공고",
+        "page": 5,
+        "bbox": {
+          "x": 196.0,
+          "y": 333.0,
+          "width": 1228.0,
+          "height": 243.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "238cc648-025e-4c9b-90e9-7e222599307b",
+        "idx_in_page": 1,
+        "text": "낙찰자가 4개사 간 규칙적으로 순환되는 패턴 확인. (4) 입찰 공고 직전 4개사 간 통신량 급증.",
+        "page": 5,
+        "bbox": {
+          "x": 192.0,
+          "y": 994.0,
+          "width": 1214.0,
+          "height": 256.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 4,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.792548+00:00"
+}

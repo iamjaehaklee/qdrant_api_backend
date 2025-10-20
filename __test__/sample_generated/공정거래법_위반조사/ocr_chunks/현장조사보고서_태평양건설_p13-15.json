@@ -1,0 +1,131 @@
+{
+  "chunk_id": "12cbcb97-e453-4af7-ba63-720103a610cf",
+  "file_id": 59,
+  "project_id": 3001,
+  "storage_file_name": "067c36f4-65ab-4dd4-ad3d-30ed8654ed0e-1760885381870.pdf",
+  "original_file_name": "현장조사보고서_태평양건설.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 17,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    13,
+    14,
+    15
+  ],
+  "chunk_number": 7,
+  "paragraph_texts": [
+    "4월 8일). 조사관 5명 투입. 압수물품: 영업부 및 경영기획실 PC 4대, 사내 서버 1대, 입찰",
+    "125권, USB 메모리 3개. 주요 발견 사항: 타사와의 가격 협의 관련 내부 문서 다수 확보.",
+    "관련 내부 문서 다수 확보. 영업부장 컴퓨터에서 '입찰 배분 현황' 엑셀 파일 발견. 회사 차원의",
+    "투입. 압수물품: 영업부 및 경영기획실 PC 4대, 사내 서버 1대, 입찰 관련 문서 125권, USB",
+    "현장조사 보고서 (조사일 2024년 4월 8일). 조사관 5명 투입. 압수물품: 영업부 및 경영기획실 PC 4대,",
+    "문서 다수 확보. 영업부장 컴퓨터에서 '입찰 배분 현황' 엑셀 파일 발견. 회사 차원의 조직적 담합"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "2fe9c57f-59f0-4faf-82cb-618bef3f9759",
+        "idx_in_page": 0,
+        "text": "4월 8일). 조사관 5명 투입. 압수물품: 영업부 및 경영기획실 PC 4대, 사내 서버 1대, 입찰",
+        "page": 13,
+        "bbox": {
+          "x": 193.0,
+          "y": 286.0,
+          "width": 1264.0,
+          "height": 310.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "38465d49-c87b-484f-960f-4a7798e4638f",
+        "idx_in_page": 1,
+        "text": "125권, USB 메모리 3개. 주요 발견 사항: 타사와의 가격 협의 관련 내부 문서 다수 확보.",
+        "page": 13,
+        "bbox": {
+          "x": 192.0,
+          "y": 855.0,
+          "width": 1276.0,
+          "height": 185.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "01df9602-88fb-4dda-b6f3-d7dbc5819bd1",
+        "idx_in_page": 0,
+        "text": "관련 내부 문서 다수 확보. 영업부장 컴퓨터에서 '입찰 배분 현황' 엑셀 파일 발견. 회사 차원의",
+        "page": 14,
+        "bbox": {
+          "x": 188.0,
+          "y": 326.0,
+          "width": 1213.0,
+          "height": 311.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "2453dabb-68ae-475f-a936-012fd18d7b2f",
+        "idx_in_page": 1,
+        "text": "투입. 압수물품: 영업부 및 경영기획실 PC 4대, 사내 서버 1대, 입찰 관련 문서 125권, USB",
+        "page": 14,
+        "bbox": {
+          "x": 186.0,
+          "y": 806.0,
+          "width": 1258.0,
+          "height": 321.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "7dfb95b1-6aad-47db-bdf2-1b23e3276c4b",
+        "idx_in_page": 0,
+        "text": "현장조사 보고서 (조사일 2024년 4월 8일). 조사관 5명 투입. 압수물품: 영업부 및 경영기획실 PC 4대,",
+        "page": 15,
+        "bbox": {
+          "x": 182.0,
+          "y": 202.0,
+          "width": 1206.0,
+          "height": 291.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "345ffe59-0b0b-4ce4-a74d-9c8088f066fd",
+        "idx_in_page": 1,
+        "text": "문서 다수 확보. 영업부장 컴퓨터에서 '입찰 배분 현황' 엑셀 파일 발견. 회사 차원의 조직적 담합",
+        "page": 15,
+        "bbox": {
+          "x": 198.0,
+          "y": 840.0,
+          "width": 1272.0,
+          "height": 227.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 13,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 14,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 15,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.870193+00:00"
+}

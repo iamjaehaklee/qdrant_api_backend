@@ -1,0 +1,78 @@
+{
+  "method": "POST",
+  "path": "/points",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "file_id": 128,
+    "project_id": 8,
+    "storage_file_name": "2024/03/document_001.pdf",
+    "original_file_name": "contract.pdf",
+    "mime_type": "application/pdf",
+    "total_pages": 3,
+    "language": "en",
+    "pages": [
+      1,
+      2,
+      3
+    ],
+    "chunk_number": 1,
+    "paragraph_texts": [
+      "This is a sample contract document.",
+      "Article 1: Terms and Conditions"
+    ],
+    "chunk_content": {
+      "paragraphs": [
+        {
+          "paragraph_id": "para_1",
+          "idx_in_page": 0,
+          "text": "This is a sample contract document.",
+          "page": 1,
+          "bbox": {
+            "x": 50.0,
+            "y": 100.0,
+            "width": 500.0,
+            "height": 20.0
+          },
+          "type": "text",
+          "confidence_score": 0.95
+        },
+        {
+          "paragraph_id": "para_2",
+          "idx_in_page": 0,
+          "text": "Article 1: Terms and Conditions",
+          "page": 2,
+          "bbox": {
+            "x": 50.0,
+            "y": 120.0,
+            "width": 450.0,
+            "height": 18.0
+          },
+          "type": "heading",
+          "confidence_score": 0.98
+        }
+      ]
+    },
+    "page_dimensions": [
+      {
+        "page": 1,
+        "width": 595,
+        "height": 842
+      },
+      {
+        "page": 2,
+        "width": 595,
+        "height": 842
+      },
+      {
+        "page": 3,
+        "width": 595,
+        "height": 842
+      }
+    ]
+  }
+}

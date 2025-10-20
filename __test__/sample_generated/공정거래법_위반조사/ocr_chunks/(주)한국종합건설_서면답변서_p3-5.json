@@ -1,0 +1,146 @@
+{
+  "chunk_id": "f8d1a544-8273-4150-b063-c82b42d95907",
+  "file_id": 10,
+  "project_id": 3001,
+  "storage_file_name": "25eda14d-ac9c-43b0-b783-741aaf3b63d4-1760885381785.pdf",
+  "original_file_name": "(주)한국종합건설_서면답변서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 7,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "chunk_number": 2,
+  "paragraph_texts": [
+    "업계 정보 교류에 불과하며, 가격 담합과는 무관함. 입찰 낙찰률이 높은 것은 당사의 정확한 원가계산 능력",
+    "통화기록은 단순한 업계 정보 교류에 불과하며, 가격 담합과는 무관함. 입찰 낙찰률이 높은 것은 당사의 정확한",
+    "부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지",
+    "입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한 통화기록은 단순한 업계 정보",
+    "혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전",
+    "3월). 당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를",
+    "업계 정보 교류에 불과하며, 가격 담합과는 무관함. 입찰 낙찰률이 높은 것은 당사의 정확한 원가계산 능력"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "31c3139d-eae4-4f86-982e-a88013c0daad",
+        "idx_in_page": 0,
+        "text": "업계 정보 교류에 불과하며, 가격 담합과는 무관함. 입찰 낙찰률이 높은 것은 당사의 정확한 원가계산 능력",
+        "page": 3,
+        "bbox": {
+          "x": 185.0,
+          "y": 377.0,
+          "width": 1243.0,
+          "height": 398.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "1850ca4e-dace-4876-ad15-958817c76c19",
+        "idx_in_page": 1,
+        "text": "통화기록은 단순한 업계 정보 교류에 불과하며, 가격 담합과는 무관함. 입찰 낙찰률이 높은 것은 당사의 정확한",
+        "page": 3,
+        "bbox": {
+          "x": 190.0,
+          "y": 808.0,
+          "width": 1290.0,
+          "height": 294.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "9ee796ee-9cfd-45f1-9516-1b3115918638",
+        "idx_in_page": 0,
+        "text": "부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지",
+        "page": 4,
+        "bbox": {
+          "x": 191.0,
+          "y": 394.0,
+          "width": 1296.0,
+          "height": 398.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "6a9b58aa-6909-458f-afab-29cab2931514",
+        "idx_in_page": 1,
+        "text": "입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한 통화기록은 단순한 업계 정보",
+        "page": 4,
+        "bbox": {
+          "x": 189.0,
+          "y": 868.0,
+          "width": 1270.0,
+          "height": 181.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "248581ca-3fd4-4aba-8a0e-36a3e1a7052e",
+        "idx_in_page": 0,
+        "text": "혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전",
+        "page": 5,
+        "bbox": {
+          "x": 195.0,
+          "y": 355.0,
+          "width": 1294.0,
+          "height": 381.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "37b4f049-4f0b-48a4-8b4d-d30534d06ddc",
+        "idx_in_page": 1,
+        "text": "3월). 당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를",
+        "page": 5,
+        "bbox": {
+          "x": 195.0,
+          "y": 934.0,
+          "width": 1257.0,
+          "height": 319.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "01b22ea6-fd6d-4910-be52-d58492f554f2",
+        "idx_in_page": 2,
+        "text": "업계 정보 교류에 불과하며, 가격 담합과는 무관함. 입찰 낙찰률이 높은 것은 당사의 정확한 원가계산 능력",
+        "page": 5,
+        "bbox": {
+          "x": 200.0,
+          "y": 1563.0,
+          "width": 1282.0,
+          "height": 180.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 4,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.785296+00:00"
+}

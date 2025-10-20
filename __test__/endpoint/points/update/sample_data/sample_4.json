@@ -1,0 +1,50 @@
+{
+  "method": "PUT",
+  "path": "/points/123e4567-e89b-12d3-a456-426614174000",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {
+    "point_id": "123e4567-e89b-12d3-a456-426614174000"
+  },
+  "query_params": {},
+  "body": {
+    "paragraph_texts": [
+      "New paragraph 1",
+      "New paragraph 2"
+    ],
+    "chunk_content": {
+      "paragraphs": [
+        {
+          "paragraph_id": "updated_para_1",
+          "idx_in_page": 0,
+          "text": "New paragraph 1",
+          "page": 1,
+          "bbox": {
+            "x": 50.0,
+            "y": 100.0,
+            "width": 500.0,
+            "height": 20.0
+          },
+          "type": "text",
+          "confidence_score": 0.95
+        },
+        {
+          "paragraph_id": "updated_para_2",
+          "idx_in_page": 1,
+          "text": "New paragraph 2",
+          "page": 1,
+          "bbox": {
+            "x": 50.0,
+            "y": 130.0,
+            "width": 480.0,
+            "height": 18.0
+          },
+          "type": "text",
+          "confidence_score": 0.93
+        }
+      ]
+    }
+  }
+}

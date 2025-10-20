@@ -1,0 +1,146 @@
+{
+  "chunk_id": "932540ca-eaf6-4235-9a57-76ef1173c02e",
+  "file_id": 53,
+  "project_id": 3001,
+  "storage_file_name": "1d0a09f3-6966-499f-b25a-08cea2377740-1760885381858.pdf",
+  "original_file_name": "통신사_제출_상세통화내역.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 9,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "통화내역 분석 보고서 (2023년 10월~2024년 3월). 분석 대상: 4개 건설사 주요 담당자 12개 전화번호. 총",
+    "전부터 월 40~60건으로 급증. 4개사 담당자들이 특정 시기에 집중적으로 연락을 주고받은 정황이 통계적으로 명확히 드러남.",
+    "분석 보고서 (2023년 10월~2024년 3월). 분석 대상: 4개 건설사 주요 담당자 12개 전화번호. 총 통화",
+    "평상시 월 5~10건 수준이던 통화가 입찰 2주 전부터 월 40~60건으로 급증. 4개사 담당자들이 특정 시기에",
+    "전화번호. 총 통화 건수 287건. 분석 결과: 입찰 공고 직전 기간에 통화 빈도가 급증하는 패턴이",
+    "통화 빈도가 급증하는 패턴이 반복적으로 확인됨. 평상시 월 5~10건 수준이던 통화가 입찰 2주 전부터 월",
+    "담당자 12개 전화번호. 총 통화 건수 287건. 분석 결과: 입찰 공고 직전 기간에 통화 빈도가"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "b5901f89-d10c-4fc6-b611-eac6b86258d9",
+        "idx_in_page": 0,
+        "text": "통화내역 분석 보고서 (2023년 10월~2024년 3월). 분석 대상: 4개 건설사 주요 담당자 12개 전화번호. 총",
+        "page": 1,
+        "bbox": {
+          "x": 195.0,
+          "y": 237.0,
+          "width": 1259.0,
+          "height": 346.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "c93316de-0e31-4ada-9584-1979f352b73b",
+        "idx_in_page": 1,
+        "text": "전부터 월 40~60건으로 급증. 4개사 담당자들이 특정 시기에 집중적으로 연락을 주고받은 정황이 통계적으로 명확히 드러남.",
+        "page": 1,
+        "bbox": {
+          "x": 180.0,
+          "y": 944.0,
+          "width": 1263.0,
+          "height": 177.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "48233245-d4ce-4a50-b02e-c4fe2cde6bb1",
+        "idx_in_page": 0,
+        "text": "분석 보고서 (2023년 10월~2024년 3월). 분석 대상: 4개 건설사 주요 담당자 12개 전화번호. 총 통화",
+        "page": 2,
+        "bbox": {
+          "x": 183.0,
+          "y": 252.0,
+          "width": 1278.0,
+          "height": 182.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "9ed8b96c-6cfa-48a9-a3ae-161e7a75fe09",
+        "idx_in_page": 1,
+        "text": "평상시 월 5~10건 수준이던 통화가 입찰 2주 전부터 월 40~60건으로 급증. 4개사 담당자들이 특정 시기에",
+        "page": 2,
+        "bbox": {
+          "x": 187.0,
+          "y": 813.0,
+          "width": 1240.0,
+          "height": 264.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "481c3fd6-21e6-43b0-a271-15abdae58543",
+        "idx_in_page": 2,
+        "text": "전화번호. 총 통화 건수 287건. 분석 결과: 입찰 공고 직전 기간에 통화 빈도가 급증하는 패턴이",
+        "page": 2,
+        "bbox": {
+          "x": 188.0,
+          "y": 1444.0,
+          "width": 1259.0,
+          "height": 159.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "ebae61ef-8ebb-45da-baba-535daece21fb",
+        "idx_in_page": 0,
+        "text": "통화 빈도가 급증하는 패턴이 반복적으로 확인됨. 평상시 월 5~10건 수준이던 통화가 입찰 2주 전부터 월",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 295.0,
+          "width": 1281.0,
+          "height": 347.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "d13ae66c-5779-4b4e-9145-6c6bae61ce6e",
+        "idx_in_page": 1,
+        "text": "담당자 12개 전화번호. 총 통화 건수 287건. 분석 결과: 입찰 공고 직전 기간에 통화 빈도가",
+        "page": 3,
+        "bbox": {
+          "x": 195.0,
+          "y": 879.0,
+          "width": 1213.0,
+          "height": 258.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.858415+00:00"
+}

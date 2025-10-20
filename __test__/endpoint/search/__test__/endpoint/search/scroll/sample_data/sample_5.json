@@ -1,0 +1,17 @@
+{
+  "method": "POST",
+  "path": "/search/scroll",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "분석 결과 보고",
+    "limit": 100,
+    "offset": 200,
+    "score_threshold": 0.8,
+    "filter_file_id": 256
+  }
+}

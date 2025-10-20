@@ -1,0 +1,131 @@
+{
+  "chunk_id": "a4d7a2d9-e429-4f28-b44f-542898715e72",
+  "file_id": 53,
+  "project_id": 3001,
+  "storage_file_name": "f10adaa3-eb7f-4353-b90d-84c43f7c5cff-1760885381858.pdf",
+  "original_file_name": "통신사_제출_상세통화내역.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 9,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "chunk_number": 2,
+  "paragraph_texts": [
+    "결과: 입찰 공고 직전 기간에 통화 빈도가 급증하는 패턴이 반복적으로 확인됨. 평상시 월 5~10건 수준이던",
+    "입찰 공고 직전 기간에 통화 빈도가 급증하는 패턴이 반복적으로 확인됨. 평상시 월 5~10건 수준이던 통화가",
+    "3월). 분석 대상: 4개 건설사 주요 담당자 12개 전화번호. 총 통화 건수 287건. 분석 결과:",
+    "담당자 12개 전화번호. 총 통화 건수 287건. 분석 결과: 입찰 공고 직전 기간에 통화 빈도가",
+    "보고서 (2023년 10월~2024년 3월). 분석 대상: 4개 건설사 주요 담당자 12개 전화번호. 총 통화 건수",
+    "확인됨. 평상시 월 5~10건 수준이던 통화가 입찰 2주 전부터 월 40~60건으로 급증. 4개사 담당자들이 특정"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "04d89e5d-33ec-40db-907b-e1c99829bfc5",
+        "idx_in_page": 0,
+        "text": "결과: 입찰 공고 직전 기간에 통화 빈도가 급증하는 패턴이 반복적으로 확인됨. 평상시 월 5~10건 수준이던",
+        "page": 3,
+        "bbox": {
+          "x": 186.0,
+          "y": 284.0,
+          "width": 1262.0,
+          "height": 400.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "aead513d-4343-4cbb-9ad3-87b840242a50",
+        "idx_in_page": 1,
+        "text": "입찰 공고 직전 기간에 통화 빈도가 급증하는 패턴이 반복적으로 확인됨. 평상시 월 5~10건 수준이던 통화가",
+        "page": 3,
+        "bbox": {
+          "x": 188.0,
+          "y": 836.0,
+          "width": 1266.0,
+          "height": 370.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "64d3a97a-7faa-4268-8f14-402bd6e2aaaa",
+        "idx_in_page": 0,
+        "text": "3월). 분석 대상: 4개 건설사 주요 담당자 12개 전화번호. 총 통화 건수 287건. 분석 결과:",
+        "page": 4,
+        "bbox": {
+          "x": 189.0,
+          "y": 390.0,
+          "width": 1261.0,
+          "height": 396.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "c7d85c83-f216-4f53-9e64-fef29191d77c",
+        "idx_in_page": 1,
+        "text": "담당자 12개 전화번호. 총 통화 건수 287건. 분석 결과: 입찰 공고 직전 기간에 통화 빈도가",
+        "page": 4,
+        "bbox": {
+          "x": 184.0,
+          "y": 876.0,
+          "width": 1300.0,
+          "height": 341.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "3b955051-e960-4298-926f-3b561efebd57",
+        "idx_in_page": 0,
+        "text": "보고서 (2023년 10월~2024년 3월). 분석 대상: 4개 건설사 주요 담당자 12개 전화번호. 총 통화 건수",
+        "page": 5,
+        "bbox": {
+          "x": 194.0,
+          "y": 355.0,
+          "width": 1277.0,
+          "height": 339.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "f0c1f315-8420-4633-be8d-f6bd46f70a54",
+        "idx_in_page": 1,
+        "text": "확인됨. 평상시 월 5~10건 수준이던 통화가 입찰 2주 전부터 월 40~60건으로 급증. 4개사 담당자들이 특정",
+        "page": 5,
+        "bbox": {
+          "x": 196.0,
+          "y": 851.0,
+          "width": 1204.0,
+          "height": 226.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 4,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.858690+00:00"
+}

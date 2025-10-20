@@ -1,0 +1,79 @@
+{
+  "method": "POST",
+  "path": "/points",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "file_id": 180,
+    "project_id": 15,
+    "storage_file_name": "2024/06/manual_ja.pdf",
+    "original_file_name": "ユーザーマニュアル.pdf",
+    "mime_type": "application/pdf",
+    "total_pages": 10,
+    "processing_duration_seconds": 60,
+    "language": "ja",
+    "pages": [
+      1,
+      2,
+      3
+    ],
+    "chunk_number": 1,
+    "paragraph_texts": [
+      "ユーザーマニュアル",
+      "第1章：製品の概要"
+    ],
+    "chunk_content": {
+      "paragraphs": [
+        {
+          "paragraph_id": "para_ja_1",
+          "idx_in_page": 0,
+          "text": "ユーザーマニュアル",
+          "page": 1,
+          "bbox": {
+            "x": 150.0,
+            "y": 90.0,
+            "width": 300.0,
+            "height": 28.0
+          },
+          "type": "title",
+          "confidence_score": 0.97
+        },
+        {
+          "paragraph_id": "para_ja_2",
+          "idx_in_page": 0,
+          "text": "第1章：製品の概要",
+          "page": 2,
+          "bbox": {
+            "x": 100.0,
+            "y": 100.0,
+            "width": 400.0,
+            "height": 22.0
+          },
+          "type": "heading",
+          "confidence_score": 0.95
+        }
+      ]
+    },
+    "page_dimensions": [
+      {
+        "page": 1,
+        "width": 595,
+        "height": 842
+      },
+      {
+        "page": 2,
+        "width": 595,
+        "height": 842
+      },
+      {
+        "page": 3,
+        "width": 595,
+        "height": 842
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/scroll",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "requirements specification",
+    "limit": 30,
+    "offset": 60,
+    "score_threshold": 0.7,
+    "filter_project_id": 8,
+    "filter_file_id": 128
+  }
+}

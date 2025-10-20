@@ -1,0 +1,161 @@
+{
+  "chunk_id": "58b559d7-236d-4409-aa09-57d0b21d121f",
+  "file_id": 60,
+  "project_id": 3001,
+  "storage_file_name": "27b1c903-f923-4d48-8cd2-b749cb77031c-1760885381872.pdf",
+  "original_file_name": "현장조사보고서_한국종합건설.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 13,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    9,
+    10,
+    11
+  ],
+  "chunk_number": 5,
+  "paragraph_texts": [
+    "문서 98권. 주요 발견 사항: 삭제된 이메일 복구 성공 (타사 협의 관련 89건). 사장 메일함에서",
+    "89건). 사장 메일함에서 '(주)서울엔지니어링 본부장과 합의 완료' 내용 확인. 고위 경영진의 담합 지시 정황 명확.",
+    "2024년 4월 9일). 조사관 5명 투입. 압수물품: 임원 노트북 6대, 외장하드 2개, 계약 및 입찰",
+    "삭제된 이메일 복구 성공 (타사 협의 관련 89건). 사장 메일함에서 '(주)서울엔지니어링 본부장과 합의 완료' 내용",
+    "(조사일 2024년 4월 9일). 조사관 5명 투입. 압수물품: 임원 노트북 6대, 외장하드 2개, 계약 및",
+    "5명 투입. 압수물품: 임원 노트북 6대, 외장하드 2개, 계약 및 입찰 문서 98권. 주요 발견",
+    "2개, 계약 및 입찰 문서 98권. 주요 발견 사항: 삭제된 이메일 복구 성공 (타사 협의",
+    "보고서 (조사일 2024년 4월 9일). 조사관 5명 투입. 압수물품: 임원 노트북 6대, 외장하드 2개, 계약"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "c84fb94e-daea-4743-ba40-cb598293cb87",
+        "idx_in_page": 0,
+        "text": "문서 98권. 주요 발견 사항: 삭제된 이메일 복구 성공 (타사 협의 관련 89건). 사장 메일함에서",
+        "page": 9,
+        "bbox": {
+          "x": 185.0,
+          "y": 223.0,
+          "width": 1298.0,
+          "height": 278.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "eb325433-9b3e-4575-9a19-85d6a4b39951",
+        "idx_in_page": 1,
+        "text": "89건). 사장 메일함에서 '(주)서울엔지니어링 본부장과 합의 완료' 내용 확인. 고위 경영진의 담합 지시 정황 명확.",
+        "page": 9,
+        "bbox": {
+          "x": 189.0,
+          "y": 843.0,
+          "width": 1235.0,
+          "height": 219.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "af95292c-07a8-4fa5-ba65-d0bd38db1a47",
+        "idx_in_page": 0,
+        "text": "2024년 4월 9일). 조사관 5명 투입. 압수물품: 임원 노트북 6대, 외장하드 2개, 계약 및 입찰",
+        "page": 10,
+        "bbox": {
+          "x": 193.0,
+          "y": 267.0,
+          "width": 1208.0,
+          "height": 249.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "87834687-9c31-4ced-b1cf-10d4f1ba070d",
+        "idx_in_page": 1,
+        "text": "삭제된 이메일 복구 성공 (타사 협의 관련 89건). 사장 메일함에서 '(주)서울엔지니어링 본부장과 합의 완료' 내용",
+        "page": 10,
+        "bbox": {
+          "x": 182.0,
+          "y": 891.0,
+          "width": 1200.0,
+          "height": 387.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "f8846c8b-c453-4d16-a4d8-709b7b8cf41f",
+        "idx_in_page": 2,
+        "text": "(조사일 2024년 4월 9일). 조사관 5명 투입. 압수물품: 임원 노트북 6대, 외장하드 2개, 계약 및",
+        "page": 10,
+        "bbox": {
+          "x": 200.0,
+          "y": 1517.0,
+          "width": 1236.0,
+          "height": 164.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "d4da7cd8-9283-45c9-905f-dff40332be41",
+        "idx_in_page": 0,
+        "text": "5명 투입. 압수물품: 임원 노트북 6대, 외장하드 2개, 계약 및 입찰 문서 98권. 주요 발견",
+        "page": 11,
+        "bbox": {
+          "x": 195.0,
+          "y": 283.0,
+          "width": 1243.0,
+          "height": 280.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "48423465-1db3-4e5c-92a7-33aebd888e96",
+        "idx_in_page": 1,
+        "text": "2개, 계약 및 입찰 문서 98권. 주요 발견 사항: 삭제된 이메일 복구 성공 (타사 협의",
+        "page": 11,
+        "bbox": {
+          "x": 192.0,
+          "y": 985.0,
+          "width": 1211.0,
+          "height": 290.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "ad297629-eb61-406a-a4ef-6206db9cbdf1",
+        "idx_in_page": 2,
+        "text": "보고서 (조사일 2024년 4월 9일). 조사관 5명 투입. 압수물품: 임원 노트북 6대, 외장하드 2개, 계약",
+        "page": 11,
+        "bbox": {
+          "x": 196.0,
+          "y": 1492.0,
+          "width": 1261.0,
+          "height": 179.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 10,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.872008+00:00"
+}

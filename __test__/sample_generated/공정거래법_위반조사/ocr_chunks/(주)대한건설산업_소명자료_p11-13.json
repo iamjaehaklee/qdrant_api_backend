@@ -1,0 +1,131 @@
+{
+  "chunk_id": "82d4cfd2-de96-4d47-b440-cb344288d139",
+  "file_id": 2,
+  "project_id": 3001,
+  "storage_file_name": "a19afe17-162c-42bc-9118-704884d3bb27-1760885381772.pdf",
+  "original_file_name": "(주)대한건설산업_소명자료.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 18,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    11,
+    12,
+    13
+  ],
+  "chunk_number": 6,
+  "paragraph_texts": [
+    "- 원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템. (2) 입찰가격 산정 회의록 15건 - 외부와의",
+    "운영되었음을 입증하는 자료 27건 제출. 주요 내용: (1) 사내 입찰가격 결정 프로세스 매뉴얼 - 원가계산팀,",
+    "(1) 사내 입찰가격 결정 프로세스 매뉴얼 - 원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템. (2)",
+    "내용: (1) 사내 입찰가격 결정 프로세스 매뉴얼 - 원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템.",
+    "사내 입찰가격 결정 프로세스 매뉴얼 - 원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템. (2) 입찰가격",
+    "2024심제1001, 제출일 2024년 8월). 당사의 입찰 프로세스가 독립적이고 자율적으로 운영되었음을 입증하는 자료 27건 제출. 주요"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "654d822a-441d-4a25-a467-b525792d4f4a",
+        "idx_in_page": 0,
+        "text": "- 원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템. (2) 입찰가격 산정 회의록 15건 - 외부와의",
+        "page": 11,
+        "bbox": {
+          "x": 193.0,
+          "y": 359.0,
+          "width": 1218.0,
+          "height": 162.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "343d2bb1-2bf1-485d-bc34-6f3805bdf2c1",
+        "idx_in_page": 1,
+        "text": "운영되었음을 입증하는 자료 27건 제출. 주요 내용: (1) 사내 입찰가격 결정 프로세스 매뉴얼 - 원가계산팀,",
+        "page": 11,
+        "bbox": {
+          "x": 200.0,
+          "y": 806.0,
+          "width": 1228.0,
+          "height": 177.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "4e75b8cd-c964-472e-b154-5c44df64363e",
+        "idx_in_page": 0,
+        "text": "(1) 사내 입찰가격 결정 프로세스 매뉴얼 - 원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템. (2)",
+        "page": 12,
+        "bbox": {
+          "x": 198.0,
+          "y": 353.0,
+          "width": 1208.0,
+          "height": 233.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "5b28837b-fc12-4f29-8fdd-4fcfbcb3ef58",
+        "idx_in_page": 1,
+        "text": "내용: (1) 사내 입찰가격 결정 프로세스 매뉴얼 - 원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템.",
+        "page": 12,
+        "bbox": {
+          "x": 192.0,
+          "y": 825.0,
+          "width": 1268.0,
+          "height": 192.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "e3300724-d6d6-4d19-a247-980fff209e43",
+        "idx_in_page": 0,
+        "text": "사내 입찰가격 결정 프로세스 매뉴얼 - 원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템. (2) 입찰가격",
+        "page": 13,
+        "bbox": {
+          "x": 180.0,
+          "y": 339.0,
+          "width": 1237.0,
+          "height": 206.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "b0a864d3-318b-4136-8802-809c2be1b9b8",
+        "idx_in_page": 1,
+        "text": "2024심제1001, 제출일 2024년 8월). 당사의 입찰 프로세스가 독립적이고 자율적으로 운영되었음을 입증하는 자료 27건 제출. 주요",
+        "page": 13,
+        "bbox": {
+          "x": 197.0,
+          "y": 812.0,
+          "width": 1209.0,
+          "height": 314.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 12,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 13,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.772122+00:00"
+}

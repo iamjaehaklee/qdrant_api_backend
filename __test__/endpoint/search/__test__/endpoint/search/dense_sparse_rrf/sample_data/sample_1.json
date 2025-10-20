@@ -1,0 +1,14 @@
+{
+  "method": "POST",
+  "path": "/search/dense_sparse_rrf",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "legal contract agreement",
+    "limit": 10
+  }
+}

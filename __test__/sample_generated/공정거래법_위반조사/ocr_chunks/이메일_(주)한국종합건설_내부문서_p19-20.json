@@ -1,0 +1,110 @@
+{
+  "chunk_id": "91efe86e-32e7-4957-9127-5491394c51f1",
+  "file_id": 39,
+  "project_id": 3001,
+  "storage_file_name": "bc858bf3-bedc-4026-a69d-721377b076c9-1760885381833.pdf",
+  "original_file_name": "이메일_(주)한국종합건설_내부문서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 20,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    19,
+    20
+  ],
+  "chunk_number": 10,
+  "paragraph_texts": [
+    "(주)한국종합건설 내부 이메일. 발신: 이민호 이사 (영업담당 이사), 수신: 사장. 발신일 2024년 2월 10일. 제목:",
+    "발신: 이민호 이사 (영업담당 이사), 수신: 사장. 발신일 2024년 2월 10일. 제목: '부산항 신항 개발사업",
+    "2월 10일. 제목: '부산항 신항 개발사업 입찰 전략 보고'. 본문 발췌: '타사와의 협의 결과 이번",
+    "신항 개발사업 입찰 전략 보고'. 본문 발췌: '타사와의 협의 결과 이번 건은 당사가 낙찰받기로 합의되었습니다.",
+    "입찰 전략 보고'. 본문 발췌: '타사와의 협의 결과 이번 건은 당사가 낙찰받기로 합의되었습니다. 예정가 95.5%로"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "cf301a62-008e-48cf-9d4a-e1135f49d62d",
+        "idx_in_page": 0,
+        "text": "(주)한국종합건설 내부 이메일. 발신: 이민호 이사 (영업담당 이사), 수신: 사장. 발신일 2024년 2월 10일. 제목:",
+        "page": 19,
+        "bbox": {
+          "x": 185.0,
+          "y": 364.0,
+          "width": 1206.0,
+          "height": 276.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "46037697-a3d3-4567-a562-09bcf103dcee",
+        "idx_in_page": 1,
+        "text": "발신: 이민호 이사 (영업담당 이사), 수신: 사장. 발신일 2024년 2월 10일. 제목: '부산항 신항 개발사업",
+        "page": 19,
+        "bbox": {
+          "x": 194.0,
+          "y": 807.0,
+          "width": 1297.0,
+          "height": 321.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "2208c8ca-8d58-47db-9838-5abfdaf17be2",
+        "idx_in_page": 0,
+        "text": "2월 10일. 제목: '부산항 신항 개발사업 입찰 전략 보고'. 본문 발췌: '타사와의 협의 결과 이번",
+        "page": 20,
+        "bbox": {
+          "x": 190.0,
+          "y": 225.0,
+          "width": 1213.0,
+          "height": 393.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "1e670dbe-8f65-4dc8-97fa-8202551d7356",
+        "idx_in_page": 1,
+        "text": "신항 개발사업 입찰 전략 보고'. 본문 발췌: '타사와의 협의 결과 이번 건은 당사가 낙찰받기로 합의되었습니다.",
+        "page": 20,
+        "bbox": {
+          "x": 200.0,
+          "y": 842.0,
+          "width": 1234.0,
+          "height": 244.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "9fe49c38-247b-41cf-819a-db6c7a3f641a",
+        "idx_in_page": 2,
+        "text": "입찰 전략 보고'. 본문 발췌: '타사와의 협의 결과 이번 건은 당사가 낙찰받기로 합의되었습니다. 예정가 95.5%로",
+        "page": 20,
+        "bbox": {
+          "x": 198.0,
+          "y": 1484.0,
+          "width": 1259.0,
+          "height": 386.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 19,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 20,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.833185+00:00"
+}

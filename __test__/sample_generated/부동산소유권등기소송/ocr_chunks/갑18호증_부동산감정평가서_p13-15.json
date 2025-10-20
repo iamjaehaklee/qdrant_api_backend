@@ -1,0 +1,131 @@
+{
+  "chunk_id": "f9a7c84b-88e4-40ab-a296-fcf7d82b1c9a",
+  "file_id": 29,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a18_appraisal.pdf",
+  "original_file_name": "갑18호증_부동산감정평가서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 20,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    13,
+    14,
+    15
+  ],
+  "chunk_number": 7,
+  "paragraph_texts": [
+    "[13페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+    "기준시점: 2024년 6월 1일",
+    "[14페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+    "기준시점: 2024년 6월 1일",
+    "[15페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+    "기준시점: 2024년 6월 1일"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-029-007-000-0",
+        "idx_in_page": 0,
+        "text": "[13페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "page": 13,
+        "bbox": {
+          "x": 212.01,
+          "y": 93.6,
+          "width": 1263.21,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-029-007-000-1",
+        "idx_in_page": 1,
+        "text": "기준시점: 2024년 6월 1일",
+        "page": 13,
+        "bbox": {
+          "x": 215.1,
+          "y": 1192.78,
+          "width": 1283.86,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-029-007-001-0",
+        "idx_in_page": 0,
+        "text": "[14페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "page": 14,
+        "bbox": {
+          "x": 186.43,
+          "y": 102.98,
+          "width": 1286.34,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-029-007-001-1",
+        "idx_in_page": 1,
+        "text": "기준시점: 2024년 6월 1일",
+        "page": 14,
+        "bbox": {
+          "x": 216.85,
+          "y": 1186.21,
+          "width": 1324.63,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-029-007-002-0",
+        "idx_in_page": 0,
+        "text": "[15페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "page": 15,
+        "bbox": {
+          "x": 193.06,
+          "y": 94.95,
+          "width": 1322.93,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-029-007-002-1",
+        "idx_in_page": 1,
+        "text": "기준시점: 2024년 6월 1일",
+        "page": 15,
+        "bbox": {
+          "x": 187.51,
+          "y": 1198.2,
+          "width": 1288.56,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 13,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 14,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 15,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-08T00:00:00+00:00"
+}

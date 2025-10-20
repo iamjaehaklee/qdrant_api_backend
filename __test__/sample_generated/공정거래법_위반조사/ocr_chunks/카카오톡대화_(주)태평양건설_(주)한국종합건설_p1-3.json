@@ -1,0 +1,176 @@
+{
+  "chunk_id": "72d873f6-5f57-461c-93a3-dbec82ebebaa",
+  "file_id": 52,
+  "project_id": 3001,
+  "storage_file_name": "ccda50dc-0b83-4656-b895-def9deb7e37b-1760885381856.pdf",
+  "original_file_name": "카카오톡대화_(주)태평양건설_(주)한국종합건설.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 15,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "10일~15일, 총 47건 메시지). 주요 대화 내용: '이번 건 우리가 가져가는 걸로 하죠', '예정가 95%",
+    "카카오톡 대화 내용 (2024년 1월 10일~15일, 총 47건 메시지). 주요 대화 내용: '이번 건 우리가",
+    "내용: '이번 건 우리가 가져가는 걸로 하죠', '예정가 95% 선에서 맞추면 될 것 같습니다', '다음",
+    "대화 내용: '이번 건 우리가 가져가는 걸로 하죠', '예정가 95% 선에서 맞추면 될 것 같습니다',",
+    "카카오톡 대화 내용 (2024년 1월 10일~15일, 총 47건 메시지). 주요 대화 내용: '이번 건 우리가",
+    "이민호 이사 간 카카오톡 대화 내용 (2024년 1월 10일~15일, 총 47건 메시지). 주요 대화 내용:",
+    "카카오톡 대화 내용 (2024년 1월 10일~15일, 총 47건 메시지). 주요 대화 내용: '이번 건 우리가",
+    "가져가는 걸로 하죠', '예정가 95% 선에서 맞추면 될 것 같습니다', '다음 물량은 귀사 차례니까요'. 입찰가격",
+    "'예정가 95% 선에서 맞추면 될 것 같습니다', '다음 물량은 귀사 차례니까요'. 입찰가격 사전 협의와 물량배분,"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "c45028bf-038b-4ea3-965c-d7bfff3b4415",
+        "idx_in_page": 0,
+        "text": "10일~15일, 총 47건 메시지). 주요 대화 내용: '이번 건 우리가 가져가는 걸로 하죠', '예정가 95%",
+        "page": 1,
+        "bbox": {
+          "x": 190.0,
+          "y": 331.0,
+          "width": 1279.0,
+          "height": 179.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "99baa2d7-7b6c-41a3-8b06-599d59de2a5d",
+        "idx_in_page": 1,
+        "text": "카카오톡 대화 내용 (2024년 1월 10일~15일, 총 47건 메시지). 주요 대화 내용: '이번 건 우리가",
+        "page": 1,
+        "bbox": {
+          "x": 183.0,
+          "y": 945.0,
+          "width": 1298.0,
+          "height": 395.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "30fcb005-47da-4869-b3b4-c59af37b9e81",
+        "idx_in_page": 2,
+        "text": "내용: '이번 건 우리가 가져가는 걸로 하죠', '예정가 95% 선에서 맞추면 될 것 같습니다', '다음",
+        "page": 1,
+        "bbox": {
+          "x": 180.0,
+          "y": 1568.0,
+          "width": 1281.0,
+          "height": 396.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "11f766c0-0fe0-4450-80fc-2783f7977cff",
+        "idx_in_page": 0,
+        "text": "대화 내용: '이번 건 우리가 가져가는 걸로 하죠', '예정가 95% 선에서 맞추면 될 것 같습니다',",
+        "page": 2,
+        "bbox": {
+          "x": 192.0,
+          "y": 383.0,
+          "width": 1257.0,
+          "height": 373.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "eeac858d-e625-4438-ae00-61922bdaec97",
+        "idx_in_page": 1,
+        "text": "카카오톡 대화 내용 (2024년 1월 10일~15일, 총 47건 메시지). 주요 대화 내용: '이번 건 우리가",
+        "page": 2,
+        "bbox": {
+          "x": 181.0,
+          "y": 955.0,
+          "width": 1219.0,
+          "height": 349.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "88f7bc49-64e4-4151-a4d3-9f78f21a62a9",
+        "idx_in_page": 2,
+        "text": "이민호 이사 간 카카오톡 대화 내용 (2024년 1월 10일~15일, 총 47건 메시지). 주요 대화 내용:",
+        "page": 2,
+        "bbox": {
+          "x": 195.0,
+          "y": 1581.0,
+          "width": 1237.0,
+          "height": 227.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "b66f8f88-c3b0-406b-b526-3e621a11da38",
+        "idx_in_page": 0,
+        "text": "카카오톡 대화 내용 (2024년 1월 10일~15일, 총 47건 메시지). 주요 대화 내용: '이번 건 우리가",
+        "page": 3,
+        "bbox": {
+          "x": 194.0,
+          "y": 233.0,
+          "width": 1263.0,
+          "height": 283.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "9fba1992-ef25-49bf-b2c6-97f81fcfd461",
+        "idx_in_page": 1,
+        "text": "가져가는 걸로 하죠', '예정가 95% 선에서 맞추면 될 것 같습니다', '다음 물량은 귀사 차례니까요'. 입찰가격",
+        "page": 3,
+        "bbox": {
+          "x": 185.0,
+          "y": 826.0,
+          "width": 1241.0,
+          "height": 176.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "d1bf47a4-6eb0-405a-a7be-5ac91187b15d",
+        "idx_in_page": 2,
+        "text": "'예정가 95% 선에서 맞추면 될 것 같습니다', '다음 물량은 귀사 차례니까요'. 입찰가격 사전 협의와 물량배분,",
+        "page": 3,
+        "bbox": {
+          "x": 192.0,
+          "y": 1466.0,
+          "width": 1297.0,
+          "height": 290.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.856066+00:00"
+}

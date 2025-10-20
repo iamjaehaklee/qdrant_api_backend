@@ -1,0 +1,146 @@
+{
+  "chunk_id": "0e10d989-08bb-4a65-bb1f-7636ea3519a2",
+  "file_id": 37,
+  "project_id": 3001,
+  "storage_file_name": "0520ff0a-02e8-4459-b446-1b6c3ccedaf0-1760885381827.pdf",
+  "original_file_name": "이메일_(주)대한건설산업_회람.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 7,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "chunk_number": 2,
+  "paragraph_texts": [
+    "회람 이메일. 발신: 영업본부장, 수신: 영업팀 전체. 발신일 2024년 2월 15일. 제목: '입찰 주의사항 -",
+    "타사와 협의된 가격을 반드시 준수할 것. 독자적으로 가격을 내려 입찰하는 행위는 절대 금지함. 이를 위반할",
+    "15일. 제목: '입찰 주의사항 - 필독'. 본문: '각 담당자는 타사와 협의된 가격을 반드시 준수할 것.",
+    "2024년 2월 15일. 제목: '입찰 주의사항 - 필독'. 본문: '각 담당자는 타사와 협의된 가격을 반드시",
+    "15일. 제목: '입찰 주의사항 - 필독'. 본문: '각 담당자는 타사와 협의된 가격을 반드시 준수할 것.",
+    "영업본부장, 수신: 영업팀 전체. 발신일 2024년 2월 15일. 제목: '입찰 주의사항 - 필독'. 본문: '각",
+    "내려 입찰하는 행위는 절대 금지함. 이를 위반할 경우 인사상 불이익이 있을 수 있음.' 회사 차원에서"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "963b0980-185d-4674-938c-8e51a5e12bd2",
+        "idx_in_page": 0,
+        "text": "회람 이메일. 발신: 영업본부장, 수신: 영업팀 전체. 발신일 2024년 2월 15일. 제목: '입찰 주의사항 -",
+        "page": 3,
+        "bbox": {
+          "x": 198.0,
+          "y": 349.0,
+          "width": 1274.0,
+          "height": 341.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "672e69b1-82cf-40ad-a7b9-8ac68c1be6eb",
+        "idx_in_page": 1,
+        "text": "타사와 협의된 가격을 반드시 준수할 것. 독자적으로 가격을 내려 입찰하는 행위는 절대 금지함. 이를 위반할",
+        "page": 3,
+        "bbox": {
+          "x": 197.0,
+          "y": 850.0,
+          "width": 1297.0,
+          "height": 381.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "eb2c7f7a-746d-4b35-8659-2189f48fdd39",
+        "idx_in_page": 0,
+        "text": "15일. 제목: '입찰 주의사항 - 필독'. 본문: '각 담당자는 타사와 협의된 가격을 반드시 준수할 것.",
+        "page": 4,
+        "bbox": {
+          "x": 198.0,
+          "y": 374.0,
+          "width": 1227.0,
+          "height": 263.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "dd25f7a0-7c26-4c0d-8ada-6edc0ba29b0a",
+        "idx_in_page": 1,
+        "text": "2024년 2월 15일. 제목: '입찰 주의사항 - 필독'. 본문: '각 담당자는 타사와 협의된 가격을 반드시",
+        "page": 4,
+        "bbox": {
+          "x": 199.0,
+          "y": 933.0,
+          "width": 1242.0,
+          "height": 340.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "4efd3950-0778-49ee-99d9-5209f8b9d5f3",
+        "idx_in_page": 0,
+        "text": "15일. 제목: '입찰 주의사항 - 필독'. 본문: '각 담당자는 타사와 협의된 가격을 반드시 준수할 것.",
+        "page": 5,
+        "bbox": {
+          "x": 197.0,
+          "y": 332.0,
+          "width": 1277.0,
+          "height": 313.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "9110b10c-763c-43b2-ade9-dee439d17457",
+        "idx_in_page": 1,
+        "text": "영업본부장, 수신: 영업팀 전체. 발신일 2024년 2월 15일. 제목: '입찰 주의사항 - 필독'. 본문: '각",
+        "page": 5,
+        "bbox": {
+          "x": 195.0,
+          "y": 805.0,
+          "width": 1224.0,
+          "height": 312.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "44b26aba-8345-4a64-b883-34fcd044d968",
+        "idx_in_page": 2,
+        "text": "내려 입찰하는 행위는 절대 금지함. 이를 위반할 경우 인사상 불이익이 있을 수 있음.' 회사 차원에서",
+        "page": 5,
+        "bbox": {
+          "x": 187.0,
+          "y": 1592.0,
+          "width": 1226.0,
+          "height": 229.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 4,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.827541+00:00"
+}

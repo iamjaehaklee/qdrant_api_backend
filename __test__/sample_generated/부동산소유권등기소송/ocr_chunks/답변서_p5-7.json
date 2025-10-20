@@ -1,0 +1,131 @@
+{
+  "chunk_id": "90c38cc0-0d6c-4f54-ad83-107d8696060b",
+  "file_id": 2,
+  "project_id": 1001,
+  "storage_file_name": "answer_document_202408_original.pdf",
+  "original_file_name": "답변서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 10,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "chunk_number": 3,
+  "paragraph_texts": [
+    "[5페이지] 피고는 원고의 청구를 다음과 같은 이유로 다툽니다. 원고가 주장하는 매매계약에는 보충합의서상 특약사항이 있었으나 원고가 이를 이행하지 않았습니다.",
+    "따라서 원고의 청구는 이유 없으므로 기각되어야 합니다.",
+    "[6페이지] 피고는 원고의 청구를 다음과 같은 이유로 다툽니다. 원고가 주장하는 매매계약에는 보충합의서상 특약사항이 있었으나 원고가 이를 이행하지 않았습니다.",
+    "따라서 원고의 청구는 이유 없으므로 기각되어야 합니다.",
+    "[7페이지] 피고는 원고의 청구를 다음과 같은 이유로 다툽니다. 원고가 주장하는 매매계약에는 보충합의서상 특약사항이 있었으나 원고가 이를 이행하지 않았습니다.",
+    "따라서 원고의 청구는 이유 없으므로 기각되어야 합니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-002-003-000-0",
+        "idx_in_page": 0,
+        "text": "[5페이지] 피고는 원고의 청구를 다음과 같은 이유로 다툽니다. 원고가 주장하는 매매계약에는 보충합의서상 특약사항이 있었으나 원고가 이를 이행하지 않았습니다.",
+        "page": 5,
+        "bbox": {
+          "x": 216.94,
+          "y": 104.81,
+          "width": 1266.53,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-002-003-000-1",
+        "idx_in_page": 1,
+        "text": "따라서 원고의 청구는 이유 없으므로 기각되어야 합니다.",
+        "page": 5,
+        "bbox": {
+          "x": 208.35,
+          "y": 1190.0,
+          "width": 1259.12,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-002-003-001-0",
+        "idx_in_page": 0,
+        "text": "[6페이지] 피고는 원고의 청구를 다음과 같은 이유로 다툽니다. 원고가 주장하는 매매계약에는 보충합의서상 특약사항이 있었으나 원고가 이를 이행하지 않았습니다.",
+        "page": 6,
+        "bbox": {
+          "x": 194.9,
+          "y": 109.31,
+          "width": 1306.75,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-002-003-001-1",
+        "idx_in_page": 1,
+        "text": "따라서 원고의 청구는 이유 없으므로 기각되어야 합니다.",
+        "page": 6,
+        "bbox": {
+          "x": 211.52,
+          "y": 1191.91,
+          "width": 1326.93,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-002-003-002-0",
+        "idx_in_page": 0,
+        "text": "[7페이지] 피고는 원고의 청구를 다음과 같은 이유로 다툽니다. 원고가 주장하는 매매계약에는 보충합의서상 특약사항이 있었으나 원고가 이를 이행하지 않았습니다.",
+        "page": 7,
+        "bbox": {
+          "x": 189.74,
+          "y": 92.17,
+          "width": 1321.79,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-002-003-002-1",
+        "idx_in_page": 1,
+        "text": "따라서 원고의 청구는 이유 없으므로 기각되어야 합니다.",
+        "page": 7,
+        "bbox": {
+          "x": 207.69,
+          "y": 1185.69,
+          "width": 1243.59,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 6,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-04T00:00:00+00:00"
+}

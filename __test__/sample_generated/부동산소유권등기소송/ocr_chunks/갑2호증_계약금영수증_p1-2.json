@@ -1,0 +1,215 @@
+{
+  "chunk_id": "64006963-8fd2-4294-8240-285e38f8de90",
+  "file_id": 13,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a2_deposit_receipt.pdf",
+  "original_file_name": "갑2호증_계약금영수증.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 2,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "영수증",
+    "수령인: 이영희 (주민등록번호: 650215-2******)\n주소: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+    "지급인: 김철수 (주민등록번호: 820307-1******)\n주소: 서울특별시 서초구 반포대로 45, 101동 202호",
+    "수령금액: 금 50,000,000원 (금 오천만원정)",
+    "수령일자: 2024년 3월 15일",
+    "수령내역",
+    "상기 금액은 아래 부동산 매매계약의 계약금으로 정히 수령하였음을 확인합니다.",
+    "부동산의 표시\n소재지: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호\n구조: 철근콘크리트조\n용도: 아파트\n전용면적: 84.5㎡\n공용면적: 32.1㎡",
+    "수령방법: 국민은행 계좌이체 (계좌번호: 123-45-678901, 예금주: 이영희)\n이체일시: 2024년 3월 15일 14:23:15",
+    "비고: 본 영수증은 부동산 매매계약서(2024년 3월 15일자)에 명시된 계약금 지급을 증명하는 서류임.",
+    "2024년 3월 15일",
+    "수령인: 이영희 (인)\n주소: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호\n연락처: 010-1234-5678"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-013-001-000",
+        "idx_in_page": 0,
+        "text": "영수증",
+        "page": 1,
+        "bbox": {
+          "x": 720.5,
+          "y": 180.3,
+          "width": 240.2,
+          "height": 72.8
+        },
+        "type": "title",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-013-001-001",
+        "idx_in_page": 1,
+        "text": "수령인: 이영희 (주민등록번호: 650215-2******)\n주소: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "page": 1,
+        "bbox": {
+          "x": 210.5,
+          "y": 320.8,
+          "width": 1260.3,
+          "height": 95.2
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-013-001-002",
+        "idx_in_page": 2,
+        "text": "지급인: 김철수 (주민등록번호: 820307-1******)\n주소: 서울특별시 서초구 반포대로 45, 101동 202호",
+        "page": 1,
+        "bbox": {
+          "x": 210.5,
+          "y": 450.2,
+          "width": 1260.3,
+          "height": 95.2
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-013-001-003",
+        "idx_in_page": 3,
+        "text": "수령금액: 금 50,000,000원 (금 오천만원정)",
+        "page": 1,
+        "bbox": {
+          "x": 210.5,
+          "y": 580.5,
+          "width": 1260.3,
+          "height": 65.5
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-013-001-004",
+        "idx_in_page": 4,
+        "text": "수령일자: 2024년 3월 15일",
+        "page": 1,
+        "bbox": {
+          "x": 210.5,
+          "y": 680.3,
+          "width": 1260.3,
+          "height": 58.2
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-013-001-005",
+        "idx_in_page": 5,
+        "text": "수령내역",
+        "page": 1,
+        "bbox": {
+          "x": 210.5,
+          "y": 790.8,
+          "width": 320.5,
+          "height": 58.2
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-013-001-006",
+        "idx_in_page": 6,
+        "text": "상기 금액은 아래 부동산 매매계약의 계약금으로 정히 수령하였음을 확인합니다.",
+        "page": 1,
+        "bbox": {
+          "x": 210.5,
+          "y": 880.5,
+          "width": 1260.3,
+          "height": 58.2
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-013-001-007",
+        "idx_in_page": 7,
+        "text": "부동산의 표시\n소재지: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호\n구조: 철근콘크리트조\n용도: 아파트\n전용면적: 84.5㎡\n공용면적: 32.1㎡",
+        "page": 1,
+        "bbox": {
+          "x": 210.5,
+          "y": 970.8,
+          "width": 1260.3,
+          "height": 280.5
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-013-001-008",
+        "idx_in_page": 8,
+        "text": "수령방법: 국민은행 계좌이체 (계좌번호: 123-45-678901, 예금주: 이영희)\n이체일시: 2024년 3월 15일 14:23:15",
+        "page": 1,
+        "bbox": {
+          "x": 210.5,
+          "y": 1285.5,
+          "width": 1260.3,
+          "height": 95.2
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-013-001-009",
+        "idx_in_page": 9,
+        "text": "비고: 본 영수증은 부동산 매매계약서(2024년 3월 15일자)에 명시된 계약금 지급을 증명하는 서류임.",
+        "page": 1,
+        "bbox": {
+          "x": 210.5,
+          "y": 1415.8,
+          "width": 1260.3,
+          "height": 95.2
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-013-001-010",
+        "idx_in_page": 0,
+        "text": "2024년 3월 15일",
+        "page": 2,
+        "bbox": {
+          "x": 210.5,
+          "y": 150.3,
+          "width": 480.2,
+          "height": 58.2
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-013-001-011",
+        "idx_in_page": 1,
+        "text": "수령인: 이영희 (인)\n주소: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호\n연락처: 010-1234-5678",
+        "page": 2,
+        "bbox": {
+          "x": 210.5,
+          "y": 250.8,
+          "width": 1260.3,
+          "height": 145.5
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-02T00:00:00+00:00"
+}

@@ -1,0 +1,146 @@
+{
+  "chunk_id": "4f19e529-5e7f-47ac-9cb6-af1e493f0a3c",
+  "file_id": 52,
+  "project_id": 3001,
+  "storage_file_name": "f29d000c-d16d-434c-8873-6aa5d0630832-1760885381856.pdf",
+  "original_file_name": "카카오톡대화_(주)태평양건설_(주)한국종합건설.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 15,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "chunk_number": 3,
+  "paragraph_texts": [
+    "간 카카오톡 대화 내용 (2024년 1월 10일~15일, 총 47건 메시지). 주요 대화 내용: '이번 건",
+    "될 것 같습니다', '다음 물량은 귀사 차례니까요'. 입찰가격 사전 협의와 물량배분, 순번제 운영을 명확히 보여주는",
+    "10일~15일, 총 47건 메시지). 주요 대화 내용: '이번 건 우리가 가져가는 걸로 하죠', '예정가 95%",
+    "메시지). 주요 대화 내용: '이번 건 우리가 가져가는 걸로 하죠', '예정가 95% 선에서 맞추면 될",
+    "건 우리가 가져가는 걸로 하죠', '예정가 95% 선에서 맞추면 될 것 같습니다', '다음 물량은 귀사",
+    "47건 메시지). 주요 대화 내용: '이번 건 우리가 가져가는 걸로 하죠', '예정가 95% 선에서 맞추면",
+    "카카오톡 대화 내용 (2024년 1월 10일~15일, 총 47건 메시지). 주요 대화 내용: '이번 건 우리가"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "78c1eed7-fd4a-40b3-853b-c839b8454d4f",
+        "idx_in_page": 0,
+        "text": "간 카카오톡 대화 내용 (2024년 1월 10일~15일, 총 47건 메시지). 주요 대화 내용: '이번 건",
+        "page": 5,
+        "bbox": {
+          "x": 199.0,
+          "y": 362.0,
+          "width": 1221.0,
+          "height": 375.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "35afb31b-0390-4cd9-a3cc-297841cb253d",
+        "idx_in_page": 1,
+        "text": "될 것 같습니다', '다음 물량은 귀사 차례니까요'. 입찰가격 사전 협의와 물량배분, 순번제 운영을 명확히 보여주는",
+        "page": 5,
+        "bbox": {
+          "x": 180.0,
+          "y": 859.0,
+          "width": 1291.0,
+          "height": 210.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "f664adb0-0411-4bca-956e-f412c72e6707",
+        "idx_in_page": 2,
+        "text": "10일~15일, 총 47건 메시지). 주요 대화 내용: '이번 건 우리가 가져가는 걸로 하죠', '예정가 95%",
+        "page": 5,
+        "bbox": {
+          "x": 198.0,
+          "y": 1516.0,
+          "width": 1268.0,
+          "height": 347.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "cc2c3bf8-332b-4299-9428-f70a7055b66f",
+        "idx_in_page": 0,
+        "text": "메시지). 주요 대화 내용: '이번 건 우리가 가져가는 걸로 하죠', '예정가 95% 선에서 맞추면 될",
+        "page": 6,
+        "bbox": {
+          "x": 192.0,
+          "y": 393.0,
+          "width": 1213.0,
+          "height": 172.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "7c18278f-fec5-4fa1-beb4-085697d3b934",
+        "idx_in_page": 1,
+        "text": "건 우리가 가져가는 걸로 하죠', '예정가 95% 선에서 맞추면 될 것 같습니다', '다음 물량은 귀사",
+        "page": 6,
+        "bbox": {
+          "x": 188.0,
+          "y": 903.0,
+          "width": 1256.0,
+          "height": 344.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "f0947582-8346-448e-b2b5-6d20ca6bb3d4",
+        "idx_in_page": 0,
+        "text": "47건 메시지). 주요 대화 내용: '이번 건 우리가 가져가는 걸로 하죠', '예정가 95% 선에서 맞추면",
+        "page": 7,
+        "bbox": {
+          "x": 188.0,
+          "y": 296.0,
+          "width": 1201.0,
+          "height": 282.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "7bef7ce7-f594-4a8d-8dbb-aeb0c745e1df",
+        "idx_in_page": 1,
+        "text": "카카오톡 대화 내용 (2024년 1월 10일~15일, 총 47건 메시지). 주요 대화 내용: '이번 건 우리가",
+        "page": 7,
+        "bbox": {
+          "x": 187.0,
+          "y": 909.0,
+          "width": 1294.0,
+          "height": 202.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 6,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.856611+00:00"
+}

@@ -1,0 +1,95 @@
+{
+  "chunk_id": "07517493-d293-476a-a68e-c9dcda99578d",
+  "file_id": 27,
+  "project_id": 3001,
+  "storage_file_name": "fa396f6d-7b3b-4bce-af9c-20e7730ff12e-1760885381813.pdf",
+  "original_file_name": "녹취록_비공식_회의_1차.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 8,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    7,
+    8
+  ],
+  "chunk_number": 4,
+  "paragraph_texts": [
+    "'(주)태평양건설이 이번 건을 가져가고, 다음 인천공항 건은 (주)한국종합건설이 하는 게 어떻겠나', '가격은 최소 95% 이상은",
+    "하는 게 어떻겠나', '가격은 최소 95% 이상은 유지해야 한다', '너무 낮게 부르면 다 같이 망한다'.",
+    "강남구 소재 한식당). 참석자: 4개 건설사 임원급 6명. 회의 시간 2시간 15분. 주요 내용: 서울시",
+    "연장공사 입찰 물량 배분 논의. '(주)태평양건설이 이번 건을 가져가고, 다음 인천공항 건은 (주)한국종합건설이 하는 게"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "5bb67871-aaa1-47c7-a023-34ac9a02bde0",
+        "idx_in_page": 0,
+        "text": "'(주)태평양건설이 이번 건을 가져가고, 다음 인천공항 건은 (주)한국종합건설이 하는 게 어떻겠나', '가격은 최소 95% 이상은",
+        "page": 7,
+        "bbox": {
+          "x": 180.0,
+          "y": 353.0,
+          "width": 1232.0,
+          "height": 203.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "f6844953-da39-422f-a0e2-a8249b63e89b",
+        "idx_in_page": 1,
+        "text": "하는 게 어떻겠나', '가격은 최소 95% 이상은 유지해야 한다', '너무 낮게 부르면 다 같이 망한다'.",
+        "page": 7,
+        "bbox": {
+          "x": 188.0,
+          "y": 937.0,
+          "width": 1210.0,
+          "height": 290.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "8b2dd790-2ac8-4424-9480-1fa00e884e58",
+        "idx_in_page": 0,
+        "text": "강남구 소재 한식당). 참석자: 4개 건설사 임원급 6명. 회의 시간 2시간 15분. 주요 내용: 서울시",
+        "page": 8,
+        "bbox": {
+          "x": 193.0,
+          "y": 214.0,
+          "width": 1289.0,
+          "height": 232.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "49de6039-deb8-4c57-8f3a-ecbf02d983bc",
+        "idx_in_page": 1,
+        "text": "연장공사 입찰 물량 배분 논의. '(주)태평양건설이 이번 건을 가져가고, 다음 인천공항 건은 (주)한국종합건설이 하는 게",
+        "page": 8,
+        "bbox": {
+          "x": 195.0,
+          "y": 881.0,
+          "width": 1275.0,
+          "height": 353.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 8,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.813493+00:00"
+}

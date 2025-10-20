@@ -1,0 +1,17 @@
+fastapi==0.119.0
+uvicorn[standard]==0.37.0
+qdrant-client==1.15.1
+google-genai==1.24.0
+pydantic==2.12.2
+pydantic-settings==2.11.0
+python-dotenv==1.1.1
+
+# Sparse embedding dependencies (updated 2025-10)
+kiwipiepy==0.21.0      # Korean morphological analyzer
+fastembed==0.5.0       # BM25 sparse embeddings for non-Korean text
+numpy==2.3.4           # Numerical operations
+
+# Testing dependencies
+pytest==8.3.4
+httpx==0.28.1          # FastAPI test client
+tqdm==4.67.1           # Progress bar for migration scripts

@@ -1,0 +1,146 @@
+{
+  "chunk_id": "897efffd-90ff-4dab-85dc-5d47e471837d",
+  "file_id": 38,
+  "project_id": 3001,
+  "storage_file_name": "1d607ad9-465a-46e7-bb78-cc318be1caa3-1760885381829.pdf",
+  "original_file_name": "이메일_(주)태평양건설_to_(주)서울엔지니어링.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 16,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    11,
+    12,
+    13
+  ],
+  "chunk_number": 6,
+  "paragraph_texts": [
+    "우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰 전 가격 담합을",
+    "관련 협의'. 본문: '어제 회의에서 논의한 대로 첨부파일 견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로",
+    "부장 ((주)태평양건설)가 윤동현 상무 ((주)서울엔지니어링)에게 발송한 이메일 (2024년 2월 5일). 제목: '견적 관련 협의'. 본문:",
+    "'어제 회의에서 논의한 대로 첨부파일 견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것",
+    "5일). 제목: '견적 관련 협의'. 본문: '어제 회의에서 논의한 대로 첨부파일 견적서를 보내드립니다. 우리 쪽",
+    "발송한 이메일 (2024년 2월 5일). 제목: '견적 관련 협의'. 본문: '어제 회의에서 논의한 대로 첨부파일",
+    "보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰 전 가격"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "5aeca976-6d85-471c-a924-ec818cce7131",
+        "idx_in_page": 0,
+        "text": "우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰 전 가격 담합을",
+        "page": 11,
+        "bbox": {
+          "x": 183.0,
+          "y": 367.0,
+          "width": 1240.0,
+          "height": 173.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "f8f1f410-2df3-4cf5-a21e-2a81645cc803",
+        "idx_in_page": 1,
+        "text": "관련 협의'. 본문: '어제 회의에서 논의한 대로 첨부파일 견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로",
+        "page": 11,
+        "bbox": {
+          "x": 181.0,
+          "y": 884.0,
+          "width": 1218.0,
+          "height": 175.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "adfc4559-f0ab-49e4-acb8-346cc7db1f9f",
+        "idx_in_page": 0,
+        "text": "부장 ((주)태평양건설)가 윤동현 상무 ((주)서울엔지니어링)에게 발송한 이메일 (2024년 2월 5일). 제목: '견적 관련 협의'. 본문:",
+        "page": 12,
+        "bbox": {
+          "x": 197.0,
+          "y": 290.0,
+          "width": 1218.0,
+          "height": 329.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "f9a60db5-0fd8-4e2b-99db-af52dfb482d3",
+        "idx_in_page": 1,
+        "text": "'어제 회의에서 논의한 대로 첨부파일 견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것",
+        "page": 12,
+        "bbox": {
+          "x": 184.0,
+          "y": 844.0,
+          "width": 1250.0,
+          "height": 333.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "50b0cab3-26a2-49a1-bccc-d0fa5defefaa",
+        "idx_in_page": 0,
+        "text": "5일). 제목: '견적 관련 협의'. 본문: '어제 회의에서 논의한 대로 첨부파일 견적서를 보내드립니다. 우리 쪽",
+        "page": 13,
+        "bbox": {
+          "x": 192.0,
+          "y": 223.0,
+          "width": 1223.0,
+          "height": 199.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "17a2d95b-7d0f-4556-af5a-7f1600caf20a",
+        "idx_in_page": 1,
+        "text": "발송한 이메일 (2024년 2월 5일). 제목: '견적 관련 협의'. 본문: '어제 회의에서 논의한 대로 첨부파일",
+        "page": 13,
+        "bbox": {
+          "x": 199.0,
+          "y": 880.0,
+          "width": 1224.0,
+          "height": 219.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "21b54788-71ca-4fc0-8f4d-9decdda59bf1",
+        "idx_in_page": 2,
+        "text": "보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰 전 가격",
+        "page": 13,
+        "bbox": {
+          "x": 192.0,
+          "y": 1529.0,
+          "width": 1299.0,
+          "height": 315.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 12,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 13,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.829860+00:00"
+}

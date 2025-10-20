@@ -1,0 +1,416 @@
+{
+  "chunk_id": "c6584b83-bdee-484a-84d7-30a8819bad74",
+  "file_id": 14,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a3_interim1_receipt.pdf",
+  "original_file_name": "갑3호증_중도금1차영수증.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 5,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "chunk_number": 2,
+  "paragraph_texts": [
+    "3. 매도인은 잔금 수령 시까지 목적물을 현 상태로 유지·관리한다.",
+    "상기 금액을 정히 수령하였음을 확인하며, 본 영수증을 발행합니다.",
+    "2024년 4월 15일",
+    "매도인 이영희 (인)",
+    "원고 제출 경위",
+    "본 영수증은 2024년 4월 15일 원고가 피고에게 중도금 제1차 대금을 지급한 당일, 피고 이영희로부터 우편으로 수령한 것입니다.",
+    "원고는 해당 영수증 원본을 보관하고 있으며, 이를 증거자료로 제출합니다.",
+    "영수증 수령 확인",
+    "원고는 2024년 4월 16일 오전 피고로부터 등기우편으로 본 영수증을 수령하였습니다.",
+    "우편 송장번호: 1234-5678-9012",
+    "발송인: 이영희 (서울특별시 강남구 테헤란로 123)",
+    "수신인: 김철수 (서울특별시 서초구 반포대로 45)",
+    "참고사항",
+    "본 영수증 발행 당시 피고는 중도금 1차 대금 수령을 확인하였으며, 별다른 이의를 제기하지 않았습니다.",
+    "특약사항에 명시된 바와 같이, 중도금 및 잔금 지급 시 영수증을 발급하기로 합의하였습니다.",
+    "피고는 2024년 5월 15일 중도금 2차 대금 수령 시에도 동일한 방식으로 영수증을 발급하였습니다.",
+    "첨부 자료",
+    "1. 국민은행 계좌이체 확인증 (2024.04.15)",
+    "2. 등기우편 송장 사본",
+    "3. 부동산 매매계약서 원본 (2024.03.01)",
+    "위 자료를 함께 제출하오니, 재판부의 현명한 판단을 부탁드립니다.",
+    "소송대리인",
+    "법무법인 정의",
+    "담당변호사 박정의 (인)",
+    "이 문서는 갑3호증으로 제출되는 중도금 1차 영수증의 사본입니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-014-002-000-0",
+        "idx_in_page": 0,
+        "text": "3. 매도인은 잔금 수령 시까지 목적물을 현 상태로 유지·관리한다.",
+        "page": 3,
+        "bbox": {
+          "x": 215.25,
+          "y": 783.34,
+          "width": 1045.89,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-014-002-000-1",
+        "idx_in_page": 1,
+        "text": "상기 금액을 정히 수령하였음을 확인하며, 본 영수증을 발행합니다.",
+        "page": 3,
+        "bbox": {
+          "x": 182.53,
+          "y": 900.74,
+          "width": 1125.23,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-014-002-000-2",
+        "idx_in_page": 2,
+        "text": "2024년 4월 15일",
+        "page": 3,
+        "bbox": {
+          "x": 682.53,
+          "y": 1100.28,
+          "width": 315.67,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-014-002-000-3",
+        "idx_in_page": 3,
+        "text": "매도인 이영희 (인)",
+        "page": 3,
+        "bbox": {
+          "x": 682.53,
+          "y": 1300.49,
+          "width": 315.6,
+          "height": 55
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-014-002-001-0",
+        "idx_in_page": 0,
+        "text": "원고 제출 경위",
+        "page": 4,
+        "bbox": {
+          "x": 182.53,
+          "y": 120.5,
+          "width": 285.9,
+          "height": 52
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-014-002-001-1",
+        "idx_in_page": 1,
+        "text": "본 영수증은 2024년 4월 15일 원고가 피고에게 중도금 제1차 대금을 지급한 당일, 피고 이영희로부터 우편으로 수령한 것입니다.",
+        "page": 4,
+        "bbox": {
+          "x": 182.53,
+          "y": 195.81,
+          "width": 1329.45,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-014-002-001-2",
+        "idx_in_page": 2,
+        "text": "원고는 해당 영수증 원본을 보관하고 있으며, 이를 증거자료로 제출합니다.",
+        "page": 4,
+        "bbox": {
+          "x": 182.53,
+          "y": 256.12,
+          "width": 1125.67,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-014-002-001-3",
+        "idx_in_page": 3,
+        "text": "영수증 수령 확인",
+        "page": 4,
+        "bbox": {
+          "x": 182.53,
+          "y": 350.66,
+          "width": 305.55,
+          "height": 52
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-014-002-001-4",
+        "idx_in_page": 4,
+        "text": "원고는 2024년 4월 16일 오전 피고로부터 등기우편으로 본 영수증을 수령하였습니다.",
+        "page": 4,
+        "bbox": {
+          "x": 182.53,
+          "y": 425.92,
+          "width": 1245.78,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-014-002-001-5",
+        "idx_in_page": 5,
+        "text": "우편 송장번호: 1234-5678-9012",
+        "page": 4,
+        "bbox": {
+          "x": 215.25,
+          "y": 486.23,
+          "width": 465.89,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-014-002-001-6",
+        "idx_in_page": 6,
+        "text": "발송인: 이영희 (서울특별시 강남구 테헤란로 123)",
+        "page": 4,
+        "bbox": {
+          "x": 215.25,
+          "y": 542.95,
+          "width": 745.67,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-014-002-001-7",
+        "idx_in_page": 7,
+        "text": "수신인: 김철수 (서울특별시 서초구 반포대로 45)",
+        "page": 4,
+        "bbox": {
+          "x": 215.25,
+          "y": 599.67,
+          "width": 725.89,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-014-002-001-8",
+        "idx_in_page": 8,
+        "text": "참고사항",
+        "page": 4,
+        "bbox": {
+          "x": 182.53,
+          "y": 698.18,
+          "width": 205.55,
+          "height": 52
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-014-002-001-9",
+        "idx_in_page": 9,
+        "text": "본 영수증 발행 당시 피고는 중도금 1차 대금 수령을 확인하였으며, 별다른 이의를 제기하지 않았습니다.",
+        "page": 4,
+        "bbox": {
+          "x": 182.53,
+          "y": 772.9,
+          "width": 1305.24,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-014-002-001-10",
+        "idx_in_page": 10,
+        "text": "특약사항에 명시된 바와 같이, 중도금 및 잔금 지급 시 영수증을 발급하기로 합의하였습니다.",
+        "page": 4,
+        "bbox": {
+          "x": 182.53,
+          "y": 833.31,
+          "width": 1285.67,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-014-002-001-11",
+        "idx_in_page": 11,
+        "text": "피고는 2024년 5월 15일 중도금 2차 대금 수령 시에도 동일한 방식으로 영수증을 발급하였습니다.",
+        "page": 4,
+        "bbox": {
+          "x": 182.53,
+          "y": 893.72,
+          "width": 1305.45,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-014-002-002-0",
+        "idx_in_page": 0,
+        "text": "첨부 자료",
+        "page": 5,
+        "bbox": {
+          "x": 182.53,
+          "y": 120.66,
+          "width": 205.55,
+          "height": 52
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-014-002-002-1",
+        "idx_in_page": 1,
+        "text": "1. 국민은행 계좌이체 확인증 (2024.04.15)",
+        "page": 5,
+        "bbox": {
+          "x": 215.25,
+          "y": 195.92,
+          "width": 685.23,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-014-002-002-2",
+        "idx_in_page": 2,
+        "text": "2. 등기우편 송장 사본",
+        "page": 5,
+        "bbox": {
+          "x": 215.25,
+          "y": 252.64,
+          "width": 365.78,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-014-002-002-3",
+        "idx_in_page": 3,
+        "text": "3. 부동산 매매계약서 원본 (2024.03.01)",
+        "page": 5,
+        "bbox": {
+          "x": 215.25,
+          "y": 309.36,
+          "width": 665.78,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-014-002-002-4",
+        "idx_in_page": 4,
+        "text": "위 자료를 함께 제출하오니, 재판부의 현명한 판단을 부탁드립니다.",
+        "page": 5,
+        "bbox": {
+          "x": 182.53,
+          "y": 395.18,
+          "width": 1065.34,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-014-002-002-5",
+        "idx_in_page": 5,
+        "text": "소송대리인",
+        "page": 5,
+        "bbox": {
+          "x": 1025.07,
+          "y": 850.92,
+          "width": 245.6,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-014-002-002-6",
+        "idx_in_page": 6,
+        "text": "법무법인 정의",
+        "page": 5,
+        "bbox": {
+          "x": 1025.07,
+          "y": 910.46,
+          "width": 285.6,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-014-002-002-7",
+        "idx_in_page": 7,
+        "text": "담당변호사 박정의 (인)",
+        "page": 5,
+        "bbox": {
+          "x": 1025.07,
+          "y": 970.0,
+          "width": 385.39,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-014-002-002-8",
+        "idx_in_page": 8,
+        "text": "이 문서는 갑3호증으로 제출되는 중도금 1차 영수증의 사본입니다.",
+        "page": 5,
+        "bbox": {
+          "x": 182.53,
+          "y": 2100.0,
+          "width": 1025.89,
+          "height": 42
+        },
+        "type": "footer",
+        "confidence_score": 0.91
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 4,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-03T00:00:00+00:00"
+}

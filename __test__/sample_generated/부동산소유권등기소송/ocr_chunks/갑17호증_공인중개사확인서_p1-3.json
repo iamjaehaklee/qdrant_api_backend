@@ -1,0 +1,131 @@
+{
+  "chunk_id": "45b7de0d-27d6-46e9-876a-155557f4bee4",
+  "file_id": 28,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a17_broker_confirmation.pdf",
+  "original_file_name": "갑17호증_공인중개사확인서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 6,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "[1페이지] 갑17호증_공인중개사확인서 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[2페이지] 갑17호증_공인중개사확인서 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[3페이지] 갑17호증_공인중개사확인서 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-028-001-000-0",
+        "idx_in_page": 0,
+        "text": "[1페이지] 갑17호증_공인중개사확인서 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 1,
+        "bbox": {
+          "x": 194.46,
+          "y": 100.03,
+          "width": 1301.93,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-028-001-000-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 1,
+        "bbox": {
+          "x": 183.7,
+          "y": 1193.27,
+          "width": 1231.59,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-028-001-001-0",
+        "idx_in_page": 0,
+        "text": "[2페이지] 갑17호증_공인중개사확인서 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 2,
+        "bbox": {
+          "x": 180.99,
+          "y": 94.22,
+          "width": 1268.47,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-028-001-001-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 2,
+        "bbox": {
+          "x": 209.09,
+          "y": 1183.4,
+          "width": 1309.87,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-028-001-002-0",
+        "idx_in_page": 0,
+        "text": "[3페이지] 갑17호증_공인중개사확인서 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 3,
+        "bbox": {
+          "x": 215.4,
+          "y": 91.58,
+          "width": 1305.07,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-028-001-002-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 3,
+        "bbox": {
+          "x": 218.13,
+          "y": 1182.05,
+          "width": 1328.75,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-02T00:00:00+00:00"
+}

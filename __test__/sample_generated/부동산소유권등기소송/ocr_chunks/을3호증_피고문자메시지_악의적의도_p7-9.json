@@ -1,0 +1,131 @@
+{
+  "chunk_id": "b9a390b6-b20b-4ae1-9dae-42041866db7b",
+  "file_id": 35,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_b3_defendant_messages.pdf",
+  "original_file_name": "을3호증_피고문자메시지_악의적의도.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 16,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    7,
+    8,
+    9
+  ],
+  "chunk_number": 4,
+  "paragraph_texts": [
+    "[7페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[8페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[9페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-035-004-000-0",
+        "idx_in_page": 0,
+        "text": "[7페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 7,
+        "bbox": {
+          "x": 209.34,
+          "y": 106.38,
+          "width": 1262.89,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-035-004-000-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 7,
+        "bbox": {
+          "x": 201.8,
+          "y": 1193.4,
+          "width": 1322.35,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-035-004-001-0",
+        "idx_in_page": 0,
+        "text": "[8페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 8,
+        "bbox": {
+          "x": 188.78,
+          "y": 93.63,
+          "width": 1327.9,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-035-004-001-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 8,
+        "bbox": {
+          "x": 192.79,
+          "y": 1195.57,
+          "width": 1262.31,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-035-004-002-0",
+        "idx_in_page": 0,
+        "text": "[9페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 9,
+        "bbox": {
+          "x": 187.34,
+          "y": 93.13,
+          "width": 1249.09,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-035-004-002-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 9,
+        "bbox": {
+          "x": 196.97,
+          "y": 1198.94,
+          "width": 1304.0,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 8,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-05T00:00:00+00:00"
+}

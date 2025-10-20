@@ -1,0 +1,386 @@
+{
+  "chunk_id": "9fcee5b9-161c-4ef1-a0d6-3335a990b382",
+  "file_id": 32,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a21_loan_agreement.pdf",
+  "original_file_name": "갑21호증_대출약정서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 11,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "chunk_number": 2,
+  "paragraph_texts": [
+    "층수: 18층 중 12층",
+    "제4조 (대출기간)",
+    "① 대출기간은 대출실행일로부터 30년(360개월)으로 한다.",
+    "② 대출기간 만료일: 최종 대출실행일로부터 30년이 되는 날",
+    "제5조 (대출금리)",
+    "① 대출금리는 연 3.5%(변동금리)로 한다.",
+    "② 금리는 3개월마다 신한은행 주택담보대출 기준금리에 연동하여 조정된다.",
+    "③ 기준금리 변동시 익월 이자납입일부터 변경된 금리가 적용된다.",
+    "④ 차주는 대출 실행 후 6개월 이내에 한하여 고정금리로의 전환을 신청할 수 있다.",
+    "제6조 (이자의 납입)",
+    "① 이자는 매월 10일 차주 명의 신한은행 계좌(110-123-456789)에서 자동이체로 납입한다.",
+    "② 잔액부족 등으로 자동이체가 불가능한 경우 차주는 납입일로부터 3일 이내에 직접 납입하여야 한다.",
+    "③ 납입일이 영업일이 아닌 경우 다음 영업일에 이체한다.",
+    "제7조 (원금의 상환)",
+    "① 대출원금의 상환은 원리금균등분할상환 방식으로 한다.",
+    "② 매월 원리금 상환액은 금 일백팔십만원정(₩1,800,000)이다.",
+    "③ 상환일은 매월 10일로 하며, 제6조와 동일한 계좌에서 이체한다.",
+    "④ 차주는 대출기관의 사전 동의를 얻어 중도상환 또는 일부상환을 할 수 있다.",
+    "⑤ 중도상환시 별도의 수수료는 부과하지 아니한다.",
+    "제8조 (기한의 이익 상실)",
+    "차주가 다음 각 호의 어느 하나에 해당하는 경우 대출기관의 별도 통지 없이 기한의 이익을 상실하고 즉시 원리금 전액을 변제하여야 한다.",
+    "① 원리금의 지급을 2회 이상 연속하여 지연한 경우",
+    "② 담보물에 대하여 제3자의 가압류, 가처분, 경매신청 등이 있는 경우"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-032-002-000-0",
+        "idx_in_page": 0,
+        "text": "층수: 18층 중 12층",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 430,
+          "width": 300,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-002-000-1",
+        "idx_in_page": 1,
+        "text": "제4조 (대출기간)",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 510,
+          "width": 320,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-002-000-2",
+        "idx_in_page": 2,
+        "text": "① 대출기간은 대출실행일로부터 30년(360개월)으로 한다.",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 550,
+          "width": 880,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-002-000-3",
+        "idx_in_page": 3,
+        "text": "② 대출기간 만료일: 최종 대출실행일로부터 30년이 되는 날",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 590,
+          "width": 920,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-032-002-001-0",
+        "idx_in_page": 0,
+        "text": "제5조 (대출금리)",
+        "page": 4,
+        "bbox": {
+          "x": 180,
+          "y": 180,
+          "width": 320,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-002-001-1",
+        "idx_in_page": 1,
+        "text": "① 대출금리는 연 3.5%(변동금리)로 한다.",
+        "page": 4,
+        "bbox": {
+          "x": 180,
+          "y": 220,
+          "width": 660,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-002-001-2",
+        "idx_in_page": 2,
+        "text": "② 금리는 3개월마다 신한은행 주택담보대출 기준금리에 연동하여 조정된다.",
+        "page": 4,
+        "bbox": {
+          "x": 180,
+          "y": 260,
+          "width": 1080,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-032-002-001-3",
+        "idx_in_page": 3,
+        "text": "③ 기준금리 변동시 익월 이자납입일부터 변경된 금리가 적용된다.",
+        "page": 4,
+        "bbox": {
+          "x": 180,
+          "y": 300,
+          "width": 960,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-002-001-4",
+        "idx_in_page": 4,
+        "text": "④ 차주는 대출 실행 후 6개월 이내에 한하여 고정금리로의 전환을 신청할 수 있다.",
+        "page": 4,
+        "bbox": {
+          "x": 180,
+          "y": 340,
+          "width": 1120,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-032-002-001-5",
+        "idx_in_page": 5,
+        "text": "제6조 (이자의 납입)",
+        "page": 4,
+        "bbox": {
+          "x": 180,
+          "y": 420,
+          "width": 340,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-002-001-6",
+        "idx_in_page": 6,
+        "text": "① 이자는 매월 10일 차주 명의 신한은행 계좌(110-123-456789)에서 자동이체로 납입한다.",
+        "page": 4,
+        "bbox": {
+          "x": 180,
+          "y": 460,
+          "width": 1240,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-002-001-7",
+        "idx_in_page": 7,
+        "text": "② 잔액부족 등으로 자동이체가 불가능한 경우 차주는 납입일로부터 3일 이내에 직접 납입하여야 한다.",
+        "page": 4,
+        "bbox": {
+          "x": 180,
+          "y": 500,
+          "width": 1300,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-032-002-001-8",
+        "idx_in_page": 8,
+        "text": "③ 납입일이 영업일이 아닌 경우 다음 영업일에 이체한다.",
+        "page": 4,
+        "bbox": {
+          "x": 180,
+          "y": 540,
+          "width": 840,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-002-002-0",
+        "idx_in_page": 0,
+        "text": "제7조 (원금의 상환)",
+        "page": 5,
+        "bbox": {
+          "x": 180,
+          "y": 180,
+          "width": 340,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-002-002-1",
+        "idx_in_page": 1,
+        "text": "① 대출원금의 상환은 원리금균등분할상환 방식으로 한다.",
+        "page": 5,
+        "bbox": {
+          "x": 180,
+          "y": 220,
+          "width": 880,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-002-002-2",
+        "idx_in_page": 2,
+        "text": "② 매월 원리금 상환액은 금 일백팔십만원정(₩1,800,000)이다.",
+        "page": 5,
+        "bbox": {
+          "x": 180,
+          "y": 260,
+          "width": 920,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-002-002-3",
+        "idx_in_page": 3,
+        "text": "③ 상환일은 매월 10일로 하며, 제6조와 동일한 계좌에서 이체한다.",
+        "page": 5,
+        "bbox": {
+          "x": 180,
+          "y": 300,
+          "width": 960,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-032-002-002-4",
+        "idx_in_page": 4,
+        "text": "④ 차주는 대출기관의 사전 동의를 얻어 중도상환 또는 일부상환을 할 수 있다.",
+        "page": 5,
+        "bbox": {
+          "x": 180,
+          "y": 340,
+          "width": 1080,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-032-002-002-5",
+        "idx_in_page": 5,
+        "text": "⑤ 중도상환시 별도의 수수료는 부과하지 아니한다.",
+        "page": 5,
+        "bbox": {
+          "x": 180,
+          "y": 380,
+          "width": 800,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-002-002-6",
+        "idx_in_page": 6,
+        "text": "제8조 (기한의 이익 상실)",
+        "page": 5,
+        "bbox": {
+          "x": 180,
+          "y": 460,
+          "width": 400,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-002-002-7",
+        "idx_in_page": 7,
+        "text": "차주가 다음 각 호의 어느 하나에 해당하는 경우 대출기관의 별도 통지 없이 기한의 이익을 상실하고 즉시 원리금 전액을 변제하여야 한다.",
+        "page": 5,
+        "bbox": {
+          "x": 180,
+          "y": 500,
+          "width": 1360,
+          "height": 48
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-032-002-002-8",
+        "idx_in_page": 8,
+        "text": "① 원리금의 지급을 2회 이상 연속하여 지연한 경우",
+        "page": 5,
+        "bbox": {
+          "x": 180,
+          "y": 560,
+          "width": 800,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-002-002-9",
+        "idx_in_page": 9,
+        "text": "② 담보물에 대하여 제3자의 가압류, 가처분, 경매신청 등이 있는 경우",
+        "page": 5,
+        "bbox": {
+          "x": 180,
+          "y": 600,
+          "width": 1040,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 4,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-03T00:00:00+00:00"
+}

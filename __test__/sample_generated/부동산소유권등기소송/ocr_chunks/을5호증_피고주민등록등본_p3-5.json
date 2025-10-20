@@ -1,0 +1,131 @@
+{
+  "chunk_id": "b7ea6486-be8a-4020-9789-349aa7a62799",
+  "file_id": 37,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_b5_defendant_registration.pdf",
+  "original_file_name": "을5호증_피고주민등록등본.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 5,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "chunk_number": 2,
+  "paragraph_texts": [
+    "[3페이지] 을5호증_피고주민등록등본 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[4페이지] 을5호증_피고주민등록등본 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[5페이지] 을5호증_피고주민등록등본 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-037-002-000-0",
+        "idx_in_page": 0,
+        "text": "[3페이지] 을5호증_피고주민등록등본 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 3,
+        "bbox": {
+          "x": 191.08,
+          "y": 93.9,
+          "width": 1248.59,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-037-002-000-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 3,
+        "bbox": {
+          "x": 214.23,
+          "y": 1195.73,
+          "width": 1231.68,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-037-002-001-0",
+        "idx_in_page": 0,
+        "text": "[4페이지] 을5호증_피고주민등록등본 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 4,
+        "bbox": {
+          "x": 201.88,
+          "y": 93.52,
+          "width": 1270.38,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-037-002-001-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 4,
+        "bbox": {
+          "x": 217.81,
+          "y": 1192.5,
+          "width": 1322.06,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-037-002-002-0",
+        "idx_in_page": 0,
+        "text": "[5페이지] 을5호증_피고주민등록등본 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 5,
+        "bbox": {
+          "x": 190.45,
+          "y": 100.27,
+          "width": 1296.55,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-037-002-002-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 5,
+        "bbox": {
+          "x": 216.25,
+          "y": 1185.94,
+          "width": 1308.09,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 4,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-03T00:00:00+00:00"
+}

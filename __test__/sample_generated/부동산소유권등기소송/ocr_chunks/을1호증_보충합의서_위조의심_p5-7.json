@@ -1,0 +1,131 @@
+{
+  "chunk_id": "a694bc0b-856b-4394-8a63-4ed192e99690",
+  "file_id": 33,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_b1_supplement_suspected_forgery.pdf",
+  "original_file_name": "을1호증_보충합의서_위조의심.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 7,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "chunk_number": 3,
+  "paragraph_texts": [
+    "[5페이지] 을1호증_보충합의서_위조의심 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[6페이지] 을1호증_보충합의서_위조의심 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[7페이지] 을1호증_보충합의서_위조의심 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-033-003-000-0",
+        "idx_in_page": 0,
+        "text": "[5페이지] 을1호증_보충합의서_위조의심 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 5,
+        "bbox": {
+          "x": 193.05,
+          "y": 105.97,
+          "width": 1281.13,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-033-003-000-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 5,
+        "bbox": {
+          "x": 216.45,
+          "y": 1184.17,
+          "width": 1256.91,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-033-003-001-0",
+        "idx_in_page": 0,
+        "text": "[6페이지] 을1호증_보충합의서_위조의심 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 6,
+        "bbox": {
+          "x": 189.51,
+          "y": 100.22,
+          "width": 1263.62,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-033-003-001-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 6,
+        "bbox": {
+          "x": 200.46,
+          "y": 1186.43,
+          "width": 1301.57,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-033-003-002-0",
+        "idx_in_page": 0,
+        "text": "[7페이지] 을1호증_보충합의서_위조의심 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 7,
+        "bbox": {
+          "x": 209.46,
+          "y": 91.21,
+          "width": 1239.02,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-033-003-002-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 7,
+        "bbox": {
+          "x": 214.24,
+          "y": 1186.32,
+          "width": 1260.2,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 6,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-04T00:00:00+00:00"
+}

@@ -1,0 +1,125 @@
+{
+  "chunk_id": "d8ecb9d5-d8b3-4df3-a0a8-48d7a0d4cd05",
+  "file_id": 33,
+  "project_id": 3001,
+  "storage_file_name": "60203305-b83c-4e14-95fd-3a184a19f7fb-1760885381821.pdf",
+  "original_file_name": "심사진행보고서_1차.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 10,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    9,
+    10
+  ],
+  "chunk_number": 5,
+  "paragraph_texts": [
+    "47건, 비공식 회의록 12건. 두 회사 담당자 간 입찰 전 빈번한 연락이 확인되며, 가격 협의",
+    "12건. 두 회사 담당자 간 입찰 전 빈번한 연락이 확인되며, 가격 협의 정황 포착. 추가",
+    "회의록 12건. 두 회사 담당자 간 입찰 전 빈번한 연락이 확인되며, 가격 협의 정황 포착.",
+    "두 회사 담당자 간 입찰 전 빈번한 연락이 확인되며, 가격 협의 정황 포착. 추가 조사",
+    "제1차 심사진행상황 보고서 (사건번호 2024심제1001). (주)태평양건설 및 (주)한국종합건설에 대한 조사 진행 중. 2024년 4월까지 확보한",
+    "및 (주)한국종합건설에 대한 조사 진행 중. 2024년 4월까지 확보한 증거: 담당자 간 통화내역 47건, 비공식"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "a1a39175-f7b7-41e8-89cd-e02f96d3deeb",
+        "idx_in_page": 0,
+        "text": "47건, 비공식 회의록 12건. 두 회사 담당자 간 입찰 전 빈번한 연락이 확인되며, 가격 협의",
+        "page": 9,
+        "bbox": {
+          "x": 196.0,
+          "y": 224.0,
+          "width": 1201.0,
+          "height": 182.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "07b37ab0-7936-4e91-80f2-956c12b7769d",
+        "idx_in_page": 1,
+        "text": "12건. 두 회사 담당자 간 입찰 전 빈번한 연락이 확인되며, 가격 협의 정황 포착. 추가",
+        "page": 9,
+        "bbox": {
+          "x": 186.0,
+          "y": 804.0,
+          "width": 1235.0,
+          "height": 243.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "c08cc8e9-8345-4f10-aedc-a77c545e03d4",
+        "idx_in_page": 2,
+        "text": "회의록 12건. 두 회사 담당자 간 입찰 전 빈번한 연락이 확인되며, 가격 협의 정황 포착.",
+        "page": 9,
+        "bbox": {
+          "x": 196.0,
+          "y": 1521.0,
+          "width": 1228.0,
+          "height": 252.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "a13f1ea5-32d7-43e0-9889-445584940c2d",
+        "idx_in_page": 0,
+        "text": "두 회사 담당자 간 입찰 전 빈번한 연락이 확인되며, 가격 협의 정황 포착. 추가 조사",
+        "page": 10,
+        "bbox": {
+          "x": 193.0,
+          "y": 365.0,
+          "width": 1289.0,
+          "height": 224.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "9206c2fe-c58b-4dea-bf4a-b026f5cd23a3",
+        "idx_in_page": 1,
+        "text": "제1차 심사진행상황 보고서 (사건번호 2024심제1001). (주)태평양건설 및 (주)한국종합건설에 대한 조사 진행 중. 2024년 4월까지 확보한",
+        "page": 10,
+        "bbox": {
+          "x": 192.0,
+          "y": 899.0,
+          "width": 1283.0,
+          "height": 162.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "d0bf8c76-3e0e-4b62-b85b-aee494651a26",
+        "idx_in_page": 2,
+        "text": "및 (주)한국종합건설에 대한 조사 진행 중. 2024년 4월까지 확보한 증거: 담당자 간 통화내역 47건, 비공식",
+        "page": 10,
+        "bbox": {
+          "x": 194.0,
+          "y": 1463.0,
+          "width": 1286.0,
+          "height": 204.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 10,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.821437+00:00"
+}

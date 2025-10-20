@@ -1,0 +1,95 @@
+{
+  "chunk_id": "1ad08886-7238-4373-8bf9-2441ca273b41",
+  "file_id": 26,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a15_kakao_demand.pdf",
+  "original_file_name": "갑15호증_카카오톡대화_이행요구.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 12,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    11,
+    12
+  ],
+  "chunk_number": 6,
+  "paragraph_texts": [
+    "[11페이지] 카카오톡 대화내역 2024년 2월 28일 15:30 - 피고: 임차인이 완전히 이사 나갔습니다.",
+    "2024년 3월 10일 10:15 - 원고: 매매대금은 5억 맞죠? 2024년 3월 10일 10:17 - 피고: 네, 5억 맞습니다.",
+    "[12페이지] 카카오톡 대화내역 2024년 2월 28일 15:30 - 피고: 임차인이 완전히 이사 나갔습니다.",
+    "2024년 3월 10일 10:15 - 원고: 매매대금은 5억 맞죠? 2024년 3월 10일 10:17 - 피고: 네, 5억 맞습니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-026-006-000-0",
+        "idx_in_page": 0,
+        "text": "[11페이지] 카카오톡 대화내역 2024년 2월 28일 15:30 - 피고: 임차인이 완전히 이사 나갔습니다.",
+        "page": 11,
+        "bbox": {
+          "x": 216.35,
+          "y": 103.25,
+          "width": 1303.13,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-026-006-000-1",
+        "idx_in_page": 1,
+        "text": "2024년 3월 10일 10:15 - 원고: 매매대금은 5억 맞죠? 2024년 3월 10일 10:17 - 피고: 네, 5억 맞습니다.",
+        "page": 11,
+        "bbox": {
+          "x": 219.36,
+          "y": 1199.02,
+          "width": 1320.02,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-026-006-001-0",
+        "idx_in_page": 0,
+        "text": "[12페이지] 카카오톡 대화내역 2024년 2월 28일 15:30 - 피고: 임차인이 완전히 이사 나갔습니다.",
+        "page": 12,
+        "bbox": {
+          "x": 188.5,
+          "y": 101.04,
+          "width": 1317.91,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-026-006-001-1",
+        "idx_in_page": 1,
+        "text": "2024년 3월 10일 10:15 - 원고: 매매대금은 5억 맞죠? 2024년 3월 10일 10:17 - 피고: 네, 5억 맞습니다.",
+        "page": 12,
+        "bbox": {
+          "x": 209.93,
+          "y": 1181.68,
+          "width": 1279.18,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 12,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-07T00:00:00+00:00"
+}

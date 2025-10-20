@@ -1,0 +1,146 @@
+{
+  "chunk_id": "d938c777-2ff9-461f-9db3-c73b774b82da",
+  "file_id": 38,
+  "project_id": 3001,
+  "storage_file_name": "5e2e7e6a-c3f0-461d-aad9-c13e3b3d137a-1760885381828.pdf",
+  "original_file_name": "이메일_(주)태평양건설_to_(주)서울엔지니어링.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 16,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "chunk_number": 3,
+  "paragraph_texts": [
+    "회의에서 논의한 대로 첨부파일 견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.'",
+    "우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰 전 가격 담합을",
+    "견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰 전",
+    "협의'. 본문: '어제 회의에서 논의한 대로 첨부파일 견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면",
+    "견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰 전",
+    "귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰 전 가격 담합을 직접 보여주는 증거.",
+    "논의한 대로 첨부파일 견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일:"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "edf7f007-c3b6-4d2a-9134-7839bd8ee88e",
+        "idx_in_page": 0,
+        "text": "회의에서 논의한 대로 첨부파일 견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.'",
+        "page": 5,
+        "bbox": {
+          "x": 184.0,
+          "y": 305.0,
+          "width": 1265.0,
+          "height": 164.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "fd21059e-13ed-43f3-8257-d2b51ad09c89",
+        "idx_in_page": 1,
+        "text": "우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰 전 가격 담합을",
+        "page": 5,
+        "bbox": {
+          "x": 188.0,
+          "y": 984.0,
+          "width": 1292.0,
+          "height": 217.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "31899d89-3f1d-4dd4-841d-0cd3eda975b8",
+        "idx_in_page": 2,
+        "text": "견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰 전",
+        "page": 5,
+        "bbox": {
+          "x": 194.0,
+          "y": 1420.0,
+          "width": 1269.0,
+          "height": 371.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "e0fb5a56-99fd-4fdd-b898-ad6288492071",
+        "idx_in_page": 0,
+        "text": "협의'. 본문: '어제 회의에서 논의한 대로 첨부파일 견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면",
+        "page": 6,
+        "bbox": {
+          "x": 188.0,
+          "y": 274.0,
+          "width": 1278.0,
+          "height": 317.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "8b240e70-bbe9-41ef-867f-369a0469c49a",
+        "idx_in_page": 1,
+        "text": "견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰 전",
+        "page": 6,
+        "bbox": {
+          "x": 196.0,
+          "y": 976.0,
+          "width": 1296.0,
+          "height": 388.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "e679372f-1511-42f4-8570-87f1a808f042",
+        "idx_in_page": 0,
+        "text": "귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰 전 가격 담합을 직접 보여주는 증거.",
+        "page": 7,
+        "bbox": {
+          "x": 198.0,
+          "y": 337.0,
+          "width": 1237.0,
+          "height": 236.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "740fdc7c-0f15-49c1-be38-1924b67b5c51",
+        "idx_in_page": 1,
+        "text": "논의한 대로 첨부파일 견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일:",
+        "page": 7,
+        "bbox": {
+          "x": 193.0,
+          "y": 984.0,
+          "width": 1285.0,
+          "height": 173.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 6,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.829000+00:00"
+}

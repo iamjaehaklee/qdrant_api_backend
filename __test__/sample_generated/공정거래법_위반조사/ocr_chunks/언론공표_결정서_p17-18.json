@@ -1,0 +1,125 @@
+{
+  "chunk_id": "be080d20-2f2d-4e41-bbfb-0958dc7207ba",
+  "file_id": 36,
+  "project_id": 3001,
+  "storage_file_name": "7e84ab12-a1c4-4cce-b350-9567e447f94a-1760885381827.pdf",
+  "original_file_name": "언론공표_결정서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 18,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    17,
+    18
+  ],
+  "chunk_number": 9,
+  "paragraph_texts": [
+    "담당 임직원 성명, 위반행위의 구체적 내용, 과징금 액수. 보도자료를 주요 언론사에 배포하고 공정거래위원회 홈페이지에 게시.",
+    "25일. 공표 내용: 4개 건설사의 회사명, 대표이사 및 담당 임직원 성명, 위반행위의 구체적 내용, 과징금",
+    "공표하기로 결정. 공표일 2024년 9월 25일. 공표 내용: 4개 건설사의 회사명, 대표이사 및 담당 임직원",
+    "회사명, 대표이사 및 담당 임직원 성명, 위반행위의 구체적 내용, 과징금 액수. 보도자료를 주요 언론사에 배포하고",
+    "대표이사 및 담당 임직원 성명, 위반행위의 구체적 내용, 과징금 액수. 보도자료를 주요 언론사에 배포하고 공정거래위원회",
+    "임직원 성명, 위반행위의 구체적 내용, 과징금 액수. 보도자료를 주요 언론사에 배포하고 공정거래위원회 홈페이지에 게시. 공표를"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "e6659794-445d-45da-9cdc-9f1168c0105b",
+        "idx_in_page": 0,
+        "text": "담당 임직원 성명, 위반행위의 구체적 내용, 과징금 액수. 보도자료를 주요 언론사에 배포하고 공정거래위원회 홈페이지에 게시.",
+        "page": 17,
+        "bbox": {
+          "x": 183.0,
+          "y": 384.0,
+          "width": 1245.0,
+          "height": 341.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "ab7370db-ef13-468c-b474-2704195f82ba",
+        "idx_in_page": 1,
+        "text": "25일. 공표 내용: 4개 건설사의 회사명, 대표이사 및 담당 임직원 성명, 위반행위의 구체적 내용, 과징금",
+        "page": 17,
+        "bbox": {
+          "x": 197.0,
+          "y": 891.0,
+          "width": 1267.0,
+          "height": 316.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "f90564c8-7ad7-4739-9cda-fe99bae290ee",
+        "idx_in_page": 2,
+        "text": "공표하기로 결정. 공표일 2024년 9월 25일. 공표 내용: 4개 건설사의 회사명, 대표이사 및 담당 임직원",
+        "page": 17,
+        "bbox": {
+          "x": 183.0,
+          "y": 1531.0,
+          "width": 1205.0,
+          "height": 301.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "5da1dc97-5bee-4ee6-ac22-f0c916087e38",
+        "idx_in_page": 0,
+        "text": "회사명, 대표이사 및 담당 임직원 성명, 위반행위의 구체적 내용, 과징금 액수. 보도자료를 주요 언론사에 배포하고",
+        "page": 18,
+        "bbox": {
+          "x": 182.0,
+          "y": 319.0,
+          "width": 1214.0,
+          "height": 184.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "52d5b36b-ee31-4949-8c1b-cd9f178b758f",
+        "idx_in_page": 1,
+        "text": "대표이사 및 담당 임직원 성명, 위반행위의 구체적 내용, 과징금 액수. 보도자료를 주요 언론사에 배포하고 공정거래위원회",
+        "page": 18,
+        "bbox": {
+          "x": 199.0,
+          "y": 899.0,
+          "width": 1238.0,
+          "height": 308.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "b5289952-6785-4924-88eb-300953a8b9e1",
+        "idx_in_page": 2,
+        "text": "임직원 성명, 위반행위의 구체적 내용, 과징금 액수. 보도자료를 주요 언론사에 배포하고 공정거래위원회 홈페이지에 게시. 공표를",
+        "page": 18,
+        "bbox": {
+          "x": 199.0,
+          "y": 1413.0,
+          "width": 1271.0,
+          "height": 352.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 17,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 18,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.827052+00:00"
+}

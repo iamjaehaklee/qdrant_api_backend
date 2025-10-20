@@ -1,0 +1,131 @@
+{
+  "chunk_id": "e23485bf-fbb8-45a9-9c3f-9f3e687ff5f6",
+  "file_id": 30,
+  "project_id": 3001,
+  "storage_file_name": "5cd44b42-89b6-4f49-8d9d-75dec0a85364-1760885381816.pdf",
+  "original_file_name": "문자메시지_(주)태평양건설_담당자.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 11,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    9,
+    10,
+    11
+  ],
+  "chunk_number": 5,
+  "paragraph_texts": [
+    "오후 3시. 꼭 참석 부탁드립니다.' 인천공항 제2여객터미널 건설 입찰을 앞둔 시점의 비공식 회의 소집 정황.",
+    "'내일 회동 장소 강남역 인근 카페, 오후 3시. 꼭 참석 부탁드립니다.' 인천공항 제2여객터미널 건설 입찰을",
+    "과장), 수신: 다수 (타 건설사 담당자 추정). 발신일시 2023년 12월 3일 오후 2:15. 내용: '내일",
+    "다수 (타 건설사 담당자 추정). 발신일시 2023년 12월 3일 오후 2:15. 내용: '내일 회동 장소",
+    "강남역 인근 카페, 오후 3시. 꼭 참석 부탁드립니다.' 인천공항 제2여객터미널 건설 입찰을 앞둔 시점의 비공식",
+    "과장 ((주)태평양건설 과장), 수신: 다수 (타 건설사 담당자 추정). 발신일시 2023년 12월 3일 오후 2:15."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "1e3df7ad-8d43-4252-bc6c-85f118516816",
+        "idx_in_page": 0,
+        "text": "오후 3시. 꼭 참석 부탁드립니다.' 인천공항 제2여객터미널 건설 입찰을 앞둔 시점의 비공식 회의 소집 정황.",
+        "page": 9,
+        "bbox": {
+          "x": 185.0,
+          "y": 248.0,
+          "width": 1290.0,
+          "height": 395.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "623b7eee-0565-4ed2-9b77-6b25db7afad8",
+        "idx_in_page": 1,
+        "text": "'내일 회동 장소 강남역 인근 카페, 오후 3시. 꼭 참석 부탁드립니다.' 인천공항 제2여객터미널 건설 입찰을",
+        "page": 9,
+        "bbox": {
+          "x": 185.0,
+          "y": 835.0,
+          "width": 1253.0,
+          "height": 210.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "86b1c083-aefa-47fc-97e9-7d0b7dc0f55f",
+        "idx_in_page": 0,
+        "text": "과장), 수신: 다수 (타 건설사 담당자 추정). 발신일시 2023년 12월 3일 오후 2:15. 내용: '내일",
+        "page": 10,
+        "bbox": {
+          "x": 182.0,
+          "y": 319.0,
+          "width": 1262.0,
+          "height": 206.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "055f05ab-2dc3-4491-8fb1-7805d47b9795",
+        "idx_in_page": 1,
+        "text": "다수 (타 건설사 담당자 추정). 발신일시 2023년 12월 3일 오후 2:15. 내용: '내일 회동 장소",
+        "page": 10,
+        "bbox": {
+          "x": 194.0,
+          "y": 969.0,
+          "width": 1231.0,
+          "height": 398.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "944ef53f-eccc-4b3a-9878-ca62c6cfcfa3",
+        "idx_in_page": 0,
+        "text": "강남역 인근 카페, 오후 3시. 꼭 참석 부탁드립니다.' 인천공항 제2여객터미널 건설 입찰을 앞둔 시점의 비공식",
+        "page": 11,
+        "bbox": {
+          "x": 196.0,
+          "y": 252.0,
+          "width": 1279.0,
+          "height": 283.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "a408aad5-a77f-452c-aa59-b8317a1c1a6e",
+        "idx_in_page": 1,
+        "text": "과장 ((주)태평양건설 과장), 수신: 다수 (타 건설사 담당자 추정). 발신일시 2023년 12월 3일 오후 2:15.",
+        "page": 11,
+        "bbox": {
+          "x": 192.0,
+          "y": 963.0,
+          "width": 1252.0,
+          "height": 180.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 10,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.816467+00:00"
+}

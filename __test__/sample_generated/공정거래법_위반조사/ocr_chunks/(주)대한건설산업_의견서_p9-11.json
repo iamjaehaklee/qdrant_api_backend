@@ -1,0 +1,146 @@
+{
+  "chunk_id": "734ff60c-c133-43ed-ae49-263510abc17d",
+  "file_id": 3,
+  "project_id": 3001,
+  "storage_file_name": "41c2a58e-1dbd-4fa0-bb30-bb2deaa53198-1760885381774.pdf",
+  "original_file_name": "(주)대한건설산업_의견서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 12,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    9,
+    10,
+    11
+  ],
+  "chunk_number": 5,
+  "paragraph_texts": [
+    "위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고 있으며, 과징금 부과 시",
+    "과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고 있으며, 과징금 부과 시 경영에 심각한 타격이",
+    "당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고 있으며, 과징금",
+    "2024심제1001, 제출일 2024년 6월). 공정거래위원회가 부과하고자 하는 과징금은 당사의 실제 위반 정도에 비해 과도함. 당사는",
+    "1,200명의 생계가 걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히 요청함. 당사는 재발방지를",
+    "건설업계 불황으로 최근 3년간 적자를 기록하고 있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원",
+    "있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을 최소"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "c1723f13-e51f-4d75-b743-f66acaee9f68",
+        "idx_in_page": 0,
+        "text": "위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고 있으며, 과징금 부과 시",
+        "page": 9,
+        "bbox": {
+          "x": 194.0,
+          "y": 389.0,
+          "width": 1266.0,
+          "height": 290.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "235a8fb2-b35d-4357-b02f-68bd09de0d76",
+        "idx_in_page": 1,
+        "text": "과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고 있으며, 과징금 부과 시 경영에 심각한 타격이",
+        "page": 9,
+        "bbox": {
+          "x": 197.0,
+          "y": 944.0,
+          "width": 1208.0,
+          "height": 389.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "d0bad0ff-d0ab-4b8b-94a0-c34f20000641",
+        "idx_in_page": 0,
+        "text": "당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고 있으며, 과징금",
+        "page": 10,
+        "bbox": {
+          "x": 186.0,
+          "y": 393.0,
+          "width": 1233.0,
+          "height": 192.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "34b77bec-9c55-4540-9fcf-4761ef487784",
+        "idx_in_page": 1,
+        "text": "2024심제1001, 제출일 2024년 6월). 공정거래위원회가 부과하고자 하는 과징금은 당사의 실제 위반 정도에 비해 과도함. 당사는",
+        "page": 10,
+        "bbox": {
+          "x": 189.0,
+          "y": 920.0,
+          "width": 1275.0,
+          "height": 270.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "5a519c82-4ec1-4d70-874b-84219c451fdd",
+        "idx_in_page": 0,
+        "text": "1,200명의 생계가 걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히 요청함. 당사는 재발방지를",
+        "page": 11,
+        "bbox": {
+          "x": 194.0,
+          "y": 211.0,
+          "width": 1255.0,
+          "height": 350.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "95bbd4b0-3af4-49b1-9a2b-104e1d592fe4",
+        "idx_in_page": 1,
+        "text": "건설업계 불황으로 최근 3년간 적자를 기록하고 있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원",
+        "page": 11,
+        "bbox": {
+          "x": 189.0,
+          "y": 832.0,
+          "width": 1269.0,
+          "height": 163.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "db6b06e6-2b41-47d3-963c-091d6e64adfb",
+        "idx_in_page": 2,
+        "text": "있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을 최소",
+        "page": 11,
+        "bbox": {
+          "x": 192.0,
+          "y": 1454.0,
+          "width": 1253.0,
+          "height": 205.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 10,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.774281+00:00"
+}

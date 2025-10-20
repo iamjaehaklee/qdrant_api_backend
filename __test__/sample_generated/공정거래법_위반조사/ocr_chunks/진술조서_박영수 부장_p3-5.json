@@ -1,0 +1,161 @@
+{
+  "chunk_id": "978fb0a9-e4a7-47c0-a91c-eb41fbce81a2",
+  "file_id": 48,
+  "project_id": 3001,
+  "storage_file_name": "a5ac5f61-d6af-464f-8c6b-6aedeeac272f-1760885381847.pdf",
+  "original_file_name": "진술조서_박영수 부장.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 18,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "chunk_number": 2,
+  "paragraph_texts": [
+    "15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과 가격",
+    "인정하나 단순 친목 모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의",
+    "모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에 따른 것일",
+    "친목 모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에 따른",
+    "15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과 가격",
+    "단순 친목 모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에",
+    "15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과 가격",
+    "(2024년 5월 15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순 친목 모임이었다고 주장. 추궁"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "8fa9c05d-5796-4722-b24d-4229587102cc",
+        "idx_in_page": 0,
+        "text": "15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과 가격",
+        "page": 3,
+        "bbox": {
+          "x": 193.0,
+          "y": 210.0,
+          "width": 1277.0,
+          "height": 250.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "a046fd68-8487-49b0-a58e-92c1b3084bc9",
+        "idx_in_page": 1,
+        "text": "인정하나 단순 친목 모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의",
+        "page": 3,
+        "bbox": {
+          "x": 193.0,
+          "y": 908.0,
+          "width": 1267.0,
+          "height": 239.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "d57db6af-14c3-4f1d-877c-c8864c8f2e2c",
+        "idx_in_page": 2,
+        "text": "모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에 따른 것일",
+        "page": 3,
+        "bbox": {
+          "x": 194.0,
+          "y": 1437.0,
+          "width": 1236.0,
+          "height": 273.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "b2285576-5997-4255-8736-ff0107d3352b",
+        "idx_in_page": 0,
+        "text": "친목 모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에 따른",
+        "page": 4,
+        "bbox": {
+          "x": 188.0,
+          "y": 201.0,
+          "width": 1258.0,
+          "height": 362.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "add3bd1a-6edb-4214-9b29-69761cdef59c",
+        "idx_in_page": 1,
+        "text": "15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과 가격",
+        "page": 4,
+        "bbox": {
+          "x": 183.0,
+          "y": 831.0,
+          "width": 1277.0,
+          "height": 320.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "5ea8e9da-8b74-4d5e-8d0b-b776bd16ebec",
+        "idx_in_page": 2,
+        "text": "단순 친목 모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에",
+        "page": 4,
+        "bbox": {
+          "x": 200.0,
+          "y": 1425.0,
+          "width": 1210.0,
+          "height": 212.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "7ff84c27-f6c0-42a0-a792-79a3ffc4cc12",
+        "idx_in_page": 0,
+        "text": "15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과 가격",
+        "page": 5,
+        "bbox": {
+          "x": 181.0,
+          "y": 289.0,
+          "width": 1216.0,
+          "height": 159.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "75d658ae-f364-4262-8792-d33915f74d70",
+        "idx_in_page": 1,
+        "text": "(2024년 5월 15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순 친목 모임이었다고 주장. 추궁",
+        "page": 5,
+        "bbox": {
+          "x": 197.0,
+          "y": 825.0,
+          "width": 1292.0,
+          "height": 190.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 4,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.847139+00:00"
+}

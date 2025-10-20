@@ -1,0 +1,146 @@
+{
+  "chunk_id": "a89651d5-b607-4a7e-8ce6-fe747d68ca7f",
+  "file_id": 52,
+  "project_id": 3001,
+  "storage_file_name": "3c3413af-1dbb-4c94-8e52-1528102a1b6f-1760885381856.pdf",
+  "original_file_name": "카카오톡대화_(주)태평양건설_(주)한국종합건설.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 15,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    7,
+    8,
+    9
+  ],
+  "chunk_number": 4,
+  "paragraph_texts": [
+    "하죠', '예정가 95% 선에서 맞추면 될 것 같습니다', '다음 물량은 귀사 차례니까요'. 입찰가격 사전 협의와",
+    "가져가는 걸로 하죠', '예정가 95% 선에서 맞추면 될 것 같습니다', '다음 물량은 귀사 차례니까요'. 입찰가격",
+    "'예정가 95% 선에서 맞추면 될 것 같습니다', '다음 물량은 귀사 차례니까요'. 입찰가격 사전 협의와 물량배분,",
+    "될 것 같습니다', '다음 물량은 귀사 차례니까요'. 입찰가격 사전 협의와 물량배분, 순번제 운영을 명확히 보여주는",
+    "총 47건 메시지). 주요 대화 내용: '이번 건 우리가 가져가는 걸로 하죠', '예정가 95% 선에서",
+    "하죠', '예정가 95% 선에서 맞추면 될 것 같습니다', '다음 물량은 귀사 차례니까요'. 입찰가격 사전 협의와",
+    "주요 대화 내용: '이번 건 우리가 가져가는 걸로 하죠', '예정가 95% 선에서 맞추면 될 것"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "fce4d013-c202-4287-8965-637ac3a9025a",
+        "idx_in_page": 0,
+        "text": "하죠', '예정가 95% 선에서 맞추면 될 것 같습니다', '다음 물량은 귀사 차례니까요'. 입찰가격 사전 협의와",
+        "page": 7,
+        "bbox": {
+          "x": 197.0,
+          "y": 311.0,
+          "width": 1293.0,
+          "height": 314.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "dc7e5a53-66b6-440e-a2c2-03a9e284b9e9",
+        "idx_in_page": 1,
+        "text": "가져가는 걸로 하죠', '예정가 95% 선에서 맞추면 될 것 같습니다', '다음 물량은 귀사 차례니까요'. 입찰가격",
+        "page": 7,
+        "bbox": {
+          "x": 199.0,
+          "y": 816.0,
+          "width": 1241.0,
+          "height": 164.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "affbc018-553a-4b10-af08-51288c81bbb1",
+        "idx_in_page": 0,
+        "text": "'예정가 95% 선에서 맞추면 될 것 같습니다', '다음 물량은 귀사 차례니까요'. 입찰가격 사전 협의와 물량배분,",
+        "page": 8,
+        "bbox": {
+          "x": 191.0,
+          "y": 303.0,
+          "width": 1232.0,
+          "height": 332.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "22cc7712-d13b-43ab-be95-c4056e886366",
+        "idx_in_page": 1,
+        "text": "될 것 같습니다', '다음 물량은 귀사 차례니까요'. 입찰가격 사전 협의와 물량배분, 순번제 운영을 명확히 보여주는",
+        "page": 8,
+        "bbox": {
+          "x": 192.0,
+          "y": 870.0,
+          "width": 1293.0,
+          "height": 156.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "db47fdc9-49fc-4c6a-b5df-0a2e6163f19d",
+        "idx_in_page": 0,
+        "text": "총 47건 메시지). 주요 대화 내용: '이번 건 우리가 가져가는 걸로 하죠', '예정가 95% 선에서",
+        "page": 9,
+        "bbox": {
+          "x": 195.0,
+          "y": 368.0,
+          "width": 1225.0,
+          "height": 388.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "6caf853d-687a-440e-9cd1-10616eaf4ffc",
+        "idx_in_page": 1,
+        "text": "하죠', '예정가 95% 선에서 맞추면 될 것 같습니다', '다음 물량은 귀사 차례니까요'. 입찰가격 사전 협의와",
+        "page": 9,
+        "bbox": {
+          "x": 192.0,
+          "y": 958.0,
+          "width": 1225.0,
+          "height": 271.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "515e233c-8dcd-4ecb-ad3e-557da44892f9",
+        "idx_in_page": 2,
+        "text": "주요 대화 내용: '이번 건 우리가 가져가는 걸로 하죠', '예정가 95% 선에서 맞추면 될 것",
+        "page": 9,
+        "bbox": {
+          "x": 187.0,
+          "y": 1590.0,
+          "width": 1221.0,
+          "height": 158.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 8,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.856879+00:00"
+}

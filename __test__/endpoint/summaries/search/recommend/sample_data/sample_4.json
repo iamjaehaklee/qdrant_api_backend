@@ -1,0 +1,18 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/recommend",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "positive": ["650e8400-e29b-41d4-a716-446655440004"],
+    "negative": ["650e8400-e29b-41d4-a716-446655440098", "650e8400-e29b-41d4-a716-446655440097"],
+    "strategy": "average_vector",
+    "limit": 15,
+    "filter_project_id": 8,
+    "filter_file_id": 128
+  }
+}

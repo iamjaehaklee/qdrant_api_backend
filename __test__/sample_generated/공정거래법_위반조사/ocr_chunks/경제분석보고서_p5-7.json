@@ -1,0 +1,146 @@
+{
+  "chunk_id": "031f3a1d-8290-4a55-9b57-dbba031fe87d",
+  "file_id": 15,
+  "project_id": 3001,
+  "storage_file_name": "cf38f8e0-be48-4c94-a345-ecaa2c6492a0-1760885381792.pdf",
+  "original_file_name": "경제분석보고서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 15,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "chunk_number": 3,
+  "paragraph_texts": [
+    "95.7% (정상 입찰 시 85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상 시 5% 이상).",
+    "기간 2023~2024년. 분석 대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1) 평균 낙찰률 95.7%",
+    "(4) 입찰 공고 직전 4개사 간 통신량 급증. 결론: 담합 개연성 매우 높음. 통계적으로 우연으로",
+    "분석 기간 2023~2024년. 분석 대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1) 평균 낙찰률",
+    "분석 기간 2023~2024년. 분석 대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1) 평균 낙찰률",
+    "85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상 시 5% 이상). (3) 낙찰자가 4개사 간",
+    "(1) 평균 낙찰률 95.7% (정상 입찰 시 85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "b7ccc374-3f05-4226-8f37-670676356a44",
+        "idx_in_page": 0,
+        "text": "95.7% (정상 입찰 시 85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상 시 5% 이상).",
+        "page": 5,
+        "bbox": {
+          "x": 200.0,
+          "y": 269.0,
+          "width": 1284.0,
+          "height": 251.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "836fbaaa-231f-4889-b784-42c01f411da0",
+        "idx_in_page": 1,
+        "text": "기간 2023~2024년. 분석 대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1) 평균 낙찰률 95.7%",
+        "page": 5,
+        "bbox": {
+          "x": 186.0,
+          "y": 985.0,
+          "width": 1214.0,
+          "height": 324.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "8aeb3b20-29ab-4167-94de-6489f7d296f6",
+        "idx_in_page": 0,
+        "text": "(4) 입찰 공고 직전 4개사 간 통신량 급증. 결론: 담합 개연성 매우 높음. 통계적으로 우연으로",
+        "page": 6,
+        "bbox": {
+          "x": 188.0,
+          "y": 380.0,
+          "width": 1265.0,
+          "height": 329.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "71dcb3ee-83b2-4f5f-98fc-e4fbd9a61f34",
+        "idx_in_page": 1,
+        "text": "분석 기간 2023~2024년. 분석 대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1) 평균 낙찰률",
+        "page": 6,
+        "bbox": {
+          "x": 187.0,
+          "y": 864.0,
+          "width": 1276.0,
+          "height": 363.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "a7c17b83-20e5-4f9d-98af-b86b3b01b875",
+        "idx_in_page": 0,
+        "text": "분석 기간 2023~2024년. 분석 대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1) 평균 낙찰률",
+        "page": 7,
+        "bbox": {
+          "x": 199.0,
+          "y": 283.0,
+          "width": 1299.0,
+          "height": 156.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "ac498d25-9c3c-4d84-b065-c0f285389202",
+        "idx_in_page": 1,
+        "text": "85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상 시 5% 이상). (3) 낙찰자가 4개사 간",
+        "page": 7,
+        "bbox": {
+          "x": 188.0,
+          "y": 984.0,
+          "width": 1226.0,
+          "height": 163.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "9e732a41-683d-4ed0-806a-a67452637694",
+        "idx_in_page": 2,
+        "text": "(1) 평균 낙찰률 95.7% (정상 입찰 시 85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상",
+        "page": 7,
+        "bbox": {
+          "x": 189.0,
+          "y": 1500.0,
+          "width": 1285.0,
+          "height": 241.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 6,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.792793+00:00"
+}

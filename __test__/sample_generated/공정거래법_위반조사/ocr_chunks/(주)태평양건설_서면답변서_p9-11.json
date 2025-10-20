@@ -1,0 +1,146 @@
+{
+  "chunk_id": "fffe1cea-0d3b-4889-bfa8-b99a67bf02da",
+  "file_id": 7,
+  "project_id": 3001,
+  "storage_file_name": "d1a22643-c5cc-48d1-9d50-ba8dae8eb422-1760885381782.pdf",
+  "original_file_name": "(주)태평양건설_서면답변서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 13,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    9,
+    10,
+    11
+  ],
+  "chunk_number": 5,
+  "paragraph_texts": [
+    "3월). 당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를",
+    "주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와",
+    "가격 담합과는 무관함. 입찰 낙찰률이 높은 것은 당사의 정확한 원가계산 능력 덕분이지 담합의 결과가 아님.",
+    "단순한 업계 정보 교류에 불과하며, 가격 담합과는 무관함. 입찰 낙찰률이 높은 것은 당사의 정확한 원가계산",
+    "제출일 2024년 3월). 당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에",
+    "불과하며, 가격 담합과는 무관함. 입찰 낙찰률이 높은 것은 당사의 정확한 원가계산 능력 덕분이지 담합의 결과가",
+    "담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "266a9d38-f694-4479-97b2-e6a7a33a24bd",
+        "idx_in_page": 0,
+        "text": "3월). 당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를",
+        "page": 9,
+        "bbox": {
+          "x": 180.0,
+          "y": 373.0,
+          "width": 1273.0,
+          "height": 387.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "6608d3da-0ec7-4e07-bdd6-87291554f232",
+        "idx_in_page": 1,
+        "text": "주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와",
+        "page": 9,
+        "bbox": {
+          "x": 183.0,
+          "y": 911.0,
+          "width": 1266.0,
+          "height": 280.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "43ef1038-2d90-4c6c-9613-fee7729a2c8f",
+        "idx_in_page": 0,
+        "text": "가격 담합과는 무관함. 입찰 낙찰률이 높은 것은 당사의 정확한 원가계산 능력 덕분이지 담합의 결과가 아님.",
+        "page": 10,
+        "bbox": {
+          "x": 189.0,
+          "y": 313.0,
+          "width": 1292.0,
+          "height": 233.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "2e5b9791-be31-4b9c-89c8-f2ca88a2ba12",
+        "idx_in_page": 1,
+        "text": "단순한 업계 정보 교류에 불과하며, 가격 담합과는 무관함. 입찰 낙찰률이 높은 것은 당사의 정확한 원가계산",
+        "page": 10,
+        "bbox": {
+          "x": 182.0,
+          "y": 865.0,
+          "width": 1291.0,
+          "height": 247.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "4be6d397-2929-45b9-8586-59763d8d556c",
+        "idx_in_page": 0,
+        "text": "제출일 2024년 3월). 당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에",
+        "page": 11,
+        "bbox": {
+          "x": 190.0,
+          "y": 214.0,
+          "width": 1274.0,
+          "height": 161.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "27632acd-079d-4465-a6b7-4f54cea05eef",
+        "idx_in_page": 1,
+        "text": "불과하며, 가격 담합과는 무관함. 입찰 낙찰률이 높은 것은 당사의 정확한 원가계산 능력 덕분이지 담합의 결과가",
+        "page": 11,
+        "bbox": {
+          "x": 183.0,
+          "y": 821.0,
+          "width": 1276.0,
+          "height": 170.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "85e7a98a-1fae-4e0c-a712-c64ee1fdd7ab",
+        "idx_in_page": 2,
+        "text": "담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한",
+        "page": 11,
+        "bbox": {
+          "x": 194.0,
+          "y": 1442.0,
+          "width": 1294.0,
+          "height": 314.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 10,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.782004+00:00"
+}

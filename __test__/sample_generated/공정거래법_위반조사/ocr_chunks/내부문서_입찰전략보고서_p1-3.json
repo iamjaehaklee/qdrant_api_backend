@@ -1,0 +1,161 @@
+{
+  "chunk_id": "d5879510-3814-44cb-8b41-a592ea0fade7",
+  "file_id": 26,
+  "project_id": 3001,
+  "storage_file_name": "09970889-4c0f-4421-901e-cdb9413cc33a-1760885381811.pdf",
+  "original_file_name": "내부문서_입찰전략보고서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 10,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "결과 정리. 2024년 1분기 당사 할당 물량 2건 (서울시 지하철 9호선, 부산항 신항). 입찰 전략:",
+    "물량 2건 (서울시 지하철 9호선, 부산항 신항). 입찰 전략: 예정가격 95.5% 수준 입찰, 타사는 96%",
+    "2건 (서울시 지하철 9호선, 부산항 신항). 입찰 전략: 예정가격 95.5% 수준 입찰, 타사는 96% 이상",
+    "2건 (서울시 지하철 9호선, 부산항 신항). 입찰 전략: 예정가격 95.5% 수준 입찰, 타사는 96% 이상",
+    "신항). 입찰 전략: 예정가격 95.5% 수준 입찰, 타사는 96% 이상 유지 약속. 낙찰 확률 95%",
+    "타사와의 협의 결과 정리. 2024년 1분기 당사 할당 물량 2건 (서울시 지하철 9호선, 부산항 신항).",
+    "2024년 1분기 당사 할당 물량 2건 (서울시 지하철 9호선, 부산항 신항). 입찰 전략: 예정가격 95.5%",
+    "20일). 보고 대상: 대표이사 및 경영진. 내용: 타사와의 협의 결과 정리. 2024년 1분기 당사 할당"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "fd891c54-1f87-4c2a-ba7b-81f234006f5f",
+        "idx_in_page": 0,
+        "text": "결과 정리. 2024년 1분기 당사 할당 물량 2건 (서울시 지하철 9호선, 부산항 신항). 입찰 전략:",
+        "page": 1,
+        "bbox": {
+          "x": 192.0,
+          "y": 262.0,
+          "width": 1297.0,
+          "height": 344.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "1a453a59-ba68-4ca7-a3de-6bf5efefea54",
+        "idx_in_page": 1,
+        "text": "물량 2건 (서울시 지하철 9호선, 부산항 신항). 입찰 전략: 예정가격 95.5% 수준 입찰, 타사는 96%",
+        "page": 1,
+        "bbox": {
+          "x": 190.0,
+          "y": 978.0,
+          "width": 1251.0,
+          "height": 274.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "4769efdd-af15-45cf-a06d-0e1a81a9b5fa",
+        "idx_in_page": 2,
+        "text": "2건 (서울시 지하철 9호선, 부산항 신항). 입찰 전략: 예정가격 95.5% 수준 입찰, 타사는 96% 이상",
+        "page": 1,
+        "bbox": {
+          "x": 183.0,
+          "y": 1595.0,
+          "width": 1208.0,
+          "height": 302.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "3812b8f5-c80e-4a84-9a4a-7526a7ee2b07",
+        "idx_in_page": 0,
+        "text": "2건 (서울시 지하철 9호선, 부산항 신항). 입찰 전략: 예정가격 95.5% 수준 입찰, 타사는 96% 이상",
+        "page": 2,
+        "bbox": {
+          "x": 191.0,
+          "y": 340.0,
+          "width": 1291.0,
+          "height": 223.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "b76b1f96-1887-409f-891c-02eca9544c3d",
+        "idx_in_page": 1,
+        "text": "신항). 입찰 전략: 예정가격 95.5% 수준 입찰, 타사는 96% 이상 유지 약속. 낙찰 확률 95%",
+        "page": 2,
+        "bbox": {
+          "x": 187.0,
+          "y": 924.0,
+          "width": 1257.0,
+          "height": 295.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "c4e4ebef-98d2-416b-aa3a-3b7427337647",
+        "idx_in_page": 2,
+        "text": "타사와의 협의 결과 정리. 2024년 1분기 당사 할당 물량 2건 (서울시 지하철 9호선, 부산항 신항).",
+        "page": 2,
+        "bbox": {
+          "x": 196.0,
+          "y": 1518.0,
+          "width": 1266.0,
+          "height": 330.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "d92428ae-d74e-45f5-b6ee-4c1129faef96",
+        "idx_in_page": 0,
+        "text": "2024년 1분기 당사 할당 물량 2건 (서울시 지하철 9호선, 부산항 신항). 입찰 전략: 예정가격 95.5%",
+        "page": 3,
+        "bbox": {
+          "x": 196.0,
+          "y": 211.0,
+          "width": 1263.0,
+          "height": 272.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "b71576af-bc2e-423d-a49b-1b2a945bd04a",
+        "idx_in_page": 1,
+        "text": "20일). 보고 대상: 대표이사 및 경영진. 내용: 타사와의 협의 결과 정리. 2024년 1분기 당사 할당",
+        "page": 3,
+        "bbox": {
+          "x": 181.0,
+          "y": 958.0,
+          "width": 1221.0,
+          "height": 228.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.811339+00:00"
+}

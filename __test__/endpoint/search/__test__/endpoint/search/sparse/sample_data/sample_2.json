@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "path": "/search/sparse",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "financial statement analysis",
+    "limit": 15,
+    "score_threshold": 0.5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "chunk_id": "58196cec-74b0-46bb-9041-40c3b8d6874a",
+  "file_id": 8,
+  "project_id": 3001,
+  "storage_file_name": "f7eda202-9f0b-4ee4-86d3-0fe3c9cbd531-1760885381783.pdf",
+  "original_file_name": "(주)태평양건설_소명자료.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 6,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    5,
+    6
+  ],
+  "chunk_number": 3,
+  "paragraph_texts": [
+    "(2) 입찰가격 산정 회의록 15건 - 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인",
+    "당사의 입찰 프로세스가 독립적이고 자율적으로 운영되었음을 입증하는 자료 27건 제출. 주요 내용: (1) 사내 입찰가격",
+    "- 원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템. (2) 입찰가격 산정 회의록 15건 - 외부와의",
+    "프로세스 매뉴얼 - 원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템. (2) 입찰가격 산정 회의록 15건",
+    "입찰가격 산정 회의록 15건 - 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 -"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "d6011333-1db2-4cab-a58b-c7e6b95e0c8f",
+        "idx_in_page": 0,
+        "text": "(2) 입찰가격 산정 회의록 15건 - 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인",
+        "page": 5,
+        "bbox": {
+          "x": 196.0,
+          "y": 281.0,
+          "width": 1293.0,
+          "height": 394.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "3b320954-7d49-4ffe-88b6-c4897eb9ac84",
+        "idx_in_page": 1,
+        "text": "당사의 입찰 프로세스가 독립적이고 자율적으로 운영되었음을 입증하는 자료 27건 제출. 주요 내용: (1) 사내 입찰가격",
+        "page": 5,
+        "bbox": {
+          "x": 190.0,
+          "y": 802.0,
+          "width": 1269.0,
+          "height": 204.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "3f7e4972-4a9c-491d-a3e2-9c195e14bc64",
+        "idx_in_page": 0,
+        "text": "- 원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템. (2) 입찰가격 산정 회의록 15건 - 외부와의",
+        "page": 6,
+        "bbox": {
+          "x": 188.0,
+          "y": 249.0,
+          "width": 1268.0,
+          "height": 171.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "bcc8b3f8-81bb-4386-8f35-133fdde39664",
+        "idx_in_page": 1,
+        "text": "프로세스 매뉴얼 - 원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템. (2) 입찰가격 산정 회의록 15건",
+        "page": 6,
+        "bbox": {
+          "x": 181.0,
+          "y": 864.0,
+          "width": 1282.0,
+          "height": 171.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "542bf1a6-7d9c-448b-bf3c-6e833c54820b",
+        "idx_in_page": 2,
+        "text": "입찰가격 산정 회의록 15건 - 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 -",
+        "page": 6,
+        "bbox": {
+          "x": 197.0,
+          "y": 1563.0,
+          "width": 1275.0,
+          "height": 212.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 6,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.783040+00:00"
+}

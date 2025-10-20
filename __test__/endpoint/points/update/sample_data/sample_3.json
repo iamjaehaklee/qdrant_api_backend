@@ -1,0 +1,16 @@
+{
+  "method": "PUT",
+  "path": "/points/7c9e6679-7425-40de-944b-e07fc1f90ae7",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {
+    "point_id": "7c9e6679-7425-40de-944b-e07fc1f90ae7"
+  },
+  "query_params": {},
+  "body": {
+    "storage_file_name": "2024/updated/file.pdf",
+    "original_file_name": "renamed_document.pdf"
+  }
+}

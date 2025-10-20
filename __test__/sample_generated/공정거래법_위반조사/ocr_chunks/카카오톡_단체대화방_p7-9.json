@@ -1,0 +1,161 @@
+{
+  "chunk_id": "f787d827-5f0a-4aad-83b5-407362282107",
+  "file_id": 50,
+  "project_id": 3001,
+  "storage_file_name": "87c5e03b-f88f-4843-b3a8-d137dc0d2b27-1760885381851.pdf",
+  "original_file_name": "카카오톡_단체대화방.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 20,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    7,
+    8,
+    9
+  ],
+  "chunk_number": 4,
+  "paragraph_texts": [
+    "8명. 주요 대화 내용: 입찰 일정 공유, '이번 건은 A사', '다음은 B사 순서', '가격은 예정가",
+    "'절대 독자 행동 하지 말 것'. 4개사가 조직적으로 입찰을 배분하고 가격을 조율한 명백한 증거. 담합의",
+    "B사 순서', '가격은 예정가 95% 이상 유지', '절대 독자 행동 하지 말 것'. 4개사가 조직적으로",
+    "참여자: 4개 건설사 담당자 8명. 주요 대화 내용: 입찰 일정 공유, '이번 건은 A사', '다음은",
+    "메시지). 참여자: 4개 건설사 담당자 8명. 주요 대화 내용: 입찰 일정 공유, '이번 건은 A사',",
+    "내용: 입찰 일정 공유, '이번 건은 A사', '다음은 B사 순서', '가격은 예정가 95% 이상 유지',",
+    "2월, 총 234건 메시지). 참여자: 4개 건설사 담당자 8명. 주요 대화 내용: 입찰 일정 공유,",
+    "95% 이상 유지', '절대 독자 행동 하지 말 것'. 4개사가 조직적으로 입찰을 배분하고 가격을 조율한"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "1a056a14-6303-4eb1-aef4-a35e83db45b4",
+        "idx_in_page": 0,
+        "text": "8명. 주요 대화 내용: 입찰 일정 공유, '이번 건은 A사', '다음은 B사 순서', '가격은 예정가",
+        "page": 7,
+        "bbox": {
+          "x": 198.0,
+          "y": 287.0,
+          "width": 1209.0,
+          "height": 306.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "1158ea6d-a3c8-489f-a952-732543122125",
+        "idx_in_page": 1,
+        "text": "'절대 독자 행동 하지 말 것'. 4개사가 조직적으로 입찰을 배분하고 가격을 조율한 명백한 증거. 담합의",
+        "page": 7,
+        "bbox": {
+          "x": 194.0,
+          "y": 806.0,
+          "width": 1254.0,
+          "height": 282.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "3e76f6fc-7971-429e-8530-7124f71146e2",
+        "idx_in_page": 2,
+        "text": "B사 순서', '가격은 예정가 95% 이상 유지', '절대 독자 행동 하지 말 것'. 4개사가 조직적으로",
+        "page": 7,
+        "bbox": {
+          "x": 200.0,
+          "y": 1483.0,
+          "width": 1209.0,
+          "height": 301.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "9ffa82a2-506b-4f78-8ed5-a132ef57c0eb",
+        "idx_in_page": 0,
+        "text": "참여자: 4개 건설사 담당자 8명. 주요 대화 내용: 입찰 일정 공유, '이번 건은 A사', '다음은",
+        "page": 8,
+        "bbox": {
+          "x": 186.0,
+          "y": 399.0,
+          "width": 1274.0,
+          "height": 339.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "82ebdbcf-8afd-4522-90b3-d2973a7e4de5",
+        "idx_in_page": 1,
+        "text": "메시지). 참여자: 4개 건설사 담당자 8명. 주요 대화 내용: 입찰 일정 공유, '이번 건은 A사',",
+        "page": 8,
+        "bbox": {
+          "x": 188.0,
+          "y": 923.0,
+          "width": 1262.0,
+          "height": 275.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "7e51c5a2-4eae-4c7c-9f9e-c828b53a6b7d",
+        "idx_in_page": 0,
+        "text": "내용: 입찰 일정 공유, '이번 건은 A사', '다음은 B사 순서', '가격은 예정가 95% 이상 유지',",
+        "page": 9,
+        "bbox": {
+          "x": 190.0,
+          "y": 274.0,
+          "width": 1251.0,
+          "height": 182.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "7b24b782-35fa-4fb9-937e-7370b840a30c",
+        "idx_in_page": 1,
+        "text": "2월, 총 234건 메시지). 참여자: 4개 건설사 담당자 8명. 주요 대화 내용: 입찰 일정 공유,",
+        "page": 9,
+        "bbox": {
+          "x": 182.0,
+          "y": 966.0,
+          "width": 1293.0,
+          "height": 210.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "86f3f858-4693-48ea-87db-92e3b24c816c",
+        "idx_in_page": 2,
+        "text": "95% 이상 유지', '절대 독자 행동 하지 말 것'. 4개사가 조직적으로 입찰을 배분하고 가격을 조율한",
+        "page": 9,
+        "bbox": {
+          "x": 195.0,
+          "y": 1472.0,
+          "width": 1294.0,
+          "height": 273.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 8,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.851933+00:00"
+}

@@ -1,0 +1,94 @@
+{
+  "method": "POST",
+  "path": "/points",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "file_id": 512,
+    "project_id": 20,
+    "storage_file_name": "2024/05/report.pdf",
+    "original_file_name": "annual_report_2024.pdf",
+    "mime_type": "application/pdf",
+    "total_pages": 100,
+    "processing_duration_seconds": 180,
+    "language": "en",
+    "pages": [
+      1,
+      2,
+      3
+    ],
+    "chunk_number": 1,
+    "paragraph_texts": [
+      "Annual Report 2024",
+      "Executive Summary",
+      "This comprehensive report covers all aspects of our operations in 2024."
+    ],
+    "chunk_content": {
+      "paragraphs": [
+        {
+          "paragraph_id": "para_report_1",
+          "idx_in_page": 0,
+          "text": "Annual Report 2024",
+          "page": 1,
+          "bbox": {
+            "x": 200.0,
+            "y": 100.0,
+            "width": 400.0,
+            "height": 30.0
+          },
+          "type": "title",
+          "confidence_score": 0.99
+        },
+        {
+          "paragraph_id": "para_report_2",
+          "idx_in_page": 1,
+          "text": "Executive Summary",
+          "page": 1,
+          "bbox": {
+            "x": 100.0,
+            "y": 150.0,
+            "width": 350.0,
+            "height": 22.0
+          },
+          "type": "heading",
+          "confidence_score": 0.98
+        },
+        {
+          "paragraph_id": "para_report_3",
+          "idx_in_page": 0,
+          "text": "This comprehensive report covers all aspects of our operations in 2024.",
+          "page": 2,
+          "bbox": {
+            "x": 100.0,
+            "y": 100.0,
+            "width": 500.0,
+            "height": 18.0
+          },
+          "type": "text",
+          "confidence_score": 0.96
+        }
+      ]
+    },
+    "page_dimensions": [
+      {
+        "page": 1,
+        "width": 595,
+        "height": 842
+      },
+      {
+        "page": 2,
+        "width": 595,
+        "height": 842
+      },
+      {
+        "page": 3,
+        "width": 595,
+        "height": 842
+      }
+    ]
+  }
+}

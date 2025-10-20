@@ -1,0 +1,146 @@
+{
+  "chunk_id": "2b8f449d-c133-4e56-a07b-0ca3d92d0a6c",
+  "file_id": 58,
+  "project_id": 3001,
+  "storage_file_name": "627c0c41-d001-4e39-bdeb-aedf055f74e4-1760885381865.pdf",
+  "original_file_name": "현장조사보고서_서울엔지니어링.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 17,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "녹음 파일 3건. 주요 발견 사항: 담당 부장의 개인 녹음기에서 비공식 회의 녹취록 확보. 녹취",
+    "11일). 조사관 4명 투입. 압수물품: 영업팀 PC 5대, 입찰 관련 문서 89권, 녹음 파일 3건.",
+    "5대, 입찰 관련 문서 89권, 녹음 파일 3건. 주요 발견 사항: 담당 부장의 개인 녹음기에서",
+    "2024년 4월 11일). 조사관 4명 투입. 압수물품: 영업팀 PC 5대, 입찰 관련 문서 89권, 녹음",
+    "(조사일 2024년 4월 11일). 조사관 4명 투입. 압수물품: 영업팀 PC 5대, 입찰 관련 문서 89권,",
+    "3건. 주요 발견 사항: 담당 부장의 개인 녹음기에서 비공식 회의 녹취록 확보. 녹취 내용에 4개사",
+    "압수물품: 영업팀 PC 5대, 입찰 관련 문서 89권, 녹음 파일 3건. 주요 발견 사항: 담당"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "e89c4634-93f5-4f62-a225-5405be95d502",
+        "idx_in_page": 0,
+        "text": "녹음 파일 3건. 주요 발견 사항: 담당 부장의 개인 녹음기에서 비공식 회의 녹취록 확보. 녹취",
+        "page": 1,
+        "bbox": {
+          "x": 192.0,
+          "y": 283.0,
+          "width": 1282.0,
+          "height": 211.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "25d00644-27db-418a-b874-5371bead8fd0",
+        "idx_in_page": 1,
+        "text": "11일). 조사관 4명 투입. 압수물품: 영업팀 PC 5대, 입찰 관련 문서 89권, 녹음 파일 3건.",
+        "page": 1,
+        "bbox": {
+          "x": 182.0,
+          "y": 982.0,
+          "width": 1297.0,
+          "height": 167.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "132600ce-decf-456f-8bc5-f367e7e2917a",
+        "idx_in_page": 0,
+        "text": "5대, 입찰 관련 문서 89권, 녹음 파일 3건. 주요 발견 사항: 담당 부장의 개인 녹음기에서",
+        "page": 2,
+        "bbox": {
+          "x": 194.0,
+          "y": 363.0,
+          "width": 1289.0,
+          "height": 259.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "aeb24155-ccdd-4929-abf4-500745e67cc0",
+        "idx_in_page": 1,
+        "text": "2024년 4월 11일). 조사관 4명 투입. 압수물품: 영업팀 PC 5대, 입찰 관련 문서 89권, 녹음",
+        "page": 2,
+        "bbox": {
+          "x": 182.0,
+          "y": 872.0,
+          "width": 1223.0,
+          "height": 301.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "35246372-67b1-4fd1-ac38-832b07246b31",
+        "idx_in_page": 2,
+        "text": "(조사일 2024년 4월 11일). 조사관 4명 투입. 압수물품: 영업팀 PC 5대, 입찰 관련 문서 89권,",
+        "page": 2,
+        "bbox": {
+          "x": 190.0,
+          "y": 1468.0,
+          "width": 1300.0,
+          "height": 255.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "cd7a1fc2-9346-40d3-a8af-b2b80e2c382f",
+        "idx_in_page": 0,
+        "text": "3건. 주요 발견 사항: 담당 부장의 개인 녹음기에서 비공식 회의 녹취록 확보. 녹취 내용에 4개사",
+        "page": 3,
+        "bbox": {
+          "x": 186.0,
+          "y": 375.0,
+          "width": 1279.0,
+          "height": 358.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "09c3c49f-6b54-4b46-88e7-e3d3c663ace9",
+        "idx_in_page": 1,
+        "text": "압수물품: 영업팀 PC 5대, 입찰 관련 문서 89권, 녹음 파일 3건. 주요 발견 사항: 담당",
+        "page": 3,
+        "bbox": {
+          "x": 193.0,
+          "y": 838.0,
+          "width": 1217.0,
+          "height": 286.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.865865+00:00"
+}

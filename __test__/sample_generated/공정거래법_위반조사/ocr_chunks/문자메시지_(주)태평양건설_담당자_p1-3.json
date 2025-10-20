@@ -1,0 +1,146 @@
+{
+  "chunk_id": "bb2a47c6-503d-4a38-8cbe-951385548646",
+  "file_id": 30,
+  "project_id": 3001,
+  "storage_file_name": "a87d44d0-42dc-4f3e-81b0-8fee422c3e0a-1760885381815.pdf",
+  "original_file_name": "문자메시지_(주)태평양건설_담당자.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 11,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "다수 (타 건설사 담당자 추정). 발신일시 2023년 12월 3일 오후 2:15. 내용: '내일 회동 장소",
+    "문자메시지 기록. 발신: 김철수 과장 ((주)태평양건설 과장), 수신: 다수 (타 건설사 담당자 추정). 발신일시 2023년",
+    "발신: 김철수 과장 ((주)태평양건설 과장), 수신: 다수 (타 건설사 담당자 추정). 발신일시 2023년 12월 3일",
+    "담당자 추정). 발신일시 2023년 12월 3일 오후 2:15. 내용: '내일 회동 장소 강남역 인근 카페,",
+    "기록. 발신: 김철수 과장 ((주)태평양건설 과장), 수신: 다수 (타 건설사 담당자 추정). 발신일시 2023년 12월",
+    "카페, 오후 3시. 꼭 참석 부탁드립니다.' 인천공항 제2여객터미널 건설 입찰을 앞둔 시점의 비공식 회의 소집",
+    "수신: 다수 (타 건설사 담당자 추정). 발신일시 2023년 12월 3일 오후 2:15. 내용: '내일 회동"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "9938e4ea-cd0a-4c6c-9965-89b9266f68d3",
+        "idx_in_page": 0,
+        "text": "다수 (타 건설사 담당자 추정). 발신일시 2023년 12월 3일 오후 2:15. 내용: '내일 회동 장소",
+        "page": 1,
+        "bbox": {
+          "x": 192.0,
+          "y": 260.0,
+          "width": 1218.0,
+          "height": 236.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "8b763e93-3822-4f12-83cb-d00aeb44db36",
+        "idx_in_page": 1,
+        "text": "문자메시지 기록. 발신: 김철수 과장 ((주)태평양건설 과장), 수신: 다수 (타 건설사 담당자 추정). 발신일시 2023년",
+        "page": 1,
+        "bbox": {
+          "x": 183.0,
+          "y": 938.0,
+          "width": 1227.0,
+          "height": 188.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "b8d3124e-c804-43c1-ac77-1c1715875a37",
+        "idx_in_page": 2,
+        "text": "발신: 김철수 과장 ((주)태평양건설 과장), 수신: 다수 (타 건설사 담당자 추정). 발신일시 2023년 12월 3일",
+        "page": 1,
+        "bbox": {
+          "x": 192.0,
+          "y": 1521.0,
+          "width": 1262.0,
+          "height": 239.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "7440539b-8268-4ef7-8647-bafcdbd6b3bc",
+        "idx_in_page": 0,
+        "text": "담당자 추정). 발신일시 2023년 12월 3일 오후 2:15. 내용: '내일 회동 장소 강남역 인근 카페,",
+        "page": 2,
+        "bbox": {
+          "x": 196.0,
+          "y": 278.0,
+          "width": 1233.0,
+          "height": 184.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "c24ac758-e4c2-438a-9f8b-6b9cb85b81c3",
+        "idx_in_page": 1,
+        "text": "기록. 발신: 김철수 과장 ((주)태평양건설 과장), 수신: 다수 (타 건설사 담당자 추정). 발신일시 2023년 12월",
+        "page": 2,
+        "bbox": {
+          "x": 197.0,
+          "y": 996.0,
+          "width": 1268.0,
+          "height": 379.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "4a2519a7-cf09-460e-93de-003335d0e32c",
+        "idx_in_page": 0,
+        "text": "카페, 오후 3시. 꼭 참석 부탁드립니다.' 인천공항 제2여객터미널 건설 입찰을 앞둔 시점의 비공식 회의 소집",
+        "page": 3,
+        "bbox": {
+          "x": 182.0,
+          "y": 287.0,
+          "width": 1291.0,
+          "height": 280.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "dc5cd9f9-9b53-4fa0-a6ca-8731c4c4fbf2",
+        "idx_in_page": 1,
+        "text": "수신: 다수 (타 건설사 담당자 추정). 발신일시 2023년 12월 3일 오후 2:15. 내용: '내일 회동",
+        "page": 3,
+        "bbox": {
+          "x": 191.0,
+          "y": 862.0,
+          "width": 1263.0,
+          "height": 313.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.815481+00:00"
+}

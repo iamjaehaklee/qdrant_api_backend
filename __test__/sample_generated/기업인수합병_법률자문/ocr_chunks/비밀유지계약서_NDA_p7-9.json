@@ -1,0 +1,176 @@
+{
+  "chunk_id": "27c338d9-f3c6-4aa0-b7e8-e7017fcc0d2f",
+  "file_id": 23,
+  "project_id": 5001,
+  "storage_file_name": "9e956b34-5ea0-4728-a9dd-fa43de670da7-1792522742890.pdf",
+  "original_file_name": "비밀유지계약서_NDA.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 15,
+  "processing_duration_seconds": 4,
+  "language": "ko",
+  "pages": [
+    7,
+    8,
+    9
+  ],
+  "chunk_number": 4,
+  "paragraph_texts": [
+    "본 계약에서 사용하는 용어의 정의는 다음과 같다. 예외: 법령상 공개의무 정보, 이미 공지된 정보, 독자 개발 정보",
+    "제1조 (당사자) 위반 시 손해배상: 실손해액 + 징벌적 손해배상 (3배액). 양 당사자는 본 계약에 정한 권리와 의무를 성실히 이행한다.",
+    "제2조 (거래조건) 비밀유지계약서 (Non-Disclosure Agreement) 본 거래의 세부 조건은 별첨 자료에 명시된 바와 같다.",
+    "본 계약에서 사용하는 용어의 정의는 다음과 같다. 위반 시 손해배상: 실손해액 + 징벌적 손해배상 (3배액).",
+    "제1조 (당사자) 수령당사자 (Receiving Party): (주)글로벌미디어그룹 양 당사자는 본 계약에 정한 권리와 의무를 성실히 이행한다.",
+    "제2조 (거래조건) 수령당사자 (Receiving Party): (주)글로벌미디어그룹 본 거래의 세부 조건은 별첨 자료에 명시된 바와 같다.",
+    "본 계약에서 사용하는 용어의 정의는 다음과 같다. 비밀유지계약서 (Non-Disclosure Agreement)",
+    "제1조 (당사자) 위반 시 손해배상: 실손해액 + 징벌적 손해배상 (3배액). 양 당사자는 본 계약에 정한 권리와 의무를 성실히 이행한다.",
+    "제2조 (거래조건) 의무사항: 목적 외 사용 금지, 제3자 공개 금지, 반환 또는 폐기 의무 본 거래의 세부 조건은 별첨 자료에 명시된 바와 같다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "096bb8a1-eebd-4a90-9ee4-5737fa56e968",
+        "idx_in_page": 0,
+        "text": "본 계약에서 사용하는 용어의 정의는 다음과 같다. 예외: 법령상 공개의무 정보, 이미 공지된 정보, 독자 개발 정보",
+        "page": 7,
+        "bbox": {
+          "x": 36.0,
+          "y": 51.0,
+          "width": 1357.0,
+          "height": 29.0
+        },
+        "type": "body",
+        "confidence_score": 0.9606569161
+      },
+      {
+        "paragraph_id": "85e94092-1b02-4ca6-bc74-494270031063",
+        "idx_in_page": 1,
+        "text": "제1조 (당사자) 위반 시 손해배상: 실손해액 + 징벌적 손해배상 (3배액). 양 당사자는 본 계약에 정한 권리와 의무를 성실히 이행한다.",
+        "page": 7,
+        "bbox": {
+          "x": 192.78846425272712,
+          "y": 247.70680599007483,
+          "width": 1279.628436504433,
+          "height": 50.0
+        },
+        "type": "body",
+        "confidence_score": 0.9400560269
+      },
+      {
+        "paragraph_id": "c15314d3-0cd3-45a5-ad47-b380b352e9c8",
+        "idx_in_page": 2,
+        "text": "제2조 (거래조건) 비밀유지계약서 (Non-Disclosure Agreement) 본 거래의 세부 조건은 별첨 자료에 명시된 바와 같다.",
+        "page": 7,
+        "bbox": {
+          "x": 185.84606061907115,
+          "y": 395.7344121166707,
+          "width": 1349.7842776133189,
+          "height": 50.0
+        },
+        "type": "body",
+        "confidence_score": 0.9636983896
+      },
+      {
+        "paragraph_id": "ef2f73f6-73ad-4aeb-a464-66cfbf949ab4",
+        "idx_in_page": 0,
+        "text": "본 계약에서 사용하는 용어의 정의는 다음과 같다. 위반 시 손해배상: 실손해액 + 징벌적 손해배상 (3배액).",
+        "page": 8,
+        "bbox": {
+          "x": 36.0,
+          "y": 51.0,
+          "width": 1357.0,
+          "height": 29.0
+        },
+        "type": "body",
+        "confidence_score": 0.9460193575
+      },
+      {
+        "paragraph_id": "f48100dd-c18c-4be1-bd64-a03adecfa773",
+        "idx_in_page": 1,
+        "text": "제1조 (당사자) 수령당사자 (Receiving Party): (주)글로벌미디어그룹 양 당사자는 본 계약에 정한 권리와 의무를 성실히 이행한다.",
+        "page": 8,
+        "bbox": {
+          "x": 190.32558642409455,
+          "y": 234.99310142017484,
+          "width": 1288.1733991775025,
+          "height": 50.0
+        },
+        "type": "body",
+        "confidence_score": 0.9488590484
+      },
+      {
+        "paragraph_id": "8a94c575-5703-4535-b96d-6002be452057",
+        "idx_in_page": 2,
+        "text": "제2조 (거래조건) 수령당사자 (Receiving Party): (주)글로벌미디어그룹 본 거래의 세부 조건은 별첨 자료에 명시된 바와 같다.",
+        "page": 8,
+        "bbox": {
+          "x": 192.82543682797177,
+          "y": 381.9957824018829,
+          "width": 1349.2889965866796,
+          "height": 50.0
+        },
+        "type": "body",
+        "confidence_score": 0.9491324699
+      },
+      {
+        "paragraph_id": "b965df43-84b9-4518-9827-d3160e0439fd",
+        "idx_in_page": 0,
+        "text": "본 계약에서 사용하는 용어의 정의는 다음과 같다. 비밀유지계약서 (Non-Disclosure Agreement)",
+        "page": 9,
+        "bbox": {
+          "x": 36.0,
+          "y": 51.0,
+          "width": 1357.0,
+          "height": 29.0
+        },
+        "type": "body",
+        "confidence_score": 0.9477194219
+      },
+      {
+        "paragraph_id": "52bf5cfd-be35-4ef9-9f07-e879a092077c",
+        "idx_in_page": 1,
+        "text": "제1조 (당사자) 위반 시 손해배상: 실손해액 + 징벌적 손해배상 (3배액). 양 당사자는 본 계약에 정한 권리와 의무를 성실히 이행한다.",
+        "page": 9,
+        "bbox": {
+          "x": 179.05992816239234,
+          "y": 268.1334939232716,
+          "width": 1322.9827804246054,
+          "height": 50.0
+        },
+        "type": "body",
+        "confidence_score": 0.945428923
+      },
+      {
+        "paragraph_id": "8e92db12-4dbb-4a5c-be1f-0a92cc7804b0",
+        "idx_in_page": 2,
+        "text": "제2조 (거래조건) 의무사항: 목적 외 사용 금지, 제3자 공개 금지, 반환 또는 폐기 의무 본 거래의 세부 조건은 별첨 자료에 명시된 바와 같다.",
+        "page": 9,
+        "bbox": {
+          "x": 183.99922482732535,
+          "y": 383.0933018539354,
+          "width": 1350.5524568759536,
+          "height": 50.0
+        },
+        "type": "body",
+        "confidence_score": 0.9488506618
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 8,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-05-17T00:00:00+00:00"
+}

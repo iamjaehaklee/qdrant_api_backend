@@ -1,0 +1,146 @@
+{
+  "chunk_id": "418a92f2-77ae-4196-9a1e-edc1514abbbc",
+  "file_id": 60,
+  "project_id": 3001,
+  "storage_file_name": "9492b64f-deac-4ff6-833a-f402350e0149-1760885381871.pdf",
+  "original_file_name": "현장조사보고서_한국종합건설.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 13,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "chunk_number": 3,
+  "paragraph_texts": [
+    "98권. 주요 발견 사항: 삭제된 이메일 복구 성공 (타사 협의 관련 89건). 사장 메일함에서 '(주)서울엔지니어링",
+    "(조사일 2024년 4월 9일). 조사관 5명 투입. 압수물품: 임원 노트북 6대, 외장하드 2개, 계약 및",
+    "문서 98권. 주요 발견 사항: 삭제된 이메일 복구 성공 (타사 협의 관련 89건). 사장 메일함에서",
+    "6대, 외장하드 2개, 계약 및 입찰 문서 98권. 주요 발견 사항: 삭제된 이메일 복구 성공",
+    "협의 관련 89건). 사장 메일함에서 '(주)서울엔지니어링 본부장과 합의 완료' 내용 확인. 고위 경영진의 담합 지시",
+    "압수물품: 임원 노트북 6대, 외장하드 2개, 계약 및 입찰 문서 98권. 주요 발견 사항: 삭제된",
+    "삭제된 이메일 복구 성공 (타사 협의 관련 89건). 사장 메일함에서 '(주)서울엔지니어링 본부장과 합의 완료' 내용"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "4548571b-89e4-4968-9f97-59232f3a012b",
+        "idx_in_page": 0,
+        "text": "98권. 주요 발견 사항: 삭제된 이메일 복구 성공 (타사 협의 관련 89건). 사장 메일함에서 '(주)서울엔지니어링",
+        "page": 5,
+        "bbox": {
+          "x": 196.0,
+          "y": 291.0,
+          "width": 1262.0,
+          "height": 368.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "0688603e-c235-49a5-a259-9d6664bb840f",
+        "idx_in_page": 1,
+        "text": "(조사일 2024년 4월 9일). 조사관 5명 투입. 압수물품: 임원 노트북 6대, 외장하드 2개, 계약 및",
+        "page": 5,
+        "bbox": {
+          "x": 185.0,
+          "y": 928.0,
+          "width": 1210.0,
+          "height": 170.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "b8d7d822-96ae-4a56-b233-a980b924209c",
+        "idx_in_page": 0,
+        "text": "문서 98권. 주요 발견 사항: 삭제된 이메일 복구 성공 (타사 협의 관련 89건). 사장 메일함에서",
+        "page": 6,
+        "bbox": {
+          "x": 190.0,
+          "y": 319.0,
+          "width": 1282.0,
+          "height": 260.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "ff486254-c3c4-41fb-a27b-8765b71f4adb",
+        "idx_in_page": 1,
+        "text": "6대, 외장하드 2개, 계약 및 입찰 문서 98권. 주요 발견 사항: 삭제된 이메일 복구 성공",
+        "page": 6,
+        "bbox": {
+          "x": 195.0,
+          "y": 991.0,
+          "width": 1287.0,
+          "height": 186.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "beffaac5-f0ef-4cc5-b578-9fa6416485ea",
+        "idx_in_page": 2,
+        "text": "협의 관련 89건). 사장 메일함에서 '(주)서울엔지니어링 본부장과 합의 완료' 내용 확인. 고위 경영진의 담합 지시",
+        "page": 6,
+        "bbox": {
+          "x": 194.0,
+          "y": 1589.0,
+          "width": 1299.0,
+          "height": 312.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "09401478-8b9c-43c8-8ffd-acc04c6119c0",
+        "idx_in_page": 0,
+        "text": "압수물품: 임원 노트북 6대, 외장하드 2개, 계약 및 입찰 문서 98권. 주요 발견 사항: 삭제된",
+        "page": 7,
+        "bbox": {
+          "x": 188.0,
+          "y": 212.0,
+          "width": 1258.0,
+          "height": 340.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "fed9d498-6067-4f4c-a7e1-1a255fc8170c",
+        "idx_in_page": 1,
+        "text": "삭제된 이메일 복구 성공 (타사 협의 관련 89건). 사장 메일함에서 '(주)서울엔지니어링 본부장과 합의 완료' 내용",
+        "page": 7,
+        "bbox": {
+          "x": 198.0,
+          "y": 897.0,
+          "width": 1272.0,
+          "height": 395.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 6,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.871342+00:00"
+}

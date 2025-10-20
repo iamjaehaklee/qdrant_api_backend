@@ -1,0 +1,146 @@
+{
+  "chunk_id": "3add0be2-48dc-4ee9-91b5-17f4cab28129",
+  "file_id": 48,
+  "project_id": 3001,
+  "storage_file_name": "8ad0b92a-79f5-4d1f-ba43-1e80381d53a4-1760885381847.pdf",
+  "original_file_name": "진술조서_박영수 부장.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 18,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    9,
+    10,
+    11
+  ],
+  "chunk_number": 5,
+  "paragraph_texts": [
+    "모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에 따른 것일",
+    "진술 요지: 비공식 회의 참석 사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과 가격 협의가",
+    "결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에 따른 것일 뿐 본인 의사가",
+    "단순 친목 모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에",
+    "사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사",
+    "시인. 그러나 회사 경영진의 지시에 따른 것일 뿐 본인 의사가 아니었다고 주장. 책임 회피 태도",
+    "단순 친목 모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "7875a6a8-a147-4f1a-b0de-17b58d1411e0",
+        "idx_in_page": 0,
+        "text": "모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에 따른 것일",
+        "page": 9,
+        "bbox": {
+          "x": 195.0,
+          "y": 244.0,
+          "width": 1246.0,
+          "height": 293.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "35a77d94-f840-4e9d-be6e-33ff24be0a62",
+        "idx_in_page": 1,
+        "text": "진술 요지: 비공식 회의 참석 사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과 가격 협의가",
+        "page": 9,
+        "bbox": {
+          "x": 188.0,
+          "y": 894.0,
+          "width": 1273.0,
+          "height": 342.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "f1b35e12-29bf-47d0-9647-7844a098fef8",
+        "idx_in_page": 2,
+        "text": "결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에 따른 것일 뿐 본인 의사가",
+        "page": 9,
+        "bbox": {
+          "x": 194.0,
+          "y": 1433.0,
+          "width": 1295.0,
+          "height": 159.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "420654d2-3bb3-4ba2-b350-5d4d4cc01302",
+        "idx_in_page": 0,
+        "text": "단순 친목 모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에",
+        "page": 10,
+        "bbox": {
+          "x": 197.0,
+          "y": 252.0,
+          "width": 1294.0,
+          "height": 272.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "28bc4afa-63d9-45c3-a7a5-8a0477b91ddc",
+        "idx_in_page": 1,
+        "text": "사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사",
+        "page": 10,
+        "bbox": {
+          "x": 196.0,
+          "y": 962.0,
+          "width": 1298.0,
+          "height": 153.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "91b8509e-1cd0-4e87-83d2-73514bce110e",
+        "idx_in_page": 0,
+        "text": "시인. 그러나 회사 경영진의 지시에 따른 것일 뿐 본인 의사가 아니었다고 주장. 책임 회피 태도",
+        "page": 11,
+        "bbox": {
+          "x": 188.0,
+          "y": 315.0,
+          "width": 1238.0,
+          "height": 313.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "83f6882b-1021-4f82-af4b-b54cd8d46fc3",
+        "idx_in_page": 1,
+        "text": "단순 친목 모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에",
+        "page": 11,
+        "bbox": {
+          "x": 191.0,
+          "y": 848.0,
+          "width": 1234.0,
+          "height": 164.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 10,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.847888+00:00"
+}

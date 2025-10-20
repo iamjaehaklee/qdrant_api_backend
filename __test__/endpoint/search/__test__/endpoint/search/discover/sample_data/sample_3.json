@@ -1,0 +1,18 @@
+{
+  "method": "POST",
+  "path": "/search/discover",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "target": {
+      "positive": ["550e8400-e29b-41d4-a716-446655440013"],
+      "negative": ["550e8400-e29b-41d4-a716-446655440092", "550e8400-e29b-41d4-a716-446655440093"]
+    },
+    "limit": 20,
+    "filter_project_id": 8
+  }
+}

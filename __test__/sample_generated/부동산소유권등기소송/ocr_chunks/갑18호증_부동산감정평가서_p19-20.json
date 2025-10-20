@@ -1,0 +1,95 @@
+{
+  "chunk_id": "53185130-afa9-4a73-98e6-8282a7968958",
+  "file_id": 29,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a18_appraisal.pdf",
+  "original_file_name": "갑18호증_부동산감정평가서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 20,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    19,
+    20
+  ],
+  "chunk_number": 10,
+  "paragraph_texts": [
+    "[19페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+    "기준시점: 2024년 6월 1일",
+    "[20페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+    "기준시점: 2024년 6월 1일"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-029-010-000-0",
+        "idx_in_page": 0,
+        "text": "[19페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "page": 19,
+        "bbox": {
+          "x": 183.09,
+          "y": 101.61,
+          "width": 1329.55,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-029-010-000-1",
+        "idx_in_page": 1,
+        "text": "기준시점: 2024년 6월 1일",
+        "page": 19,
+        "bbox": {
+          "x": 194.33,
+          "y": 1188.08,
+          "width": 1260.77,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-029-010-001-0",
+        "idx_in_page": 0,
+        "text": "[20페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "page": 20,
+        "bbox": {
+          "x": 184.03,
+          "y": 107.05,
+          "width": 1236.09,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-029-010-001-1",
+        "idx_in_page": 1,
+        "text": "기준시점: 2024년 6월 1일",
+        "page": 20,
+        "bbox": {
+          "x": 207.19,
+          "y": 1190.62,
+          "width": 1301.05,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 19,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 20,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-11T00:00:00+00:00"
+}

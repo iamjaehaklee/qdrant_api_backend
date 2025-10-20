@@ -1,0 +1,161 @@
+{
+  "chunk_id": "a3edd32a-1694-4589-9430-214911e86154",
+  "file_id": 50,
+  "project_id": 3001,
+  "storage_file_name": "d3860c97-491a-4abb-b907-12130d61860d-1760885381853.pdf",
+  "original_file_name": "카카오톡_단체대화방.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 20,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    17,
+    18,
+    19
+  ],
+  "chunk_number": 9,
+  "paragraph_texts": [
+    "B사 순서', '가격은 예정가 95% 이상 유지', '절대 독자 행동 하지 말 것'. 4개사가 조직적으로",
+    "'협력회' 대화내용 (2023년 10월~2024년 2월, 총 234건 메시지). 참여자: 4개 건설사 담당자 8명. 주요 대화",
+    "대화 내용: 입찰 일정 공유, '이번 건은 A사', '다음은 B사 순서', '가격은 예정가 95% 이상",
+    "2월, 총 234건 메시지). 참여자: 4개 건설사 담당자 8명. 주요 대화 내용: 입찰 일정 공유,",
+    "예정가 95% 이상 유지', '절대 독자 행동 하지 말 것'. 4개사가 조직적으로 입찰을 배분하고 가격을",
+    "대화 내용: 입찰 일정 공유, '이번 건은 A사', '다음은 B사 순서', '가격은 예정가 95% 이상",
+    "공유, '이번 건은 A사', '다음은 B사 순서', '가격은 예정가 95% 이상 유지', '절대 독자 행동",
+    "카카오톡 단체 대화방 '협력회' 대화내용 (2023년 10월~2024년 2월, 총 234건 메시지). 참여자: 4개 건설사 담당자"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "ece46359-41cb-43fb-b939-b76fb9aed6fe",
+        "idx_in_page": 0,
+        "text": "B사 순서', '가격은 예정가 95% 이상 유지', '절대 독자 행동 하지 말 것'. 4개사가 조직적으로",
+        "page": 17,
+        "bbox": {
+          "x": 196.0,
+          "y": 254.0,
+          "width": 1279.0,
+          "height": 332.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "acf01441-fc76-4875-9616-40a4080b287d",
+        "idx_in_page": 1,
+        "text": "'협력회' 대화내용 (2023년 10월~2024년 2월, 총 234건 메시지). 참여자: 4개 건설사 담당자 8명. 주요 대화",
+        "page": 17,
+        "bbox": {
+          "x": 184.0,
+          "y": 858.0,
+          "width": 1259.0,
+          "height": 385.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "56e8e235-dd71-40ce-8d91-acdf6eea905f",
+        "idx_in_page": 2,
+        "text": "대화 내용: 입찰 일정 공유, '이번 건은 A사', '다음은 B사 순서', '가격은 예정가 95% 이상",
+        "page": 17,
+        "bbox": {
+          "x": 194.0,
+          "y": 1562.0,
+          "width": 1292.0,
+          "height": 389.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "1320f0d9-4d33-4cdb-bb16-4adebea38339",
+        "idx_in_page": 0,
+        "text": "2월, 총 234건 메시지). 참여자: 4개 건설사 담당자 8명. 주요 대화 내용: 입찰 일정 공유,",
+        "page": 18,
+        "bbox": {
+          "x": 197.0,
+          "y": 206.0,
+          "width": 1200.0,
+          "height": 243.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "8d8d3461-e96f-4c80-a855-7740cc105c35",
+        "idx_in_page": 1,
+        "text": "예정가 95% 이상 유지', '절대 독자 행동 하지 말 것'. 4개사가 조직적으로 입찰을 배분하고 가격을",
+        "page": 18,
+        "bbox": {
+          "x": 196.0,
+          "y": 893.0,
+          "width": 1276.0,
+          "height": 183.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "9fa510e8-0fd0-4e12-99c0-64b9cc19dbeb",
+        "idx_in_page": 2,
+        "text": "대화 내용: 입찰 일정 공유, '이번 건은 A사', '다음은 B사 순서', '가격은 예정가 95% 이상",
+        "page": 18,
+        "bbox": {
+          "x": 196.0,
+          "y": 1458.0,
+          "width": 1285.0,
+          "height": 322.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "5e03192a-bafb-4c40-9bc4-400137cc180b",
+        "idx_in_page": 0,
+        "text": "공유, '이번 건은 A사', '다음은 B사 순서', '가격은 예정가 95% 이상 유지', '절대 독자 행동",
+        "page": 19,
+        "bbox": {
+          "x": 197.0,
+          "y": 210.0,
+          "width": 1251.0,
+          "height": 180.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "6a451e93-4b5d-4edd-859a-3b2b55b639bc",
+        "idx_in_page": 1,
+        "text": "카카오톡 단체 대화방 '협력회' 대화내용 (2023년 10월~2024년 2월, 총 234건 메시지). 참여자: 4개 건설사 담당자",
+        "page": 19,
+        "bbox": {
+          "x": 191.0,
+          "y": 999.0,
+          "width": 1205.0,
+          "height": 318.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 17,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 18,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 19,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.853195+00:00"
+}

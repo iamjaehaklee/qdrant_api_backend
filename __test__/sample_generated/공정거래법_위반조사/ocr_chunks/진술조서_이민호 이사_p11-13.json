@@ -1,0 +1,146 @@
+{
+  "chunk_id": "d9f8c231-1dd7-49fe-ab1a-c2834bd0a237",
+  "file_id": 49,
+  "project_id": 3001,
+  "storage_file_name": "1659214a-604b-44ad-ad55-a1ca6eed077f-1760885381850.pdf",
+  "original_file_name": "진술조서_이민호 이사.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 15,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    11,
+    12,
+    13
+  ],
+  "chunk_number": 6,
+  "paragraph_texts": [
+    "진술조서 (2024년 5월 17일). 진술 요지: 타사 담당자와 연락한 것은 인정하나 담합 의도는 전혀 없었다고",
+    "요지: 타사 담당자와 연락한 것은 인정하나 담합 의도는 전혀 없었다고 주장. 단순히 업계 정보를 교류하는",
+    "타사 담당자와 연락한 것은 인정하나 담합 의도는 전혀 없었다고 주장. 단순히 업계 정보를 교류하는 수준이었으며,",
+    "인정하나 담합 의도는 전혀 없었다고 주장. 단순히 업계 정보를 교류하는 수준이었으며, 입찰가는 회사 내부에서 독자적으로",
+    "진술조서 (2024년 5월 17일). 진술 요지: 타사 담당자와 연락한 것은 인정하나 담합 의도는 전혀 없었다고",
+    "진술조서 (2024년 5월 17일). 진술 요지: 타사 담당자와 연락한 것은 인정하나 담합 의도는 전혀 없었다고",
+    "담당자와 연락한 것은 인정하나 담합 의도는 전혀 없었다고 주장. 단순히 업계 정보를 교류하는 수준이었으며, 입찰가는"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "63fd0ba5-60a2-4f57-a3f5-bd590e000659",
+        "idx_in_page": 0,
+        "text": "진술조서 (2024년 5월 17일). 진술 요지: 타사 담당자와 연락한 것은 인정하나 담합 의도는 전혀 없었다고",
+        "page": 11,
+        "bbox": {
+          "x": 195.0,
+          "y": 205.0,
+          "width": 1255.0,
+          "height": 239.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "d89f04ba-7f0d-4f74-9092-e91e1a2fa407",
+        "idx_in_page": 1,
+        "text": "요지: 타사 담당자와 연락한 것은 인정하나 담합 의도는 전혀 없었다고 주장. 단순히 업계 정보를 교류하는",
+        "page": 11,
+        "bbox": {
+          "x": 182.0,
+          "y": 976.0,
+          "width": 1280.0,
+          "height": 154.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "4003ee07-4946-4ab5-9cd0-6b239da85b39",
+        "idx_in_page": 0,
+        "text": "타사 담당자와 연락한 것은 인정하나 담합 의도는 전혀 없었다고 주장. 단순히 업계 정보를 교류하는 수준이었으며,",
+        "page": 12,
+        "bbox": {
+          "x": 190.0,
+          "y": 344.0,
+          "width": 1202.0,
+          "height": 207.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "6c3e5a92-6b4e-4b33-9836-e99d81c76d9e",
+        "idx_in_page": 1,
+        "text": "인정하나 담합 의도는 전혀 없었다고 주장. 단순히 업계 정보를 교류하는 수준이었으며, 입찰가는 회사 내부에서 독자적으로",
+        "page": 12,
+        "bbox": {
+          "x": 193.0,
+          "y": 952.0,
+          "width": 1267.0,
+          "height": 289.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "108abcce-2c66-4448-a488-e9f2a77f1d4b",
+        "idx_in_page": 0,
+        "text": "진술조서 (2024년 5월 17일). 진술 요지: 타사 담당자와 연락한 것은 인정하나 담합 의도는 전혀 없었다고",
+        "page": 13,
+        "bbox": {
+          "x": 199.0,
+          "y": 307.0,
+          "width": 1276.0,
+          "height": 169.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "5293a127-1d6d-447d-bcff-7a91d2849aeb",
+        "idx_in_page": 1,
+        "text": "진술조서 (2024년 5월 17일). 진술 요지: 타사 담당자와 연락한 것은 인정하나 담합 의도는 전혀 없었다고",
+        "page": 13,
+        "bbox": {
+          "x": 199.0,
+          "y": 828.0,
+          "width": 1205.0,
+          "height": 304.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "e1b33f6f-e480-4057-814e-25b37e6292e4",
+        "idx_in_page": 2,
+        "text": "담당자와 연락한 것은 인정하나 담합 의도는 전혀 없었다고 주장. 단순히 업계 정보를 교류하는 수준이었으며, 입찰가는",
+        "page": 13,
+        "bbox": {
+          "x": 196.0,
+          "y": 1483.0,
+          "width": 1293.0,
+          "height": 238.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 12,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 13,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.850670+00:00"
+}

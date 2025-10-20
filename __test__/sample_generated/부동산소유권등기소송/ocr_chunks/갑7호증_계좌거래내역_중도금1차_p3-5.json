@@ -1,0 +1,401 @@
+{
+  "chunk_id": "08cdd6fb-ee3e-4d4a-86a0-c2eeb510d225",
+  "file_id": 18,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a7_account_interim1.pdf",
+  "original_file_name": "갑7호증_계좌거래내역_중도금1차.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 9,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "chunk_number": 2,
+  "paragraph_texts": [
+    "거래일시: 2024년 4월 15일 14:05:42",
+    "거래구분: 즉시이체",
+    "출금액: 150,000,000원",
+    "입금계좌: 국민은행 123-45-678901 (이영희)",
+    "거래 후 잔액: 8,920,000원",
+    "적요: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호 매매 중도금1차",
+    "비고: 대출 금 120,000,000원 + 자기자금 금 30,000,000원",
+    "페이지 3/9",
+    "거래일시: 2024년 4월 15일 14:05:42",
+    "거래구분: 즉시이체",
+    "출금액: 150,000,000원",
+    "입금계좌: 국민은행 123-45-678901 (이영희)",
+    "거래 후 잔액: 8,920,000원",
+    "적요: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호 매매 중도금1차",
+    "비고: 대출 금 120,000,000원 + 자기자금 금 30,000,000원",
+    "페이지 4/9",
+    "거래일시: 2024년 4월 15일 14:05:42",
+    "거래구분: 즉시이체",
+    "출금액: 150,000,000원",
+    "입금계좌: 국민은행 123-45-678901 (이영희)",
+    "거래 후 잔액: 8,920,000원",
+    "적요: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호 매매 중도금1차",
+    "비고: 대출 금 120,000,000원 + 자기자금 금 30,000,000원",
+    "페이지 5/9"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-018-002-002-0",
+        "idx_in_page": 0,
+        "text": "거래일시: 2024년 4월 15일 14:05:42",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 100,
+          "width": 1200,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-018-002-002-1",
+        "idx_in_page": 1,
+        "text": "거래구분: 즉시이체",
+        "page": 3,
+        "bbox": {
+          "x": 185,
+          "y": 160,
+          "width": 1210,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-018-002-002-2",
+        "idx_in_page": 2,
+        "text": "출금액: 150,000,000원",
+        "page": 3,
+        "bbox": {
+          "x": 190,
+          "y": 220,
+          "width": 1220,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-018-002-002-3",
+        "idx_in_page": 3,
+        "text": "입금계좌: 국민은행 123-45-678901 (이영희)",
+        "page": 3,
+        "bbox": {
+          "x": 195,
+          "y": 280,
+          "width": 1230,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-018-002-002-4",
+        "idx_in_page": 4,
+        "text": "거래 후 잔액: 8,920,000원",
+        "page": 3,
+        "bbox": {
+          "x": 200,
+          "y": 340,
+          "width": 1240,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-018-002-002-5",
+        "idx_in_page": 5,
+        "text": "적요: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호 매매 중도금1차",
+        "page": 3,
+        "bbox": {
+          "x": 205,
+          "y": 400,
+          "width": 1250,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-018-002-002-6",
+        "idx_in_page": 6,
+        "text": "비고: 대출 금 120,000,000원 + 자기자금 금 30,000,000원",
+        "page": 3,
+        "bbox": {
+          "x": 210,
+          "y": 460,
+          "width": 1260,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-018-002-002-7",
+        "idx_in_page": 7,
+        "text": "페이지 3/9",
+        "page": 3,
+        "bbox": {
+          "x": 215,
+          "y": 2300,
+          "width": 1270,
+          "height": 45
+        },
+        "type": "footer",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-018-002-003-0",
+        "idx_in_page": 0,
+        "text": "거래일시: 2024년 4월 15일 14:05:42",
+        "page": 4,
+        "bbox": {
+          "x": 180,
+          "y": 100,
+          "width": 1200,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-018-002-003-1",
+        "idx_in_page": 1,
+        "text": "거래구분: 즉시이체",
+        "page": 4,
+        "bbox": {
+          "x": 185,
+          "y": 160,
+          "width": 1210,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-018-002-003-2",
+        "idx_in_page": 2,
+        "text": "출금액: 150,000,000원",
+        "page": 4,
+        "bbox": {
+          "x": 190,
+          "y": 220,
+          "width": 1220,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-018-002-003-3",
+        "idx_in_page": 3,
+        "text": "입금계좌: 국민은행 123-45-678901 (이영희)",
+        "page": 4,
+        "bbox": {
+          "x": 195,
+          "y": 280,
+          "width": 1230,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-018-002-003-4",
+        "idx_in_page": 4,
+        "text": "거래 후 잔액: 8,920,000원",
+        "page": 4,
+        "bbox": {
+          "x": 200,
+          "y": 340,
+          "width": 1240,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-018-002-003-5",
+        "idx_in_page": 5,
+        "text": "적요: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호 매매 중도금1차",
+        "page": 4,
+        "bbox": {
+          "x": 205,
+          "y": 400,
+          "width": 1250,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-018-002-003-6",
+        "idx_in_page": 6,
+        "text": "비고: 대출 금 120,000,000원 + 자기자금 금 30,000,000원",
+        "page": 4,
+        "bbox": {
+          "x": 210,
+          "y": 460,
+          "width": 1260,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-018-002-003-7",
+        "idx_in_page": 7,
+        "text": "페이지 4/9",
+        "page": 4,
+        "bbox": {
+          "x": 215,
+          "y": 2300,
+          "width": 1270,
+          "height": 45
+        },
+        "type": "footer",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-018-002-004-0",
+        "idx_in_page": 0,
+        "text": "거래일시: 2024년 4월 15일 14:05:42",
+        "page": 5,
+        "bbox": {
+          "x": 180,
+          "y": 100,
+          "width": 1200,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-018-002-004-1",
+        "idx_in_page": 1,
+        "text": "거래구분: 즉시이체",
+        "page": 5,
+        "bbox": {
+          "x": 185,
+          "y": 160,
+          "width": 1210,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-018-002-004-2",
+        "idx_in_page": 2,
+        "text": "출금액: 150,000,000원",
+        "page": 5,
+        "bbox": {
+          "x": 190,
+          "y": 220,
+          "width": 1220,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-018-002-004-3",
+        "idx_in_page": 3,
+        "text": "입금계좌: 국민은행 123-45-678901 (이영희)",
+        "page": 5,
+        "bbox": {
+          "x": 195,
+          "y": 280,
+          "width": 1230,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-018-002-004-4",
+        "idx_in_page": 4,
+        "text": "거래 후 잔액: 8,920,000원",
+        "page": 5,
+        "bbox": {
+          "x": 200,
+          "y": 340,
+          "width": 1240,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-018-002-004-5",
+        "idx_in_page": 5,
+        "text": "적요: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호 매매 중도금1차",
+        "page": 5,
+        "bbox": {
+          "x": 205,
+          "y": 400,
+          "width": 1250,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-018-002-004-6",
+        "idx_in_page": 6,
+        "text": "비고: 대출 금 120,000,000원 + 자기자금 금 30,000,000원",
+        "page": 5,
+        "bbox": {
+          "x": 210,
+          "y": 460,
+          "width": 1260,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-018-002-004-7",
+        "idx_in_page": 7,
+        "text": "페이지 5/9",
+        "page": 5,
+        "bbox": {
+          "x": 215,
+          "y": 2300,
+          "width": 1270,
+          "height": 45
+        },
+        "type": "footer",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 4,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-03T00:00:00+00:00"
+}

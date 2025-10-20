@@ -1,0 +1,131 @@
+{
+  "chunk_id": "cae9c124-fc26-4aa7-9e7b-dc5e3cfd9adb",
+  "file_id": 28,
+  "project_id": 3001,
+  "storage_file_name": "3c0992ea-71ee-431e-b9d2-22da6cedeb14-1760885381813.pdf",
+  "original_file_name": "녹취록_비공식_회의_2차.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 11,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "chunk_number": 2,
+  "paragraph_texts": [
+    "실무자 8명. 회의 시간 1시간 45분. 주요 논의: 인천공항 제2여객터미널 건설 입찰가격 조율. '예정가가 1,200억",
+    "회의 녹취록 (2023년 12월 8일, 서울 여의도 소재 호텔 라운지). 참석자: 4개 건설사 실무자 8명.",
+    "인천공항 제2여객터미널 건설 입찰가격 조율. '예정가가 1,200억 정도 될 것 같은데 95.8% 선에서 맞추자', '(주)한국종합건설이",
+    "녹취록 (2023년 12월 8일, 서울 여의도 소재 호텔 라운지). 참석자: 4개 건설사 실무자 8명. 회의",
+    "될 것 같은데 95.8% 선에서 맞추자', '(주)한국종합건설이 낙찰받고 나머지는 96.5% 이상으로', '합의 깨는 순간 다",
+    "1시간 45분. 주요 논의: 인천공항 제2여객터미널 건설 입찰가격 조율. '예정가가 1,200억 정도 될 것 같은데"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "dea5ab0f-0097-49a3-b222-16367f97ff59",
+        "idx_in_page": 0,
+        "text": "실무자 8명. 회의 시간 1시간 45분. 주요 논의: 인천공항 제2여객터미널 건설 입찰가격 조율. '예정가가 1,200억",
+        "page": 3,
+        "bbox": {
+          "x": 199.0,
+          "y": 219.0,
+          "width": 1290.0,
+          "height": 188.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "5177773e-d631-45d5-b4c4-2c4d15567cf2",
+        "idx_in_page": 1,
+        "text": "회의 녹취록 (2023년 12월 8일, 서울 여의도 소재 호텔 라운지). 참석자: 4개 건설사 실무자 8명.",
+        "page": 3,
+        "bbox": {
+          "x": 189.0,
+          "y": 998.0,
+          "width": 1300.0,
+          "height": 318.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "63f6c466-1d0f-44f5-a570-7116405977b5",
+        "idx_in_page": 0,
+        "text": "인천공항 제2여객터미널 건설 입찰가격 조율. '예정가가 1,200억 정도 될 것 같은데 95.8% 선에서 맞추자', '(주)한국종합건설이",
+        "page": 4,
+        "bbox": {
+          "x": 190.0,
+          "y": 306.0,
+          "width": 1214.0,
+          "height": 400.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "1a37ba50-ec05-4f47-84c3-78cb55ede22b",
+        "idx_in_page": 1,
+        "text": "녹취록 (2023년 12월 8일, 서울 여의도 소재 호텔 라운지). 참석자: 4개 건설사 실무자 8명. 회의",
+        "page": 4,
+        "bbox": {
+          "x": 183.0,
+          "y": 921.0,
+          "width": 1300.0,
+          "height": 253.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "e8171a9b-e5c6-46bd-8f04-0644d57873ad",
+        "idx_in_page": 0,
+        "text": "될 것 같은데 95.8% 선에서 맞추자', '(주)한국종합건설이 낙찰받고 나머지는 96.5% 이상으로', '합의 깨는 순간 다",
+        "page": 5,
+        "bbox": {
+          "x": 187.0,
+          "y": 300.0,
+          "width": 1272.0,
+          "height": 336.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "b95d30ce-da40-43dc-b957-c90da9f70c2c",
+        "idx_in_page": 1,
+        "text": "1시간 45분. 주요 논의: 인천공항 제2여객터미널 건설 입찰가격 조율. '예정가가 1,200억 정도 될 것 같은데",
+        "page": 5,
+        "bbox": {
+          "x": 192.0,
+          "y": 817.0,
+          "width": 1279.0,
+          "height": 358.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 4,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.813981+00:00"
+}

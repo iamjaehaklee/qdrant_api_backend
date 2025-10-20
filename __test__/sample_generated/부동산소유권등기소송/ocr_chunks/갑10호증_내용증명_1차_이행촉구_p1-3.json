@@ -1,0 +1,131 @@
+{
+  "chunk_id": "fca3f987-ee98-4671-998e-def5b63b0efc",
+  "file_id": 21,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a10_notice1.pdf",
+  "original_file_name": "갑10호증_내용증명_1차_이행촉구.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 7,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "[1페이지] 내용증명 수신: 피고 이영희",
+    "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다.",
+    "[2페이지] 내용증명 수신: 피고 이영희",
+    "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다.",
+    "[3페이지] 내용증명 수신: 피고 이영희",
+    "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-021-001-000-0",
+        "idx_in_page": 0,
+        "text": "[1페이지] 내용증명 수신: 피고 이영희",
+        "page": 1,
+        "bbox": {
+          "x": 190.07,
+          "y": 98.16,
+          "width": 1248.95,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-021-001-000-1",
+        "idx_in_page": 1,
+        "text": "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다.",
+        "page": 1,
+        "bbox": {
+          "x": 192.43,
+          "y": 1191.93,
+          "width": 1277.96,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-021-001-001-0",
+        "idx_in_page": 0,
+        "text": "[2페이지] 내용증명 수신: 피고 이영희",
+        "page": 2,
+        "bbox": {
+          "x": 205.37,
+          "y": 93.77,
+          "width": 1296.61,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-021-001-001-1",
+        "idx_in_page": 1,
+        "text": "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다.",
+        "page": 2,
+        "bbox": {
+          "x": 190.69,
+          "y": 1192.82,
+          "width": 1276.22,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-021-001-002-0",
+        "idx_in_page": 0,
+        "text": "[3페이지] 내용증명 수신: 피고 이영희",
+        "page": 3,
+        "bbox": {
+          "x": 191.11,
+          "y": 107.83,
+          "width": 1240.91,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-021-001-002-1",
+        "idx_in_page": 1,
+        "text": "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다.",
+        "page": 3,
+        "bbox": {
+          "x": 192.59,
+          "y": 1191.3,
+          "width": 1281.57,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-02T00:00:00+00:00"
+}

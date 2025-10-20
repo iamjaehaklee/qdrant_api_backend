@@ -1,0 +1,131 @@
+{
+  "chunk_id": "d9b09065-c692-4d1b-9336-4489bce5211b",
+  "file_id": 59,
+  "project_id": 3001,
+  "storage_file_name": "9d5bba25-6493-4bba-9fb5-70a17a6577bf-1760885381870.pdf",
+  "original_file_name": "현장조사보고서_태평양건설.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 17,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    15,
+    16,
+    17
+  ],
+  "chunk_number": 8,
+  "paragraph_texts": [
+    "및 경영기획실 PC 4대, 사내 서버 1대, 입찰 관련 문서 125권, USB 메모리 3개. 주요",
+    "서버 1대, 입찰 관련 문서 125권, USB 메모리 3개. 주요 발견 사항: 타사와의 가격 협의",
+    "문서 125권, USB 메모리 3개. 주요 발견 사항: 타사와의 가격 협의 관련 내부 문서 다수",
+    "문서 다수 확보. 영업부장 컴퓨터에서 '입찰 배분 현황' 엑셀 파일 발견. 회사 차원의 조직적 담합",
+    "(조사일 2024년 4월 8일). 조사관 5명 투입. 압수물품: 영업부 및 경영기획실 PC 4대, 사내 서버",
+    "관련 문서 125권, USB 메모리 3개. 주요 발견 사항: 타사와의 가격 협의 관련 내부 문서"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "44b4aabb-0404-4c13-a2d2-211b31e84bae",
+        "idx_in_page": 0,
+        "text": "및 경영기획실 PC 4대, 사내 서버 1대, 입찰 관련 문서 125권, USB 메모리 3개. 주요",
+        "page": 15,
+        "bbox": {
+          "x": 191.0,
+          "y": 356.0,
+          "width": 1246.0,
+          "height": 344.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "fb4d870b-410f-4efd-9da6-81832e495c9a",
+        "idx_in_page": 1,
+        "text": "서버 1대, 입찰 관련 문서 125권, USB 메모리 3개. 주요 발견 사항: 타사와의 가격 협의",
+        "page": 15,
+        "bbox": {
+          "x": 184.0,
+          "y": 931.0,
+          "width": 1229.0,
+          "height": 200.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "2b075e99-e6cd-49ff-b8a9-264aedb1ce6e",
+        "idx_in_page": 0,
+        "text": "문서 125권, USB 메모리 3개. 주요 발견 사항: 타사와의 가격 협의 관련 내부 문서 다수",
+        "page": 16,
+        "bbox": {
+          "x": 186.0,
+          "y": 299.0,
+          "width": 1300.0,
+          "height": 345.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "a7aea63f-4817-42a5-ab71-f28b6dacc5ec",
+        "idx_in_page": 1,
+        "text": "문서 다수 확보. 영업부장 컴퓨터에서 '입찰 배분 현황' 엑셀 파일 발견. 회사 차원의 조직적 담합",
+        "page": 16,
+        "bbox": {
+          "x": 197.0,
+          "y": 967.0,
+          "width": 1283.0,
+          "height": 183.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "c52408cc-12b7-468b-8800-c4a9825c523a",
+        "idx_in_page": 0,
+        "text": "(조사일 2024년 4월 8일). 조사관 5명 투입. 압수물품: 영업부 및 경영기획실 PC 4대, 사내 서버",
+        "page": 17,
+        "bbox": {
+          "x": 196.0,
+          "y": 265.0,
+          "width": 1284.0,
+          "height": 208.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "205ed338-f334-490a-a418-7e4034699af1",
+        "idx_in_page": 1,
+        "text": "관련 문서 125권, USB 메모리 3개. 주요 발견 사항: 타사와의 가격 협의 관련 내부 문서",
+        "page": 17,
+        "bbox": {
+          "x": 180.0,
+          "y": 922.0,
+          "width": 1252.0,
+          "height": 180.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 15,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 16,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 17,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.870453+00:00"
+}

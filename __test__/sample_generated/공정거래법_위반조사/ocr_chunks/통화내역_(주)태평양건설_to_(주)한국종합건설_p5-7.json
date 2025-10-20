@@ -1,0 +1,146 @@
+{
+  "chunk_id": "82ee3d5e-b46e-4a35-8804-a6be5025631a",
+  "file_id": 55,
+  "project_id": 3001,
+  "storage_file_name": "846a1f3a-9008-40d9-9952-ca3344d1dcde-1760885381861.pdf",
+  "original_file_name": "통화내역_(주)태평양건설_to_(주)한국종합건설.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 8,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "chunk_number": 3,
+  "paragraph_texts": [
+    "((주)한국종합건설 입찰담당). 통화일시 2023년 11월 5일 14:23, 통화시간 15분 32초. 서울시 지하철 9호선 연장공사 입찰을",
+    "통화시간 15분 32초. 서울시 지하철 9호선 연장공사 입찰을 앞두고 이루어진 통화. 두 담당자는 입찰 예정가격과",
+    "통화시간 15분 32초. 서울시 지하철 9호선 연장공사 입찰을 앞두고 이루어진 통화. 두 담당자는 입찰 예정가격과",
+    "서울시 지하철 9호선 연장공사 입찰을 앞두고 이루어진 통화. 두 담당자는 입찰 예정가격과 각 사의 입찰",
+    "수신: 이민호 이사 ((주)한국종합건설 입찰담당). 통화일시 2023년 11월 5일 14:23, 통화시간 15분 32초. 서울시 지하철",
+    "서울시 지하철 9호선 연장공사 입찰을 앞두고 이루어진 통화. 두 담당자는 입찰 예정가격과 각 사의 입찰",
+    "이사 ((주)한국종합건설 입찰담당). 통화일시 2023년 11월 5일 14:23, 통화시간 15분 32초. 서울시 지하철 9호선 연장공사"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "f0f5f608-67a6-4be0-8d86-f783ef470e12",
+        "idx_in_page": 0,
+        "text": "((주)한국종합건설 입찰담당). 통화일시 2023년 11월 5일 14:23, 통화시간 15분 32초. 서울시 지하철 9호선 연장공사 입찰을",
+        "page": 5,
+        "bbox": {
+          "x": 182.0,
+          "y": 221.0,
+          "width": 1254.0,
+          "height": 196.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "0b563efa-4d3c-49af-903d-3c973ed5db0a",
+        "idx_in_page": 1,
+        "text": "통화시간 15분 32초. 서울시 지하철 9호선 연장공사 입찰을 앞두고 이루어진 통화. 두 담당자는 입찰 예정가격과",
+        "page": 5,
+        "bbox": {
+          "x": 183.0,
+          "y": 990.0,
+          "width": 1208.0,
+          "height": 386.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "09d84dc9-5fb1-42a5-a6c0-466d2eb2100b",
+        "idx_in_page": 0,
+        "text": "통화시간 15분 32초. 서울시 지하철 9호선 연장공사 입찰을 앞두고 이루어진 통화. 두 담당자는 입찰 예정가격과",
+        "page": 6,
+        "bbox": {
+          "x": 188.0,
+          "y": 270.0,
+          "width": 1254.0,
+          "height": 205.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "13d35885-709b-4118-af2e-a0c3d93a71a9",
+        "idx_in_page": 1,
+        "text": "서울시 지하철 9호선 연장공사 입찰을 앞두고 이루어진 통화. 두 담당자는 입찰 예정가격과 각 사의 입찰",
+        "page": 6,
+        "bbox": {
+          "x": 191.0,
+          "y": 975.0,
+          "width": 1219.0,
+          "height": 150.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "c97aebbf-b33e-40e1-b1b0-d72aeeaabf45",
+        "idx_in_page": 2,
+        "text": "수신: 이민호 이사 ((주)한국종합건설 입찰담당). 통화일시 2023년 11월 5일 14:23, 통화시간 15분 32초. 서울시 지하철",
+        "page": 6,
+        "bbox": {
+          "x": 180.0,
+          "y": 1445.0,
+          "width": 1203.0,
+          "height": 173.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "ecf7ab7e-ac13-4753-afe5-4b4d885f8ace",
+        "idx_in_page": 0,
+        "text": "서울시 지하철 9호선 연장공사 입찰을 앞두고 이루어진 통화. 두 담당자는 입찰 예정가격과 각 사의 입찰",
+        "page": 7,
+        "bbox": {
+          "x": 192.0,
+          "y": 332.0,
+          "width": 1233.0,
+          "height": 278.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "77ffdfbc-31db-45b7-8287-cc39e7c1c7e6",
+        "idx_in_page": 1,
+        "text": "이사 ((주)한국종합건설 입찰담당). 통화일시 2023년 11월 5일 14:23, 통화시간 15분 32초. 서울시 지하철 9호선 연장공사",
+        "page": 7,
+        "bbox": {
+          "x": 189.0,
+          "y": 975.0,
+          "width": 1246.0,
+          "height": 330.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 6,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.861865+00:00"
+}

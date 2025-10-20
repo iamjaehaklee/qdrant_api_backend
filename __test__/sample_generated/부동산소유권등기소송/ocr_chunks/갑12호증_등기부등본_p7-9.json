@@ -1,0 +1,131 @@
+{
+  "chunk_id": "965823c7-fbf6-40f8-89ad-45e21498d78e",
+  "file_id": 23,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a12_registry.pdf",
+  "original_file_name": "갑12호증_등기부등본.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 12,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    7,
+    8,
+    9
+  ],
+  "chunk_number": 4,
+  "paragraph_texts": [
+    "[7페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
+    "소유자: 이영희 (2020년 12월 15일 매매)",
+    "[8페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
+    "소유자: 이영희 (2020년 12월 15일 매매)",
+    "[9페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
+    "소유자: 이영희 (2020년 12월 15일 매매)"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-023-004-000-0",
+        "idx_in_page": 0,
+        "text": "[7페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
+        "page": 7,
+        "bbox": {
+          "x": 210.59,
+          "y": 104.72,
+          "width": 1282.52,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-023-004-000-1",
+        "idx_in_page": 1,
+        "text": "소유자: 이영희 (2020년 12월 15일 매매)",
+        "page": 7,
+        "bbox": {
+          "x": 201.31,
+          "y": 1187.52,
+          "width": 1307.0,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-023-004-001-0",
+        "idx_in_page": 0,
+        "text": "[8페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
+        "page": 8,
+        "bbox": {
+          "x": 182.66,
+          "y": 97.31,
+          "width": 1272.23,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-023-004-001-1",
+        "idx_in_page": 1,
+        "text": "소유자: 이영희 (2020년 12월 15일 매매)",
+        "page": 8,
+        "bbox": {
+          "x": 203.82,
+          "y": 1196.1,
+          "width": 1288.22,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-023-004-002-0",
+        "idx_in_page": 0,
+        "text": "[9페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
+        "page": 9,
+        "bbox": {
+          "x": 206.62,
+          "y": 90.3,
+          "width": 1251.17,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-023-004-002-1",
+        "idx_in_page": 1,
+        "text": "소유자: 이영희 (2020년 12월 15일 매매)",
+        "page": 9,
+        "bbox": {
+          "x": 182.35,
+          "y": 1197.39,
+          "width": 1272.89,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 8,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-05T00:00:00+00:00"
+}

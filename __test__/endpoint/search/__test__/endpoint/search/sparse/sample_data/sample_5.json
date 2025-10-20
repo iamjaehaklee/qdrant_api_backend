@@ -1,0 +1,16 @@
+{
+  "method": "POST",
+  "path": "/search/sparse",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "종합 분석 보고서",
+    "limit": 30,
+    "score_threshold": 0.7,
+    "filter_file_id": 256
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "chunk_id": "ed0633e0-680f-4a4d-95e0-de60af7c231c",
+  "file_id": 19,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a8_account_interim2.pdf",
+  "original_file_name": "갑8호증_계좌거래내역_중도금2차.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 8,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    7,
+    8
+  ],
+  "chunk_number": 4,
+  "paragraph_texts": [
+    "거래일시: 2024년 5월 15일 09:47:33",
+    "거래구분: 즉시이체",
+    "출금액: 150,000,000원",
+    "입금계좌: 국민은행 123-45-678901 (이영희)",
+    "거래 후 잔액: 1,230,000원",
+    "적요: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호 매매 중도금2차",
+    "비고: 대출 금 140,000,000원 + 친척 차용 금 10,000,000원",
+    "페이지 7/8",
+    "거래일시: 2024년 5월 15일 09:47:33",
+    "거래구분: 즉시이체",
+    "출금액: 150,000,000원",
+    "입금계좌: 국민은행 123-45-678901 (이영희)",
+    "거래 후 잔액: 1,230,000원",
+    "적요: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호 매매 중도금2차",
+    "비고: 대출 금 140,000,000원 + 친척 차용 금 10,000,000원",
+    "페이지 8/8"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-019-004-006-0",
+        "idx_in_page": 0,
+        "text": "거래일시: 2024년 5월 15일 09:47:33",
+        "page": 7,
+        "bbox": {
+          "x": 180,
+          "y": 100,
+          "width": 1200,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-019-004-006-1",
+        "idx_in_page": 1,
+        "text": "거래구분: 즉시이체",
+        "page": 7,
+        "bbox": {
+          "x": 185,
+          "y": 160,
+          "width": 1210,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-019-004-006-2",
+        "idx_in_page": 2,
+        "text": "출금액: 150,000,000원",
+        "page": 7,
+        "bbox": {
+          "x": 190,
+          "y": 220,
+          "width": 1220,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-019-004-006-3",
+        "idx_in_page": 3,
+        "text": "입금계좌: 국민은행 123-45-678901 (이영희)",
+        "page": 7,
+        "bbox": {
+          "x": 195,
+          "y": 280,
+          "width": 1230,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-019-004-006-4",
+        "idx_in_page": 4,
+        "text": "거래 후 잔액: 1,230,000원",
+        "page": 7,
+        "bbox": {
+          "x": 200,
+          "y": 340,
+          "width": 1240,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-019-004-006-5",
+        "idx_in_page": 5,
+        "text": "적요: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호 매매 중도금2차",
+        "page": 7,
+        "bbox": {
+          "x": 205,
+          "y": 400,
+          "width": 1250,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-019-004-006-6",
+        "idx_in_page": 6,
+        "text": "비고: 대출 금 140,000,000원 + 친척 차용 금 10,000,000원",
+        "page": 7,
+        "bbox": {
+          "x": 210,
+          "y": 460,
+          "width": 1260,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-019-004-006-7",
+        "idx_in_page": 7,
+        "text": "페이지 7/8",
+        "page": 7,
+        "bbox": {
+          "x": 215,
+          "y": 2300,
+          "width": 1270,
+          "height": 45
+        },
+        "type": "footer",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-019-004-007-0",
+        "idx_in_page": 0,
+        "text": "거래일시: 2024년 5월 15일 09:47:33",
+        "page": 8,
+        "bbox": {
+          "x": 180,
+          "y": 100,
+          "width": 1200,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-019-004-007-1",
+        "idx_in_page": 1,
+        "text": "거래구분: 즉시이체",
+        "page": 8,
+        "bbox": {
+          "x": 185,
+          "y": 160,
+          "width": 1210,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-019-004-007-2",
+        "idx_in_page": 2,
+        "text": "출금액: 150,000,000원",
+        "page": 8,
+        "bbox": {
+          "x": 190,
+          "y": 220,
+          "width": 1220,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-019-004-007-3",
+        "idx_in_page": 3,
+        "text": "입금계좌: 국민은행 123-45-678901 (이영희)",
+        "page": 8,
+        "bbox": {
+          "x": 195,
+          "y": 280,
+          "width": 1230,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-019-004-007-4",
+        "idx_in_page": 4,
+        "text": "거래 후 잔액: 1,230,000원",
+        "page": 8,
+        "bbox": {
+          "x": 200,
+          "y": 340,
+          "width": 1240,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-019-004-007-5",
+        "idx_in_page": 5,
+        "text": "적요: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호 매매 중도금2차",
+        "page": 8,
+        "bbox": {
+          "x": 205,
+          "y": 400,
+          "width": 1250,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-019-004-007-6",
+        "idx_in_page": 6,
+        "text": "비고: 대출 금 140,000,000원 + 친척 차용 금 10,000,000원",
+        "page": 8,
+        "bbox": {
+          "x": 210,
+          "y": 460,
+          "width": 1260,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-019-004-007-7",
+        "idx_in_page": 7,
+        "text": "페이지 8/8",
+        "page": 8,
+        "bbox": {
+          "x": 215,
+          "y": 2300,
+          "width": 1270,
+          "height": 45
+        },
+        "type": "footer",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 8,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-05T00:00:00+00:00"
+}

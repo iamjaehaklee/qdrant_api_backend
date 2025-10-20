@@ -1,0 +1,131 @@
+{
+  "chunk_id": "1fd4be46-d686-4ab9-ac28-12d534578fbd",
+  "file_id": 48,
+  "project_id": 1001,
+  "storage_file_name": "evidence_hearing_1112.pdf",
+  "original_file_name": "증거조사기일녹취록_1112.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 15,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    11,
+    12,
+    13
+  ],
+  "chunk_number": 6,
+  "paragraph_texts": [
+    "[11페이지] 증거조사기일녹취록_1112 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[12페이지] 증거조사기일녹취록_1112 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[13페이지] 증거조사기일녹취록_1112 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-048-006-000-0",
+        "idx_in_page": 0,
+        "text": "[11페이지] 증거조사기일녹취록_1112 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 11,
+        "bbox": {
+          "x": 207.65,
+          "y": 107.42,
+          "width": 1245.25,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-048-006-000-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 11,
+        "bbox": {
+          "x": 215.45,
+          "y": 1191.6,
+          "width": 1306.03,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-048-006-001-0",
+        "idx_in_page": 0,
+        "text": "[12페이지] 증거조사기일녹취록_1112 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 12,
+        "bbox": {
+          "x": 184.42,
+          "y": 100.24,
+          "width": 1289.57,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-048-006-001-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 12,
+        "bbox": {
+          "x": 181.15,
+          "y": 1198.4,
+          "width": 1253.73,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-048-006-002-0",
+        "idx_in_page": 0,
+        "text": "[13페이지] 증거조사기일녹취록_1112 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 13,
+        "bbox": {
+          "x": 205.82,
+          "y": 107.26,
+          "width": 1310.7,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-048-006-002-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 13,
+        "bbox": {
+          "x": 200.84,
+          "y": 1183.55,
+          "width": 1245.58,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 12,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 13,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-07T00:00:00+00:00"
+}

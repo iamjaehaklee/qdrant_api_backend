@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/scroll",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "contract summary",
+    "limit": 5,
+    "offset": 0
+  }
+}

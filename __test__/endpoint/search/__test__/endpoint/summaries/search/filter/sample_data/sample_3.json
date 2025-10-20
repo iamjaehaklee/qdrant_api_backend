@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/filter",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "language": "ko",
+    "limit": 30,
+    "offset": 0
+  }
+}

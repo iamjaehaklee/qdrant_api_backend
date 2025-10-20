@@ -1,0 +1,161 @@
+{
+  "chunk_id": "a3ba1975-c9a7-4040-9be6-3223cbbb96e3",
+  "file_id": 57,
+  "project_id": 3001,
+  "storage_file_name": "ad63fd4e-2549-47f9-adaf-b4d23b305a4d-1760885381864.pdf",
+  "original_file_name": "현장조사보고서_대한건설산업.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 8,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "관련 지출 내역 확인 (2023년 10월~2024년 2월, 총 12회 회식비 지출). 영업본부장 명의 '입찰 주의사항'",
+    "발견 사항: 비공식 회의 관련 지출 내역 확인 (2023년 10월~2024년 2월, 총 12회 회식비 지출).",
+    "주요 발견 사항: 비공식 회의 관련 지출 내역 확인 (2023년 10월~2024년 2월, 총 12회 회식비",
+    "회계장부 15권. 주요 발견 사항: 비공식 회의 관련 지출 내역 확인 (2023년 10월~2024년 2월, 총",
+    "영업본부 PC 3대, 회의록 및 계약서 67권, 회계장부 15권. 주요 발견 사항: 비공식 회의 관련",
+    "4명 투입. 압수물품: 영업본부 PC 3대, 회의록 및 계약서 67권, 회계장부 15권. 주요 발견 사항:",
+    "(2023년 10월~2024년 2월, 총 12회 회식비 지출). 영업본부장 명의 '입찰 주의사항' 내부 회람 문서 발견.",
+    "지출 내역 확인 (2023년 10월~2024년 2월, 총 12회 회식비 지출). 영업본부장 명의 '입찰 주의사항' 내부"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "ba0d5511-ae75-48d2-8ce8-5c87140cae97",
+        "idx_in_page": 0,
+        "text": "관련 지출 내역 확인 (2023년 10월~2024년 2월, 총 12회 회식비 지출). 영업본부장 명의 '입찰 주의사항'",
+        "page": 1,
+        "bbox": {
+          "x": 186.0,
+          "y": 269.0,
+          "width": 1235.0,
+          "height": 364.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "d3ecd371-60ef-4fd7-ad16-6b82fe8e8748",
+        "idx_in_page": 1,
+        "text": "발견 사항: 비공식 회의 관련 지출 내역 확인 (2023년 10월~2024년 2월, 총 12회 회식비 지출).",
+        "page": 1,
+        "bbox": {
+          "x": 181.0,
+          "y": 897.0,
+          "width": 1217.0,
+          "height": 276.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "7d8c797a-31fe-4d80-9c44-d5bc95152c61",
+        "idx_in_page": 0,
+        "text": "주요 발견 사항: 비공식 회의 관련 지출 내역 확인 (2023년 10월~2024년 2월, 총 12회 회식비",
+        "page": 2,
+        "bbox": {
+          "x": 182.0,
+          "y": 216.0,
+          "width": 1263.0,
+          "height": 355.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "5850dba1-2cbf-42fa-8677-9f977049e74a",
+        "idx_in_page": 1,
+        "text": "회계장부 15권. 주요 발견 사항: 비공식 회의 관련 지출 내역 확인 (2023년 10월~2024년 2월, 총",
+        "page": 2,
+        "bbox": {
+          "x": 194.0,
+          "y": 869.0,
+          "width": 1290.0,
+          "height": 388.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "727ba1ec-a5fb-4526-b3ba-29c146d3a0b6",
+        "idx_in_page": 2,
+        "text": "영업본부 PC 3대, 회의록 및 계약서 67권, 회계장부 15권. 주요 발견 사항: 비공식 회의 관련",
+        "page": 2,
+        "bbox": {
+          "x": 187.0,
+          "y": 1561.0,
+          "width": 1225.0,
+          "height": 365.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "cfeaa485-9afb-4d6f-9019-b2fdf02a4fc0",
+        "idx_in_page": 0,
+        "text": "4명 투입. 압수물품: 영업본부 PC 3대, 회의록 및 계약서 67권, 회계장부 15권. 주요 발견 사항:",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 239.0,
+          "width": 1265.0,
+          "height": 383.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "7379ec0f-ca84-4adc-8353-5e1db4378171",
+        "idx_in_page": 1,
+        "text": "(2023년 10월~2024년 2월, 총 12회 회식비 지출). 영업본부장 명의 '입찰 주의사항' 내부 회람 문서 발견.",
+        "page": 3,
+        "bbox": {
+          "x": 192.0,
+          "y": 903.0,
+          "width": 1240.0,
+          "height": 292.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "f3f6ba46-d54b-4a88-9cfe-04d4a968b394",
+        "idx_in_page": 2,
+        "text": "지출 내역 확인 (2023년 10월~2024년 2월, 총 12회 회식비 지출). 영업본부장 명의 '입찰 주의사항' 내부",
+        "page": 3,
+        "bbox": {
+          "x": 182.0,
+          "y": 1488.0,
+          "width": 1282.0,
+          "height": 197.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.864798+00:00"
+}

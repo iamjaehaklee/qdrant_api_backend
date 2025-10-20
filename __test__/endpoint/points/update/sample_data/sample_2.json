@@ -1,0 +1,16 @@
+{
+  "method": "PUT",
+  "path": "/points/6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {
+    "point_id": "6ba7b810-9dad-11d1-80b4-00c04fd430c8"
+  },
+  "query_params": {},
+  "body": {
+    "file_id": 999,
+    "project_id": 50
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "chunk_id": "test-chunk-001",
+  "file_id": 999,
+  "project_id": 99,
+  "storage_file_name": "test_document.pdf",
+  "original_file_name": "테스트_문서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 3,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [1, 2],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "이것은 테스트 문서의 첫 번째 단락입니다.",
+    "FastAPI 서버 테스트를 위한 샘플 데이터입니다.",
+    "Qdrant 벡터 데이터베이스에 저장됩니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "p001",
+        "idx_in_page": 0,
+        "text": "이것은 테스트 문서의 첫 번째 단락입니다.",
+        "page": 1,
+        "bbox": {
+          "x": 100.0,
+          "y": 200.0,
+          "width": 500.0,
+          "height": 50.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1680,
+      "height": 2379
+    }
+  ]
+}

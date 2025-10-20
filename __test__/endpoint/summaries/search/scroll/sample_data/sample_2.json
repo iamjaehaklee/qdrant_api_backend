@@ -1,0 +1,16 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/scroll",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "재무 요약",
+    "limit": 10,
+    "offset": 10,
+    "score_threshold": 0.5
+  }
+}

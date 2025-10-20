@@ -1,0 +1,146 @@
+{
+  "chunk_id": "39b361ec-96e0-462f-b901-79a671165177",
+  "file_id": 40,
+  "project_id": 3001,
+  "storage_file_name": "c5d6a0d7-a6d8-4900-85d7-fe148d99194c-1760885381833.pdf",
+  "original_file_name": "이행강제금_부과예고통지서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 9,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "chunk_number": 2,
+  "paragraph_texts": [
+    "15일 현재 공정거래 자율준수 프로그램 도입 의무를 이행하지 않고 있음. 공정거래법 제50조에 따라 이행강제금 일일",
+    "귀사는 2024년 9월 20일자 시정명령을 받았으나, 2024년 11월 15일 현재 공정거래 자율준수 프로그램 도입 의무를",
+    "일일 500만원을 부과할 예정임. 본 통지서 수령 후 10일 이내 즉시 이행하지 않을 경우 강제금이",
+    "20일자 시정명령을 받았으나, 2024년 11월 15일 현재 공정거래 자율준수 프로그램 도입 의무를 이행하지 않고 있음.",
+    "(주)태평양건설 대표이사 귀중. 귀사는 2024년 9월 20일자 시정명령을 받았으나, 2024년 11월 15일 현재 공정거래 자율준수",
+    "자율준수 프로그램 도입 의무를 이행하지 않고 있음. 공정거래법 제50조에 따라 이행강제금 일일 500만원을 부과할 예정임.",
+    "500만원을 부과할 예정임. 본 통지서 수령 후 10일 이내 즉시 이행하지 않을 경우 강제금이 부과됨을"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "f1aee380-44b5-4420-a1a8-1cbb6eed7c4e",
+        "idx_in_page": 0,
+        "text": "15일 현재 공정거래 자율준수 프로그램 도입 의무를 이행하지 않고 있음. 공정거래법 제50조에 따라 이행강제금 일일",
+        "page": 3,
+        "bbox": {
+          "x": 190.0,
+          "y": 291.0,
+          "width": 1249.0,
+          "height": 268.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "282f357c-8a58-49d2-8d1e-cd8301bae481",
+        "idx_in_page": 1,
+        "text": "귀사는 2024년 9월 20일자 시정명령을 받았으나, 2024년 11월 15일 현재 공정거래 자율준수 프로그램 도입 의무를",
+        "page": 3,
+        "bbox": {
+          "x": 197.0,
+          "y": 931.0,
+          "width": 1295.0,
+          "height": 293.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "a3336d99-d620-4740-ba57-bfdaf9dbf604",
+        "idx_in_page": 0,
+        "text": "일일 500만원을 부과할 예정임. 본 통지서 수령 후 10일 이내 즉시 이행하지 않을 경우 강제금이",
+        "page": 4,
+        "bbox": {
+          "x": 196.0,
+          "y": 324.0,
+          "width": 1270.0,
+          "height": 395.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "fc6e5ade-7e81-4ab2-a2b0-73c0507ea4c6",
+        "idx_in_page": 1,
+        "text": "20일자 시정명령을 받았으나, 2024년 11월 15일 현재 공정거래 자율준수 프로그램 도입 의무를 이행하지 않고 있음.",
+        "page": 4,
+        "bbox": {
+          "x": 189.0,
+          "y": 944.0,
+          "width": 1220.0,
+          "height": 193.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "1ebc0497-a7c7-4633-972e-4c0e85494707",
+        "idx_in_page": 2,
+        "text": "(주)태평양건설 대표이사 귀중. 귀사는 2024년 9월 20일자 시정명령을 받았으나, 2024년 11월 15일 현재 공정거래 자율준수",
+        "page": 4,
+        "bbox": {
+          "x": 183.0,
+          "y": 1533.0,
+          "width": 1263.0,
+          "height": 249.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "5ae24d5a-3cc9-4eee-a0ee-3802bf6b18db",
+        "idx_in_page": 0,
+        "text": "자율준수 프로그램 도입 의무를 이행하지 않고 있음. 공정거래법 제50조에 따라 이행강제금 일일 500만원을 부과할 예정임.",
+        "page": 5,
+        "bbox": {
+          "x": 181.0,
+          "y": 263.0,
+          "width": 1286.0,
+          "height": 179.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "099de972-8e4a-41ae-9d2a-c4479f9ebcec",
+        "idx_in_page": 1,
+        "text": "500만원을 부과할 예정임. 본 통지서 수령 후 10일 이내 즉시 이행하지 않을 경우 강제금이 부과됨을",
+        "page": 5,
+        "bbox": {
+          "x": 187.0,
+          "y": 886.0,
+          "width": 1213.0,
+          "height": 347.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 4,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.833765+00:00"
+}

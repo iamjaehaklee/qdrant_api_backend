@@ -1,0 +1,551 @@
+{
+  "chunk_id": "d686463b-7006-4ee0-83c9-7bf430dc22c2",
+  "file_id": 32,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a21_loan_agreement.pdf",
+  "original_file_name": "갑21호증_대출약정서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 11,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "주택담보대출 약정서",
+    "대출기관: 신한은행 서초지점 (사업자등록번호: 202-81-00702)",
+    "소재지: 서울특별시 서초구 서초대로 74길 11",
+    "대표자: 김영호",
+    "차주(대출받는 사람): 김철수 (주민등록번호: 750415-1******)",
+    "주소: 서울특별시 송파구 올림픽로 212",
+    "연락처: 010-1234-5678",
+    "약정일: 2024년 6월 10일",
+    "제1조 (대출의 목적)",
+    "본 대출은 차주가 아래 제3조에 명시된 담보물의 매수를 위하여 필요한 자금을 조달하기 위한 주택담보대출이다.",
+    "제2조 (대출금액 및 실행)",
+    "① 대출금액은 금 사억일천만원정(₩410,000,000)으로 한다.",
+    "② 대출금은 다음과 같이 구분하여 실행한다.",
+    "- 중도금 대출: 금 이억육천만원정(₩260,000,000)",
+    "  실행 예정일: 2024년 7월 15일",
+    "- 잔금 대출: 금 일억오천만원정(₩150,000,000)",
+    "  실행 예정일: 2024년 8월 30일",
+    "③ 대출실행은 다음 조건의 충족을 전제로 한다.",
+    "가. 제3조 담보물에 대한 근저당권설정등기 완료",
+    "나. 담보물의 소유권이전등기 완료",
+    "다. 대출기관이 요구하는 제반 서류 제출",
+    "라. 화재보험 및 종합보험 가입 증명",
+    "④ 대출금은 차주 명의 신한은행 계좌(110-123-456789)로 입금한다.",
+    "제3조 (담보물의 표시)",
+    "소재지: 서울특별시 강남구 테헤란로 123",
+    "건물명: 아크로타워 456동 789호",
+    "구조: 철근콘크리트조",
+    "전용면적: 84.92㎡",
+    "대지권: 46.28㎡",
+    "공급면적: 114.32㎡",
+    "층수: 18층 중 12층",
+    "제4조 (대출기간)",
+    "① 대출기간은 대출실행일로부터 30년(360개월)으로 한다.",
+    "② 대출기간 만료일: 최종 대출실행일로부터 30년이 되는 날"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-032-001-000-0",
+        "idx_in_page": 0,
+        "text": "주택담보대출 약정서",
+        "page": 1,
+        "bbox": {
+          "x": 640.5,
+          "y": 180.3,
+          "width": 400,
+          "height": 42
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-032-001-000-1",
+        "idx_in_page": 1,
+        "text": "대출기관: 신한은행 서초지점 (사업자등록번호: 202-81-00702)",
+        "page": 1,
+        "bbox": {
+          "x": 180,
+          "y": 280,
+          "width": 720,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-001-000-2",
+        "idx_in_page": 2,
+        "text": "소재지: 서울특별시 서초구 서초대로 74길 11",
+        "page": 1,
+        "bbox": {
+          "x": 180,
+          "y": 320,
+          "width": 640,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-001-000-3",
+        "idx_in_page": 3,
+        "text": "대표자: 김영호",
+        "page": 1,
+        "bbox": {
+          "x": 180,
+          "y": 360,
+          "width": 280,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-001-000-4",
+        "idx_in_page": 4,
+        "text": "차주(대출받는 사람): 김철수 (주민등록번호: 750415-1******)",
+        "page": 1,
+        "bbox": {
+          "x": 180,
+          "y": 440,
+          "width": 780,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-001-000-5",
+        "idx_in_page": 5,
+        "text": "주소: 서울특별시 송파구 올림픽로 212",
+        "page": 1,
+        "bbox": {
+          "x": 180,
+          "y": 480,
+          "width": 560,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-001-000-6",
+        "idx_in_page": 6,
+        "text": "연락처: 010-1234-5678",
+        "page": 1,
+        "bbox": {
+          "x": 180,
+          "y": 520,
+          "width": 340,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-032-001-000-7",
+        "idx_in_page": 7,
+        "text": "약정일: 2024년 6월 10일",
+        "page": 1,
+        "bbox": {
+          "x": 180,
+          "y": 560,
+          "width": 380,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-032-001-000-8",
+        "idx_in_page": 8,
+        "text": "제1조 (대출의 목적)",
+        "page": 1,
+        "bbox": {
+          "x": 180,
+          "y": 640,
+          "width": 340,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-001-000-9",
+        "idx_in_page": 9,
+        "text": "본 대출은 차주가 아래 제3조에 명시된 담보물의 매수를 위하여 필요한 자금을 조달하기 위한 주택담보대출이다.",
+        "page": 1,
+        "bbox": {
+          "x": 180,
+          "y": 680,
+          "width": 1240,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-032-001-001-0",
+        "idx_in_page": 0,
+        "text": "제2조 (대출금액 및 실행)",
+        "page": 2,
+        "bbox": {
+          "x": 180,
+          "y": 180,
+          "width": 420,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-001-001-1",
+        "idx_in_page": 1,
+        "text": "① 대출금액은 금 사억일천만원정(₩410,000,000)으로 한다.",
+        "page": 2,
+        "bbox": {
+          "x": 180,
+          "y": 220,
+          "width": 840,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-001-001-2",
+        "idx_in_page": 2,
+        "text": "② 대출금은 다음과 같이 구분하여 실행한다.",
+        "page": 2,
+        "bbox": {
+          "x": 180,
+          "y": 260,
+          "width": 680,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-001-001-3",
+        "idx_in_page": 3,
+        "text": "- 중도금 대출: 금 이억육천만원정(₩260,000,000)",
+        "page": 2,
+        "bbox": {
+          "x": 220,
+          "y": 300,
+          "width": 720,
+          "height": 30
+        },
+        "type": "list",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-001-001-4",
+        "idx_in_page": 4,
+        "text": "  실행 예정일: 2024년 7월 15일",
+        "page": 2,
+        "bbox": {
+          "x": 240,
+          "y": 335,
+          "width": 480,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-001-001-5",
+        "idx_in_page": 5,
+        "text": "- 잔금 대출: 금 일억오천만원정(₩150,000,000)",
+        "page": 2,
+        "bbox": {
+          "x": 220,
+          "y": 370,
+          "width": 680,
+          "height": 30
+        },
+        "type": "list",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-001-001-6",
+        "idx_in_page": 6,
+        "text": "  실행 예정일: 2024년 8월 30일",
+        "page": 2,
+        "bbox": {
+          "x": 240,
+          "y": 405,
+          "width": 480,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-001-001-7",
+        "idx_in_page": 7,
+        "text": "③ 대출실행은 다음 조건의 충족을 전제로 한다.",
+        "page": 2,
+        "bbox": {
+          "x": 180,
+          "y": 450,
+          "width": 680,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-032-001-001-8",
+        "idx_in_page": 8,
+        "text": "가. 제3조 담보물에 대한 근저당권설정등기 완료",
+        "page": 2,
+        "bbox": {
+          "x": 220,
+          "y": 490,
+          "width": 740,
+          "height": 30
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-001-001-9",
+        "idx_in_page": 9,
+        "text": "나. 담보물의 소유권이전등기 완료",
+        "page": 2,
+        "bbox": {
+          "x": 220,
+          "y": 525,
+          "width": 540,
+          "height": 30
+        },
+        "type": "list",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-001-001-10",
+        "idx_in_page": 10,
+        "text": "다. 대출기관이 요구하는 제반 서류 제출",
+        "page": 2,
+        "bbox": {
+          "x": 220,
+          "y": 560,
+          "width": 620,
+          "height": 30
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-001-001-11",
+        "idx_in_page": 11,
+        "text": "라. 화재보험 및 종합보험 가입 증명",
+        "page": 2,
+        "bbox": {
+          "x": 220,
+          "y": 595,
+          "width": 580,
+          "height": 30
+        },
+        "type": "list",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-001-001-12",
+        "idx_in_page": 12,
+        "text": "④ 대출금은 차주 명의 신한은행 계좌(110-123-456789)로 입금한다.",
+        "page": 2,
+        "bbox": {
+          "x": 180,
+          "y": 640,
+          "width": 960,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-001-002-0",
+        "idx_in_page": 0,
+        "text": "제3조 (담보물의 표시)",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 180,
+          "width": 380,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-001-002-1",
+        "idx_in_page": 1,
+        "text": "소재지: 서울특별시 강남구 테헤란로 123",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 220,
+          "width": 640,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-001-002-2",
+        "idx_in_page": 2,
+        "text": "건물명: 아크로타워 456동 789호",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 255,
+          "width": 520,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-001-002-3",
+        "idx_in_page": 3,
+        "text": "구조: 철근콘크리트조",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 290,
+          "width": 340,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-001-002-4",
+        "idx_in_page": 4,
+        "text": "전용면적: 84.92㎡",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 325,
+          "width": 320,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-001-002-5",
+        "idx_in_page": 5,
+        "text": "대지권: 46.28㎡",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 360,
+          "width": 280,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-001-002-6",
+        "idx_in_page": 6,
+        "text": "공급면적: 114.32㎡",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 395,
+          "width": 320,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-001-002-7",
+        "idx_in_page": 7,
+        "text": "층수: 18층 중 12층",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 430,
+          "width": 300,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-001-002-8",
+        "idx_in_page": 8,
+        "text": "제4조 (대출기간)",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 510,
+          "width": 320,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-032-001-002-9",
+        "idx_in_page": 9,
+        "text": "① 대출기간은 대출실행일로부터 30년(360개월)으로 한다.",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 550,
+          "width": 880,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-032-001-002-10",
+        "idx_in_page": 10,
+        "text": "② 대출기간 만료일: 최종 대출실행일로부터 30년이 되는 날",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 590,
+          "width": 920,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-02T00:00:00+00:00"
+}

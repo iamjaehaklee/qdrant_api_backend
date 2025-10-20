@@ -1,0 +1,20 @@
+{
+  "method": "POST",
+  "path": "/search/filter",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "pages": [
+      1,
+      2,
+      3
+    ],
+    "project_id": 10,
+    "limit": 15,
+    "offset": 10
+  }
+}

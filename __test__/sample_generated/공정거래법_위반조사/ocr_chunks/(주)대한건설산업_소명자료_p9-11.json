@@ -1,0 +1,131 @@
+{
+  "chunk_id": "d9c590cc-7604-4bf3-8c59-238a963d1ec8",
+  "file_id": 2,
+  "project_id": 3001,
+  "storage_file_name": "f2dacc1a-5733-48e5-9fa0-6bb141f1da94-1760885381771.pdf",
+  "original_file_name": "(주)대한건설산업_소명자료.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 18,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    9,
+    10,
+    11
+  ],
+  "chunk_number": 5,
+  "paragraph_texts": [
+    "외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 - 2020년부터 시행 중. 당사는 정당한",
+    "2024심제1001, 제출일 2024년 8월). 당사의 입찰 프로세스가 독립적이고 자율적으로 운영되었음을 입증하는 자료 27건 제출. 주요",
+    "회의록 15건 - 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 - 2020년부터 시행",
+    "입찰 프로세스가 독립적이고 자율적으로 운영되었음을 입증하는 자료 27건 제출. 주요 내용: (1) 사내 입찰가격 결정",
+    "시스템. (2) 입찰가격 산정 회의록 15건 - 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수",
+    "회의록 15건 - 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 - 2020년부터 시행"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "50abbe0a-348a-464c-9da2-8aa145d38f59",
+        "idx_in_page": 0,
+        "text": "외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 - 2020년부터 시행 중. 당사는 정당한",
+        "page": 9,
+        "bbox": {
+          "x": 190.0,
+          "y": 323.0,
+          "width": 1218.0,
+          "height": 283.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "b0d3de08-9a60-406e-a622-e0edc04dd2f0",
+        "idx_in_page": 1,
+        "text": "2024심제1001, 제출일 2024년 8월). 당사의 입찰 프로세스가 독립적이고 자율적으로 운영되었음을 입증하는 자료 27건 제출. 주요",
+        "page": 9,
+        "bbox": {
+          "x": 193.0,
+          "y": 821.0,
+          "width": 1262.0,
+          "height": 159.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "c0b45547-cc4b-4877-864a-2bdea876a4b2",
+        "idx_in_page": 0,
+        "text": "회의록 15건 - 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 - 2020년부터 시행",
+        "page": 10,
+        "bbox": {
+          "x": 193.0,
+          "y": 224.0,
+          "width": 1239.0,
+          "height": 381.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "5ea28098-059c-472d-96da-2e2538d11aaf",
+        "idx_in_page": 1,
+        "text": "입찰 프로세스가 독립적이고 자율적으로 운영되었음을 입증하는 자료 27건 제출. 주요 내용: (1) 사내 입찰가격 결정",
+        "page": 10,
+        "bbox": {
+          "x": 180.0,
+          "y": 921.0,
+          "width": 1269.0,
+          "height": 301.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "7ab11230-8418-46f1-ba14-c5fa2a40098b",
+        "idx_in_page": 0,
+        "text": "시스템. (2) 입찰가격 산정 회의록 15건 - 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수",
+        "page": 11,
+        "bbox": {
+          "x": 183.0,
+          "y": 311.0,
+          "width": 1255.0,
+          "height": 384.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "46e8c2f7-1094-4f9b-bb9e-5d33dc3e7022",
+        "idx_in_page": 1,
+        "text": "회의록 15건 - 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 - 2020년부터 시행",
+        "page": 11,
+        "bbox": {
+          "x": 193.0,
+          "y": 850.0,
+          "width": 1217.0,
+          "height": 194.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 10,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.771899+00:00"
+}

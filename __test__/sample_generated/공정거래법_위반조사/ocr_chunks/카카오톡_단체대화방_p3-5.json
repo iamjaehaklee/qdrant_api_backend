@@ -1,0 +1,146 @@
+{
+  "chunk_id": "4496cf75-cb98-4705-a69a-00d7f6eb9c86",
+  "file_id": 50,
+  "project_id": 3001,
+  "storage_file_name": "edcb77c8-ca45-4709-94a2-f93568ae96b7-1760885381851.pdf",
+  "original_file_name": "카카오톡_단체대화방.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 20,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "chunk_number": 2,
+  "paragraph_texts": [
+    "'협력회' 대화내용 (2023년 10월~2024년 2월, 총 234건 메시지). 참여자: 4개 건설사 담당자 8명. 주요 대화",
+    "주요 대화 내용: 입찰 일정 공유, '이번 건은 A사', '다음은 B사 순서', '가격은 예정가 95%",
+    "(2023년 10월~2024년 2월, 총 234건 메시지). 참여자: 4개 건설사 담당자 8명. 주요 대화 내용: 입찰",
+    "유지', '절대 독자 행동 하지 말 것'. 4개사가 조직적으로 입찰을 배분하고 가격을 조율한 명백한 증거.",
+    "'가격은 예정가 95% 이상 유지', '절대 독자 행동 하지 말 것'. 4개사가 조직적으로 입찰을 배분하고",
+    "대화 내용: 입찰 일정 공유, '이번 건은 A사', '다음은 B사 순서', '가격은 예정가 95% 이상",
+    "8명. 주요 대화 내용: 입찰 일정 공유, '이번 건은 A사', '다음은 B사 순서', '가격은 예정가"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "c554a017-e981-4069-baa4-d9759329c7a9",
+        "idx_in_page": 0,
+        "text": "'협력회' 대화내용 (2023년 10월~2024년 2월, 총 234건 메시지). 참여자: 4개 건설사 담당자 8명. 주요 대화",
+        "page": 3,
+        "bbox": {
+          "x": 181.0,
+          "y": 365.0,
+          "width": 1220.0,
+          "height": 158.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "2987c25e-31a5-43e2-816c-64f8e1036367",
+        "idx_in_page": 1,
+        "text": "주요 대화 내용: 입찰 일정 공유, '이번 건은 A사', '다음은 B사 순서', '가격은 예정가 95%",
+        "page": 3,
+        "bbox": {
+          "x": 187.0,
+          "y": 846.0,
+          "width": 1236.0,
+          "height": 277.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "68d1d38b-d8f8-42d0-9f99-8803fb51c12e",
+        "idx_in_page": 2,
+        "text": "(2023년 10월~2024년 2월, 총 234건 메시지). 참여자: 4개 건설사 담당자 8명. 주요 대화 내용: 입찰",
+        "page": 3,
+        "bbox": {
+          "x": 183.0,
+          "y": 1493.0,
+          "width": 1288.0,
+          "height": 162.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "9cf69103-fdc8-407c-9eb3-ca13517d2ab2",
+        "idx_in_page": 0,
+        "text": "유지', '절대 독자 행동 하지 말 것'. 4개사가 조직적으로 입찰을 배분하고 가격을 조율한 명백한 증거.",
+        "page": 4,
+        "bbox": {
+          "x": 189.0,
+          "y": 320.0,
+          "width": 1267.0,
+          "height": 308.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "f1ce95c4-29f1-4e39-8012-2b9078ed238d",
+        "idx_in_page": 1,
+        "text": "'가격은 예정가 95% 이상 유지', '절대 독자 행동 하지 말 것'. 4개사가 조직적으로 입찰을 배분하고",
+        "page": 4,
+        "bbox": {
+          "x": 183.0,
+          "y": 964.0,
+          "width": 1203.0,
+          "height": 256.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "e97be5e0-df74-4bce-97c4-d8f3267653fa",
+        "idx_in_page": 0,
+        "text": "대화 내용: 입찰 일정 공유, '이번 건은 A사', '다음은 B사 순서', '가격은 예정가 95% 이상",
+        "page": 5,
+        "bbox": {
+          "x": 191.0,
+          "y": 210.0,
+          "width": 1211.0,
+          "height": 195.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "b978db17-2377-4c6e-8eca-afbef6309df9",
+        "idx_in_page": 1,
+        "text": "8명. 주요 대화 내용: 입찰 일정 공유, '이번 건은 A사', '다음은 B사 순서', '가격은 예정가",
+        "page": 5,
+        "bbox": {
+          "x": 180.0,
+          "y": 867.0,
+          "width": 1210.0,
+          "height": 249.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 4,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.851461+00:00"
+}

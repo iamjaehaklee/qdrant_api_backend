@@ -1,0 +1,131 @@
+{
+  "chunk_id": "e0db402d-8344-4f5e-ab1c-f6e3f1fb8b71",
+  "file_id": 15,
+  "project_id": 3001,
+  "storage_file_name": "94b86845-c470-4a81-994c-3a80596b0d9f-1760885381793.pdf",
+  "original_file_name": "경제분석보고서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 15,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    9,
+    10,
+    11
+  ],
+  "chunk_number": 5,
+  "paragraph_texts": [
+    "패턴 확인. (4) 입찰 공고 직전 4개사 간 통신량 급증. 결론: 담합 개연성 매우 높음.",
+    "순환되는 패턴 확인. (4) 입찰 공고 직전 4개사 간 통신량 급증. 결론: 담합 개연성 매우",
+    "0.8% (정상 시 5% 이상). (3) 낙찰자가 4개사 간 규칙적으로 순환되는 패턴 확인. (4) 입찰",
+    "평균 낙찰률 95.7% (정상 입찰 시 85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상 시",
+    "보고서 (공정거래위원회 경제분석국 작성). 분석 기간 2023~2024년. 분석 대상: 4개 건설사가 참여한 입찰 23건. 분석",
+    "대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1) 평균 낙찰률 95.7% (정상 입찰 시"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "8b3368af-42c7-4afe-9d4d-15ddd4eab347",
+        "idx_in_page": 0,
+        "text": "패턴 확인. (4) 입찰 공고 직전 4개사 간 통신량 급증. 결론: 담합 개연성 매우 높음.",
+        "page": 9,
+        "bbox": {
+          "x": 184.0,
+          "y": 232.0,
+          "width": 1222.0,
+          "height": 335.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "34970db1-3140-41b7-bd72-5668d6d25812",
+        "idx_in_page": 1,
+        "text": "순환되는 패턴 확인. (4) 입찰 공고 직전 4개사 간 통신량 급증. 결론: 담합 개연성 매우",
+        "page": 9,
+        "bbox": {
+          "x": 193.0,
+          "y": 909.0,
+          "width": 1295.0,
+          "height": 173.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "da86b072-1d90-4397-8cb8-d32eabc7e6ae",
+        "idx_in_page": 0,
+        "text": "0.8% (정상 시 5% 이상). (3) 낙찰자가 4개사 간 규칙적으로 순환되는 패턴 확인. (4) 입찰",
+        "page": 10,
+        "bbox": {
+          "x": 188.0,
+          "y": 375.0,
+          "width": 1291.0,
+          "height": 308.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "e88e0074-0e8b-489b-9abc-e4597b580107",
+        "idx_in_page": 1,
+        "text": "평균 낙찰률 95.7% (정상 입찰 시 85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상 시",
+        "page": 10,
+        "bbox": {
+          "x": 185.0,
+          "y": 903.0,
+          "width": 1265.0,
+          "height": 194.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "5170c992-7112-4b6a-84a2-24a9e2e168cb",
+        "idx_in_page": 0,
+        "text": "보고서 (공정거래위원회 경제분석국 작성). 분석 기간 2023~2024년. 분석 대상: 4개 건설사가 참여한 입찰 23건. 분석",
+        "page": 11,
+        "bbox": {
+          "x": 191.0,
+          "y": 260.0,
+          "width": 1298.0,
+          "height": 337.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "cf910116-1629-4ac4-bc02-9455f1d6eccf",
+        "idx_in_page": 1,
+        "text": "대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1) 평균 낙찰률 95.7% (정상 입찰 시",
+        "page": 11,
+        "bbox": {
+          "x": 199.0,
+          "y": 914.0,
+          "width": 1296.0,
+          "height": 163.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 10,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.793296+00:00"
+}

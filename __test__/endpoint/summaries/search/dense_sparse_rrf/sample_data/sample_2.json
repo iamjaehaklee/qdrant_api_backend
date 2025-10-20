@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/dense_sparse_rrf",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "재무 보고 요약",
+    "limit": 10,
+    "rrf_k": 60
+  }
+}

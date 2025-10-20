@@ -1,0 +1,95 @@
+{
+  "chunk_id": "962054a8-084b-403d-b8a5-153e49f43e67",
+  "file_id": 22,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a11_notice2.pdf",
+  "original_file_name": "갑11호증_내용증명_2차_최고.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 6,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    5,
+    6
+  ],
+  "chunk_number": 3,
+  "paragraph_texts": [
+    "[5페이지] 내용증명 수신: 피고 이영희",
+    "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다.",
+    "[6페이지] 내용증명 수신: 피고 이영희",
+    "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-022-003-000-0",
+        "idx_in_page": 0,
+        "text": "[5페이지] 내용증명 수신: 피고 이영희",
+        "page": 5,
+        "bbox": {
+          "x": 218.49,
+          "y": 90.02,
+          "width": 1231.41,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-022-003-000-1",
+        "idx_in_page": 1,
+        "text": "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다.",
+        "page": 5,
+        "bbox": {
+          "x": 189.84,
+          "y": 1183.95,
+          "width": 1305.67,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-022-003-001-0",
+        "idx_in_page": 0,
+        "text": "[6페이지] 내용증명 수신: 피고 이영희",
+        "page": 6,
+        "bbox": {
+          "x": 188.4,
+          "y": 100.84,
+          "width": 1254.43,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-022-003-001-1",
+        "idx_in_page": 1,
+        "text": "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다.",
+        "page": 6,
+        "bbox": {
+          "x": 208.09,
+          "y": 1195.17,
+          "width": 1309.01,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 6,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-04T00:00:00+00:00"
+}

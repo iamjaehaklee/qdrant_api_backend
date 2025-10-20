@@ -1,0 +1,68 @@
+{
+  "method": "POST",
+  "path": "/api/documentai-ocr/store-chunks",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "document_ai_result": {
+      "text": "한글 문서\n첫 번째 페이지 내용입니다.",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "dimension": {
+            "width": 595.0,
+            "height": 842.0
+          },
+          "blocks": [
+            {
+              "layout": {
+                "textAnchor": {
+                  "content": "한글 문서"
+                },
+                "confidence": 0.97,
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.2,
+                      "y": 0.1
+                    },
+                    {
+                      "x": 0.6,
+                      "y": 0.1
+                    },
+                    {
+                      "x": 0.6,
+                      "y": 0.15
+                    },
+                    {
+                      "x": 0.2,
+                      "y": 0.15
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "detected_languages": [
+            {
+              "languageCode": "ko",
+              "confidence": 0.98
+            }
+          ]
+        }
+      ]
+    },
+    "file_metadata": {
+      "file_id": 256,
+      "project_id": 12,
+      "storage_file_name": "2024/04/korean_doc.pdf",
+      "original_file_name": "한글문서.pdf",
+      "mime_type": "application/pdf",
+      "total_pages": 1
+    }
+  }
+}

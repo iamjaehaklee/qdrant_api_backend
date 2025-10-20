@@ -1,0 +1,12 @@
+{
+  "method": "DELETE",
+  "path": "/points/123e4567-e89b-12d3-a456-426614174000",
+  "headers": {
+    "Accept": "application/json"
+  },
+  "path_params": {
+    "point_id": "123e4567-e89b-12d3-a456-426614174000"
+  },
+  "query_params": {},
+  "body": null
+}

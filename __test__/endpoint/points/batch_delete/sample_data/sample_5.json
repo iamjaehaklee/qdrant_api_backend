@@ -1,0 +1,19 @@
+{
+  "method": "DELETE",
+  "path": "/points/batch/delete",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "point_ids": [
+      "7c9e6679-7425-40de-944b-e07fc1f90ae8",
+      "7c9e6679-7425-40de-944b-e07fc1f90ae9",
+      "7c9e6679-7425-40de-944b-e07fc1f90aea",
+      "7c9e6679-7425-40de-944b-e07fc1f90aeb",
+      "7c9e6679-7425-40de-944b-e07fc1f90aec"
+    ]
+  }
+}

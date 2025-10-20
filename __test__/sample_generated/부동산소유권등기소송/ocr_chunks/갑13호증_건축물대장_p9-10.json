@@ -1,0 +1,95 @@
+{
+  "chunk_id": "721c3884-d6fe-4828-8e5c-3e4d3af48dff",
+  "file_id": 24,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_a13_building_registry.pdf",
+  "original_file_name": "갑13호증_건축물대장.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 10,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    9,
+    10
+  ],
+  "chunk_number": 5,
+  "paragraph_texts": [
+    "[9페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다.",
+    "[10페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
+    "법원의 심리를 위해 제출합니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-024-005-000-0",
+        "idx_in_page": 0,
+        "text": "[9페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 9,
+        "bbox": {
+          "x": 204.27,
+          "y": 92.92,
+          "width": 1284.43,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-024-005-000-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 9,
+        "bbox": {
+          "x": 193.88,
+          "y": 1181.18,
+          "width": 1301.49,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-024-005-001-0",
+        "idx_in_page": 0,
+        "text": "[10페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "page": 10,
+        "bbox": {
+          "x": 182.78,
+          "y": 108.08,
+          "width": 1274.47,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-024-005-001-1",
+        "idx_in_page": 1,
+        "text": "법원의 심리를 위해 제출합니다.",
+        "page": 10,
+        "bbox": {
+          "x": 210.0,
+          "y": 1181.88,
+          "width": 1300.27,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 10,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-06T00:00:00+00:00"
+}

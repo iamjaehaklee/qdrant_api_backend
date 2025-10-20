@@ -1,0 +1,5508 @@
+{
+  "total_documents": 50,
+  "problematic_documents": 46,
+  "clean_documents": 4,
+  "issue_types": {
+    "high_page_similarity": 459,
+    "missing_dates": 38,
+    "missing_amounts": 22
+  },
+  "problematic_details": [
+    {
+      "base_name": "갑10호증_내용증명_1차_이행촉구",
+      "chunk_count": 3,
+      "total_paragraphs": 18,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑10호증_내용증명_1차_이행촉구_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑10호증_내용증명_1차_이행촉구_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑10호증_내용증명_1차_이행촉구_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑10호증_내용증명_1차_이행촉구_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑10호증_내용증명_1차_이행촉구_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑10호증_내용증명_1차_이행촉구_p5-7.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 4,
+          "examples": [
+            "2024년 6월 20일",
+            "2024년 6월 22일",
+            "2024년 3월 15일"
+          ],
+          "severity": "high"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 1,
+          "examples": [
+            "금 500,000,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "갑11호증_내용증명_2차_최고",
+      "chunk_count": 3,
+      "total_paragraphs": 16,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑11호증_내용증명_2차_최고_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑11호증_내용증명_2차_최고_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑11호증_내용증명_2차_최고_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑11호증_내용증명_2차_최고_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑11호증_내용증명_2차_최고_p5-6.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 3,
+          "examples": [
+            "2024년 7월 10일",
+            "2024년 7월 12일",
+            "2024년 7월 19일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "갑12호증_등기부등본",
+      "chunk_count": 6,
+      "total_paragraphs": 34,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑12호증_등기부등본_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑12호증_등기부등본_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            11,
+            12
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "갑12호증_등기부등본_p11-12.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑12호증_등기부등본_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑12호증_등기부등본_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑12호증_등기부등본_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑12호증_등기부등본_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑12호증_등기부등본_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑12호증_등기부등본_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.977,
+          "severity": "critical",
+          "file": "갑12호증_등기부등본_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "갑12호증_등기부등본_p9-11.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 3,
+          "examples": [
+            "2024년 7월 25일",
+            "2018년 3월 5일",
+            "2018년 3월 10일"
+          ],
+          "severity": "high"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 1,
+          "examples": [
+            "금 200,000,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "갑13호증_건축물대장",
+      "chunk_count": 5,
+      "total_paragraphs": 28,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑13호증_건축물대장_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑13호증_건축물대장_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑13호증_건축물대장_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑13호증_건축물대장_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑13호증_건축물대장_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑13호증_건축물대장_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑13호증_건축물대장_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑13호증_건축물대장_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.976,
+          "severity": "critical",
+          "file": "갑13호증_건축물대장_p9-10.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 2,
+          "examples": [
+            "2024년 7월 25일",
+            "2015년 12월 28일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "갑14호증_카카오톡대화_계약논의",
+      "chunk_count": 7,
+      "total_paragraphs": 42,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑14호증_카카오톡대화_계약논의_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑14호증_카카오톡대화_계약논의_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            11,
+            12
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑14호증_카카오톡대화_계약논의_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            12,
+            13
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑14호증_카카오톡대화_계약논의_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            13,
+            14
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑14호증_카카오톡대화_계약논의_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            14,
+            15
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑14호증_카카오톡대화_계약논의_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑14호증_카카오톡대화_계약논의_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑14호증_카카오톡대화_계약논의_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑14호증_카카오톡대화_계약논의_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑14호증_카카오톡대화_계약논의_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑14호증_카카오톡대화_계약논의_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑14호증_카카오톡대화_계약논의_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.989,
+          "severity": "critical",
+          "file": "갑14호증_카카오톡대화_계약논의_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑14호증_카카오톡대화_계약논의_p9-11.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 1,
+          "examples": [
+            "2024년 3월 15일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "갑15호증_카카오톡대화_이행요구",
+      "chunk_count": 6,
+      "total_paragraphs": 34,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑15호증_카카오톡대화_이행요구_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑15호증_카카오톡대화_이행요구_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            11,
+            12
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑15호증_카카오톡대화_이행요구_p11-12.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑15호증_카카오톡대화_이행요구_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑15호증_카카오톡대화_이행요구_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑15호증_카카오톡대화_이행요구_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑15호증_카카오톡대화_이행요구_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑15호증_카카오톡대화_이행요구_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑15호증_카카오톡대화_이행요구_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.989,
+          "severity": "critical",
+          "file": "갑15호증_카카오톡대화_이행요구_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "갑15호증_카카오톡대화_이행요구_p9-11.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 5,
+          "examples": [
+            "2024년 6월 15일",
+            "2024년 7월 5일",
+            "2024년 6월 15일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "갑16호증_문자메시지",
+      "chunk_count": 9,
+      "total_paragraphs": 52,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑16호증_문자메시지_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑16호증_문자메시지_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            11,
+            12
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑16호증_문자메시지_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            12,
+            13
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑16호증_문자메시지_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            13,
+            14
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑16호증_문자메시지_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            14,
+            15
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑16호증_문자메시지_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            15,
+            16
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑16호증_문자메시지_p15-17.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            16,
+            17
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑16호증_문자메시지_p15-17.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            17,
+            18
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑16호증_문자메시지_p17-18.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑16호증_문자메시지_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑16호증_문자메시지_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑16호증_문자메시지_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑16호증_문자메시지_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑16호증_문자메시지_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑16호증_문자메시지_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.976,
+          "severity": "critical",
+          "file": "갑16호증_문자메시지_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑16호증_문자메시지_p9-11.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 3,
+          "examples": [
+            "2024년 3월 15일",
+            "2024년 4월 15일",
+            "2024년 5월 15일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "갑17호증_공인중개사확인서",
+      "chunk_count": 3,
+      "total_paragraphs": 16,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑17호증_공인중개사확인서_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑17호증_공인중개사확인서_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑17호증_공인중개사확인서_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑17호증_공인중개사확인서_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑17호증_공인중개사확인서_p5-6.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 4,
+          "examples": [
+            "2024년 7월 30일",
+            "2024년 3월 15일",
+            "2024년 3월 18일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "갑18호증_부동산감정평가서",
+      "chunk_count": 10,
+      "total_paragraphs": 58,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "갑18호증_부동산감정평가서_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "갑18호증_부동산감정평가서_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            11,
+            12
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "갑18호증_부동산감정평가서_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            12,
+            13
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "갑18호증_부동산감정평가서_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            13,
+            14
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "갑18호증_부동산감정평가서_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            14,
+            15
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "갑18호증_부동산감정평가서_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            15,
+            16
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "갑18호증_부동산감정평가서_p15-17.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            16,
+            17
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "갑18호증_부동산감정평가서_p15-17.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            17,
+            18
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "갑18호증_부동산감정평가서_p17-19.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            18,
+            19
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "갑18호증_부동산감정평가서_p17-19.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            19,
+            20
+          ],
+          "similarity": 0.973,
+          "severity": "critical",
+          "file": "갑18호증_부동산감정평가서_p19-20.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "갑18호증_부동산감정평가서_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "갑18호증_부동산감정평가서_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "갑18호증_부동산감정평가서_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "갑18호증_부동산감정평가서_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "갑18호증_부동산감정평가서_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "갑18호증_부동산감정평가서_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.979,
+          "severity": "critical",
+          "file": "갑18호증_부동산감정평가서_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "갑18호증_부동산감정평가서_p9-11.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 1,
+          "examples": [
+            "2024년 7월 1일"
+          ],
+          "severity": "high"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 5,
+          "examples": [
+            "금 520,000,000원",
+            "금 515,000,000원",
+            "금 525,000,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "갑19호증_원고인감증명서",
+      "chunk_count": 2,
+      "total_paragraphs": 12,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑19호증_원고인감증명서_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑19호증_원고인감증명서_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑19호증_원고인감증명서_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑19호증_원고인감증명서_p3-5.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 1,
+          "examples": [
+            "2024년 3월 14일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "갑20호증_원고주민등록등본",
+      "chunk_count": 3,
+      "total_paragraphs": 16,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑20호증_원고주민등록등본_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑20호증_원고주민등록등본_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑20호증_원고주민등록등본_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑20호증_원고주민등록등본_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑20호증_원고주민등록등본_p5-6.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 2,
+          "examples": [
+            "2024년 3월 14일",
+            "2020년 5월 12일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "갑21호증_대출약정서",
+      "chunk_count": 5,
+      "total_paragraphs": 30,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑21호증_대출약정서_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑21호증_대출약정서_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑21호증_대출약정서_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑21호증_대출약정서_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑21호증_대출약정서_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑21호증_대출약정서_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑21호증_대출약정서_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑21호증_대출약정서_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.976,
+          "severity": "critical",
+          "file": "갑21호증_대출약정서_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "갑21호증_대출약정서_p9-11.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 1,
+          "examples": [
+            "2024년 6월 10일"
+          ],
+          "severity": "high"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 1,
+          "examples": [
+            "금 410,000,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "갑3호증_중도금1차영수증",
+      "chunk_count": 2,
+      "total_paragraphs": 12,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.98,
+          "severity": "critical",
+          "file": "갑3호증_중도금1차영수증_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.98,
+          "severity": "critical",
+          "file": "갑3호증_중도금1차영수증_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.98,
+          "severity": "critical",
+          "file": "갑3호증_중도금1차영수증_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.98,
+          "severity": "critical",
+          "file": "갑3호증_중도금1차영수증_p3-5.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 2,
+          "examples": [
+            "2024년 4월 15일",
+            "2024년 4월 15일"
+          ],
+          "severity": "high"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 1,
+          "examples": [
+            "금 150,000,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "갑6호증_계좌거래내역_계약금",
+      "chunk_count": 4,
+      "total_paragraphs": 80,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.994,
+          "severity": "critical",
+          "file": "갑6호증_계좌거래내역_계약금_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.994,
+          "severity": "critical",
+          "file": "갑6호증_계좌거래내역_계약금_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.994,
+          "severity": "critical",
+          "file": "갑6호증_계좌거래내역_계약금_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.994,
+          "severity": "critical",
+          "file": "갑6호증_계좌거래내역_계약금_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.994,
+          "severity": "critical",
+          "file": "갑6호증_계좌거래내역_계약금_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.994,
+          "severity": "critical",
+          "file": "갑6호증_계좌거래내역_계약금_p7-8.json"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 2,
+          "examples": [
+            "금 50,000,000원",
+            "금 125,430,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "갑7호증_계좌거래내역_중도금1차",
+      "chunk_count": 5,
+      "total_paragraphs": 107,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑7호증_계좌거래내역_중도금1차_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑7호증_계좌거래내역_중도금1차_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑7호증_계좌거래내역_중도금1차_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑7호증_계좌거래내역_중도금1차_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑7호증_계좌거래내역_중도금1차_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑7호증_계좌거래내역_중도금1차_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑7호증_계좌거래내역_중도금1차_p7-9.json"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 2,
+          "examples": [
+            "금 150,000,000원",
+            "금 8,920,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "갑8호증_계좌거래내역_중도금2차",
+      "chunk_count": 4,
+      "total_paragraphs": 91,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑8호증_계좌거래내역_중도금2차_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑8호증_계좌거래내역_중도금2차_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑8호증_계좌거래내역_중도금2차_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑8호증_계좌거래내역_중도금2차_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑8호증_계좌거래내역_중도금2차_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑8호증_계좌거래내역_중도금2차_p7-8.json"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 2,
+          "examples": [
+            "금 150,000,000원",
+            "금 1,230,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "갑9호증_계좌거래내역_잔금",
+      "chunk_count": 5,
+      "total_paragraphs": 115,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑9호증_계좌거래내역_잔금_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑9호증_계좌거래내역_잔금_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑9호증_계좌거래내역_잔금_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑9호증_계좌거래내역_잔금_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑9호증_계좌거래내역_잔금_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑9호증_계좌거래내역_잔금_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.995,
+          "severity": "critical",
+          "file": "갑9호증_계좌거래내역_잔금_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "갑9호증_계좌거래내역_잔금_p9-10.json"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 1,
+          "examples": [
+            "금 520,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "국과수필적감정서",
+      "chunk_count": 7,
+      "total_paragraphs": 40,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "국과수필적감정서_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "국과수필적감정서_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            11,
+            12
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "국과수필적감정서_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            12,
+            13
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "국과수필적감정서_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            13,
+            14
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "국과수필적감정서_p13-14.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "국과수필적감정서_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "국과수필적감정서_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "국과수필적감정서_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "국과수필적감정서_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "국과수필적감정서_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "국과수필적감정서_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.979,
+          "severity": "critical",
+          "file": "국과수필적감정서_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "국과수필적감정서_p9-11.json"
+        }
+      ]
+    },
+    {
+      "base_name": "답변서",
+      "chunk_count": 5,
+      "total_paragraphs": 28,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "답변서_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "답변서_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "답변서_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "답변서_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "답변서_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "답변서_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "답변서_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "답변서_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.987,
+          "severity": "critical",
+          "file": "답변서_p9-10.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 1,
+          "examples": [
+            "2024년 6월 15일"
+          ],
+          "severity": "high"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 1,
+          "examples": [
+            "금 30,000,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "변론녹취록_1회_0903",
+      "chunk_count": 10,
+      "total_paragraphs": 58,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_1회_0903_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_1회_0903_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            11,
+            12
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_1회_0903_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            12,
+            13
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_1회_0903_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            13,
+            14
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_1회_0903_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            14,
+            15
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_1회_0903_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            15,
+            16
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_1회_0903_p15-17.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            16,
+            17
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_1회_0903_p15-17.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            17,
+            18
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_1회_0903_p17-19.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            18,
+            19
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_1회_0903_p17-19.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            19,
+            20
+          ],
+          "similarity": 0.987,
+          "severity": "critical",
+          "file": "변론녹취록_1회_0903_p19-20.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_1회_0903_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_1회_0903_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_1회_0903_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_1회_0903_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_1회_0903_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_1회_0903_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.99,
+          "severity": "critical",
+          "file": "변론녹취록_1회_0903_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_1회_0903_p9-11.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 2,
+          "examples": [
+            "2024년 9월 3일",
+            "2024년 10월 8일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "변론녹취록_2회_1008",
+      "chunk_count": 9,
+      "total_paragraphs": 52,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_2회_1008_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_2회_1008_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            11,
+            12
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_2회_1008_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            12,
+            13
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_2회_1008_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            13,
+            14
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_2회_1008_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            14,
+            15
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_2회_1008_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            15,
+            16
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_2회_1008_p15-17.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            16,
+            17
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_2회_1008_p15-17.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            17,
+            18
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_2회_1008_p17-18.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_2회_1008_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_2회_1008_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_2회_1008_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_2회_1008_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_2회_1008_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_2회_1008_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.99,
+          "severity": "critical",
+          "file": "변론녹취록_2회_1008_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_2회_1008_p9-11.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 3,
+          "examples": [
+            "2024년 10월 8일",
+            "2024년 11월 1일",
+            "2024년 11월 5일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "변론녹취록_3회_1105",
+      "chunk_count": 9,
+      "total_paragraphs": 54,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_3회_1105_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_3회_1105_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            11,
+            12
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_3회_1105_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            12,
+            13
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_3회_1105_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            13,
+            14
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_3회_1105_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            14,
+            15
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_3회_1105_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            15,
+            16
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_3회_1105_p15-17.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            16,
+            17
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_3회_1105_p15-17.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            17,
+            18
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_3회_1105_p17-19.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            18,
+            19
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_3회_1105_p17-19.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_3회_1105_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_3회_1105_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_3회_1105_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_3회_1105_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_3회_1105_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_3회_1105_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.99,
+          "severity": "critical",
+          "file": "변론녹취록_3회_1105_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.993,
+          "severity": "critical",
+          "file": "변론녹취록_3회_1105_p9-11.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 2,
+          "examples": [
+            "2024년 11월 5일",
+            "2024년 11월 12일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "보충계약서_0318",
+      "chunk_count": 3,
+      "total_paragraphs": 16,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.982,
+          "severity": "critical",
+          "file": "보충계약서_0318_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.982,
+          "severity": "critical",
+          "file": "보충계약서_0318_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.982,
+          "severity": "critical",
+          "file": "보충계약서_0318_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.982,
+          "severity": "critical",
+          "file": "보충계약서_0318_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.982,
+          "severity": "critical",
+          "file": "보충계약서_0318_p5-6.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 3,
+          "examples": [
+            "2024년 3월 18일",
+            "2024년 6월 10일",
+            "2024년 3월 15일"
+          ],
+          "severity": "high"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 1,
+          "examples": [
+            "금 200,000,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "부동산_매매계약서_원본",
+      "chunk_count": 2,
+      "total_paragraphs": 12,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.982,
+          "severity": "critical",
+          "file": "부동산_매매계약서_원본_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.982,
+          "severity": "critical",
+          "file": "부동산_매매계약서_원본_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.982,
+          "severity": "critical",
+          "file": "부동산_매매계약서_원본_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.982,
+          "severity": "critical",
+          "file": "부동산_매매계약서_원본_p3-5.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 2,
+          "examples": [
+            "2024년 3월 15일",
+            "2024년 6월 15일"
+          ],
+          "severity": "high"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 5,
+          "examples": [
+            "금 50,000,000원",
+            "금 150,000,000원",
+            "금 150,000,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "소장",
+      "chunk_count": 6,
+      "total_paragraphs": 34,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.994,
+          "severity": "critical",
+          "file": "소장_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.994,
+          "severity": "critical",
+          "file": "소장_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            11,
+            12
+          ],
+          "similarity": 0.994,
+          "severity": "critical",
+          "file": "소장_p11-12.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.994,
+          "severity": "critical",
+          "file": "소장_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.994,
+          "severity": "critical",
+          "file": "소장_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.994,
+          "severity": "critical",
+          "file": "소장_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.994,
+          "severity": "critical",
+          "file": "소장_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.994,
+          "severity": "critical",
+          "file": "소장_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.994,
+          "severity": "critical",
+          "file": "소장_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "소장_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.994,
+          "severity": "critical",
+          "file": "소장_p9-11.json"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 1,
+          "examples": [
+            "금 500,000,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "원고_준비서면_1차",
+      "chunk_count": 4,
+      "total_paragraphs": 22,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_1차_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_1차_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_1차_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_1차_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_1차_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_1차_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_1차_p7-8.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 4,
+          "examples": [
+            "2024년 3월 15일",
+            "2024년 4월 15일",
+            "2024년 5월 15일"
+          ],
+          "severity": "high"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 4,
+          "examples": [
+            "금 50,000,000원",
+            "금 150,000,000원",
+            "금 150,000,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "원고_준비서면_2차",
+      "chunk_count": 4,
+      "total_paragraphs": 24,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_2차_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_2차_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_2차_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_2차_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_2차_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_2차_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_2차_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_2차_p7-9.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 2,
+          "examples": [
+            "2024년 3월 15일",
+            "2024년 2월 28일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "원고_준비서면_3차_최종",
+      "chunk_count": 5,
+      "total_paragraphs": 28,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_3차_최종_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_3차_최종_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_3차_최종_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_3차_최종_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_3차_최종_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_3차_최종_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_3차_최종_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "원고_준비서면_3차_최종_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "원고_준비서면_3차_최종_p9-10.json"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 1,
+          "examples": [
+            "금 500,000,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "을1호증_보충합의서_위조의심",
+      "chunk_count": 3,
+      "total_paragraphs": 18,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "을1호증_보충합의서_위조의심_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "을1호증_보충합의서_위조의심_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "을1호증_보충합의서_위조의심_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "을1호증_보충합의서_위조의심_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "을1호증_보충합의서_위조의심_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "을1호증_보충합의서_위조의심_p5-7.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 2,
+          "examples": [
+            "2024년 3월 20일",
+            "2024년 6월 15일"
+          ],
+          "severity": "high"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 1,
+          "examples": [
+            "금 30,000,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "을2호증_피고계좌거래내역",
+      "chunk_count": 6,
+      "total_paragraphs": 36,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.98,
+          "severity": "critical",
+          "file": "을2호증_피고계좌거래내역_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.98,
+          "severity": "critical",
+          "file": "을2호증_피고계좌거래내역_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            11,
+            12
+          ],
+          "similarity": 0.98,
+          "severity": "critical",
+          "file": "을2호증_피고계좌거래내역_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            12,
+            13
+          ],
+          "similarity": 0.98,
+          "severity": "critical",
+          "file": "을2호증_피고계좌거래내역_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.98,
+          "severity": "critical",
+          "file": "을2호증_피고계좌거래내역_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.98,
+          "severity": "critical",
+          "file": "을2호증_피고계좌거래내역_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.98,
+          "severity": "critical",
+          "file": "을2호증_피고계좌거래내역_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.98,
+          "severity": "critical",
+          "file": "을2호증_피고계좌거래내역_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.98,
+          "severity": "critical",
+          "file": "을2호증_피고계좌거래내역_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.98,
+          "severity": "critical",
+          "file": "을2호증_피고계좌거래내역_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.97,
+          "severity": "critical",
+          "file": "을2호증_피고계좌거래내역_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.98,
+          "severity": "critical",
+          "file": "을2호증_피고계좌거래내역_p9-11.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 1,
+          "examples": [
+            "2024년 3월 15일"
+          ],
+          "severity": "high"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 5,
+          "examples": [
+            "금 50,000,000원",
+            "금 150,000,000원",
+            "금 150,000,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "을3호증_피고문자메시지_악의적의도",
+      "chunk_count": 8,
+      "total_paragraphs": 46,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "을3호증_피고문자메시지_악의적의도_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "을3호증_피고문자메시지_악의적의도_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            11,
+            12
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을3호증_피고문자메시지_악의적의도_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            12,
+            13
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을3호증_피고문자메시지_악의적의도_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            13,
+            14
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을3호증_피고문자메시지_악의적의도_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            14,
+            15
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을3호증_피고문자메시지_악의적의도_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            15,
+            16
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을3호증_피고문자메시지_악의적의도_p15-16.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "을3호증_피고문자메시지_악의적의도_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "을3호증_피고문자메시지_악의적의도_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "을3호증_피고문자메시지_악의적의도_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "을3호증_피고문자메시지_악의적의도_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "을3호증_피고문자메시지_악의적의도_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "을3호증_피고문자메시지_악의적의도_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.978,
+          "severity": "critical",
+          "file": "을3호증_피고문자메시지_악의적의도_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을3호증_피고문자메시지_악의적의도_p9-11.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 3,
+          "examples": [
+            "2024년 6월 15일",
+            "2024년 6월 15일",
+            "2024년 6월 17일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "을4호증_부동산담보대출서류",
+      "chunk_count": 7,
+      "total_paragraphs": 40,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "을4호증_부동산담보대출서류_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "을4호증_부동산담보대출서류_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            11,
+            12
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "을4호증_부동산담보대출서류_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            12,
+            13
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "을4호증_부동산담보대출서류_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            13,
+            14
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "을4호증_부동산담보대출서류_p13-14.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "을4호증_부동산담보대출서류_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "을4호증_부동산담보대출서류_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "을4호증_부동산담보대출서류_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "을4호증_부동산담보대출서류_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "을4호증_부동산담보대출서류_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "을4호증_부동산담보대출서류_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.977,
+          "severity": "critical",
+          "file": "을4호증_부동산담보대출서류_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "을4호증_부동산담보대출서류_p9-11.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 2,
+          "examples": [
+            "2018년 3월 10일",
+            "2024년 6월 15일"
+          ],
+          "severity": "high"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 3,
+          "examples": [
+            "금 200,000,000원",
+            "금 200,000,000원",
+            "금 180,000,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "을5호증_피고주민등록등본",
+      "chunk_count": 2,
+      "total_paragraphs": 12,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "을5호증_피고주민등록등본_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "을5호증_피고주민등록등본_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "을5호증_피고주민등록등본_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "을5호증_피고주민등록등본_p3-5.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 2,
+          "examples": [
+            "2024년 9월 20일",
+            "2018년 3월 20일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "을6호증_피고진술서",
+      "chunk_count": 4,
+      "total_paragraphs": 24,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.983,
+          "severity": "critical",
+          "file": "을6호증_피고진술서_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.983,
+          "severity": "critical",
+          "file": "을6호증_피고진술서_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.983,
+          "severity": "critical",
+          "file": "을6호증_피고진술서_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.983,
+          "severity": "critical",
+          "file": "을6호증_피고진술서_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.983,
+          "severity": "critical",
+          "file": "을6호증_피고진술서_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.983,
+          "severity": "critical",
+          "file": "을6호증_피고진술서_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.983,
+          "severity": "critical",
+          "file": "을6호증_피고진술서_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.983,
+          "severity": "critical",
+          "file": "을6호증_피고진술서_p7-9.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 2,
+          "examples": [
+            "2024년 10월 5일",
+            "2024년 3월 20일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "을7호증_감정평가서_피고제출",
+      "chunk_count": 9,
+      "total_paragraphs": 54,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을7호증_감정평가서_피고제출_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을7호증_감정평가서_피고제출_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            11,
+            12
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을7호증_감정평가서_피고제출_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            12,
+            13
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을7호증_감정평가서_피고제출_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            13,
+            14
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을7호증_감정평가서_피고제출_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            14,
+            15
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을7호증_감정평가서_피고제출_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            15,
+            16
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을7호증_감정평가서_피고제출_p15-17.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            16,
+            17
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을7호증_감정평가서_피고제출_p15-17.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            17,
+            18
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을7호증_감정평가서_피고제출_p17-19.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            18,
+            19
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을7호증_감정평가서_피고제출_p17-19.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을7호증_감정평가서_피고제출_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을7호증_감정평가서_피고제출_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을7호증_감정평가서_피고제출_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을7호증_감정평가서_피고제출_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을7호증_감정평가서_피고제출_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을7호증_감정평가서_피고제출_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.979,
+          "severity": "critical",
+          "file": "을7호증_감정평가서_피고제출_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.986,
+          "severity": "critical",
+          "file": "을7호증_감정평가서_피고제출_p9-11.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 1,
+          "examples": [
+            "2024년 9월 1일"
+          ],
+          "severity": "high"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 3,
+          "examples": [
+            "금 560,000,000원",
+            "금 500,000,000원",
+            "금 60,000,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "을8호증_제3자진술서",
+      "chunk_count": 4,
+      "total_paragraphs": 22,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "을8호증_제3자진술서_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "을8호증_제3자진술서_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "을8호증_제3자진술서_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "을8호증_제3자진술서_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "을8호증_제3자진술서_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "을8호증_제3자진술서_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "을8호증_제3자진술서_p7-8.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 2,
+          "examples": [
+            "2024년 10월 20일",
+            "2024년 3월 20일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "중개업자_거래확인서",
+      "chunk_count": 3,
+      "total_paragraphs": 18,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.983,
+          "severity": "critical",
+          "file": "중개업자_거래확인서_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.983,
+          "severity": "critical",
+          "file": "중개업자_거래확인서_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.983,
+          "severity": "critical",
+          "file": "중개업자_거래확인서_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.983,
+          "severity": "critical",
+          "file": "중개업자_거래확인서_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.983,
+          "severity": "critical",
+          "file": "중개업자_거래확인서_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.983,
+          "severity": "critical",
+          "file": "중개업자_거래확인서_p5-7.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 1,
+          "examples": [
+            "2024년 3월 15일"
+          ],
+          "severity": "high"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 3,
+          "examples": [
+            "금 500,000,000원",
+            "금 2,000,000원",
+            "금 2,000,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "증거조사기일녹취록_1112",
+      "chunk_count": 7,
+      "total_paragraphs": 42,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "증거조사기일녹취록_1112_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "증거조사기일녹취록_1112_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            11,
+            12
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "증거조사기일녹취록_1112_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            12,
+            13
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "증거조사기일녹취록_1112_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            13,
+            14
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "증거조사기일녹취록_1112_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            14,
+            15
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "증거조사기일녹취록_1112_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "증거조사기일녹취록_1112_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "증거조사기일녹취록_1112_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "증거조사기일녹취록_1112_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "증거조사기일녹취록_1112_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "증거조사기일녹취록_1112_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "증거조사기일녹취록_1112_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.977,
+          "severity": "critical",
+          "file": "증거조사기일녹취록_1112_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "증거조사기일녹취록_1112_p9-11.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 2,
+          "examples": [
+            "2024년 11월 12일",
+            "2024년 12월 10일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "증인신문조서_공인중개사",
+      "chunk_count": 6,
+      "total_paragraphs": 34,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_공인중개사_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_공인중개사_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            11,
+            12
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_공인중개사_p11-12.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_공인중개사_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_공인중개사_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_공인중개사_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_공인중개사_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_공인중개사_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_공인중개사_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.988,
+          "severity": "critical",
+          "file": "증인신문조서_공인중개사_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_공인중개사_p9-11.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 3,
+          "examples": [
+            "2024년 11월 12일",
+            "2024년 3월 18일",
+            "2024년 3월 20일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "증인신문조서_원고본인",
+      "chunk_count": 8,
+      "total_paragraphs": 48,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_원고본인_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_원고본인_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            11,
+            12
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_원고본인_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            12,
+            13
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_원고본인_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            13,
+            14
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_원고본인_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            14,
+            15
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_원고본인_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            15,
+            16
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_원고본인_p15-17.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            16,
+            17
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_원고본인_p15-17.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_원고본인_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_원고본인_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_원고본인_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_원고본인_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_원고본인_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_원고본인_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.988,
+          "severity": "critical",
+          "file": "증인신문조서_원고본인_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_원고본인_p9-11.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 3,
+          "examples": [
+            "2024년 11월 5일",
+            "2024년 3월 20일",
+            "2024년 6월 15일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "증인신문조서_제3자목격자",
+      "chunk_count": 5,
+      "total_paragraphs": 30,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_제3자목격자_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_제3자목격자_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_제3자목격자_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_제3자목격자_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_제3자목격자_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_제3자목격자_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_제3자목격자_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_제3자목격자_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.988,
+          "severity": "critical",
+          "file": "증인신문조서_제3자목격자_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_제3자목격자_p9-11.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 1,
+          "examples": [
+            "2024년 11월 12일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "증인신문조서_피고본인",
+      "chunk_count": 8,
+      "total_paragraphs": 46,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_피고본인_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_피고본인_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            11,
+            12
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_피고본인_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            12,
+            13
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_피고본인_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            13,
+            14
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_피고본인_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            14,
+            15
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_피고본인_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            15,
+            16
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_피고본인_p15-16.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_피고본인_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_피고본인_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_피고본인_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_피고본인_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_피고본인_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_피고본인_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.988,
+          "severity": "critical",
+          "file": "증인신문조서_피고본인_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.992,
+          "severity": "critical",
+          "file": "증인신문조서_피고본인_p9-11.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 2,
+          "examples": [
+            "2024년 11월 5일",
+            "2024년 3월 20일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "최종변론기일녹취록_1210",
+      "chunk_count": 8,
+      "total_paragraphs": 48,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "최종변론기일녹취록_1210_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "최종변론기일녹취록_1210_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            11,
+            12
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "최종변론기일녹취록_1210_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            12,
+            13
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "최종변론기일녹취록_1210_p11-13.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            13,
+            14
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "최종변론기일녹취록_1210_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            14,
+            15
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "최종변론기일녹취록_1210_p13-15.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            15,
+            16
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "최종변론기일녹취록_1210_p15-17.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            16,
+            17
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "최종변론기일녹취록_1210_p15-17.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "최종변론기일녹취록_1210_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "최종변론기일녹취록_1210_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "최종변론기일녹취록_1210_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "최종변론기일녹취록_1210_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "최종변론기일녹취록_1210_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.984,
+          "severity": "critical",
+          "file": "최종변론기일녹취록_1210_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            9,
+            10
+          ],
+          "similarity": 0.977,
+          "severity": "critical",
+          "file": "최종변론기일녹취록_1210_p9-11.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            10,
+            11
+          ],
+          "similarity": 0.985,
+          "severity": "critical",
+          "file": "최종변론기일녹취록_1210_p9-11.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 2,
+          "examples": [
+            "2024년 12월 10일",
+            "2024년 12월 24일"
+          ],
+          "severity": "high"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 1,
+          "examples": [
+            "금 500,000,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "피고_준비서면_1차",
+      "chunk_count": 3,
+      "total_paragraphs": 18,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_1차_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_1차_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_1차_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_1차_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_1차_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_1차_p5-7.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 4,
+          "examples": [
+            "2024년 3월 15일",
+            "2024년 3월 20일",
+            "2024년 6월 15일"
+          ],
+          "severity": "high"
+        },
+        {
+          "type": "missing_amounts",
+          "count": 1,
+          "examples": [
+            "금 30,000,000원"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "피고_준비서면_2차",
+      "chunk_count": 4,
+      "total_paragraphs": 22,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_2차_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_2차_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_2차_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_2차_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_2차_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_2차_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_2차_p7-8.json"
+        },
+        {
+          "type": "missing_dates",
+          "count": 1,
+          "examples": [
+            "2024년 3월 20일"
+          ],
+          "severity": "high"
+        }
+      ]
+    },
+    {
+      "base_name": "피고_준비서면_3차_최종",
+      "chunk_count": 4,
+      "total_paragraphs": 24,
+      "has_issues": true,
+      "issues": [
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            1,
+            2
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_3차_최종_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            2,
+            3
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_3차_최종_p1-3.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            3,
+            4
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_3차_최종_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            4,
+            5
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_3차_최종_p3-5.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            5,
+            6
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_3차_최종_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            6,
+            7
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_3차_최종_p5-7.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            7,
+            8
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_3차_최종_p7-9.json"
+        },
+        {
+          "type": "high_page_similarity",
+          "pages": [
+            8,
+            9
+          ],
+          "similarity": 0.991,
+          "severity": "critical",
+          "file": "피고_준비서면_3차_최종_p7-9.json"
+        }
+      ]
+    }
+  ]
+}

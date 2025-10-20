@@ -1,0 +1,161 @@
+{
+  "chunk_id": "140351f3-ea37-4948-bce0-f3cdd7083151",
+  "file_id": 6,
+  "project_id": 3001,
+  "storage_file_name": "c43e1c42-b986-4e7d-98a4-6b874526bbc7-1760885381778.pdf",
+  "original_file_name": "(주)서울엔지니어링_의견서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 14,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "과징금은 당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고 있으며,",
+    "걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히 요청함. 당사는 재발방지를 위해 최선을",
+    "타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히",
+    "기록하고 있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을",
+    "생계가 걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히 요청함. 당사는 재발방지를 위해",
+    "하는 과징금은 당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고",
+    "부과하고자 하는 과징금은 당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를",
+    "있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을 최소"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "4a9e8ce5-87a4-48fe-889a-a90bf62aff53",
+        "idx_in_page": 0,
+        "text": "과징금은 당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고 있으며,",
+        "page": 1,
+        "bbox": {
+          "x": 185.0,
+          "y": 264.0,
+          "width": 1202.0,
+          "height": 169.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "1766f65d-5187-4aca-ba40-530147a6c93d",
+        "idx_in_page": 1,
+        "text": "걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히 요청함. 당사는 재발방지를 위해 최선을",
+        "page": 1,
+        "bbox": {
+          "x": 193.0,
+          "y": 907.0,
+          "width": 1274.0,
+          "height": 371.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "8e852054-daf6-40a1-a7bd-f87961567e4d",
+        "idx_in_page": 0,
+        "text": "타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히",
+        "page": 2,
+        "bbox": {
+          "x": 191.0,
+          "y": 281.0,
+          "width": 1222.0,
+          "height": 155.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "115cd885-90d3-4750-8bc9-6727b8ca963b",
+        "idx_in_page": 1,
+        "text": "기록하고 있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을",
+        "page": 2,
+        "bbox": {
+          "x": 180.0,
+          "y": 968.0,
+          "width": 1279.0,
+          "height": 377.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "9aef2b87-7711-45f9-8dbf-cc6adfaa8d10",
+        "idx_in_page": 2,
+        "text": "생계가 걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히 요청함. 당사는 재발방지를 위해",
+        "page": 2,
+        "bbox": {
+          "x": 183.0,
+          "y": 1400.0,
+          "width": 1235.0,
+          "height": 196.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "18302ee3-1de5-4910-9ffe-ec4bdda62efd",
+        "idx_in_page": 0,
+        "text": "하는 과징금은 당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고",
+        "page": 3,
+        "bbox": {
+          "x": 195.0,
+          "y": 362.0,
+          "width": 1268.0,
+          "height": 321.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "dc1bc022-b1af-4ef4-92b6-b6658d687a2e",
+        "idx_in_page": 1,
+        "text": "부과하고자 하는 과징금은 당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를",
+        "page": 3,
+        "bbox": {
+          "x": 188.0,
+          "y": 946.0,
+          "width": 1202.0,
+          "height": 181.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "8384f78c-3eec-44d1-ba91-9a5982d6cc6d",
+        "idx_in_page": 2,
+        "text": "있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을 최소",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 1446.0,
+          "width": 1219.0,
+          "height": 316.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.778799+00:00"
+}

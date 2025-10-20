@@ -1,0 +1,74 @@
+{
+  "chunk_id": "54a3c041-33e6-4b0f-b775-ac0282bd231a",
+  "file_id": 32,
+  "project_id": 5001,
+  "storage_file_name": "11a5b02d-2ae9-4aef-966a-014cf6c653d9-1702504695681.pdf",
+  "original_file_name": "자문사_의견서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 19,
+  "processing_duration_seconds": 5,
+  "language": "ko",
+  "pages": [
+    19
+  ],
+  "chunk_number": 10,
+  "paragraph_texts": [
+    "본 계약에서 사용하는 용어의 정의는 다음과 같다. 의견 내용: \"당사는 글로벌미디어그룹이 스타라이트엔터테인먼트를 인수하는 거래에 대해 재무적 관점에서 공정성 검토를 수행하였습니다",
+    "제1조 (당사자) 발행기관: 삼정KPMG 자문본부 양 당사자는 본 계약에 정한 권리와 의무를 성실히 이행한다.",
+    "제2조 (거래조건) 발행일: 2024년 8월 1일 본 거래의 세부 조건은 별첨 자료에 명시된 바와 같다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "d552daa4-5cfb-4bdb-809e-c79591c54cfa",
+        "idx_in_page": 0,
+        "text": "본 계약에서 사용하는 용어의 정의는 다음과 같다. 의견 내용: \"당사는 글로벌미디어그룹이 스타라이트엔터테인먼트를 인수하는 거래에 대해 재무적 관점에서 공정성 검토를 수행하였습니다",
+        "page": 19,
+        "bbox": {
+          "x": 36.0,
+          "y": 51.0,
+          "width": 1357.0,
+          "height": 29.0
+        },
+        "type": "body",
+        "confidence_score": 0.9640244856
+      },
+      {
+        "paragraph_id": "375aaead-47b8-4e5b-8a8d-e64ed9f10089",
+        "idx_in_page": 1,
+        "text": "제1조 (당사자) 발행기관: 삼정KPMG 자문본부 양 당사자는 본 계약에 정한 권리와 의무를 성실히 이행한다.",
+        "page": 19,
+        "bbox": {
+          "x": 193.99439604690096,
+          "y": 235.4563040784214,
+          "width": 1308.5162084359272,
+          "height": 50.0
+        },
+        "type": "body",
+        "confidence_score": 0.9516875096
+      },
+      {
+        "paragraph_id": "a6827515-1a10-4b5f-a4a2-5724e2d6ff3f",
+        "idx_in_page": 2,
+        "text": "제2조 (거래조건) 발행일: 2024년 8월 1일 본 거래의 세부 조건은 별첨 자료에 명시된 바와 같다.",
+        "page": 19,
+        "bbox": {
+          "x": 197.21695378895046,
+          "y": 389.9783277801766,
+          "width": 1301.9219361978965,
+          "height": 50.0
+        },
+        "type": "body",
+        "confidence_score": 0.9509742854
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 19,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-11T00:00:00+00:00"
+}

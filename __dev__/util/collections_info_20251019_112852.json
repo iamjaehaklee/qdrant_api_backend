@@ -1,0 +1,258 @@
+{
+  "ocr_chunks": {
+    "status": "green",
+    "points_count": 144,
+    "vectors_count": null,
+    "indexed_vectors_count": 144,
+    "segments_count": 2,
+    "config": {
+      "params": {
+        "vectors": {
+          "ocr-dense-vector": {
+            "size": 1536,
+            "distance": "Cosine",
+            "hnsw_config": {
+              "m": 0,
+              "ef_construct": 256,
+              "full_scan_threshold": null,
+              "max_indexing_threads": null,
+              "on_disk": null,
+              "payload_m": 24
+            },
+            "quantization_config": null,
+            "on_disk": true,
+            "datatype": "float32",
+            "multivector_config": null
+          }
+        },
+        "shard_number": 1,
+        "sharding_method": null,
+        "replication_factor": 1,
+        "write_consistency_factor": 1,
+        "read_fan_out_factor": null,
+        "on_disk_payload": true,
+        "sparse_vectors": {
+          "ocr-sparse-vector": {
+            "index": {
+              "full_scan_threshold": null,
+              "on_disk": true,
+              "datatype": "float32"
+            },
+            "modifier": null
+          }
+        }
+      },
+      "hnsw_config": {
+        "m": 16,
+        "ef_construct": 100,
+        "full_scan_threshold": 10000,
+        "max_indexing_threads": 0,
+        "on_disk": false,
+        "payload_m": null
+      },
+      "optimizer_config": {
+        "deleted_threshold": 0.2,
+        "vacuum_min_vector_number": 1000,
+        "default_segment_number": 0,
+        "max_segment_size": null,
+        "memmap_threshold": null,
+        "indexing_threshold": 10000,
+        "flush_interval_sec": 5,
+        "max_optimization_threads": null
+      },
+      "wal_config": {
+        "wal_capacity_mb": 32,
+        "wal_segments_ahead": 0
+      },
+      "quantization_config": null,
+      "strict_mode_config": {
+        "enabled": true,
+        "max_query_limit": null,
+        "max_timeout": null,
+        "unindexed_filtering_retrieve": false,
+        "unindexed_filtering_update": false,
+        "search_max_hnsw_ef": null,
+        "search_allow_exact": null,
+        "search_max_oversampling": null,
+        "upsert_max_batchsize": null,
+        "max_collection_vector_size_bytes": null,
+        "read_rate_limit": null,
+        "write_rate_limit": null,
+        "max_collection_payload_size_bytes": null,
+        "max_points_count": null,
+        "filter_max_conditions": null,
+        "condition_max_size": null,
+        "multivector_config": null,
+        "sparse_config": null
+      }
+    },
+    "payload_schema": {
+      "project_id": {
+        "data_type": "integer",
+        "params": {
+          "type": "integer",
+          "lookup": true,
+          "range": true,
+          "is_principal": null,
+          "on_disk": null
+        },
+        "points": 144
+      },
+      "paragraph_texts": {
+        "data_type": "text",
+        "params": {
+          "type": "text",
+          "tokenizer": "multilingual",
+          "min_token_len": 2,
+          "max_token_len": 20,
+          "lowercase": true,
+          "phrase_matching": null,
+          "stopwords": null,
+          "on_disk": null,
+          "stemmer": null
+        },
+        "points": 144
+      },
+      "file_id": {
+        "data_type": "integer",
+        "params": {
+          "type": "integer",
+          "lookup": true,
+          "range": false,
+          "is_principal": null,
+          "on_disk": null
+        },
+        "points": 144
+      },
+      "paragraph_texts[]": {
+        "data_type": "text",
+        "params": {
+          "type": "text",
+          "tokenizer": "multilingual",
+          "min_token_len": null,
+          "max_token_len": null,
+          "lowercase": true,
+          "phrase_matching": null,
+          "stopwords": null,
+          "on_disk": null,
+          "stemmer": null
+        },
+        "points": 144
+      }
+    }
+  },
+  "ocr_summaries": {
+    "status": "green",
+    "points_count": 4,
+    "vectors_count": null,
+    "indexed_vectors_count": 4,
+    "segments_count": 2,
+    "config": {
+      "params": {
+        "vectors": {
+          "ocr-dense-vector": {
+            "size": 1536,
+            "distance": "Cosine",
+            "hnsw_config": {
+              "m": 0,
+              "ef_construct": 256,
+              "full_scan_threshold": null,
+              "max_indexing_threads": null,
+              "on_disk": null,
+              "payload_m": 24
+            },
+            "quantization_config": null,
+            "on_disk": true,
+            "datatype": "float32",
+            "multivector_config": null
+          }
+        },
+        "shard_number": 1,
+        "sharding_method": null,
+        "replication_factor": 1,
+        "write_consistency_factor": 1,
+        "read_fan_out_factor": null,
+        "on_disk_payload": true,
+        "sparse_vectors": {
+          "ocr-sparse-vector": {
+            "index": {
+              "full_scan_threshold": null,
+              "on_disk": true,
+              "datatype": "float32"
+            },
+            "modifier": null
+          }
+        }
+      },
+      "hnsw_config": {
+        "m": 16,
+        "ef_construct": 100,
+        "full_scan_threshold": 10000,
+        "max_indexing_threads": 0,
+        "on_disk": false,
+        "payload_m": null
+      },
+      "optimizer_config": {
+        "deleted_threshold": 0.2,
+        "vacuum_min_vector_number": 1000,
+        "default_segment_number": 0,
+        "max_segment_size": null,
+        "memmap_threshold": null,
+        "indexing_threshold": 10000,
+        "flush_interval_sec": 5,
+        "max_optimization_threads": null
+      },
+      "wal_config": {
+        "wal_capacity_mb": 32,
+        "wal_segments_ahead": 0
+      },
+      "quantization_config": null,
+      "strict_mode_config": {
+        "enabled": true,
+        "max_query_limit": null,
+        "max_timeout": null,
+        "unindexed_filtering_retrieve": false,
+        "unindexed_filtering_update": false,
+        "search_max_hnsw_ef": null,
+        "search_allow_exact": null,
+        "search_max_oversampling": null,
+        "upsert_max_batchsize": null,
+        "max_collection_vector_size_bytes": null,
+        "read_rate_limit": null,
+        "write_rate_limit": null,
+        "max_collection_payload_size_bytes": null,
+        "max_points_count": null,
+        "filter_max_conditions": null,
+        "condition_max_size": null,
+        "multivector_config": null,
+        "sparse_config": null
+      }
+    },
+    "payload_schema": {
+      "summary_text": {
+        "data_type": "text",
+        "params": {
+          "type": "text",
+          "tokenizer": "multilingual",
+          "min_token_len": 2,
+          "max_token_len": 20,
+          "lowercase": true,
+          "phrase_matching": null,
+          "stopwords": null,
+          "on_disk": null,
+          "stemmer": null
+        },
+        "points": 4
+      },
+      "project_id": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword",
+          "is_tenant": true,
+          "on_disk": false
+        },
+        "points": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "chunk_id": "1ada5acd-dd53-456c-9e76-890f105499f4",
+  "file_id": 5,
+  "project_id": 3001,
+  "storage_file_name": "b3418aa9-4525-49d2-91b5-c2b0c1e5abd6-1760885381776.pdf",
+  "original_file_name": "(주)서울엔지니어링_소명자료.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 17,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "자료 27건 제출. 주요 내용: (1) 사내 입찰가격 결정 프로세스 매뉴얼 - 원가계산팀, 영업팀, 경영진의",
+    "원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템. (2) 입찰가격 산정 회의록 15건 - 외부와의 접촉",
+    "(2) 입찰가격 산정 회의록 15건 - 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인",
+    "없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 - 2020년부터 시행 중. 당사는 정당한 경쟁을 해왔음.",
+    "27건 제출. 주요 내용: (1) 사내 입찰가격 결정 프로세스 매뉴얼 - 원가계산팀, 영업팀, 경영진의 3단계",
+    "당사의 입찰 프로세스가 독립적이고 자율적으로 운영되었음을 입증하는 자료 27건 제출. 주요 내용: (1) 사내 입찰가격",
+    "운영되었음을 입증하는 자료 27건 제출. 주요 내용: (1) 사내 입찰가격 결정 프로세스 매뉴얼 - 원가계산팀,",
+    "산정 회의록 15건 - 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 - 2020년부터"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "0e30009d-7c62-47dc-9db2-a66e3c973fc6",
+        "idx_in_page": 0,
+        "text": "자료 27건 제출. 주요 내용: (1) 사내 입찰가격 결정 프로세스 매뉴얼 - 원가계산팀, 영업팀, 경영진의",
+        "page": 1,
+        "bbox": {
+          "x": 198.0,
+          "y": 380.0,
+          "width": 1236.0,
+          "height": 218.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "38a80b55-e542-4ccd-b9c3-3cca2279c193",
+        "idx_in_page": 1,
+        "text": "원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템. (2) 입찰가격 산정 회의록 15건 - 외부와의 접촉",
+        "page": 1,
+        "bbox": {
+          "x": 190.0,
+          "y": 958.0,
+          "width": 1207.0,
+          "height": 313.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "0a14af45-75f8-4e04-aad3-404ff0b2c19f",
+        "idx_in_page": 2,
+        "text": "(2) 입찰가격 산정 회의록 15건 - 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인",
+        "page": 1,
+        "bbox": {
+          "x": 197.0,
+          "y": 1535.0,
+          "width": 1257.0,
+          "height": 377.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "de3da600-270d-4fde-892d-6dbfc37c2d62",
+        "idx_in_page": 0,
+        "text": "없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 - 2020년부터 시행 중. 당사는 정당한 경쟁을 해왔음.",
+        "page": 2,
+        "bbox": {
+          "x": 196.0,
+          "y": 360.0,
+          "width": 1253.0,
+          "height": 154.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "78d530b1-8d76-4df6-8596-44b5750d38cd",
+        "idx_in_page": 1,
+        "text": "27건 제출. 주요 내용: (1) 사내 입찰가격 결정 프로세스 매뉴얼 - 원가계산팀, 영업팀, 경영진의 3단계",
+        "page": 2,
+        "bbox": {
+          "x": 195.0,
+          "y": 936.0,
+          "width": 1237.0,
+          "height": 321.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "5eee21e0-b457-4c9d-ab4b-1806f38deb76",
+        "idx_in_page": 0,
+        "text": "당사의 입찰 프로세스가 독립적이고 자율적으로 운영되었음을 입증하는 자료 27건 제출. 주요 내용: (1) 사내 입찰가격",
+        "page": 3,
+        "bbox": {
+          "x": 199.0,
+          "y": 241.0,
+          "width": 1247.0,
+          "height": 193.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "00b376f5-9fbb-4c3c-be2b-3666d9b9a02b",
+        "idx_in_page": 1,
+        "text": "운영되었음을 입증하는 자료 27건 제출. 주요 내용: (1) 사내 입찰가격 결정 프로세스 매뉴얼 - 원가계산팀,",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 937.0,
+          "width": 1286.0,
+          "height": 253.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "e9f57752-c0cf-44dd-9f20-01aa0cf0fca3",
+        "idx_in_page": 2,
+        "text": "산정 회의록 15건 - 외부와의 접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 - 2020년부터",
+        "page": 3,
+        "bbox": {
+          "x": 199.0,
+          "y": 1565.0,
+          "width": 1287.0,
+          "height": 290.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.776719+00:00"
+}

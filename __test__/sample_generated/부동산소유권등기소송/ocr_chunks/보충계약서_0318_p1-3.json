@@ -1,0 +1,131 @@
+{
+  "chunk_id": "1bba3413-f76e-4d8f-8153-f4b0d51ccc06",
+  "file_id": 10,
+  "project_id": 1001,
+  "storage_file_name": "supplementary_contract_0318.pdf",
+  "original_file_name": "보충계약서_0318.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 6,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "[1페이지] 부동산 매매계약서 매도인: 이영희, 매수인: 김철수",
+    "매매대금: 금 500,000,000원",
+    "[2페이지] 부동산 매매계약서 매도인: 이영희, 매수인: 김철수",
+    "매매대금: 금 500,000,000원",
+    "[3페이지] 부동산 매매계약서 매도인: 이영희, 매수인: 김철수",
+    "매매대금: 금 500,000,000원"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-010-001-000-0",
+        "idx_in_page": 0,
+        "text": "[1페이지] 부동산 매매계약서 매도인: 이영희, 매수인: 김철수",
+        "page": 1,
+        "bbox": {
+          "x": 215.8,
+          "y": 102.98,
+          "width": 1242.78,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-010-001-000-1",
+        "idx_in_page": 1,
+        "text": "매매대금: 금 500,000,000원",
+        "page": 1,
+        "bbox": {
+          "x": 191.5,
+          "y": 1195.37,
+          "width": 1312.48,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-010-001-001-0",
+        "idx_in_page": 0,
+        "text": "[2페이지] 부동산 매매계약서 매도인: 이영희, 매수인: 김철수",
+        "page": 2,
+        "bbox": {
+          "x": 194.49,
+          "y": 102.47,
+          "width": 1327.26,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-010-001-001-1",
+        "idx_in_page": 1,
+        "text": "매매대금: 금 500,000,000원",
+        "page": 2,
+        "bbox": {
+          "x": 209.79,
+          "y": 1180.29,
+          "width": 1268.2,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-010-001-002-0",
+        "idx_in_page": 0,
+        "text": "[3페이지] 부동산 매매계약서 매도인: 이영희, 매수인: 김철수",
+        "page": 3,
+        "bbox": {
+          "x": 198.4,
+          "y": 100.2,
+          "width": 1241.62,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-010-001-002-1",
+        "idx_in_page": 1,
+        "text": "매매대금: 금 500,000,000원",
+        "page": 3,
+        "bbox": {
+          "x": 211.56,
+          "y": 1190.48,
+          "width": 1289.23,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-02T00:00:00+00:00"
+}

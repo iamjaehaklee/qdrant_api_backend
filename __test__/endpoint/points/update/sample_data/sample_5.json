@@ -1,0 +1,39 @@
+{
+  "method": "PUT",
+  "path": "/points/f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {
+    "point_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  "query_params": {},
+  "body": {
+    "file_id": 777,
+    "project_id": 88,
+    "storage_file_name": "2024/complete/update.pdf",
+    "original_file_name": "fully_updated.pdf",
+    "paragraph_texts": [
+      "Complete update text"
+    ],
+    "chunk_content": {
+      "paragraphs": [
+        {
+          "paragraph_id": "complete_para",
+          "idx_in_page": 0,
+          "text": "Complete update text",
+          "page": 1,
+          "bbox": {
+            "x": 100.0,
+            "y": 100.0,
+            "width": 450.0,
+            "height": 22.0
+          },
+          "type": "text",
+          "confidence_score": 0.98
+        }
+      ]
+    }
+  }
+}

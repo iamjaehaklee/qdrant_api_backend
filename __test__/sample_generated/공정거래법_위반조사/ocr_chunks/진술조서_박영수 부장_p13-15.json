@@ -1,0 +1,161 @@
+{
+  "chunk_id": "2f735399-639c-49ba-b2c5-b95ea761dc20",
+  "file_id": 48,
+  "project_id": 3001,
+  "storage_file_name": "f47f3bef-3d96-42ef-b156-376706faa9a9-1760885381848.pdf",
+  "original_file_name": "진술조서_박영수 부장.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 18,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    13,
+    14,
+    15
+  ],
+  "chunk_number": 7,
+  "paragraph_texts": [
+    "참석 사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나",
+    "((주)태평양건설 영업담당 부장) 진술조서 (2024년 5월 15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순",
+    "5월 15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과",
+    "5월 15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과",
+    "추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에 따른 것일 뿐 본인",
+    "5월 15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과",
+    "((주)태평양건설 영업담당 부장) 진술조서 (2024년 5월 15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순",
+    "((주)태평양건설 영업담당 부장) 진술조서 (2024년 5월 15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "e2cfba7d-425e-4e2b-baa6-d6ccecc73b48",
+        "idx_in_page": 0,
+        "text": "참석 사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나",
+        "page": 13,
+        "bbox": {
+          "x": 191.0,
+          "y": 306.0,
+          "width": 1274.0,
+          "height": 173.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "d5a601a6-97e3-4f06-88ca-4cadd97c2b5b",
+        "idx_in_page": 1,
+        "text": "((주)태평양건설 영업담당 부장) 진술조서 (2024년 5월 15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순",
+        "page": 13,
+        "bbox": {
+          "x": 182.0,
+          "y": 937.0,
+          "width": 1296.0,
+          "height": 239.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "350c49f8-159c-462c-92dc-f1bb0ec388b3",
+        "idx_in_page": 0,
+        "text": "5월 15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과",
+        "page": 14,
+        "bbox": {
+          "x": 185.0,
+          "y": 329.0,
+          "width": 1242.0,
+          "height": 234.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "a35b83e7-088e-450c-9b37-b4c5449dbb91",
+        "idx_in_page": 1,
+        "text": "5월 15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과",
+        "page": 14,
+        "bbox": {
+          "x": 200.0,
+          "y": 891.0,
+          "width": 1252.0,
+          "height": 348.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "c04d66f4-e2f5-4f37-ab6e-9842052b24ea",
+        "idx_in_page": 2,
+        "text": "추궁 결과 가격 협의가 있었음을 부분적으로 시인. 그러나 회사 경영진의 지시에 따른 것일 뿐 본인",
+        "page": 14,
+        "bbox": {
+          "x": 183.0,
+          "y": 1581.0,
+          "width": 1264.0,
+          "height": 240.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "a89b9c33-398a-4aca-bc3e-353d5546c160",
+        "idx_in_page": 0,
+        "text": "5월 15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순 친목 모임이었다고 주장. 추궁 결과",
+        "page": 15,
+        "bbox": {
+          "x": 180.0,
+          "y": 363.0,
+          "width": 1276.0,
+          "height": 356.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "b06912e3-071a-40d3-bb41-227d98651d3a",
+        "idx_in_page": 1,
+        "text": "((주)태평양건설 영업담당 부장) 진술조서 (2024년 5월 15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순",
+        "page": 15,
+        "bbox": {
+          "x": 194.0,
+          "y": 850.0,
+          "width": 1240.0,
+          "height": 211.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "0e9c3176-958a-441a-8936-b056fac80c7d",
+        "idx_in_page": 2,
+        "text": "((주)태평양건설 영업담당 부장) 진술조서 (2024년 5월 15일). 진술 요지: 비공식 회의 참석 사실은 인정하나 단순",
+        "page": 15,
+        "bbox": {
+          "x": 194.0,
+          "y": 1558.0,
+          "width": 1283.0,
+          "height": 180.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 13,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 14,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 15,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.848380+00:00"
+}

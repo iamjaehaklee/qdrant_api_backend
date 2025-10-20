@@ -1,0 +1,131 @@
+{
+  "chunk_id": "5a9b4550-e6d1-44e5-b188-e3ab096cee99",
+  "file_id": 45,
+  "project_id": 3001,
+  "storage_file_name": "81bd891f-f09f-4048-8a34-1c772a8126b8-1760885381843.pdf",
+  "original_file_name": "입찰담합_합의_회의록.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 5,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "chunk_number": 2,
+  "paragraph_texts": [
+    "서울 강남구 소재 특급호텔 연회장. 참석자: 4개사 대표이사 및 영업담당 임원 총 8명. 안건: 향후",
+    "서울 강남구 소재 특급호텔 연회장. 참석자: 4개사 대표이사 및 영업담당 임원 총 8명. 안건: 향후",
+    "유지. (3) 위반 시 제재 - 합의 위반 업체는 향후 물량배분에서 제외. 조직적 담합의 핵심",
+    "임원 총 8명. 안건: 향후 입찰 물량배분 원칙 합의. 합의 내용: (1) 순번제 도입 -",
+    "공사는 4개사가 돌아가며 낙찰. (2) 최저가 방지 협약 - 입찰가는 예정가 95% 이상 유지. (3)",
+    "협약 - 입찰가는 예정가 95% 이상 유지. (3) 위반 시 제재 - 합의 위반 업체는"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "dddef25e-4a7e-496c-adc3-40e4331b2a26",
+        "idx_in_page": 0,
+        "text": "서울 강남구 소재 특급호텔 연회장. 참석자: 4개사 대표이사 및 영업담당 임원 총 8명. 안건: 향후",
+        "page": 3,
+        "bbox": {
+          "x": 194.0,
+          "y": 311.0,
+          "width": 1235.0,
+          "height": 202.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "326fb8d7-2bae-4165-837e-2be4c039e694",
+        "idx_in_page": 1,
+        "text": "서울 강남구 소재 특급호텔 연회장. 참석자: 4개사 대표이사 및 영업담당 임원 총 8명. 안건: 향후",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 965.0,
+          "width": 1288.0,
+          "height": 266.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "63dce6ec-58e4-4edd-b467-59bcfa4dcc7b",
+        "idx_in_page": 0,
+        "text": "유지. (3) 위반 시 제재 - 합의 위반 업체는 향후 물량배분에서 제외. 조직적 담합의 핵심",
+        "page": 4,
+        "bbox": {
+          "x": 196.0,
+          "y": 317.0,
+          "width": 1243.0,
+          "height": 352.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "479303d2-7481-4a7e-b9c5-2eacc17b4aa8",
+        "idx_in_page": 1,
+        "text": "임원 총 8명. 안건: 향후 입찰 물량배분 원칙 합의. 합의 내용: (1) 순번제 도입 -",
+        "page": 4,
+        "bbox": {
+          "x": 187.0,
+          "y": 848.0,
+          "width": 1260.0,
+          "height": 307.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "4b062482-1b37-4632-905a-b9e02d49e3d9",
+        "idx_in_page": 0,
+        "text": "공사는 4개사가 돌아가며 낙찰. (2) 최저가 방지 협약 - 입찰가는 예정가 95% 이상 유지. (3)",
+        "page": 5,
+        "bbox": {
+          "x": 193.0,
+          "y": 351.0,
+          "width": 1215.0,
+          "height": 352.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "3941b581-a35a-4a16-ae5a-a6f8c1fc0281",
+        "idx_in_page": 1,
+        "text": "협약 - 입찰가는 예정가 95% 이상 유지. (3) 위반 시 제재 - 합의 위반 업체는",
+        "page": 5,
+        "bbox": {
+          "x": 185.0,
+          "y": 989.0,
+          "width": 1268.0,
+          "height": 183.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 4,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.843334+00:00"
+}

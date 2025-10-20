@@ -1,0 +1,146 @@
+{
+  "chunk_id": "8c46330e-4ca4-495d-abc8-285700a3a7d3",
+  "file_id": 50,
+  "project_id": 3001,
+  "storage_file_name": "aaa08ac3-8c66-4772-850d-1ecb1c1bbc8c-1760885381851.pdf",
+  "original_file_name": "카카오톡_단체대화방.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 20,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "chunk_number": 3,
+  "paragraph_texts": [
+    "담당자 8명. 주요 대화 내용: 입찰 일정 공유, '이번 건은 A사', '다음은 B사 순서', '가격은",
+    "메시지). 참여자: 4개 건설사 담당자 8명. 주요 대화 내용: 입찰 일정 공유, '이번 건은 A사',",
+    "(2023년 10월~2024년 2월, 총 234건 메시지). 참여자: 4개 건설사 담당자 8명. 주요 대화 내용: 입찰",
+    "'다음은 B사 순서', '가격은 예정가 95% 이상 유지', '절대 독자 행동 하지 말 것'. 4개사가",
+    "내용: 입찰 일정 공유, '이번 건은 A사', '다음은 B사 순서', '가격은 예정가 95% 이상 유지',",
+    "2월, 총 234건 메시지). 참여자: 4개 건설사 담당자 8명. 주요 대화 내용: 입찰 일정 공유,",
+    "A사', '다음은 B사 순서', '가격은 예정가 95% 이상 유지', '절대 독자 행동 하지 말 것'."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "f691fcd3-d47c-4f67-a36d-ff88a90dcc3d",
+        "idx_in_page": 0,
+        "text": "담당자 8명. 주요 대화 내용: 입찰 일정 공유, '이번 건은 A사', '다음은 B사 순서', '가격은",
+        "page": 5,
+        "bbox": {
+          "x": 197.0,
+          "y": 320.0,
+          "width": 1223.0,
+          "height": 150.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "f2d7fa3c-02d1-4405-9a5a-156751c5e94c",
+        "idx_in_page": 1,
+        "text": "메시지). 참여자: 4개 건설사 담당자 8명. 주요 대화 내용: 입찰 일정 공유, '이번 건은 A사',",
+        "page": 5,
+        "bbox": {
+          "x": 184.0,
+          "y": 818.0,
+          "width": 1240.0,
+          "height": 250.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "53309d3b-746c-4f1c-952d-cb8cc00bd3c4",
+        "idx_in_page": 0,
+        "text": "(2023년 10월~2024년 2월, 총 234건 메시지). 참여자: 4개 건설사 담당자 8명. 주요 대화 내용: 입찰",
+        "page": 6,
+        "bbox": {
+          "x": 195.0,
+          "y": 264.0,
+          "width": 1280.0,
+          "height": 177.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "fcbb07f6-2f0a-40f0-8f6f-db6e96adfceb",
+        "idx_in_page": 1,
+        "text": "'다음은 B사 순서', '가격은 예정가 95% 이상 유지', '절대 독자 행동 하지 말 것'. 4개사가",
+        "page": 6,
+        "bbox": {
+          "x": 199.0,
+          "y": 933.0,
+          "width": 1223.0,
+          "height": 239.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "9210901d-7fb3-4cbe-8484-2ebe537f0b2d",
+        "idx_in_page": 2,
+        "text": "내용: 입찰 일정 공유, '이번 건은 A사', '다음은 B사 순서', '가격은 예정가 95% 이상 유지',",
+        "page": 6,
+        "bbox": {
+          "x": 196.0,
+          "y": 1525.0,
+          "width": 1218.0,
+          "height": 175.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "a8a1109d-1951-474b-9506-bde2888252ad",
+        "idx_in_page": 0,
+        "text": "2월, 총 234건 메시지). 참여자: 4개 건설사 담당자 8명. 주요 대화 내용: 입찰 일정 공유,",
+        "page": 7,
+        "bbox": {
+          "x": 194.0,
+          "y": 376.0,
+          "width": 1215.0,
+          "height": 221.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "dc31e069-26ae-4176-b667-6892e80a9aea",
+        "idx_in_page": 1,
+        "text": "A사', '다음은 B사 순서', '가격은 예정가 95% 이상 유지', '절대 독자 행동 하지 말 것'.",
+        "page": 7,
+        "bbox": {
+          "x": 197.0,
+          "y": 880.0,
+          "width": 1267.0,
+          "height": 389.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 6,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.851694+00:00"
+}

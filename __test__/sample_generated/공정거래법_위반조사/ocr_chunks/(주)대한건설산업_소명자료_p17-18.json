@@ -1,0 +1,110 @@
+{
+  "chunk_id": "9cbc3e6a-ae10-4440-b1fa-aa1e794815b6",
+  "file_id": 2,
+  "project_id": 3001,
+  "storage_file_name": "66b26e5f-a4d9-4fa4-8198-68447c6b3fc0-1760885381772.pdf",
+  "original_file_name": "(주)대한건설산업_소명자료.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 18,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    17,
+    18
+  ],
+  "chunk_number": 9,
+  "paragraph_texts": [
+    "결정 프로세스 매뉴얼 - 원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템. (2) 입찰가격 산정 회의록",
+    "주요 내용: (1) 사내 입찰가격 결정 프로세스 매뉴얼 - 원가계산팀, 영업팀, 경영진의 3단계 독립 검토",
+    "없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 - 2020년부터 시행 중. 당사는 정당한 경쟁을 해왔음.",
+    "접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 - 2020년부터 시행 중. 당사는 정당한 경쟁을",
+    "8월). 당사의 입찰 프로세스가 독립적이고 자율적으로 운영되었음을 입증하는 자료 27건 제출. 주요 내용: (1) 사내"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "5ca04f94-0f81-4568-97cb-73c192b6b49a",
+        "idx_in_page": 0,
+        "text": "결정 프로세스 매뉴얼 - 원가계산팀, 영업팀, 경영진의 3단계 독립 검토 시스템. (2) 입찰가격 산정 회의록",
+        "page": 17,
+        "bbox": {
+          "x": 194.0,
+          "y": 388.0,
+          "width": 1249.0,
+          "height": 281.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "2e5d2dc1-147b-4202-b157-f5bd2bacca12",
+        "idx_in_page": 1,
+        "text": "주요 내용: (1) 사내 입찰가격 결정 프로세스 매뉴얼 - 원가계산팀, 영업팀, 경영진의 3단계 독립 검토",
+        "page": 17,
+        "bbox": {
+          "x": 184.0,
+          "y": 888.0,
+          "width": 1286.0,
+          "height": 191.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "802fc558-a0b4-4357-a3f1-4155d6634ebe",
+        "idx_in_page": 2,
+        "text": "없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 - 2020년부터 시행 중. 당사는 정당한 경쟁을 해왔음.",
+        "page": 17,
+        "bbox": {
+          "x": 197.0,
+          "y": 1497.0,
+          "width": 1207.0,
+          "height": 154.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "533d3a69-973a-4c87-9535-98bb957e8c45",
+        "idx_in_page": 0,
+        "text": "접촉 없이 내부에서만 결정. (3) 공정거래 자율준수 가이드라인 - 2020년부터 시행 중. 당사는 정당한 경쟁을",
+        "page": 18,
+        "bbox": {
+          "x": 180.0,
+          "y": 220.0,
+          "width": 1237.0,
+          "height": 273.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "b5541ee6-c7d6-47ff-8a9a-67f916b64b47",
+        "idx_in_page": 1,
+        "text": "8월). 당사의 입찰 프로세스가 독립적이고 자율적으로 운영되었음을 입증하는 자료 27건 제출. 주요 내용: (1) 사내",
+        "page": 18,
+        "bbox": {
+          "x": 185.0,
+          "y": 981.0,
+          "width": 1251.0,
+          "height": 356.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 17,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 18,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.772833+00:00"
+}

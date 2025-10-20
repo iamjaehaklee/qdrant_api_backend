@@ -1,0 +1,95 @@
+{
+  "chunk_id": "bf75317b-2fc4-4a3f-9bdc-eb42d8bf5c58",
+  "file_id": 45,
+  "project_id": 1001,
+  "storage_file_name": "hearing_transcript_1st_0903.pdf",
+  "original_file_name": "변론녹취록_1회_0903.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 20,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    19,
+    20
+  ],
+  "chunk_number": 10,
+  "paragraph_texts": [
+    "[19페이지] 변론기일 녹취록 재판장: 원고 측 주장을 진술하시기 바랍니다.",
+    "원고 소송대리인: 원고는 매매대금을 모두 지급하였으므로 피고는 등기이전의무를 이행해야 합니다. 피고 소송대리인: 피고는 보충합의서상 특약사항 불이행을 이유로 등기이전을 거부할 권리가 있습니다.",
+    "[20페이지] 변론기일 녹취록 재판장: 원고 측 주장을 진술하시기 바랍니다.",
+    "원고 소송대리인: 원고는 매매대금을 모두 지급하였으므로 피고는 등기이전의무를 이행해야 합니다. 피고 소송대리인: 피고는 보충합의서상 특약사항 불이행을 이유로 등기이전을 거부할 권리가 있습니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-045-010-000-0",
+        "idx_in_page": 0,
+        "text": "[19페이지] 변론기일 녹취록 재판장: 원고 측 주장을 진술하시기 바랍니다.",
+        "page": 19,
+        "bbox": {
+          "x": 189.71,
+          "y": 107.27,
+          "width": 1328.01,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-045-010-000-1",
+        "idx_in_page": 1,
+        "text": "원고 소송대리인: 원고는 매매대금을 모두 지급하였으므로 피고는 등기이전의무를 이행해야 합니다. 피고 소송대리인: 피고는 보충합의서상 특약사항 불이행을 이유로 등기이전을 거부할 권리가 있습니다.",
+        "page": 19,
+        "bbox": {
+          "x": 192.79,
+          "y": 1188.63,
+          "width": 1276.98,
+          "height": 53.5
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-045-010-001-0",
+        "idx_in_page": 0,
+        "text": "[20페이지] 변론기일 녹취록 재판장: 원고 측 주장을 진술하시기 바랍니다.",
+        "page": 20,
+        "bbox": {
+          "x": 185.62,
+          "y": 103.1,
+          "width": 1312.31,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-045-010-001-1",
+        "idx_in_page": 1,
+        "text": "원고 소송대리인: 원고는 매매대금을 모두 지급하였으므로 피고는 등기이전의무를 이행해야 합니다. 피고 소송대리인: 피고는 보충합의서상 특약사항 불이행을 이유로 등기이전을 거부할 권리가 있습니다.",
+        "page": 20,
+        "bbox": {
+          "x": 205.33,
+          "y": 1198.06,
+          "width": 1294.05,
+          "height": 53.5
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 19,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 20,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-11T00:00:00+00:00"
+}

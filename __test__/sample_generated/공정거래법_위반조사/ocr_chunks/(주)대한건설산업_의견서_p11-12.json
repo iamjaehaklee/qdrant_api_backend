@@ -1,0 +1,110 @@
+{
+  "chunk_id": "ea26abad-9950-4863-8cc6-da0c5216b009",
+  "file_id": 3,
+  "project_id": 3001,
+  "storage_file_name": "b0bd2e66-96b0-489d-bb1c-6b929e126041-1760885381774.pdf",
+  "original_file_name": "(주)대한건설산업_의견서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 12,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    11,
+    12
+  ],
+  "chunk_number": 6,
+  "paragraph_texts": [
+    "타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히",
+    "걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히 요청함. 당사는 재발방지를 위해 최선을",
+    "당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고 있으며, 과징금",
+    "제출일 2024년 6월). 공정거래위원회가 부과하고자 하는 과징금은 당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계",
+    "1,200명의 생계가 걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히 요청함. 당사는 재발방지를"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "ce2493a6-3581-40ba-80d7-f589e52e2da2",
+        "idx_in_page": 0,
+        "text": "타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히",
+        "page": 11,
+        "bbox": {
+          "x": 187.0,
+          "y": 364.0,
+          "width": 1293.0,
+          "height": 238.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "084a1cae-b6d2-40b6-9472-5753e6fd809d",
+        "idx_in_page": 1,
+        "text": "걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히 요청함. 당사는 재발방지를 위해 최선을",
+        "page": 11,
+        "bbox": {
+          "x": 197.0,
+          "y": 964.0,
+          "width": 1294.0,
+          "height": 194.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "778e2605-9c97-45d0-b0ac-b0ad0836bee9",
+        "idx_in_page": 2,
+        "text": "당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고 있으며, 과징금",
+        "page": 11,
+        "bbox": {
+          "x": 197.0,
+          "y": 1470.0,
+          "width": 1267.0,
+          "height": 203.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "f04612e3-a064-4019-9bb9-c0bea1a9af0c",
+        "idx_in_page": 0,
+        "text": "제출일 2024년 6월). 공정거래위원회가 부과하고자 하는 과징금은 당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계",
+        "page": 12,
+        "bbox": {
+          "x": 186.0,
+          "y": 321.0,
+          "width": 1244.0,
+          "height": 244.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "c01369bf-07bf-4715-a44f-5454871c5982",
+        "idx_in_page": 1,
+        "text": "1,200명의 생계가 걸린 문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히 요청함. 당사는 재발방지를",
+        "page": 12,
+        "bbox": {
+          "x": 199.0,
+          "y": 874.0,
+          "width": 1201.0,
+          "height": 389.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 12,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.774507+00:00"
+}

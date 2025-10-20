@@ -1,0 +1,161 @@
+{
+  "chunk_id": "42323114-b3c1-4cfd-a354-72b7e6378e40",
+  "file_id": 33,
+  "project_id": 3001,
+  "storage_file_name": "89fde30c-d34f-4637-acb8-90b6d50cf2e7-1760885381820.pdf",
+  "original_file_name": "심사진행보고서_1차.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 10,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "chunk_number": 3,
+  "paragraph_texts": [
+    "2024심제1001). (주)태평양건설 및 (주)한국종합건설에 대한 조사 진행 중. 2024년 4월까지 확보한 증거: 담당자 간 통화내역",
+    "진행 중. 2024년 4월까지 확보한 증거: 담당자 간 통화내역 47건, 비공식 회의록 12건. 두 회사",
+    "회의록 12건. 두 회사 담당자 간 입찰 전 빈번한 연락이 확인되며, 가격 협의 정황 포착.",
+    "진행 중. 2024년 4월까지 확보한 증거: 담당자 간 통화내역 47건, 비공식 회의록 12건. 두 회사",
+    "12건. 두 회사 담당자 간 입찰 전 빈번한 연락이 확인되며, 가격 협의 정황 포착. 추가",
+    "비공식 회의록 12건. 두 회사 담당자 간 입찰 전 빈번한 연락이 확인되며, 가격 협의 정황",
+    "비공식 회의록 12건. 두 회사 담당자 간 입찰 전 빈번한 연락이 확인되며, 가격 협의 정황",
+    "확보한 증거: 담당자 간 통화내역 47건, 비공식 회의록 12건. 두 회사 담당자 간 입찰 전"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "c547f093-1283-4ab8-a5fc-dc5e16a0dabb",
+        "idx_in_page": 0,
+        "text": "2024심제1001). (주)태평양건설 및 (주)한국종합건설에 대한 조사 진행 중. 2024년 4월까지 확보한 증거: 담당자 간 통화내역",
+        "page": 5,
+        "bbox": {
+          "x": 182.0,
+          "y": 222.0,
+          "width": 1274.0,
+          "height": 150.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "2948cedd-e3b3-443b-b5ea-f0f3e2d5d51e",
+        "idx_in_page": 1,
+        "text": "진행 중. 2024년 4월까지 확보한 증거: 담당자 간 통화내역 47건, 비공식 회의록 12건. 두 회사",
+        "page": 5,
+        "bbox": {
+          "x": 188.0,
+          "y": 817.0,
+          "width": 1215.0,
+          "height": 268.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "b9dce83d-472a-4376-8d76-4a7dbf6e214f",
+        "idx_in_page": 2,
+        "text": "회의록 12건. 두 회사 담당자 간 입찰 전 빈번한 연락이 확인되며, 가격 협의 정황 포착.",
+        "page": 5,
+        "bbox": {
+          "x": 192.0,
+          "y": 1538.0,
+          "width": 1280.0,
+          "height": 216.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "a5edb393-db32-4662-843b-993215d77e74",
+        "idx_in_page": 0,
+        "text": "진행 중. 2024년 4월까지 확보한 증거: 담당자 간 통화내역 47건, 비공식 회의록 12건. 두 회사",
+        "page": 6,
+        "bbox": {
+          "x": 181.0,
+          "y": 342.0,
+          "width": 1224.0,
+          "height": 234.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "78a4484f-5b7e-4ee7-8158-d83761076418",
+        "idx_in_page": 1,
+        "text": "12건. 두 회사 담당자 간 입찰 전 빈번한 연락이 확인되며, 가격 협의 정황 포착. 추가",
+        "page": 6,
+        "bbox": {
+          "x": 188.0,
+          "y": 998.0,
+          "width": 1236.0,
+          "height": 266.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "aedbdcda-6e03-4ae2-9aef-f2c7d7d4829d",
+        "idx_in_page": 0,
+        "text": "비공식 회의록 12건. 두 회사 담당자 간 입찰 전 빈번한 연락이 확인되며, 가격 협의 정황",
+        "page": 7,
+        "bbox": {
+          "x": 191.0,
+          "y": 340.0,
+          "width": 1236.0,
+          "height": 301.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "124fd19b-d0c7-4f95-8ac7-0f46e1b54976",
+        "idx_in_page": 1,
+        "text": "비공식 회의록 12건. 두 회사 담당자 간 입찰 전 빈번한 연락이 확인되며, 가격 협의 정황",
+        "page": 7,
+        "bbox": {
+          "x": 190.0,
+          "y": 975.0,
+          "width": 1296.0,
+          "height": 151.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "770d89d3-a96e-41bc-9416-f1b37f12f58e",
+        "idx_in_page": 2,
+        "text": "확보한 증거: 담당자 간 통화내역 47건, 비공식 회의록 12건. 두 회사 담당자 간 입찰 전",
+        "page": 7,
+        "bbox": {
+          "x": 185.0,
+          "y": 1403.0,
+          "width": 1264.0,
+          "height": 173.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 6,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.820925+00:00"
+}

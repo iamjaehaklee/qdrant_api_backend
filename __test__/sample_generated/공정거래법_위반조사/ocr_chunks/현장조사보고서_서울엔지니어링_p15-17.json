@@ -1,0 +1,161 @@
+{
+  "chunk_id": "96ce8aa6-d7ef-42fe-a939-a9707b88b4e4",
+  "file_id": 58,
+  "project_id": 3001,
+  "storage_file_name": "0e66ce5a-2a79-4a67-a143-0097a4850436-1760885381867.pdf",
+  "original_file_name": "현장조사보고서_서울엔지니어링.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 17,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    15,
+    16,
+    17
+  ],
+  "chunk_number": 8,
+  "paragraph_texts": [
+    "89권, 녹음 파일 3건. 주요 발견 사항: 담당 부장의 개인 녹음기에서 비공식 회의 녹취록 확보.",
+    "2024년 4월 11일). 조사관 4명 투입. 압수물품: 영업팀 PC 5대, 입찰 관련 문서 89권, 녹음",
+    "녹음기에서 비공식 회의 녹취록 확보. 녹취 내용에 4개사 간 물량 배분 합의 과정이 명확히 담김.",
+    "발견 사항: 담당 부장의 개인 녹음기에서 비공식 회의 녹취록 확보. 녹취 내용에 4개사 간 물량",
+    "입찰 관련 문서 89권, 녹음 파일 3건. 주요 발견 사항: 담당 부장의 개인 녹음기에서 비공식",
+    "4명 투입. 압수물품: 영업팀 PC 5대, 입찰 관련 문서 89권, 녹음 파일 3건. 주요 발견",
+    "5대, 입찰 관련 문서 89권, 녹음 파일 3건. 주요 발견 사항: 담당 부장의 개인 녹음기에서",
+    "영업팀 PC 5대, 입찰 관련 문서 89권, 녹음 파일 3건. 주요 발견 사항: 담당 부장의"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "3bae06e6-8579-4718-b800-944cf1e1c69b",
+        "idx_in_page": 0,
+        "text": "89권, 녹음 파일 3건. 주요 발견 사항: 담당 부장의 개인 녹음기에서 비공식 회의 녹취록 확보.",
+        "page": 15,
+        "bbox": {
+          "x": 180.0,
+          "y": 367.0,
+          "width": 1219.0,
+          "height": 345.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "a5f56c2c-ea11-4666-9e93-2064aa73cb2d",
+        "idx_in_page": 1,
+        "text": "2024년 4월 11일). 조사관 4명 투입. 압수물품: 영업팀 PC 5대, 입찰 관련 문서 89권, 녹음",
+        "page": 15,
+        "bbox": {
+          "x": 183.0,
+          "y": 931.0,
+          "width": 1286.0,
+          "height": 232.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "2ef4c603-b8e9-4a8b-9436-ddfd8cb82a2a",
+        "idx_in_page": 2,
+        "text": "녹음기에서 비공식 회의 녹취록 확보. 녹취 내용에 4개사 간 물량 배분 합의 과정이 명확히 담김.",
+        "page": 15,
+        "bbox": {
+          "x": 182.0,
+          "y": 1448.0,
+          "width": 1202.0,
+          "height": 350.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "3a797ae4-ed80-4865-91b2-ec81deeea07f",
+        "idx_in_page": 0,
+        "text": "발견 사항: 담당 부장의 개인 녹음기에서 비공식 회의 녹취록 확보. 녹취 내용에 4개사 간 물량",
+        "page": 16,
+        "bbox": {
+          "x": 193.0,
+          "y": 398.0,
+          "width": 1267.0,
+          "height": 399.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "2d9595d6-439d-417e-95c2-2517561073d5",
+        "idx_in_page": 1,
+        "text": "입찰 관련 문서 89권, 녹음 파일 3건. 주요 발견 사항: 담당 부장의 개인 녹음기에서 비공식",
+        "page": 16,
+        "bbox": {
+          "x": 180.0,
+          "y": 823.0,
+          "width": 1245.0,
+          "height": 170.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "97f4617f-3dcb-46b2-bc3e-087c0658f81c",
+        "idx_in_page": 0,
+        "text": "4명 투입. 압수물품: 영업팀 PC 5대, 입찰 관련 문서 89권, 녹음 파일 3건. 주요 발견",
+        "page": 17,
+        "bbox": {
+          "x": 181.0,
+          "y": 245.0,
+          "width": 1256.0,
+          "height": 355.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "16e17ffd-572b-4a98-9d71-8ad469a49046",
+        "idx_in_page": 1,
+        "text": "5대, 입찰 관련 문서 89권, 녹음 파일 3건. 주요 발견 사항: 담당 부장의 개인 녹음기에서",
+        "page": 17,
+        "bbox": {
+          "x": 181.0,
+          "y": 827.0,
+          "width": 1229.0,
+          "height": 214.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "90831569-6bc3-4407-99cd-b90df59b0fc9",
+        "idx_in_page": 2,
+        "text": "영업팀 PC 5대, 입찰 관련 문서 89권, 녹음 파일 3건. 주요 발견 사항: 담당 부장의",
+        "page": 17,
+        "bbox": {
+          "x": 188.0,
+          "y": 1528.0,
+          "width": 1215.0,
+          "height": 328.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 15,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 16,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 17,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.867792+00:00"
+}

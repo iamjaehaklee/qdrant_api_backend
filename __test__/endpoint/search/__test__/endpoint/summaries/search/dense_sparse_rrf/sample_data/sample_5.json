@@ -1,0 +1,17 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/dense_sparse_rrf",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "comprehensive analysis report findings",
+    "limit": 50,
+    "score_threshold": 0.65,
+    "filter_project_id": 20,
+    "filter_file_id": 512
+  }
+}

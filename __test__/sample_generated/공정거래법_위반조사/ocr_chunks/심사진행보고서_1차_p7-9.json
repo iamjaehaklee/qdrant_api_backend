@@ -1,0 +1,146 @@
+{
+  "chunk_id": "d49e641f-1b2d-4bfb-b35b-c714af295e3f",
+  "file_id": 33,
+  "project_id": 3001,
+  "storage_file_name": "c1174a52-a1b4-4caf-aa81-edb8ae5a2140-1760885381821.pdf",
+  "original_file_name": "심사진행보고서_1차.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 10,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    7,
+    8,
+    9
+  ],
+  "chunk_number": 4,
+  "paragraph_texts": [
+    "2024심제1001). (주)태평양건설 및 (주)한국종합건설에 대한 조사 진행 중. 2024년 4월까지 확보한 증거: 담당자 간 통화내역",
+    "(사건번호 2024심제1001). (주)태평양건설 및 (주)한국종합건설에 대한 조사 진행 중. 2024년 4월까지 확보한 증거: 담당자 간",
+    "2024심제1001). (주)태평양건설 및 (주)한국종합건설에 대한 조사 진행 중. 2024년 4월까지 확보한 증거: 담당자 간 통화내역",
+    "회사 담당자 간 입찰 전 빈번한 연락이 확인되며, 가격 협의 정황 포착. 추가 조사 필요.",
+    "확보한 증거: 담당자 간 통화내역 47건, 비공식 회의록 12건. 두 회사 담당자 간 입찰 전",
+    "담당자 간 통화내역 47건, 비공식 회의록 12건. 두 회사 담당자 간 입찰 전 빈번한 연락이",
+    "조사 진행 중. 2024년 4월까지 확보한 증거: 담당자 간 통화내역 47건, 비공식 회의록 12건. 두"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "7d51d5a0-f7f6-4ead-aa61-95b9db2ca834",
+        "idx_in_page": 0,
+        "text": "2024심제1001). (주)태평양건설 및 (주)한국종합건설에 대한 조사 진행 중. 2024년 4월까지 확보한 증거: 담당자 간 통화내역",
+        "page": 7,
+        "bbox": {
+          "x": 194.0,
+          "y": 225.0,
+          "width": 1255.0,
+          "height": 374.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "0e34559f-3515-4352-b9a7-e6d7658d5ff4",
+        "idx_in_page": 1,
+        "text": "(사건번호 2024심제1001). (주)태평양건설 및 (주)한국종합건설에 대한 조사 진행 중. 2024년 4월까지 확보한 증거: 담당자 간",
+        "page": 7,
+        "bbox": {
+          "x": 181.0,
+          "y": 869.0,
+          "width": 1287.0,
+          "height": 152.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "ad72cb97-926c-441d-ac6e-2bc53d5d80d5",
+        "idx_in_page": 0,
+        "text": "2024심제1001). (주)태평양건설 및 (주)한국종합건설에 대한 조사 진행 중. 2024년 4월까지 확보한 증거: 담당자 간 통화내역",
+        "page": 8,
+        "bbox": {
+          "x": 183.0,
+          "y": 363.0,
+          "width": 1223.0,
+          "height": 302.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "96ca76e7-3984-4143-8ba8-15c657120e54",
+        "idx_in_page": 1,
+        "text": "회사 담당자 간 입찰 전 빈번한 연락이 확인되며, 가격 협의 정황 포착. 추가 조사 필요.",
+        "page": 8,
+        "bbox": {
+          "x": 192.0,
+          "y": 806.0,
+          "width": 1255.0,
+          "height": 204.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "b8a8a042-0acf-41ca-b4b0-0eceaf530c02",
+        "idx_in_page": 0,
+        "text": "확보한 증거: 담당자 간 통화내역 47건, 비공식 회의록 12건. 두 회사 담당자 간 입찰 전",
+        "page": 9,
+        "bbox": {
+          "x": 195.0,
+          "y": 303.0,
+          "width": 1291.0,
+          "height": 211.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "87b76df7-5c65-4822-a7a5-4a79b60803ba",
+        "idx_in_page": 1,
+        "text": "담당자 간 통화내역 47건, 비공식 회의록 12건. 두 회사 담당자 간 입찰 전 빈번한 연락이",
+        "page": 9,
+        "bbox": {
+          "x": 186.0,
+          "y": 907.0,
+          "width": 1285.0,
+          "height": 190.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "4f27bf60-7851-4573-b702-7bacac99c6f8",
+        "idx_in_page": 2,
+        "text": "조사 진행 중. 2024년 4월까지 확보한 증거: 담당자 간 통화내역 47건, 비공식 회의록 12건. 두",
+        "page": 9,
+        "bbox": {
+          "x": 187.0,
+          "y": 1464.0,
+          "width": 1243.0,
+          "height": 309.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 8,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.821186+00:00"
+}

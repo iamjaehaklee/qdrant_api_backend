@@ -1,0 +1,146 @@
+{
+  "chunk_id": "b09eb92d-5ff9-4f50-879d-97038f5c9c61",
+  "file_id": 7,
+  "project_id": 3001,
+  "storage_file_name": "e3eca3b6-81d9-4379-be7f-5ae72dd53ff7-1760885381781.pdf",
+  "original_file_name": "(주)태평양건설_서면답변서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 13,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "chunk_number": 3,
+  "paragraph_texts": [
+    "입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한",
+    "모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가",
+    "제출일 2024년 3월). 당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에",
+    "타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한 통화기록은 단순한 업계 정보 교류에 불과하며,",
+    "(사건번호 2024심제1001, 제출일 2024년 3월). 당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서",
+    "입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한 통화기록은 단순한 업계 정보",
+    "독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한 통화기록은"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "8866c000-9837-4f24-ae33-7e9eeae24010",
+        "idx_in_page": 0,
+        "text": "입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한",
+        "page": 5,
+        "bbox": {
+          "x": 191.0,
+          "y": 377.0,
+          "width": 1204.0,
+          "height": 321.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "354ad06c-5516-4ed4-9ced-879f6e1fd14c",
+        "idx_in_page": 1,
+        "text": "모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가",
+        "page": 5,
+        "bbox": {
+          "x": 198.0,
+          "y": 901.0,
+          "width": 1253.0,
+          "height": 192.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "25310984-dcae-469e-ad20-ee07ffa22079",
+        "idx_in_page": 2,
+        "text": "제출일 2024년 3월). 당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에",
+        "page": 5,
+        "bbox": {
+          "x": 200.0,
+          "y": 1469.0,
+          "width": 1268.0,
+          "height": 241.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "8e3090ca-b5bc-435b-a3f8-8d9ebd409817",
+        "idx_in_page": 0,
+        "text": "타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한 통화기록은 단순한 업계 정보 교류에 불과하며,",
+        "page": 6,
+        "bbox": {
+          "x": 187.0,
+          "y": 275.0,
+          "width": 1287.0,
+          "height": 198.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "7735f514-8340-4587-97f9-d0bdd4950d03",
+        "idx_in_page": 1,
+        "text": "(사건번호 2024심제1001, 제출일 2024년 3월). 당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서",
+        "page": 6,
+        "bbox": {
+          "x": 180.0,
+          "y": 883.0,
+          "width": 1215.0,
+          "height": 230.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "2093ef42-e6b4-4049-8a4b-efc6c4af2ae0",
+        "idx_in_page": 0,
+        "text": "입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한 통화기록은 단순한 업계 정보",
+        "page": 7,
+        "bbox": {
+          "x": 182.0,
+          "y": 275.0,
+          "width": 1269.0,
+          "height": 180.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "ed97cfb6-356d-4901-bf3b-22c41ccdc844",
+        "idx_in_page": 1,
+        "text": "독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한 통화기록은",
+        "page": 7,
+        "bbox": {
+          "x": 184.0,
+          "y": 946.0,
+          "width": 1241.0,
+          "height": 384.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 6,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.781505+00:00"
+}

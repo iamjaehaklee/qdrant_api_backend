@@ -1,0 +1,386 @@
+{
+  "chunk_id": "865144e7-1e5c-4e97-9f5b-a8612c9d3520",
+  "file_id": 2,
+  "project_id": 1001,
+  "storage_file_name": "answer_document_202408_original.pdf",
+  "original_file_name": "답변서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 10,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "답 변 서",
+    "사건: 2024가단123456 소유권이전등기",
+    "원고: 김철수",
+    "피고: 이영희",
+    "서울중앙지방법원 민사12단독 귀중",
+    "피고는 원고의 청구에 대하여 다음과 같이 답변합니다.",
+    "청 구 취 지 에 대 한 답 변",
+    "원고의 청구를 모두 기각한다.",
+    "소송비용은 원고의 부담으로 한다.",
+    "라는 판결을 구합니다.",
+    "청 구 원 인 에 대 한 답 변",
+    "1. 원고 주장에 대한 인부",
+    "가. 원고가 주장하는 2024년 3월 18일자 부동산 매매계약 체결 사실은 인정합니다.",
+    "나. 다만, 원고가 주장하는 계약 내용은 불완전하며, 원고가 제출한 갑 제1호증 매매계약서 외에 별도의 '보충합의서'가 존재합니다.",
+    "다. 보충합의서는 2024년 5월 3일 원고와 피고가 추가로 합의한 내용으로, 다음 사항을 포함합니다:",
+    "① 원고는 잔금 지급일(2024년 6월 20일)까지 기존 임차인(박민수)을 퇴거시킬 의무",
+    "② 원고는 피고에게 인테리어 보수비 명목으로 금 30,000,000원을 지급할 의무",
+    "③ 위 의무 불이행 시 피고는 계약을 해제할 수 있음",
+    "2. 원고의 의무 불이행",
+    "가. 임차인 퇴거 의무 불이행",
+    "원고는 2024년 6월 20일까지 기존 임차인 박민수를 퇴거시키지 못하였습니다. 이는 보충합의서 제1항을 명백히 위반한 것입니다.",
+    "나. 인테리어 보수비 미지급",
+    "원고는 약정한 인테리어 보수비 금 30,000,000원을 지급하지 않았습니다."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-002-001-000-0",
+        "idx_in_page": 0,
+        "text": "답 변 서",
+        "page": 1,
+        "bbox": {
+          "x": 720,
+          "y": 180,
+          "width": 240,
+          "height": 45
+        },
+        "type": "heading",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-002-001-000-1",
+        "idx_in_page": 1,
+        "text": "사건: 2024가단123456 소유권이전등기",
+        "page": 1,
+        "bbox": {
+          "x": 180,
+          "y": 280,
+          "width": 620,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-002-001-000-2",
+        "idx_in_page": 2,
+        "text": "원고: 김철수",
+        "page": 1,
+        "bbox": {
+          "x": 180,
+          "y": 320,
+          "width": 240,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-002-001-000-3",
+        "idx_in_page": 3,
+        "text": "피고: 이영희",
+        "page": 1,
+        "bbox": {
+          "x": 180,
+          "y": 360,
+          "width": 240,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-002-001-000-4",
+        "idx_in_page": 4,
+        "text": "서울중앙지방법원 민사12단독 귀중",
+        "page": 1,
+        "bbox": {
+          "x": 180,
+          "y": 430,
+          "width": 520,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-002-001-000-5",
+        "idx_in_page": 5,
+        "text": "피고는 원고의 청구에 대하여 다음과 같이 답변합니다.",
+        "page": 1,
+        "bbox": {
+          "x": 180,
+          "y": 500,
+          "width": 840,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-002-001-000-6",
+        "idx_in_page": 6,
+        "text": "청 구 취 지 에 대 한 답 변",
+        "page": 1,
+        "bbox": {
+          "x": 180,
+          "y": 580,
+          "width": 420,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-002-001-000-7",
+        "idx_in_page": 7,
+        "text": "원고의 청구를 모두 기각한다.",
+        "page": 1,
+        "bbox": {
+          "x": 180,
+          "y": 635,
+          "width": 520,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-002-001-001-0",
+        "idx_in_page": 0,
+        "text": "소송비용은 원고의 부담으로 한다.",
+        "page": 2,
+        "bbox": {
+          "x": 180,
+          "y": 180,
+          "width": 560,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-002-001-001-1",
+        "idx_in_page": 1,
+        "text": "라는 판결을 구합니다.",
+        "page": 2,
+        "bbox": {
+          "x": 180,
+          "y": 220,
+          "width": 400,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-002-001-001-2",
+        "idx_in_page": 2,
+        "text": "청 구 원 인 에 대 한 답 변",
+        "page": 2,
+        "bbox": {
+          "x": 180,
+          "y": 290,
+          "width": 420,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-002-001-001-3",
+        "idx_in_page": 3,
+        "text": "1. 원고 주장에 대한 인부",
+        "page": 2,
+        "bbox": {
+          "x": 180,
+          "y": 345,
+          "width": 420,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-002-001-001-4",
+        "idx_in_page": 4,
+        "text": "가. 원고가 주장하는 2024년 3월 18일자 부동산 매매계약 체결 사실은 인정합니다.",
+        "page": 2,
+        "bbox": {
+          "x": 180,
+          "y": 387,
+          "width": 1120,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-002-001-001-5",
+        "idx_in_page": 5,
+        "text": "나. 다만, 원고가 주장하는 계약 내용은 불완전하며, 원고가 제출한 갑 제1호증 매매계약서 외에 별도의 '보충합의서'가 존재합니다.",
+        "page": 2,
+        "bbox": {
+          "x": 180,
+          "y": 429,
+          "width": 1280,
+          "height": 48
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-002-001-001-6",
+        "idx_in_page": 6,
+        "text": "다. 보충합의서는 2024년 5월 3일 원고와 피고가 추가로 합의한 내용으로, 다음 사항을 포함합니다:",
+        "page": 2,
+        "bbox": {
+          "x": 180,
+          "y": 487,
+          "width": 1200,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-002-001-002-0",
+        "idx_in_page": 0,
+        "text": "① 원고는 잔금 지급일(2024년 6월 20일)까지 기존 임차인(박민수)을 퇴거시킬 의무",
+        "page": 3,
+        "bbox": {
+          "x": 220,
+          "y": 180,
+          "width": 1140,
+          "height": 32
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-002-001-002-1",
+        "idx_in_page": 1,
+        "text": "② 원고는 피고에게 인테리어 보수비 명목으로 금 30,000,000원을 지급할 의무",
+        "page": 3,
+        "bbox": {
+          "x": 220,
+          "y": 222,
+          "width": 1160,
+          "height": 32
+        },
+        "type": "list",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-002-001-002-2",
+        "idx_in_page": 2,
+        "text": "③ 위 의무 불이행 시 피고는 계약을 해제할 수 있음",
+        "page": 3,
+        "bbox": {
+          "x": 220,
+          "y": 264,
+          "width": 840,
+          "height": 32
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-002-001-002-3",
+        "idx_in_page": 3,
+        "text": "2. 원고의 의무 불이행",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 330,
+          "width": 360,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-002-001-002-4",
+        "idx_in_page": 4,
+        "text": "가. 임차인 퇴거 의무 불이행",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 372,
+          "width": 460,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-002-001-002-5",
+        "idx_in_page": 5,
+        "text": "원고는 2024년 6월 20일까지 기존 임차인 박민수를 퇴거시키지 못하였습니다. 이는 보충합의서 제1항을 명백히 위반한 것입니다.",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 414,
+          "width": 1280,
+          "height": 48
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-002-001-002-6",
+        "idx_in_page": 6,
+        "text": "나. 인테리어 보수비 미지급",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 472,
+          "width": 440,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-002-001-002-7",
+        "idx_in_page": 7,
+        "text": "원고는 약정한 인테리어 보수비 금 30,000,000원을 지급하지 않았습니다.",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 514,
+          "width": 1060,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-02T00:00:00+00:00"
+}

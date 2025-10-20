@@ -1,0 +1,95 @@
+{
+  "chunk_id": "ded668f6-91e7-46c5-99ae-d81e0e84ea25",
+  "file_id": 57,
+  "project_id": 3001,
+  "storage_file_name": "ed0b653b-c1ba-44a1-95e6-e5fcfe078553-1760885381865.pdf",
+  "original_file_name": "현장조사보고서_대한건설산업.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 8,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    7,
+    8
+  ],
+  "chunk_number": 4,
+  "paragraph_texts": [
+    "내역 확인 (2023년 10월~2024년 2월, 총 12회 회식비 지출). 영업본부장 명의 '입찰 주의사항' 내부 회람",
+    "내역 확인 (2023년 10월~2024년 2월, 총 12회 회식비 지출). 영업본부장 명의 '입찰 주의사항' 내부 회람",
+    "4명 투입. 압수물품: 영업본부 PC 3대, 회의록 및 계약서 67권, 회계장부 15권. 주요 발견 사항:",
+    "회의록 및 계약서 67권, 회계장부 15권. 주요 발견 사항: 비공식 회의 관련 지출 내역 확인"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "e9637bad-b6b8-42b2-94e2-a187ca98966c",
+        "idx_in_page": 0,
+        "text": "내역 확인 (2023년 10월~2024년 2월, 총 12회 회식비 지출). 영업본부장 명의 '입찰 주의사항' 내부 회람",
+        "page": 7,
+        "bbox": {
+          "x": 195.0,
+          "y": 255.0,
+          "width": 1241.0,
+          "height": 267.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "0795b015-58f5-492d-9f72-7420bd681bbe",
+        "idx_in_page": 1,
+        "text": "내역 확인 (2023년 10월~2024년 2월, 총 12회 회식비 지출). 영업본부장 명의 '입찰 주의사항' 내부 회람",
+        "page": 7,
+        "bbox": {
+          "x": 194.0,
+          "y": 950.0,
+          "width": 1214.0,
+          "height": 256.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "745e1638-b1b9-4dec-89e4-72fd6d380500",
+        "idx_in_page": 0,
+        "text": "4명 투입. 압수물품: 영업본부 PC 3대, 회의록 및 계약서 67권, 회계장부 15권. 주요 발견 사항:",
+        "page": 8,
+        "bbox": {
+          "x": 187.0,
+          "y": 305.0,
+          "width": 1245.0,
+          "height": 301.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "5bb6d016-6a4c-42d1-9c20-1b1496c7f582",
+        "idx_in_page": 1,
+        "text": "회의록 및 계약서 67권, 회계장부 15권. 주요 발견 사항: 비공식 회의 관련 지출 내역 확인",
+        "page": 8,
+        "bbox": {
+          "x": 186.0,
+          "y": 879.0,
+          "width": 1213.0,
+          "height": 220.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 8,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.865553+00:00"
+}

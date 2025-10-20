@@ -1,0 +1,146 @@
+{
+  "chunk_id": "416af34b-eae1-41d3-aba1-2c991aa2bd65",
+  "file_id": 60,
+  "project_id": 3001,
+  "storage_file_name": "8c0b7286-a76b-4dd8-a90a-496ada89f32e-1760885381870.pdf",
+  "original_file_name": "현장조사보고서_한국종합건설.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 13,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "협의 관련 89건). 사장 메일함에서 '(주)서울엔지니어링 본부장과 합의 완료' 내용 확인. 고위 경영진의 담합 지시",
+    "(주)한국종합건설 현장조사 보고서 (조사일 2024년 4월 9일). 조사관 5명 투입. 압수물품: 임원 노트북 6대, 외장하드",
+    "2개, 계약 및 입찰 문서 98권. 주요 발견 사항: 삭제된 이메일 복구 성공 (타사 협의",
+    "9일). 조사관 5명 투입. 압수물품: 임원 노트북 6대, 외장하드 2개, 계약 및 입찰 문서 98권.",
+    "협의 관련 89건). 사장 메일함에서 '(주)서울엔지니어링 본부장과 합의 완료' 내용 확인. 고위 경영진의 담합 지시",
+    "성공 (타사 협의 관련 89건). 사장 메일함에서 '(주)서울엔지니어링 본부장과 합의 완료' 내용 확인. 고위 경영진의",
+    "문서 98권. 주요 발견 사항: 삭제된 이메일 복구 성공 (타사 협의 관련 89건). 사장 메일함에서"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "1a620216-99ff-4012-93c5-5892887b7c22",
+        "idx_in_page": 0,
+        "text": "협의 관련 89건). 사장 메일함에서 '(주)서울엔지니어링 본부장과 합의 완료' 내용 확인. 고위 경영진의 담합 지시",
+        "page": 1,
+        "bbox": {
+          "x": 183.0,
+          "y": 292.0,
+          "width": 1223.0,
+          "height": 174.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "9a8d150d-5f34-4f99-b8ea-8b2f134f6bfe",
+        "idx_in_page": 1,
+        "text": "(주)한국종합건설 현장조사 보고서 (조사일 2024년 4월 9일). 조사관 5명 투입. 압수물품: 임원 노트북 6대, 외장하드",
+        "page": 1,
+        "bbox": {
+          "x": 186.0,
+          "y": 800.0,
+          "width": 1227.0,
+          "height": 354.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "95cd610d-1ab7-4368-8002-23fdbfb04e20",
+        "idx_in_page": 2,
+        "text": "2개, 계약 및 입찰 문서 98권. 주요 발견 사항: 삭제된 이메일 복구 성공 (타사 협의",
+        "page": 1,
+        "bbox": {
+          "x": 200.0,
+          "y": 1505.0,
+          "width": 1224.0,
+          "height": 200.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "cf1c3092-559f-4cd6-ab89-53a607b66e81",
+        "idx_in_page": 0,
+        "text": "9일). 조사관 5명 투입. 압수물품: 임원 노트북 6대, 외장하드 2개, 계약 및 입찰 문서 98권.",
+        "page": 2,
+        "bbox": {
+          "x": 185.0,
+          "y": 261.0,
+          "width": 1218.0,
+          "height": 300.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "d6911f84-07f9-4be1-a990-6495433328c4",
+        "idx_in_page": 1,
+        "text": "협의 관련 89건). 사장 메일함에서 '(주)서울엔지니어링 본부장과 합의 완료' 내용 확인. 고위 경영진의 담합 지시",
+        "page": 2,
+        "bbox": {
+          "x": 198.0,
+          "y": 860.0,
+          "width": 1265.0,
+          "height": 173.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "fe235119-4603-4803-9060-933f6044dbf7",
+        "idx_in_page": 0,
+        "text": "성공 (타사 협의 관련 89건). 사장 메일함에서 '(주)서울엔지니어링 본부장과 합의 완료' 내용 확인. 고위 경영진의",
+        "page": 3,
+        "bbox": {
+          "x": 196.0,
+          "y": 225.0,
+          "width": 1217.0,
+          "height": 323.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "4fd7e93a-3bd9-4d7e-b8cf-63ddc5defdd7",
+        "idx_in_page": 1,
+        "text": "문서 98권. 주요 발견 사항: 삭제된 이메일 복구 성공 (타사 협의 관련 89건). 사장 메일함에서",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 838.0,
+          "width": 1239.0,
+          "height": 278.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.870792+00:00"
+}

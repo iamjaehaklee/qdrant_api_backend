@@ -1,0 +1,131 @@
+{
+  "chunk_id": "a17af56b-e9c2-4239-bfaf-acb890989758",
+  "file_id": 36,
+  "project_id": 3001,
+  "storage_file_name": "c82b6f1e-bdc1-437f-ac2f-46421f12c446-1760885381826.pdf",
+  "original_file_name": "언론공표_결정서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 18,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    11,
+    12,
+    13
+  ],
+  "chunk_number": 6,
+  "paragraph_texts": [
+    "언론에 공표하기로 결정. 공표일 2024년 9월 25일. 공표 내용: 4개 건설사의 회사명, 대표이사 및 담당",
+    "9월 25일. 공표 내용: 4개 건설사의 회사명, 대표이사 및 담당 임직원 성명, 위반행위의 구체적 내용,",
+    "25일. 공표 내용: 4개 건설사의 회사명, 대표이사 및 담당 임직원 성명, 위반행위의 구체적 내용, 과징금",
+    "(사건번호 2024심제1001). 공정거래법 제50조의2에 따라 위반사실을 언론에 공표하기로 결정. 공표일 2024년 9월 25일. 공표 내용:",
+    "회사명, 대표이사 및 담당 임직원 성명, 위반행위의 구체적 내용, 과징금 액수. 보도자료를 주요 언론사에 배포하고",
+    "2024년 9월 25일. 공표 내용: 4개 건설사의 회사명, 대표이사 및 담당 임직원 성명, 위반행위의 구체적"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "f5caafa8-2ebc-4374-ad0c-eda3b7d86683",
+        "idx_in_page": 0,
+        "text": "언론에 공표하기로 결정. 공표일 2024년 9월 25일. 공표 내용: 4개 건설사의 회사명, 대표이사 및 담당",
+        "page": 11,
+        "bbox": {
+          "x": 188.0,
+          "y": 392.0,
+          "width": 1209.0,
+          "height": 275.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "c4d51d86-6047-4d51-a79d-4548abd24a3e",
+        "idx_in_page": 1,
+        "text": "9월 25일. 공표 내용: 4개 건설사의 회사명, 대표이사 및 담당 임직원 성명, 위반행위의 구체적 내용,",
+        "page": 11,
+        "bbox": {
+          "x": 197.0,
+          "y": 893.0,
+          "width": 1276.0,
+          "height": 272.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "a0a6e2b5-a88a-40f7-94ae-b70a2883143e",
+        "idx_in_page": 0,
+        "text": "25일. 공표 내용: 4개 건설사의 회사명, 대표이사 및 담당 임직원 성명, 위반행위의 구체적 내용, 과징금",
+        "page": 12,
+        "bbox": {
+          "x": 200.0,
+          "y": 285.0,
+          "width": 1219.0,
+          "height": 298.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "ad784bd0-7fd3-46bc-b9f1-a29ae5d1453e",
+        "idx_in_page": 1,
+        "text": "(사건번호 2024심제1001). 공정거래법 제50조의2에 따라 위반사실을 언론에 공표하기로 결정. 공표일 2024년 9월 25일. 공표 내용:",
+        "page": 12,
+        "bbox": {
+          "x": 183.0,
+          "y": 940.0,
+          "width": 1226.0,
+          "height": 325.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "c0699100-f5b3-43ab-b34f-8f93a7f90503",
+        "idx_in_page": 0,
+        "text": "회사명, 대표이사 및 담당 임직원 성명, 위반행위의 구체적 내용, 과징금 액수. 보도자료를 주요 언론사에 배포하고",
+        "page": 13,
+        "bbox": {
+          "x": 183.0,
+          "y": 328.0,
+          "width": 1280.0,
+          "height": 177.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "de37aab3-0314-4030-974e-acdc38ca65d5",
+        "idx_in_page": 1,
+        "text": "2024년 9월 25일. 공표 내용: 4개 건설사의 회사명, 대표이사 및 담당 임직원 성명, 위반행위의 구체적",
+        "page": 13,
+        "bbox": {
+          "x": 183.0,
+          "y": 934.0,
+          "width": 1283.0,
+          "height": 324.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 12,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 13,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.826352+00:00"
+}

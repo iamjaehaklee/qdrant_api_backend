@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/matchtext",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "invoice",
+    "limit": 15,
+    "filter_project_id": 10
+  }
+}

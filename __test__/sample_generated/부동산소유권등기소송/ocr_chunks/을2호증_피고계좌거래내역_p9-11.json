@@ -1,0 +1,131 @@
+{
+  "chunk_id": "e0c9769a-85dc-494b-861d-c0d3c3142b82",
+  "file_id": 34,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_b2_defendant_account.pdf",
+  "original_file_name": "을2호증_피고계좌거래내역.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 13,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    9,
+    10,
+    11
+  ],
+  "chunk_number": 5,
+  "paragraph_texts": [
+    "[9페이지] 계좌거래내역 거래일시: 2024년 8월 15일",
+    "입금액: 300,000,000원",
+    "[10페이지] 계좌거래내역 거래일시: 2024년 8월 15일",
+    "입금액: 300,000,000원",
+    "[11페이지] 계좌거래내역 거래일시: 2024년 8월 15일",
+    "입금액: 300,000,000원"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-034-005-000-0",
+        "idx_in_page": 0,
+        "text": "[9페이지] 계좌거래내역 거래일시: 2024년 8월 15일",
+        "page": 9,
+        "bbox": {
+          "x": 211.28,
+          "y": 94.97,
+          "width": 1240.71,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-034-005-000-1",
+        "idx_in_page": 1,
+        "text": "입금액: 300,000,000원",
+        "page": 9,
+        "bbox": {
+          "x": 218.45,
+          "y": 1194.24,
+          "width": 1270.29,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-034-005-001-0",
+        "idx_in_page": 0,
+        "text": "[10페이지] 계좌거래내역 거래일시: 2024년 8월 15일",
+        "page": 10,
+        "bbox": {
+          "x": 181.47,
+          "y": 92.11,
+          "width": 1292.77,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-034-005-001-1",
+        "idx_in_page": 1,
+        "text": "입금액: 300,000,000원",
+        "page": 10,
+        "bbox": {
+          "x": 208.57,
+          "y": 1194.52,
+          "width": 1264.8,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-034-005-002-0",
+        "idx_in_page": 0,
+        "text": "[11페이지] 계좌거래내역 거래일시: 2024년 8월 15일",
+        "page": 11,
+        "bbox": {
+          "x": 203.9,
+          "y": 90.94,
+          "width": 1324.91,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-034-005-002-1",
+        "idx_in_page": 1,
+        "text": "입금액: 300,000,000원",
+        "page": 11,
+        "bbox": {
+          "x": 181.95,
+          "y": 1194.36,
+          "width": 1256.52,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 9,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 10,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-06T00:00:00+00:00"
+}

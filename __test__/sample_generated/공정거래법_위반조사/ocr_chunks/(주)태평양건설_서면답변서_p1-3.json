@@ -1,0 +1,131 @@
+{
+  "chunk_id": "45b70037-41d7-46a0-9bb3-733b43ef00f3",
+  "file_id": 7,
+  "project_id": 3001,
+  "storage_file_name": "e094ac06-f123-48f3-ad17-adb4d81cee21-1760885381780.pdf",
+  "original_file_name": "(주)태평양건설_서면답변서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 13,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음.",
+    "모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가",
+    "제시한 통화기록은 단순한 업계 정보 교류에 불과하며, 가격 담합과는 무관함. 입찰 낙찰률이 높은 것은 당사의",
+    "제출일 2024년 3월). 당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에",
+    "따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한 통화기록은 단순한 업계",
+    "당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며,"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "082695bc-e7ee-462f-8e39-21405086bb34",
+        "idx_in_page": 0,
+        "text": "당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음.",
+        "page": 1,
+        "bbox": {
+          "x": 191.0,
+          "y": 234.0,
+          "width": 1286.0,
+          "height": 270.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "e83ea583-4e46-40ff-92f9-97e0732b3887",
+        "idx_in_page": 1,
+        "text": "모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가",
+        "page": 1,
+        "bbox": {
+          "x": 197.0,
+          "y": 986.0,
+          "width": 1297.0,
+          "height": 333.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "4b3b01b7-be5b-47bc-a25d-481687eed671",
+        "idx_in_page": 0,
+        "text": "제시한 통화기록은 단순한 업계 정보 교류에 불과하며, 가격 담합과는 무관함. 입찰 낙찰률이 높은 것은 당사의",
+        "page": 2,
+        "bbox": {
+          "x": 199.0,
+          "y": 377.0,
+          "width": 1214.0,
+          "height": 374.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "14027daa-4d38-4b77-9720-f63a8de218d0",
+        "idx_in_page": 1,
+        "text": "제출일 2024년 3월). 당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에",
+        "page": 2,
+        "bbox": {
+          "x": 181.0,
+          "y": 846.0,
+          "width": 1284.0,
+          "height": 290.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "e2bf2849-a3ed-49f6-809d-3aa3753416d5",
+        "idx_in_page": 0,
+        "text": "따라 입찰가를 산정하였으며, 타 업체와 어떠한 사전 협의도 하지 않았음. 공정위가 제시한 통화기록은 단순한 업계",
+        "page": 3,
+        "bbox": {
+          "x": 181.0,
+          "y": 258.0,
+          "width": 1240.0,
+          "height": 322.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "e38fbca0-b994-4a2e-a1a1-51bb385ee033",
+        "idx_in_page": 1,
+        "text": "당사는 공정거래위원회가 주장하는 담합 혐의를 전면 부인함. 당사는 모든 입찰에서 독자적 판단에 따라 입찰가를 산정하였으며,",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 830.0,
+          "width": 1295.0,
+          "height": 151.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.780996+00:00"
+}

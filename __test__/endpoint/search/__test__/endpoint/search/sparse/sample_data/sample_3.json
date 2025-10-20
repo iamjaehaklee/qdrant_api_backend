@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "path": "/search/sparse",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "기술 명세서 요구사항",
+    "limit": 20,
+    "filter_project_id": 8
+  }
+}

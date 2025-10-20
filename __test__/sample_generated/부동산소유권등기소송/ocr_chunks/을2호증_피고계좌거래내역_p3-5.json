@@ -1,0 +1,131 @@
+{
+  "chunk_id": "fc07bdcd-a271-4b88-8fc7-23b706e30647",
+  "file_id": 34,
+  "project_id": 1001,
+  "storage_file_name": "exhibit_b2_defendant_account.pdf",
+  "original_file_name": "을2호증_피고계좌거래내역.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 13,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "chunk_number": 2,
+  "paragraph_texts": [
+    "[3페이지] 계좌거래내역 거래일시: 2024년 5월 15일",
+    "입금액: 150,000,000원",
+    "[4페이지] 계좌거래내역 거래일시: 2024년 5월 15일",
+    "입금액: 150,000,000원",
+    "[5페이지] 계좌거래내역 거래일시: 2024년 5월 15일",
+    "입금액: 150,000,000원"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "para-034-002-000-0",
+        "idx_in_page": 0,
+        "text": "[3페이지] 계좌거래내역 거래일시: 2024년 5월 15일",
+        "page": 3,
+        "bbox": {
+          "x": 199.21,
+          "y": 97.03,
+          "width": 1292.88,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-034-002-000-1",
+        "idx_in_page": 1,
+        "text": "입금액: 150,000,000원",
+        "page": 3,
+        "bbox": {
+          "x": 202.47,
+          "y": 1191.49,
+          "width": 1255.12,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-034-002-001-0",
+        "idx_in_page": 0,
+        "text": "[4페이지] 계좌거래내역 거래일시: 2024년 5월 15일",
+        "page": 4,
+        "bbox": {
+          "x": 199.53,
+          "y": 105.74,
+          "width": 1329.9,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-034-002-001-1",
+        "idx_in_page": 1,
+        "text": "입금액: 150,000,000원",
+        "page": 4,
+        "bbox": {
+          "x": 191.34,
+          "y": 1194.43,
+          "width": 1274.26,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-034-002-002-0",
+        "idx_in_page": 0,
+        "text": "[5페이지] 계좌거래내역 거래일시: 2024년 5월 15일",
+        "page": 5,
+        "bbox": {
+          "x": 213.52,
+          "y": 100.15,
+          "width": 1234.09,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-034-002-002-1",
+        "idx_in_page": 1,
+        "text": "입금액: 150,000,000원",
+        "page": 5,
+        "bbox": {
+          "x": 197.59,
+          "y": 1180.46,
+          "width": 1324.21,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 4,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2024-08-03T00:00:00+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "path": "/search/scroll",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "계약 조건",
+    "limit": 10,
+    "offset": 0
+  }
+}

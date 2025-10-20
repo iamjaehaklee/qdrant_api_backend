@@ -1,0 +1,16 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/scroll",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "기술 문서",
+    "limit": 50,
+    "offset": 100,
+    "filter_project_id": 8
+  }
+}

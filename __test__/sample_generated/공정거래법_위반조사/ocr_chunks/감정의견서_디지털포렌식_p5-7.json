@@ -1,0 +1,161 @@
+{
+  "chunk_id": "799d40d1-045c-4831-b4c8-a75d65ac7c92",
+  "file_id": 13,
+  "project_id": 3001,
+  "storage_file_name": "657e95bd-1b7c-48f2-9522-86a052e9c442-1760885381789.pdf",
+  "original_file_name": "감정의견서_디지털포렌식.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 14,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "chunk_number": 3,
+  "paragraph_texts": [
+    "디지털증거분석과. 감정 기간 2024년 5월. 감정 대상: PC 22대, 서버 3대, 외장저장장치 8개. 감정 결과:",
+    "3대, 외장저장장치 8개. 감정 결과: 삭제된 카카오톡 대화 127건 복구 성공 (담합 관련 핵심 대화",
+    "포함), 삭제된 이메일 89건 복구 (가격 협의 내용). 증거의 진정성 및 무결성 확인. 법정 증거능력",
+    "감정 결과: 삭제된 카카오톡 대화 127건 복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일",
+    "서버 3대, 외장저장장치 8개. 감정 결과: 삭제된 카카오톡 대화 127건 복구 성공 (담합 관련 핵심",
+    "성공 (담합 관련 핵심 대화 포함), 삭제된 이메일 89건 복구 (가격 협의 내용). 증거의 진정성",
+    "대화 127건 복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일 89건 복구 (가격 협의",
+    "삭제된 이메일 89건 복구 (가격 협의 내용). 증거의 진정성 및 무결성 확인. 법정 증거능력 인정"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "f06b8c5a-ad9d-4c50-89af-72528d369298",
+        "idx_in_page": 0,
+        "text": "디지털증거분석과. 감정 기간 2024년 5월. 감정 대상: PC 22대, 서버 3대, 외장저장장치 8개. 감정 결과:",
+        "page": 5,
+        "bbox": {
+          "x": 180.0,
+          "y": 318.0,
+          "width": 1286.0,
+          "height": 303.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "2315dffd-745b-4411-850c-70f3a79f5017",
+        "idx_in_page": 1,
+        "text": "3대, 외장저장장치 8개. 감정 결과: 삭제된 카카오톡 대화 127건 복구 성공 (담합 관련 핵심 대화",
+        "page": 5,
+        "bbox": {
+          "x": 182.0,
+          "y": 947.0,
+          "width": 1221.0,
+          "height": 247.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "c02b1d0d-2a39-4e86-a14b-0a8e2ff8bd06",
+        "idx_in_page": 2,
+        "text": "포함), 삭제된 이메일 89건 복구 (가격 협의 내용). 증거의 진정성 및 무결성 확인. 법정 증거능력",
+        "page": 5,
+        "bbox": {
+          "x": 192.0,
+          "y": 1579.0,
+          "width": 1215.0,
+          "height": 218.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "1585bb1a-fa3e-40a4-ac9c-e835fc99dd07",
+        "idx_in_page": 0,
+        "text": "감정 결과: 삭제된 카카오톡 대화 127건 복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일",
+        "page": 6,
+        "bbox": {
+          "x": 186.0,
+          "y": 294.0,
+          "width": 1270.0,
+          "height": 219.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "b6a5fb25-a6ad-4359-955c-4dbc2e8cf6e5",
+        "idx_in_page": 1,
+        "text": "서버 3대, 외장저장장치 8개. 감정 결과: 삭제된 카카오톡 대화 127건 복구 성공 (담합 관련 핵심",
+        "page": 6,
+        "bbox": {
+          "x": 191.0,
+          "y": 855.0,
+          "width": 1288.0,
+          "height": 398.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "8c2a560b-64fc-4aad-b3dc-94ad80ec0212",
+        "idx_in_page": 2,
+        "text": "성공 (담합 관련 핵심 대화 포함), 삭제된 이메일 89건 복구 (가격 협의 내용). 증거의 진정성",
+        "page": 6,
+        "bbox": {
+          "x": 181.0,
+          "y": 1490.0,
+          "width": 1297.0,
+          "height": 163.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "71d3d5ef-e9c2-4cf6-84a4-4e880d015880",
+        "idx_in_page": 0,
+        "text": "대화 127건 복구 성공 (담합 관련 핵심 대화 포함), 삭제된 이메일 89건 복구 (가격 협의",
+        "page": 7,
+        "bbox": {
+          "x": 196.0,
+          "y": 243.0,
+          "width": 1295.0,
+          "height": 390.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "1f570c96-3190-4910-8a09-b8043bb518ad",
+        "idx_in_page": 1,
+        "text": "삭제된 이메일 89건 복구 (가격 협의 내용). 증거의 진정성 및 무결성 확인. 법정 증거능력 인정",
+        "page": 7,
+        "bbox": {
+          "x": 182.0,
+          "y": 870.0,
+          "width": 1279.0,
+          "height": 350.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 5,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 6,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 7,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.789742+00:00"
+}

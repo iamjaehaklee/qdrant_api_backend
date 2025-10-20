@@ -1,0 +1,146 @@
+{
+  "chunk_id": "e35d7477-7561-4d6d-af4c-2065e61ab939",
+  "file_id": 15,
+  "project_id": 3001,
+  "storage_file_name": "7c94ece7-e682-44b7-94e6-8cf4ae977363-1760885381793.pdf",
+  "original_file_name": "경제분석보고서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 15,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    13,
+    14,
+    15
+  ],
+  "chunk_number": 7,
+  "paragraph_texts": [
+    "분석 대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1) 평균 낙찰률 95.7% (정상 입찰",
+    "분산도 0.8% (정상 시 5% 이상). (3) 낙찰자가 4개사 간 규칙적으로 순환되는 패턴 확인. (4)",
+    "분석 대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1) 평균 낙찰률 95.7% (정상 입찰",
+    "0.8% (정상 시 5% 이상). (3) 낙찰자가 4개사 간 규칙적으로 순환되는 패턴 확인. (4) 입찰",
+    "낙찰가격 간 분산도 0.8% (정상 시 5% 이상). (3) 낙찰자가 4개사 간 규칙적으로 순환되는 패턴",
+    "(3) 낙찰자가 4개사 간 규칙적으로 순환되는 패턴 확인. (4) 입찰 공고 직전 4개사 간 통신량",
+    "85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상 시 5% 이상). (3) 낙찰자가 4개사 간"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "77cc822f-b487-4fa0-8993-514c81acaa26",
+        "idx_in_page": 0,
+        "text": "분석 대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1) 평균 낙찰률 95.7% (정상 입찰",
+        "page": 13,
+        "bbox": {
+          "x": 188.0,
+          "y": 293.0,
+          "width": 1259.0,
+          "height": 275.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "5b151fd9-999f-467d-b13b-f995a4f86232",
+        "idx_in_page": 1,
+        "text": "분산도 0.8% (정상 시 5% 이상). (3) 낙찰자가 4개사 간 규칙적으로 순환되는 패턴 확인. (4)",
+        "page": 13,
+        "bbox": {
+          "x": 195.0,
+          "y": 874.0,
+          "width": 1287.0,
+          "height": 282.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "19f83d2e-d81f-4599-9e66-30603522f002",
+        "idx_in_page": 0,
+        "text": "분석 대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1) 평균 낙찰률 95.7% (정상 입찰",
+        "page": 14,
+        "bbox": {
+          "x": 200.0,
+          "y": 346.0,
+          "width": 1240.0,
+          "height": 353.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "33bf8438-9f84-4b51-abd9-3893b6be5480",
+        "idx_in_page": 1,
+        "text": "0.8% (정상 시 5% 이상). (3) 낙찰자가 4개사 간 규칙적으로 순환되는 패턴 확인. (4) 입찰",
+        "page": 14,
+        "bbox": {
+          "x": 182.0,
+          "y": 807.0,
+          "width": 1202.0,
+          "height": 270.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "8e2c9567-25da-4d74-a953-0d67a6165b8b",
+        "idx_in_page": 0,
+        "text": "낙찰가격 간 분산도 0.8% (정상 시 5% 이상). (3) 낙찰자가 4개사 간 규칙적으로 순환되는 패턴",
+        "page": 15,
+        "bbox": {
+          "x": 183.0,
+          "y": 257.0,
+          "width": 1273.0,
+          "height": 189.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "2b4adad3-2cb1-4b9d-899d-960a79710cf4",
+        "idx_in_page": 1,
+        "text": "(3) 낙찰자가 4개사 간 규칙적으로 순환되는 패턴 확인. (4) 입찰 공고 직전 4개사 간 통신량",
+        "page": 15,
+        "bbox": {
+          "x": 181.0,
+          "y": 900.0,
+          "width": 1271.0,
+          "height": 344.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "7e6f95df-073b-4e49-99a3-8534ff150f0d",
+        "idx_in_page": 2,
+        "text": "85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상 시 5% 이상). (3) 낙찰자가 4개사 간",
+        "page": 15,
+        "bbox": {
+          "x": 185.0,
+          "y": 1434.0,
+          "width": 1267.0,
+          "height": 322.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 13,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 14,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 15,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.793772+00:00"
+}

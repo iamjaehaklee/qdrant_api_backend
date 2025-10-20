@@ -1,0 +1,110 @@
+{
+  "chunk_id": "3af6e3e9-c4d7-4bfc-baad-345e5bfb6f90",
+  "file_id": 56,
+  "project_id": 3001,
+  "storage_file_name": "8d5d979c-224c-4281-b2eb-f5044d4e62cb-1760885381864.pdf",
+  "original_file_name": "통화내역_(주)한국종합건설_to_(주)대한건설산업.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 18,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    17,
+    18
+  ],
+  "chunk_number": 9,
+  "paragraph_texts": [
+    "통화시간 8분 17초. 서울시 지하철 9호선 입찰 관련 후속 협의로 보임. 짧지만 핵심적인 내용을 주고받은",
+    "11월 7일 09:45, 통화시간 8분 17초. 서울시 지하철 9호선 입찰 관련 후속 협의로 보임. 짧지만",
+    "통화일시 2023년 11월 7일 09:45, 통화시간 8분 17초. 서울시 지하철 9호선 입찰 관련 후속 협의로",
+    "8분 17초. 서울시 지하철 9호선 입찰 관련 후속 협의로 보임. 짧지만 핵심적인 내용을 주고받은 것으로",
+    "((주)한국종합건설 차장), 수신: 최진우 본부장 ((주)대한건설산업 본부장). 통화일시 2023년 11월 7일 09:45, 통화시간 8분 17초."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "2e61535e-527a-4991-a107-e15e98fdcc6c",
+        "idx_in_page": 0,
+        "text": "통화시간 8분 17초. 서울시 지하철 9호선 입찰 관련 후속 협의로 보임. 짧지만 핵심적인 내용을 주고받은",
+        "page": 17,
+        "bbox": {
+          "x": 184.0,
+          "y": 311.0,
+          "width": 1217.0,
+          "height": 321.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "eaeb02aa-860c-440c-b3f4-18bf4bda3ae5",
+        "idx_in_page": 1,
+        "text": "11월 7일 09:45, 통화시간 8분 17초. 서울시 지하철 9호선 입찰 관련 후속 협의로 보임. 짧지만",
+        "page": 17,
+        "bbox": {
+          "x": 184.0,
+          "y": 950.0,
+          "width": 1292.0,
+          "height": 343.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "43ccb75c-ed96-4818-839d-2fbc84e4f54d",
+        "idx_in_page": 2,
+        "text": "통화일시 2023년 11월 7일 09:45, 통화시간 8분 17초. 서울시 지하철 9호선 입찰 관련 후속 협의로",
+        "page": 17,
+        "bbox": {
+          "x": 184.0,
+          "y": 1403.0,
+          "width": 1276.0,
+          "height": 178.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "1278ddea-8e9b-4cd1-8ad7-9b0fdec137c8",
+        "idx_in_page": 0,
+        "text": "8분 17초. 서울시 지하철 9호선 입찰 관련 후속 협의로 보임. 짧지만 핵심적인 내용을 주고받은 것으로",
+        "page": 18,
+        "bbox": {
+          "x": 186.0,
+          "y": 364.0,
+          "width": 1267.0,
+          "height": 157.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "cee5a227-342f-4e22-ba54-6e497da7f87c",
+        "idx_in_page": 1,
+        "text": "((주)한국종합건설 차장), 수신: 최진우 본부장 ((주)대한건설산업 본부장). 통화일시 2023년 11월 7일 09:45, 통화시간 8분 17초.",
+        "page": 18,
+        "bbox": {
+          "x": 196.0,
+          "y": 884.0,
+          "width": 1292.0,
+          "height": 274.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 17,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 18,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.864540+00:00"
+}

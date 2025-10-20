@@ -1,0 +1,17 @@
+{
+  "method": "POST",
+  "path": "/search/sparse",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "project requirements specification",
+    "limit": 25,
+    "score_threshold": 0.6,
+    "filter_project_id": 8,
+    "filter_file_id": 128
+  }
+}

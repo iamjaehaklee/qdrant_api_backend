@@ -1,0 +1,161 @@
+{
+  "chunk_id": "8974532a-a490-4188-833c-2ef3e583cd62",
+  "file_id": 38,
+  "project_id": 3001,
+  "storage_file_name": "a43407c7-d5d6-40a7-8931-7edc9b0f91f5-1760885381830.pdf",
+  "original_file_name": "이메일_(주)태평양건설_to_(주)서울엔지니어링.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 16,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    13,
+    14,
+    15
+  ],
+  "chunk_number": 7,
+  "paragraph_texts": [
+    "첨부파일 견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰",
+    "첨부파일 견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰",
+    "본문: '어제 회의에서 논의한 대로 첨부파일 견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될",
+    "5일). 제목: '견적 관련 협의'. 본문: '어제 회의에서 논의한 대로 첨부파일 견적서를 보내드립니다. 우리 쪽",
+    "우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰 전 가격 담합을",
+    "보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰 전 가격",
+    "2월 5일). 제목: '견적 관련 협의'. 본문: '어제 회의에서 논의한 대로 첨부파일 견적서를 보내드립니다. 우리",
+    "귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰 전 가격 담합을 직접 보여주는 증거."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "127b9649-a5d7-4cd5-86df-1f568d7a13c8",
+        "idx_in_page": 0,
+        "text": "첨부파일 견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰",
+        "page": 13,
+        "bbox": {
+          "x": 193.0,
+          "y": 232.0,
+          "width": 1209.0,
+          "height": 376.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "e61d15ab-fc52-494d-973c-e35c88fae9c7",
+        "idx_in_page": 1,
+        "text": "첨부파일 견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰",
+        "page": 13,
+        "bbox": {
+          "x": 196.0,
+          "y": 903.0,
+          "width": 1292.0,
+          "height": 306.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "cb5f57d6-360e-4cd8-89d6-278d92d0d03a",
+        "idx_in_page": 2,
+        "text": "본문: '어제 회의에서 논의한 대로 첨부파일 견적서를 보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될",
+        "page": 13,
+        "bbox": {
+          "x": 185.0,
+          "y": 1598.0,
+          "width": 1228.0,
+          "height": 302.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "3ca133a5-5ffd-4968-bc59-514fd44cca26",
+        "idx_in_page": 0,
+        "text": "5일). 제목: '견적 관련 협의'. 본문: '어제 회의에서 논의한 대로 첨부파일 견적서를 보내드립니다. 우리 쪽",
+        "page": 14,
+        "bbox": {
+          "x": 183.0,
+          "y": 269.0,
+          "width": 1226.0,
+          "height": 336.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "4d19cd1e-d642-4a2d-bbb5-587bf0d9f8f0",
+        "idx_in_page": 1,
+        "text": "우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰 전 가격 담합을",
+        "page": 14,
+        "bbox": {
+          "x": 192.0,
+          "y": 900.0,
+          "width": 1220.0,
+          "height": 396.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "a308a9da-684a-45a7-b29d-dd7e31d8f7b4",
+        "idx_in_page": 0,
+        "text": "보내드립니다. 우리 쪽 95.3%, 귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰 전 가격",
+        "page": 15,
+        "bbox": {
+          "x": 193.0,
+          "y": 258.0,
+          "width": 1252.0,
+          "height": 236.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "e3ce8494-b60b-4108-90c3-b1f1690d95c2",
+        "idx_in_page": 1,
+        "text": "2월 5일). 제목: '견적 관련 협의'. 본문: '어제 회의에서 논의한 대로 첨부파일 견적서를 보내드립니다. 우리",
+        "page": 15,
+        "bbox": {
+          "x": 199.0,
+          "y": 897.0,
+          "width": 1286.0,
+          "height": 371.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "a894d3c6-4646-4ad4-a74d-01d8398fcca6",
+        "idx_in_page": 2,
+        "text": "귀사 95.7%로 조율하면 될 것 같습니다.' 첨부파일: 입찰가격표.xlsx. 입찰 전 가격 담합을 직접 보여주는 증거.",
+        "page": 15,
+        "bbox": {
+          "x": 200.0,
+          "y": 1457.0,
+          "width": 1253.0,
+          "height": 335.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 13,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 14,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 15,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.830119+00:00"
+}

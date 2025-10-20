@@ -1,0 +1,16 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/recommend",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "positive": ["650e8400-e29b-41d4-a716-446655440001"],
+    "negative": ["650e8400-e29b-41d4-a716-446655440099"],
+    "strategy": "average_vector",
+    "limit": 10
+  }
+}

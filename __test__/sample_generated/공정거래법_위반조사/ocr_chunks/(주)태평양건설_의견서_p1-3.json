@@ -1,0 +1,146 @@
+{
+  "chunk_id": "d16397fe-2ffe-4bf6-baef-b0a9c7a29495",
+  "file_id": 9,
+  "project_id": 3001,
+  "storage_file_name": "d142104c-01f1-4ba1-8652-e70c60957c72-1760885381783.pdf",
+  "original_file_name": "(주)태평양건설_의견서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 15,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "기록하고 있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을",
+    "(주)태평양건설 의견서 (사건번호 2024심제1001, 제출일 2024년 6월). 공정거래위원회가 부과하고자 하는 과징금은 당사의 실제 위반 정도에",
+    "적자를 기록하고 있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로",
+    "과징금은 당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고 있으며,",
+    "문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히 요청함. 당사는 재발방지를 위해 최선을 다하겠음.",
+    "과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을 최소 50%",
+    "당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고 있으며, 과징금"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "fffb9e76-3ca1-4fa1-918b-960d75c3b9af",
+        "idx_in_page": 0,
+        "text": "기록하고 있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을",
+        "page": 1,
+        "bbox": {
+          "x": 187.0,
+          "y": 340.0,
+          "width": 1271.0,
+          "height": 361.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "20e1b55c-4118-4636-ab5a-8a6596f1b77f",
+        "idx_in_page": 1,
+        "text": "(주)태평양건설 의견서 (사건번호 2024심제1001, 제출일 2024년 6월). 공정거래위원회가 부과하고자 하는 과징금은 당사의 실제 위반 정도에",
+        "page": 1,
+        "bbox": {
+          "x": 185.0,
+          "y": 860.0,
+          "width": 1217.0,
+          "height": 342.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "cbd3cacd-7e1d-4dbd-a407-6eeedd040f44",
+        "idx_in_page": 0,
+        "text": "적자를 기록하고 있으며, 과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로",
+        "page": 2,
+        "bbox": {
+          "x": 195.0,
+          "y": 372.0,
+          "width": 1256.0,
+          "height": 258.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "dffd6aa7-33f9-4782-824c-73fc3e2d3a22",
+        "idx_in_page": 1,
+        "text": "과징금은 당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고 있으며,",
+        "page": 2,
+        "bbox": {
+          "x": 185.0,
+          "y": 884.0,
+          "width": 1273.0,
+          "height": 195.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "17bfe18e-8447-44ae-b78a-4dcf924d5e05",
+        "idx_in_page": 0,
+        "text": "문제로 과징금을 최소 50% 이상 감경해 줄 것을 간곡히 요청함. 당사는 재발방지를 위해 최선을 다하겠음.",
+        "page": 3,
+        "bbox": {
+          "x": 181.0,
+          "y": 268.0,
+          "width": 1275.0,
+          "height": 281.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "6768bfe2-0936-4bff-a329-5a7f582ae84d",
+        "idx_in_page": 1,
+        "text": "과징금 부과 시 경영에 심각한 타격이 예상됨. 임직원 1,200명의 생계가 걸린 문제로 과징금을 최소 50%",
+        "page": 3,
+        "bbox": {
+          "x": 183.0,
+          "y": 889.0,
+          "width": 1208.0,
+          "height": 368.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "d99b491d-0a03-4bc2-9bcf-9348fdf79048",
+        "idx_in_page": 2,
+        "text": "당사의 실제 위반 정도에 비해 과도함. 당사는 건설업계 불황으로 최근 3년간 적자를 기록하고 있으며, 과징금",
+        "page": 3,
+        "bbox": {
+          "x": 196.0,
+          "y": 1547.0,
+          "width": 1234.0,
+          "height": 274.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.783286+00:00"
+}

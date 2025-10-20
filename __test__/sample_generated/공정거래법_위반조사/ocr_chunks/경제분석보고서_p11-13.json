@@ -1,0 +1,176 @@
+{
+  "chunk_id": "ed534214-ad61-4fc7-ab0b-bae16331424c",
+  "file_id": 15,
+  "project_id": 3001,
+  "storage_file_name": "8e4746c6-63eb-4a5d-84ef-13ef66fd3c43-1760885381793.pdf",
+  "original_file_name": "경제분석보고서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 15,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    11,
+    12,
+    13
+  ],
+  "chunk_number": 6,
+  "paragraph_texts": [
+    "(정상 입찰 시 85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상 시 5% 이상). (3)",
+    "대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1) 평균 낙찰률 95.7% (정상 입찰 시",
+    "2023~2024년. 분석 대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1) 평균 낙찰률 95.7% (정상",
+    "입찰 시 85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상 시 5% 이상). (3) 낙찰자가",
+    "평균 낙찰률 95.7% (정상 입찰 시 85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상 시",
+    "낙찰가격 간 분산도 0.8% (정상 시 5% 이상). (3) 낙찰자가 4개사 간 규칙적으로 순환되는 패턴",
+    "수준). (2) 낙찰가격 간 분산도 0.8% (정상 시 5% 이상). (3) 낙찰자가 4개사 간 규칙적으로",
+    "경제분석국 작성). 분석 기간 2023~2024년. 분석 대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1)",
+    "패턴 확인. (4) 입찰 공고 직전 4개사 간 통신량 급증. 결론: 담합 개연성 매우 높음."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "0c92a357-8835-4015-8575-f1718b5739c9",
+        "idx_in_page": 0,
+        "text": "(정상 입찰 시 85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상 시 5% 이상). (3)",
+        "page": 11,
+        "bbox": {
+          "x": 196.0,
+          "y": 388.0,
+          "width": 1289.0,
+          "height": 366.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "c7e7e7ca-5870-4e98-887e-5c33886d8bc1",
+        "idx_in_page": 1,
+        "text": "대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1) 평균 낙찰률 95.7% (정상 입찰 시",
+        "page": 11,
+        "bbox": {
+          "x": 196.0,
+          "y": 817.0,
+          "width": 1203.0,
+          "height": 164.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "91947a34-fd54-43c0-afb2-c2ab683b71d3",
+        "idx_in_page": 2,
+        "text": "2023~2024년. 분석 대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1) 평균 낙찰률 95.7% (정상",
+        "page": 11,
+        "bbox": {
+          "x": 187.0,
+          "y": 1531.0,
+          "width": 1283.0,
+          "height": 367.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "2fd99405-ebb0-46d5-b648-101a44b992fe",
+        "idx_in_page": 0,
+        "text": "입찰 시 85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상 시 5% 이상). (3) 낙찰자가",
+        "page": 12,
+        "bbox": {
+          "x": 199.0,
+          "y": 383.0,
+          "width": 1212.0,
+          "height": 258.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "10fe648a-d356-4529-a646-8f37ba438df2",
+        "idx_in_page": 1,
+        "text": "평균 낙찰률 95.7% (정상 입찰 시 85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상 시",
+        "page": 12,
+        "bbox": {
+          "x": 189.0,
+          "y": 968.0,
+          "width": 1255.0,
+          "height": 280.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "11fc0b8a-f1e0-4922-bcb4-1d8cfb87e9b7",
+        "idx_in_page": 2,
+        "text": "낙찰가격 간 분산도 0.8% (정상 시 5% 이상). (3) 낙찰자가 4개사 간 규칙적으로 순환되는 패턴",
+        "page": 12,
+        "bbox": {
+          "x": 199.0,
+          "y": 1506.0,
+          "width": 1235.0,
+          "height": 258.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "876e29f5-347d-41d6-91ed-1c475f73da83",
+        "idx_in_page": 0,
+        "text": "수준). (2) 낙찰가격 간 분산도 0.8% (정상 시 5% 이상). (3) 낙찰자가 4개사 간 규칙적으로",
+        "page": 13,
+        "bbox": {
+          "x": 192.0,
+          "y": 299.0,
+          "width": 1254.0,
+          "height": 326.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "83f73d8f-9da7-4794-9916-c4c39c2c06aa",
+        "idx_in_page": 1,
+        "text": "경제분석국 작성). 분석 기간 2023~2024년. 분석 대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1)",
+        "page": 13,
+        "bbox": {
+          "x": 199.0,
+          "y": 961.0,
+          "width": 1208.0,
+          "height": 249.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "f2367775-4b55-4b26-8b6e-aedbcadda2f1",
+        "idx_in_page": 2,
+        "text": "패턴 확인. (4) 입찰 공고 직전 4개사 간 통신량 급증. 결론: 담합 개연성 매우 높음.",
+        "page": 13,
+        "bbox": {
+          "x": 185.0,
+          "y": 1553.0,
+          "width": 1297.0,
+          "height": 357.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 11,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 12,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 13,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.793527+00:00"
+}

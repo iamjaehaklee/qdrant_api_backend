@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/sparse",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "기술 문서 개요",
+    "limit": 8,
+    "filter_project_id": 8
+  }
+}

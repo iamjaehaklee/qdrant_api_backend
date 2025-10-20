@@ -1,0 +1,146 @@
+{
+  "chunk_id": "253f08e1-7b1a-41a4-839c-285bc1d5317c",
+  "file_id": 51,
+  "project_id": 3001,
+  "storage_file_name": "c1d80f36-927e-4514-aeae-c77a38ffcee9-1760885381855.pdf",
+  "original_file_name": "카카오톡대화_(주)대한건설산업_(주)서울엔지니어링.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 19,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    13,
+    14,
+    15
+  ],
+  "chunk_number": 7,
+  "paragraph_texts": [
+    "1,150억 정도 될 것 같아요', '우리가 이번 턴 맞죠? 다른 쪽이랑도 협의 완료했습니다', '가격 더",
+    "정도 될 것 같아요', '우리가 이번 턴 맞죠? 다른 쪽이랑도 협의 완료했습니다', '가격 더 내리면",
+    "메시지). 주요 대화: '낙찰예정가 확인했습니다. 1,150억 정도 될 것 같아요', '우리가 이번 턴 맞죠? 다른",
+    "한지혜 부장 간 카카오톡 대화 내용 (2024년 1월 20일~25일, 총 63건 메시지). 주요 대화: '낙찰예정가",
+    "63건 메시지). 주요 대화: '낙찰예정가 확인했습니다. 1,150억 정도 될 것 같아요', '우리가 이번 턴 맞죠?",
+    "'우리가 이번 턴 맞죠? 다른 쪽이랑도 협의 완료했습니다', '가격 더 내리면 안 됩니다. 합의 지켜야죠'.",
+    "이번 턴 맞죠? 다른 쪽이랑도 협의 완료했습니다', '가격 더 내리면 안 됩니다. 합의 지켜야죠'. 체계적인"
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "fe1914e3-ef8a-4c1c-81d0-1c608fd98139",
+        "idx_in_page": 0,
+        "text": "1,150억 정도 될 것 같아요', '우리가 이번 턴 맞죠? 다른 쪽이랑도 협의 완료했습니다', '가격 더",
+        "page": 13,
+        "bbox": {
+          "x": 194.0,
+          "y": 223.0,
+          "width": 1218.0,
+          "height": 355.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "f31bf384-7d09-4f45-a933-fe3b35ba76e0",
+        "idx_in_page": 1,
+        "text": "정도 될 것 같아요', '우리가 이번 턴 맞죠? 다른 쪽이랑도 협의 완료했습니다', '가격 더 내리면",
+        "page": 13,
+        "bbox": {
+          "x": 182.0,
+          "y": 801.0,
+          "width": 1215.0,
+          "height": 233.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "57fb534c-77b0-4308-aaf8-90170fdf5c0d",
+        "idx_in_page": 0,
+        "text": "메시지). 주요 대화: '낙찰예정가 확인했습니다. 1,150억 정도 될 것 같아요', '우리가 이번 턴 맞죠? 다른",
+        "page": 14,
+        "bbox": {
+          "x": 189.0,
+          "y": 202.0,
+          "width": 1252.0,
+          "height": 350.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "dd4372a3-dbbd-4559-9104-181689f49528",
+        "idx_in_page": 1,
+        "text": "한지혜 부장 간 카카오톡 대화 내용 (2024년 1월 20일~25일, 총 63건 메시지). 주요 대화: '낙찰예정가",
+        "page": 14,
+        "bbox": {
+          "x": 198.0,
+          "y": 885.0,
+          "width": 1258.0,
+          "height": 177.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "bddab842-ea2c-4fb9-946d-5d97b132ab06",
+        "idx_in_page": 2,
+        "text": "63건 메시지). 주요 대화: '낙찰예정가 확인했습니다. 1,150억 정도 될 것 같아요', '우리가 이번 턴 맞죠?",
+        "page": 14,
+        "bbox": {
+          "x": 195.0,
+          "y": 1495.0,
+          "width": 1293.0,
+          "height": 377.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "3e4858cd-0db9-43bc-9946-cd9e0d957536",
+        "idx_in_page": 0,
+        "text": "'우리가 이번 턴 맞죠? 다른 쪽이랑도 협의 완료했습니다', '가격 더 내리면 안 됩니다. 합의 지켜야죠'.",
+        "page": 15,
+        "bbox": {
+          "x": 188.0,
+          "y": 351.0,
+          "width": 1227.0,
+          "height": 187.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "64e6372f-9758-4eb2-ad5c-a5797bfafd76",
+        "idx_in_page": 1,
+        "text": "이번 턴 맞죠? 다른 쪽이랑도 협의 완료했습니다', '가격 더 내리면 안 됩니다. 합의 지켜야죠'. 체계적인",
+        "page": 15,
+        "bbox": {
+          "x": 186.0,
+          "y": 874.0,
+          "width": 1240.0,
+          "height": 208.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 13,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 14,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 15,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.855253+00:00"
+}

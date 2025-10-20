@@ -1,0 +1,16 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/matchtext",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "technical documentation",
+    "limit": 8,
+    "filter_project_id": 8,
+    "filter_file_id": 128
+  }
+}

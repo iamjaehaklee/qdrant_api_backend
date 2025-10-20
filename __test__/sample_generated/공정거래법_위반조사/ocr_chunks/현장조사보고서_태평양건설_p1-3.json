@@ -1,0 +1,161 @@
+{
+  "chunk_id": "2d7a352d-3d01-46b1-9d8d-ec7ffafa153d",
+  "file_id": 59,
+  "project_id": 3001,
+  "storage_file_name": "dfb18caf-3a21-4464-ba3e-a3345d57896a-1760885381868.pdf",
+  "original_file_name": "현장조사보고서_태평양건설.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 17,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "PC 4대, 사내 서버 1대, 입찰 관련 문서 125권, USB 메모리 3개. 주요 발견 사항:",
+    "문서 다수 확보. 영업부장 컴퓨터에서 '입찰 배분 현황' 엑셀 파일 발견. 회사 차원의 조직적 담합",
+    "발견 사항: 타사와의 가격 협의 관련 내부 문서 다수 확보. 영업부장 컴퓨터에서 '입찰 배분 현황'",
+    "영업부 및 경영기획실 PC 4대, 사내 서버 1대, 입찰 관련 문서 125권, USB 메모리 3개.",
+    "1대, 입찰 관련 문서 125권, USB 메모리 3개. 주요 발견 사항: 타사와의 가격 협의 관련",
+    "압수물품: 영업부 및 경영기획실 PC 4대, 사내 서버 1대, 입찰 관련 문서 125권, USB 메모리",
+    "보고서 (조사일 2024년 4월 8일). 조사관 5명 투입. 압수물품: 영업부 및 경영기획실 PC 4대, 사내",
+    "가격 협의 관련 내부 문서 다수 확보. 영업부장 컴퓨터에서 '입찰 배분 현황' 엑셀 파일 발견."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "bd4b11b4-ee63-4d2c-84df-747d6ab509e8",
+        "idx_in_page": 0,
+        "text": "PC 4대, 사내 서버 1대, 입찰 관련 문서 125권, USB 메모리 3개. 주요 발견 사항:",
+        "page": 1,
+        "bbox": {
+          "x": 185.0,
+          "y": 331.0,
+          "width": 1294.0,
+          "height": 258.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "9bc0710a-9a85-4f35-9260-f49cdfb0a494",
+        "idx_in_page": 1,
+        "text": "문서 다수 확보. 영업부장 컴퓨터에서 '입찰 배분 현황' 엑셀 파일 발견. 회사 차원의 조직적 담합",
+        "page": 1,
+        "bbox": {
+          "x": 193.0,
+          "y": 851.0,
+          "width": 1243.0,
+          "height": 331.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "3262e865-39f7-4ad2-8b54-19242e0a688e",
+        "idx_in_page": 2,
+        "text": "발견 사항: 타사와의 가격 협의 관련 내부 문서 다수 확보. 영업부장 컴퓨터에서 '입찰 배분 현황'",
+        "page": 1,
+        "bbox": {
+          "x": 185.0,
+          "y": 1499.0,
+          "width": 1296.0,
+          "height": 239.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "ccba4d2b-c597-4fc1-bb49-41fff367dfcc",
+        "idx_in_page": 0,
+        "text": "영업부 및 경영기획실 PC 4대, 사내 서버 1대, 입찰 관련 문서 125권, USB 메모리 3개.",
+        "page": 2,
+        "bbox": {
+          "x": 199.0,
+          "y": 390.0,
+          "width": 1267.0,
+          "height": 169.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "fbbc417c-db67-4e56-b02e-bdf09a81fc5e",
+        "idx_in_page": 1,
+        "text": "1대, 입찰 관련 문서 125권, USB 메모리 3개. 주요 발견 사항: 타사와의 가격 협의 관련",
+        "page": 2,
+        "bbox": {
+          "x": 188.0,
+          "y": 856.0,
+          "width": 1238.0,
+          "height": 319.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "0b213dcd-61b6-476c-8ece-00844198f834",
+        "idx_in_page": 2,
+        "text": "압수물품: 영업부 및 경영기획실 PC 4대, 사내 서버 1대, 입찰 관련 문서 125권, USB 메모리",
+        "page": 2,
+        "bbox": {
+          "x": 193.0,
+          "y": 1543.0,
+          "width": 1287.0,
+          "height": 311.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "34b19955-ce17-443f-b3af-13507bf481ce",
+        "idx_in_page": 0,
+        "text": "보고서 (조사일 2024년 4월 8일). 조사관 5명 투입. 압수물품: 영업부 및 경영기획실 PC 4대, 사내",
+        "page": 3,
+        "bbox": {
+          "x": 187.0,
+          "y": 266.0,
+          "width": 1230.0,
+          "height": 161.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "f57db9da-9045-41fe-a730-cfc350cc4f81",
+        "idx_in_page": 1,
+        "text": "가격 협의 관련 내부 문서 다수 확보. 영업부장 컴퓨터에서 '입찰 배분 현황' 엑셀 파일 발견.",
+        "page": 3,
+        "bbox": {
+          "x": 184.0,
+          "y": 991.0,
+          "width": 1271.0,
+          "height": 320.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.868096+00:00"
+}

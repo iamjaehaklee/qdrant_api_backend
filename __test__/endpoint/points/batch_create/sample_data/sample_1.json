@@ -1,0 +1,120 @@
+{
+  "method": "POST",
+  "path": "/points/batch",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "chunks": [
+      {
+        "file_id": 100,
+        "project_id": 10,
+        "storage_file_name": "2024/batch/doc1.pdf",
+        "original_file_name": "document1.pdf",
+        "mime_type": "application/pdf",
+        "total_pages": 6,
+        "language": "en",
+        "pages": [
+          1,
+          2,
+          3
+        ],
+        "chunk_number": 1,
+        "paragraph_texts": [
+          "Chunk 1 text"
+        ],
+        "chunk_content": {
+          "paragraphs": [
+            {
+              "paragraph_id": "batch_para_1",
+              "idx_in_page": 0,
+              "text": "Chunk 1 text",
+              "page": 1,
+              "bbox": {
+                "x": 50.0,
+                "y": 100.0,
+                "width": 400.0,
+                "height": 20.0
+              },
+              "type": "text",
+              "confidence_score": 0.94
+            }
+          ]
+        },
+        "page_dimensions": [
+          {
+            "page": 1,
+            "width": 595,
+            "height": 842
+          },
+          {
+            "page": 2,
+            "width": 595,
+            "height": 842
+          },
+          {
+            "page": 3,
+            "width": 595,
+            "height": 842
+          }
+        ]
+      },
+      {
+        "file_id": 100,
+        "project_id": 10,
+        "storage_file_name": "2024/batch/doc1.pdf",
+        "original_file_name": "document1.pdf",
+        "mime_type": "application/pdf",
+        "total_pages": 6,
+        "language": "en",
+        "pages": [
+          3,
+          4,
+          5
+        ],
+        "chunk_number": 2,
+        "paragraph_texts": [
+          "Chunk 2 text"
+        ],
+        "chunk_content": {
+          "paragraphs": [
+            {
+              "paragraph_id": "batch_para_2",
+              "idx_in_page": 0,
+              "text": "Chunk 2 text",
+              "page": 3,
+              "bbox": {
+                "x": 50.0,
+                "y": 100.0,
+                "width": 400.0,
+                "height": 20.0
+              },
+              "type": "text",
+              "confidence_score": 0.93
+            }
+          ]
+        },
+        "page_dimensions": [
+          {
+            "page": 3,
+            "width": 595,
+            "height": 842
+          },
+          {
+            "page": 4,
+            "width": 595,
+            "height": 842
+          },
+          {
+            "page": 5,
+            "width": 595,
+            "height": 842
+          }
+        ]
+      }
+    ]
+  }
+}

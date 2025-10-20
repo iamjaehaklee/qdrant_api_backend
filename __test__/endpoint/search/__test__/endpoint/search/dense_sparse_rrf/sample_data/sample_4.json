@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "path": "/search/dense_sparse_rrf",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "project specifications requirements",
+    "limit": 25,
+    "filter_project_id": 8
+  }
+}

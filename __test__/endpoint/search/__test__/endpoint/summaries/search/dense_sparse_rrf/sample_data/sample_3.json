@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "path": "/summaries/search/dense_sparse_rrf",
+  "headers": {
+    "Content-Type": "application/json",
+    "Accept": "application/json"
+  },
+  "path_params": {},
+  "query_params": {},
+  "body": {
+    "query_text": "technical documentation",
+    "limit": 20,
+    "score_threshold": 0.75
+  }
+}

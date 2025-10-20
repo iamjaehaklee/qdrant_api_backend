@@ -1,0 +1,131 @@
+{
+  "chunk_id": "d7e2d114-d257-493c-9566-ceda28210bb7",
+  "file_id": 15,
+  "project_id": 3001,
+  "storage_file_name": "52d605c5-85ec-47cc-852f-69c89df762d9-1760885381792.pdf",
+  "original_file_name": "경제분석보고서.pdf",
+  "mime_type": "application/pdf",
+  "total_pages": 15,
+  "processing_duration_seconds": 0,
+  "language": "ko",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "chunk_number": 1,
+  "paragraph_texts": [
+    "입찰 공고 직전 4개사 간 통신량 급증. 결론: 담합 개연성 매우 높음. 통계적으로 우연으로 설명",
+    "85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상 시 5% 이상). (3) 낙찰자가 4개사 간",
+    "입찰 시 85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상 시 5% 이상). (3) 낙찰자가",
+    "(4) 입찰 공고 직전 4개사 간 통신량 급증. 결론: 담합 개연성 매우 높음. 통계적으로 우연으로",
+    "경제분석국 작성). 분석 기간 2023~2024년. 분석 대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1)",
+    "경제분석 보고서 (공정거래위원회 경제분석국 작성). 분석 기간 2023~2024년. 분석 대상: 4개 건설사가 참여한 입찰 23건."
+  ],
+  "chunk_content": {
+    "paragraphs": [
+      {
+        "paragraph_id": "309b3ab2-d166-42ed-8e25-384726732ef4",
+        "idx_in_page": 0,
+        "text": "입찰 공고 직전 4개사 간 통신량 급증. 결론: 담합 개연성 매우 높음. 통계적으로 우연으로 설명",
+        "page": 1,
+        "bbox": {
+          "x": 199.0,
+          "y": 233.0,
+          "width": 1266.0,
+          "height": 351.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "b6cbb37f-0636-4575-86be-ca01d0b95d13",
+        "idx_in_page": 1,
+        "text": "85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상 시 5% 이상). (3) 낙찰자가 4개사 간",
+        "page": 1,
+        "bbox": {
+          "x": 192.0,
+          "y": 940.0,
+          "width": 1266.0,
+          "height": 295.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "0d062819-47d4-4d66-b207-033af98063d9",
+        "idx_in_page": 0,
+        "text": "입찰 시 85% 수준). (2) 낙찰가격 간 분산도 0.8% (정상 시 5% 이상). (3) 낙찰자가",
+        "page": 2,
+        "bbox": {
+          "x": 195.0,
+          "y": 382.0,
+          "width": 1252.0,
+          "height": 316.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "2d265799-f622-470f-a2b6-6ad1d121d89a",
+        "idx_in_page": 1,
+        "text": "(4) 입찰 공고 직전 4개사 간 통신량 급증. 결론: 담합 개연성 매우 높음. 통계적으로 우연으로",
+        "page": 2,
+        "bbox": {
+          "x": 185.0,
+          "y": 977.0,
+          "width": 1263.0,
+          "height": 276.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "c8bb4aaa-e097-4fa5-870f-658901485d22",
+        "idx_in_page": 0,
+        "text": "경제분석국 작성). 분석 기간 2023~2024년. 분석 대상: 4개 건설사가 참여한 입찰 23건. 분석 결과: (1)",
+        "page": 3,
+        "bbox": {
+          "x": 183.0,
+          "y": 275.0,
+          "width": 1262.0,
+          "height": 289.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "3f7f51a2-bbe9-4f32-a366-1623ddcdfb9f",
+        "idx_in_page": 1,
+        "text": "경제분석 보고서 (공정거래위원회 경제분석국 작성). 분석 기간 2023~2024년. 분석 대상: 4개 건설사가 참여한 입찰 23건.",
+        "page": 3,
+        "bbox": {
+          "x": 190.0,
+          "y": 858.0,
+          "width": 1298.0,
+          "height": 375.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      }
+    ]
+  },
+  "page_dimensions": [
+    {
+      "page": 1,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 2,
+      "width": 1681,
+      "height": 2379
+    },
+    {
+      "page": 3,
+      "width": 1681,
+      "height": 2379
+    }
+  ],
+  "created_at": "2025-10-19T14:49:41.792315+00:00"
+}
