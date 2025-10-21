@@ -15,98 +15,938 @@
   ],
   "chunk_number": 1,
   "paragraph_texts": [
-    "[1페이지] 내용증명 수신: 피고 이영희",
-    "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다.",
-    "[2페이지] 내용증명 수신: 피고 이영희",
-    "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다.",
-    "[3페이지] 내용증명 수신: 피고 이영희",
-    "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다."
+    "내용증명 (최고)",
+    "수신: 피고 이영희 (주민등록번호: 750215-2******)",
+    "주소: 서울특별시 강남구 테헤란로 123, 456동 789호",
+    "발신: 원고 김철수 (주민등록번호: 680523-1******)",
+    "주소: 서울특별시 서초구 서초대로 456, 101동 202호",
+    "발송일: 2024년 7월 10일",
+    "제목: 부동산 매매계약 이행 최고(最高)의 건",
+    "귀하에게 다시 한 번 엄중히 통지합니다.",
+    "1. 1차 내용증명 발송 및 귀하의 불응",
+    "본인은 2024년 6월 20일 귀하에게 1차 내용증명을 발송하여 소유권이전등기절차 이행을 촉구한 바 있습니다.",
+    "상기 1차 내용증명은 2024년 6월 22일 귀하가 수령하였음이 우체국 배달증명에 의해 확인되었습니다.",
+    "본인은 1차 내용증명에서 수령일로부터 7일 이내(2024년 6월 29일까지)에 이행할 것을 촉구하였으나,",
+    "귀하는 상기 기한이 경과한 현재(2024년 7월 10일)까지 아무런 조치도 취하지 않고 있습니다.",
+    "이는 명백한 채무불이행이며, 본인에게 심대한 손해를 가하고 있습니다.",
+    "2. 현재까지의 경과",
+    "본인은 2024년 3월 15일 귀하와 부동산 매매계약을 체결하고, 2024년 6월 15일 잔금 200,000,000원까지 완납하여",
+    "총 매매대금 500,000,000원 전액을 지급 완료하였습니다.",
+    "- 계약금: 50,000,000원 (2024. 3. 15. 지급)",
+    "- 중도금 1차: 150,000,000원 (2024. 4. 20. 지급)",
+    "- 중도금 2차: 150,000,000원 (2024. 5. 20. 지급)",
+    "- 잔금: 200,000,000원 (2024. 6. 15. 지급)",
+    "그러나 잔금 지급 후 현재까지 25일이 경과하였음에도 귀하는 소유권이전등기에 필요한 서류를 일체 교부하지 않고 있으며,",
+    "목적 부동산의 인도도 거부하고 있으며, 부동산에 설정된 근저당권(채권최고액 300,000,000원)도 말소하지 않고 있습니다.",
+    "3. 1차 내용증명 이후 본인의 추가 노력",
+    "본인은 1차 내용증명 발송 후에도 귀하와의 원만한 해결을 위해 다음과 같은 노력을 기울였으나 모두 실패하였습니다.",
+    "(1) 2024년 6월 25일: 귀하 휴대전화로 5회 통화 시도 → 수신 거부",
+    "(2) 2024년 6월 27일: 귀하 주소지 직접 방문 → 부재중, 이웃 주민 통해 거주 사실 확인",
+    "(3) 2024년 6월 30일: 등기우편 발송 (협의 요청) → 수령 후 무응답",
+    "(4) 2024년 7월 5일: 매매계약 중개한 공인중개사를 통한 연락 시도 → 귀하 연락 거부",
+    "상기와 같이 본인은 법적 조치 이전에 최대한 협의를 통한 해결을 시도하였으나, 귀하의 일방적인 거부로 인해 좌절되었습니다.",
+    "4. 현재 본인이 입은 손해의 누적",
+    "귀하의 지속적인 계약 불이행으로 본인이 입은 손해는 다음과 같이 누적되고 있습니다.",
+    "(1) 대출이자 손해 (계속 증가 중)",
+    "- 대출금액: 400,000,000원",
+    "- 일일 이자: 49,315원",
+    "- 2024년 6월 15일부터 2024년 7월 10일까지 (25일간)",
+    "- 누적 이자 손해: 1,232,875원",
+    "(2) 전세계약 위약금 확정",
+    "- 본인의 기존 거주지 전세계약 해지 위약금: 10,000,000원 (이미 지급 완료)",
+    "- 임시 거처 월세 비용: 2,500,000원 (2024. 6. 20.~7. 19.)",
+    "(3) 이사 비용 및 기타 손해",
+    "- 이사 준비 비용: 2,000,000원",
+    "- 취소된 인테리어 계약 위약금: 3,000,000원",
+    "- 정신적 고통에 대한 위자료: 별도 산정 예정",
+    "상기 손해 합계: 18,732,875원 (이자는 계속 증가 중)",
+    "5. 최종 이행 최고",
+    "본인은 귀하에게 최종적으로 다음과 같이 최고합니다.",
+    "본 내용증명 수령일로부터 7일 이내(2024년 7월 19일까지)에 반드시 아래 사항을 이행하시기 바랍니다.",
+    "(1) 소유권이전등기에 필요한 서류 일체",
+    "- 등기필증 또는 등기식별정보",
+    "- 인감증명서 (발급일로부터 3개월 이내)",
+    "- 주민등록등본",
+    "- 위임장 (인감 날인)",
+    "- 인감도장",
+    "→ 상기 서류를 본인 주소(서울특별시 서초구 서초대로 456, 101동 202호)로 등기우편 발송할 것",
+    "(2) 목적 부동산 인도",
+    "- 주소: 서울특별시 강남구 역삼동 123-45",
+    "- 열쇠 전체 교부",
+    "- 공과금 정산 완료",
+    "(3) 근저당권 말소",
+    "- 채권최고액 300,000,000원의 근저당권을 완전히 말소",
+    "- 말소 완료 후 등기부등본을 본인에게 송부"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-022-001-000-0",
         "idx_in_page": 0,
-        "text": "[1페이지] 내용증명 수신: 피고 이영희",
+        "text": "내용증명 (최고)",
         "page": 1,
         "bbox": {
-          "x": 199.71,
-          "y": 108.83,
-          "width": 1247.16,
-          "height": 50
+          "x": 190.0,
+          "y": 150.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-022-001-000-1",
+        "idx_in_page": 1,
+        "text": "수신: 피고 이영희 (주민등록번호: 750215-2******)",
+        "page": 1,
+        "bbox": {
+          "x": 190.0,
+          "y": 210.0,
+          "width": 1200.0,
+          "height": 35
         },
         "type": "body",
         "confidence_score": 0.94
       },
       {
-        "paragraph_id": "para-022-001-000-1",
-        "idx_in_page": 1,
-        "text": "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다.",
+        "paragraph_id": "para-022-001-000-2",
+        "idx_in_page": 2,
+        "text": "주소: 서울특별시 강남구 테헤란로 123, 456동 789호",
         "page": 1,
         "bbox": {
-          "x": 183.5,
-          "y": 1197.36,
-          "width": 1291.82,
-          "height": 50
+          "x": 190.0,
+          "y": 270.0,
+          "width": 1200.0,
+          "height": 35
         },
         "type": "body",
-        "confidence_score": 0.93
+        "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-022-001-001-0",
-        "idx_in_page": 0,
-        "text": "[2페이지] 내용증명 수신: 피고 이영희",
-        "page": 2,
+        "paragraph_id": "para-022-001-000-3",
+        "idx_in_page": 3,
+        "text": "발신: 원고 김철수 (주민등록번호: 680523-1******)",
+        "page": 1,
         "bbox": {
-          "x": 181.56,
-          "y": 106.83,
-          "width": 1279.25,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.91
-      },
-      {
-        "paragraph_id": "para-022-001-001-1",
-        "idx_in_page": 1,
-        "text": "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다.",
-        "page": 2,
-        "bbox": {
-          "x": 197.07,
-          "y": 1188.35,
-          "width": 1257.77,
-          "height": 50
+          "x": 190.0,
+          "y": 330.0,
+          "width": 1200.0,
+          "height": 35
         },
         "type": "body",
         "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-022-001-002-0",
-        "idx_in_page": 0,
-        "text": "[3페이지] 내용증명 수신: 피고 이영희",
-        "page": 3,
+        "paragraph_id": "para-022-001-000-4",
+        "idx_in_page": 4,
+        "text": "주소: 서울특별시 서초구 서초대로 456, 101동 202호",
+        "page": 1,
         "bbox": {
-          "x": 216.34,
-          "y": 94.65,
-          "width": 1316.77,
-          "height": 50
+          "x": 190.0,
+          "y": 390.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-022-001-000-5",
+        "idx_in_page": 5,
+        "text": "발송일: 2024년 7월 10일",
+        "page": 1,
+        "bbox": {
+          "x": 190.0,
+          "y": 450.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-022-001-000-6",
+        "idx_in_page": 6,
+        "text": "제목: 부동산 매매계약 이행 최고(最高)의 건",
+        "page": 1,
+        "bbox": {
+          "x": 190.0,
+          "y": 510.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-022-001-000-7",
+        "idx_in_page": 7,
+        "text": "귀하에게 다시 한 번 엄중히 통지합니다.",
+        "page": 1,
+        "bbox": {
+          "x": 190.0,
+          "y": 570.0,
+          "width": 1200.0,
+          "height": 35
         },
         "type": "body",
         "confidence_score": 0.93
       },
       {
-        "paragraph_id": "para-022-001-002-1",
-        "idx_in_page": 1,
-        "text": "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다.",
-        "page": 3,
+        "paragraph_id": "para-022-001-000-8",
+        "idx_in_page": 8,
+        "text": "1. 1차 내용증명 발송 및 귀하의 불응",
+        "page": 1,
         "bbox": {
-          "x": 191.96,
-          "y": 1186.6,
-          "width": 1322.57,
-          "height": 50
+          "x": 190.0,
+          "y": 630.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-022-001-000-9",
+        "idx_in_page": 9,
+        "text": "본인은 2024년 6월 20일 귀하에게 1차 내용증명을 발송하여 소유권이전등기절차 이행을 촉구한 바 있습니다.",
+        "page": 1,
+        "bbox": {
+          "x": 190.0,
+          "y": 690.0,
+          "width": 1200.0,
+          "height": 35
         },
         "type": "body",
         "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-022-001-000-10",
+        "idx_in_page": 10,
+        "text": "상기 1차 내용증명은 2024년 6월 22일 귀하가 수령하였음이 우체국 배달증명에 의해 확인되었습니다.",
+        "page": 1,
+        "bbox": {
+          "x": 190.0,
+          "y": 750.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-022-001-000-11",
+        "idx_in_page": 11,
+        "text": "본인은 1차 내용증명에서 수령일로부터 7일 이내(2024년 6월 29일까지)에 이행할 것을 촉구하였으나,",
+        "page": 1,
+        "bbox": {
+          "x": 190.0,
+          "y": 810.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-022-001-000-12",
+        "idx_in_page": 12,
+        "text": "귀하는 상기 기한이 경과한 현재(2024년 7월 10일)까지 아무런 조치도 취하지 않고 있습니다.",
+        "page": 1,
+        "bbox": {
+          "x": 190.0,
+          "y": 870.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-022-001-000-13",
+        "idx_in_page": 13,
+        "text": "이는 명백한 채무불이행이며, 본인에게 심대한 손해를 가하고 있습니다.",
+        "page": 1,
+        "bbox": {
+          "x": 190.0,
+          "y": 930.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-022-001-000-14",
+        "idx_in_page": 14,
+        "text": "2. 현재까지의 경과",
+        "page": 1,
+        "bbox": {
+          "x": 190.0,
+          "y": 990.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-022-001-000-15",
+        "idx_in_page": 15,
+        "text": "본인은 2024년 3월 15일 귀하와 부동산 매매계약을 체결하고, 2024년 6월 15일 잔금 200,000,000원까지 완납하여",
+        "page": 1,
+        "bbox": {
+          "x": 190.0,
+          "y": 1050.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-022-001-000-16",
+        "idx_in_page": 16,
+        "text": "총 매매대금 500,000,000원 전액을 지급 완료하였습니다.",
+        "page": 1,
+        "bbox": {
+          "x": 190.0,
+          "y": 1110.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-022-001-000-17",
+        "idx_in_page": 17,
+        "text": "- 계약금: 50,000,000원 (2024. 3. 15. 지급)",
+        "page": 1,
+        "bbox": {
+          "x": 210.0,
+          "y": 1170.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-022-001-001-0",
+        "idx_in_page": 0,
+        "text": "- 중도금 1차: 150,000,000원 (2024. 4. 20. 지급)",
+        "page": 2,
+        "bbox": {
+          "x": 210.0,
+          "y": 150.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-022-001-001-1",
+        "idx_in_page": 1,
+        "text": "- 중도금 2차: 150,000,000원 (2024. 5. 20. 지급)",
+        "page": 2,
+        "bbox": {
+          "x": 210.0,
+          "y": 210.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-022-001-001-2",
+        "idx_in_page": 2,
+        "text": "- 잔금: 200,000,000원 (2024. 6. 15. 지급)",
+        "page": 2,
+        "bbox": {
+          "x": 210.0,
+          "y": 270.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-022-001-001-3",
+        "idx_in_page": 3,
+        "text": "그러나 잔금 지급 후 현재까지 25일이 경과하였음에도 귀하는 소유권이전등기에 필요한 서류를 일체 교부하지 않고 있으며,",
+        "page": 2,
+        "bbox": {
+          "x": 190.0,
+          "y": 330.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-022-001-001-4",
+        "idx_in_page": 4,
+        "text": "목적 부동산의 인도도 거부하고 있으며, 부동산에 설정된 근저당권(채권최고액 300,000,000원)도 말소하지 않고 있습니다.",
+        "page": 2,
+        "bbox": {
+          "x": 190.0,
+          "y": 390.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-022-001-001-5",
+        "idx_in_page": 5,
+        "text": "3. 1차 내용증명 이후 본인의 추가 노력",
+        "page": 2,
+        "bbox": {
+          "x": 190.0,
+          "y": 450.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-022-001-001-6",
+        "idx_in_page": 6,
+        "text": "본인은 1차 내용증명 발송 후에도 귀하와의 원만한 해결을 위해 다음과 같은 노력을 기울였으나 모두 실패하였습니다.",
+        "page": 2,
+        "bbox": {
+          "x": 190.0,
+          "y": 510.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-022-001-001-7",
+        "idx_in_page": 7,
+        "text": "(1) 2024년 6월 25일: 귀하 휴대전화로 5회 통화 시도 → 수신 거부",
+        "page": 2,
+        "bbox": {
+          "x": 210.0,
+          "y": 570.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-022-001-001-8",
+        "idx_in_page": 8,
+        "text": "(2) 2024년 6월 27일: 귀하 주소지 직접 방문 → 부재중, 이웃 주민 통해 거주 사실 확인",
+        "page": 2,
+        "bbox": {
+          "x": 210.0,
+          "y": 630.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-022-001-001-9",
+        "idx_in_page": 9,
+        "text": "(3) 2024년 6월 30일: 등기우편 발송 (협의 요청) → 수령 후 무응답",
+        "page": 2,
+        "bbox": {
+          "x": 210.0,
+          "y": 690.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-022-001-001-10",
+        "idx_in_page": 10,
+        "text": "(4) 2024년 7월 5일: 매매계약 중개한 공인중개사를 통한 연락 시도 → 귀하 연락 거부",
+        "page": 2,
+        "bbox": {
+          "x": 210.0,
+          "y": 750.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-022-001-001-11",
+        "idx_in_page": 11,
+        "text": "상기와 같이 본인은 법적 조치 이전에 최대한 협의를 통한 해결을 시도하였으나, 귀하의 일방적인 거부로 인해 좌절되었습니다.",
+        "page": 2,
+        "bbox": {
+          "x": 190.0,
+          "y": 810.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-022-001-001-12",
+        "idx_in_page": 12,
+        "text": "4. 현재 본인이 입은 손해의 누적",
+        "page": 2,
+        "bbox": {
+          "x": 190.0,
+          "y": 870.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-022-001-001-13",
+        "idx_in_page": 13,
+        "text": "귀하의 지속적인 계약 불이행으로 본인이 입은 손해는 다음과 같이 누적되고 있습니다.",
+        "page": 2,
+        "bbox": {
+          "x": 190.0,
+          "y": 930.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-022-001-001-14",
+        "idx_in_page": 14,
+        "text": "(1) 대출이자 손해 (계속 증가 중)",
+        "page": 2,
+        "bbox": {
+          "x": 210.0,
+          "y": 990.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-022-001-001-15",
+        "idx_in_page": 15,
+        "text": "- 대출금액: 400,000,000원",
+        "page": 2,
+        "bbox": {
+          "x": 210.0,
+          "y": 1050.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-022-001-001-16",
+        "idx_in_page": 16,
+        "text": "- 일일 이자: 49,315원",
+        "page": 2,
+        "bbox": {
+          "x": 210.0,
+          "y": 1110.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-022-001-001-17",
+        "idx_in_page": 17,
+        "text": "- 2024년 6월 15일부터 2024년 7월 10일까지 (25일간)",
+        "page": 2,
+        "bbox": {
+          "x": 210.0,
+          "y": 1170.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-022-001-002-0",
+        "idx_in_page": 0,
+        "text": "- 누적 이자 손해: 1,232,875원",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 150.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-022-001-002-1",
+        "idx_in_page": 1,
+        "text": "(2) 전세계약 위약금 확정",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 210.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-022-001-002-2",
+        "idx_in_page": 2,
+        "text": "- 본인의 기존 거주지 전세계약 해지 위약금: 10,000,000원 (이미 지급 완료)",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 270.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-022-001-002-3",
+        "idx_in_page": 3,
+        "text": "- 임시 거처 월세 비용: 2,500,000원 (2024. 6. 20.~7. 19.)",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 330.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-022-001-002-4",
+        "idx_in_page": 4,
+        "text": "(3) 이사 비용 및 기타 손해",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 390.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-022-001-002-5",
+        "idx_in_page": 5,
+        "text": "- 이사 준비 비용: 2,000,000원",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 450.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-022-001-002-6",
+        "idx_in_page": 6,
+        "text": "- 취소된 인테리어 계약 위약금: 3,000,000원",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 510.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-022-001-002-7",
+        "idx_in_page": 7,
+        "text": "- 정신적 고통에 대한 위자료: 별도 산정 예정",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 570.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-022-001-002-8",
+        "idx_in_page": 8,
+        "text": "상기 손해 합계: 18,732,875원 (이자는 계속 증가 중)",
+        "page": 3,
+        "bbox": {
+          "x": 190.0,
+          "y": 630.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-022-001-002-9",
+        "idx_in_page": 9,
+        "text": "5. 최종 이행 최고",
+        "page": 3,
+        "bbox": {
+          "x": 190.0,
+          "y": 690.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-022-001-002-10",
+        "idx_in_page": 10,
+        "text": "본인은 귀하에게 최종적으로 다음과 같이 최고합니다.",
+        "page": 3,
+        "bbox": {
+          "x": 190.0,
+          "y": 750.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-022-001-002-11",
+        "idx_in_page": 11,
+        "text": "본 내용증명 수령일로부터 7일 이내(2024년 7월 19일까지)에 반드시 아래 사항을 이행하시기 바랍니다.",
+        "page": 3,
+        "bbox": {
+          "x": 190.0,
+          "y": 810.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-022-001-002-12",
+        "idx_in_page": 12,
+        "text": "(1) 소유권이전등기에 필요한 서류 일체",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 870.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-022-001-002-13",
+        "idx_in_page": 13,
+        "text": "- 등기필증 또는 등기식별정보",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 930.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-022-001-002-14",
+        "idx_in_page": 14,
+        "text": "- 인감증명서 (발급일로부터 3개월 이내)",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 990.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-022-001-002-15",
+        "idx_in_page": 15,
+        "text": "- 주민등록등본",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 1050.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-022-001-002-16",
+        "idx_in_page": 16,
+        "text": "- 위임장 (인감 날인)",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 1110.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-022-001-002-17",
+        "idx_in_page": 17,
+        "text": "- 인감도장",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 1170.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-022-001-002-0",
+        "idx_in_page": 0,
+        "text": "→ 상기 서류를 본인 주소(서울특별시 서초구 서초대로 456, 101동 202호)로 등기우편 발송할 것",
+        "page": 3,
+        "bbox": {
+          "x": 190.0,
+          "y": 150.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-022-001-002-1",
+        "idx_in_page": 1,
+        "text": "(2) 목적 부동산 인도",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 210.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-022-001-002-2",
+        "idx_in_page": 2,
+        "text": "- 주소: 서울특별시 강남구 역삼동 123-45",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 270.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-022-001-002-3",
+        "idx_in_page": 3,
+        "text": "- 열쇠 전체 교부",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 330.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-022-001-002-4",
+        "idx_in_page": 4,
+        "text": "- 공과금 정산 완료",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 390.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-022-001-002-5",
+        "idx_in_page": 5,
+        "text": "(3) 근저당권 말소",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 450.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-022-001-002-6",
+        "idx_in_page": 6,
+        "text": "- 채권최고액 300,000,000원의 근저당권을 완전히 말소",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 510.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-022-001-002-7",
+        "idx_in_page": 7,
+        "text": "- 말소 완료 후 등기부등본을 본인에게 송부",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 570.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.98
       }
     ]
   },

@@ -15,98 +15,548 @@
   ],
   "chunk_number": 3,
   "paragraph_texts": [
-    "[5페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[6페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[7페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일"
+    "필압 변화 패턴:",
+    "- 대조 자료: 획 시작 시 강한 필압(220 gf) → 중간 유지(180 gf) → 끝부분 약화(140 gf)",
+    "- 감정 대상: 전체적으로 균일한 필압 유지(120-150 gf), 자연스러운 강약 변화 부재",
+    "7. 필순 분석 결과",
+    "감정 대상 서명의 필순이 대조 자료와 다른 점:",
+    "① '수' 자 분석",
+    "- 대조 자료: 'ㅅ' 획을 먼저 쓴 후 'ㅜ' 아래 점 두 개를 좌→우 순서로 작성",
+    "- 감정 대상: 'ㅜ' 부분을 먼저 쓴 후 'ㅅ' 획 작성 (필순 역전)",
+    "② 전체 서명의 작성 속도 추정",
+    "- 대조 자료: 잉크 번짐과 획 연결 상태로 볼 때 신속하게 작성 (습관적 서명)",
+    "- 감정 대상: 획이 또렷하고 끊김이 많아 천천히 조심스럽게 작성 (모방 필적 특징)",
+    "8. 각도 측정 결과",
+    "디지털 각도 측정기를 이용한 분석:",
+    "글자 기울기 (수직선 대비):",
+    "- 대조 자료: 우측으로 평균 8-12도 기울어짐 (일관된 경향)",
+    "- 감정 대상: 거의 수직 (0-3도), 일부 글자만 우측 기울기",
+    "획 간 각도:",
+    "- 대조 자료 '김' 자: 'ㄱ'과 'ㅣ' 획이 이루는 각도 약 85도",
+    "- 감정 대상 '김' 자: 'ㄱ'과 'ㅣ' 획이 이루는 각도 약 92도 (명확한 차이)",
+    "9. 디지털 이미지 분석",
+    "600dpi 고해상도 스캔 후 픽셀 단위 비교:",
+    "잉크 농도 분석:",
+    "- 대조 자료: RGB 값 평균 (18, 22, 25) - 진한 흑색",
+    "- 감정 대상: RGB 값 평균 (35, 40, 42) - 상대적으로 옅은 흑색 (필기구 상이)",
+    "획 두께 분석:",
+    "- 대조 자료: 평균 0.8mm, 필압에 따라 0.6-1.2mm 변화",
+    "- 감정 대상: 평균 0.6mm, 거의 일정 (0.5-0.7mm)",
+    "에지 분석 (획의 가장자리):",
+    "- 대조 자료: 자연스러운 번짐으로 경계가 부드러움",
+    "- 감정 대상: 경계가 또렷하고 인위적으로 날카로움",
+    "10. '수' 자의 세부 분석",
+    "(3) '수' 자의 필적 특징 분석",
+    "- 대조 자료: 'ㅅ' 획의 좌우 높이 차이가 뚜렷 (우측이 약 3mm 높음)",
+    "- 감정 대상: 'ㅅ' 획이 거의 수평에 가까움 (높이 차이 1mm 미만)",
+    "- 대조 자료: 'ㅜ' 아래 점의 간격이 좁음 (약 2mm)",
+    "- 감정 대상: 'ㅜ' 아래 점의 간격이 넓음 (약 4mm)"
   ],
   "chunk_content": {
     "paragraphs": [
       {
-        "paragraph_id": "para-050-003-000-0",
-        "idx_in_page": 0,
-        "text": "[5페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "paragraph_id": "para-050-003-000-10",
+        "idx_in_page": 10,
+        "text": "필압 변화 패턴:",
         "page": 5,
         "bbox": {
-          "x": 213.44,
-          "y": 106.73,
-          "width": 1232.55,
-          "height": 50
+          "x": 180,
+          "y": 600,
+          "width": 240,
+          "height": 28
         },
         "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-003-000-11",
+        "idx_in_page": 11,
+        "text": "- 대조 자료: 획 시작 시 강한 필압(220 gf) → 중간 유지(180 gf) → 끝부분 약화(140 gf)",
+        "page": 5,
+        "bbox": {
+          "x": 220,
+          "y": 638,
+          "width": 1140,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-050-003-000-12",
+        "idx_in_page": 12,
+        "text": "- 감정 대상: 전체적으로 균일한 필압 유지(120-150 gf), 자연스러운 강약 변화 부재",
+        "page": 5,
+        "bbox": {
+          "x": 220,
+          "y": 676,
+          "width": 1080,
+          "height": 28
+        },
+        "type": "list",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-050-003-000-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "paragraph_id": "para-050-003-000-13",
+        "idx_in_page": 13,
+        "text": "7. 필순 분석 결과",
         "page": 5,
         "bbox": {
-          "x": 219.24,
-          "y": 1194.08,
-          "width": 1269.51,
-          "height": 50
+          "x": 180,
+          "y": 740,
+          "width": 300,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-050-003-000-14",
+        "idx_in_page": 14,
+        "text": "감정 대상 서명의 필순이 대조 자료와 다른 점:",
+        "page": 5,
+        "bbox": {
+          "x": 180,
+          "y": 782,
+          "width": 660,
+          "height": 28
         },
         "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-003-000-15",
+        "idx_in_page": 15,
+        "text": "① '수' 자 분석",
+        "page": 5,
+        "bbox": {
+          "x": 220,
+          "y": 820,
+          "width": 240,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-003-000-16",
+        "idx_in_page": 16,
+        "text": "- 대조 자료: 'ㅅ' 획을 먼저 쓴 후 'ㅜ' 아래 점 두 개를 좌→우 순서로 작성",
+        "page": 5,
+        "bbox": {
+          "x": 260,
+          "y": 858,
+          "width": 1040,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-003-000-17",
+        "idx_in_page": 17,
+        "text": "- 감정 대상: 'ㅜ' 부분을 먼저 쓴 후 'ㅅ' 획 작성 (필순 역전)",
+        "page": 5,
+        "bbox": {
+          "x": 260,
+          "y": 896,
+          "width": 900,
+          "height": 28
+        },
+        "type": "list",
         "confidence_score": 0.94
       },
       {
-        "paragraph_id": "para-050-003-001-0",
+        "paragraph_id": "para-050-004-000-0",
         "idx_in_page": 0,
-        "text": "[6페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "text": "② 전체 서명의 작성 속도 추정",
         "page": 6,
         "bbox": {
-          "x": 194.96,
-          "y": 105.78,
-          "width": 1268.85,
-          "height": 50
+          "x": 220,
+          "y": 180,
+          "width": 480,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-004-000-1",
+        "idx_in_page": 1,
+        "text": "- 대조 자료: 잉크 번짐과 획 연결 상태로 볼 때 신속하게 작성 (습관적 서명)",
+        "page": 6,
+        "bbox": {
+          "x": 260,
+          "y": 218,
+          "width": 1080,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-004-000-2",
+        "idx_in_page": 2,
+        "text": "- 감정 대상: 획이 또렷하고 끊김이 많아 천천히 조심스럽게 작성 (모방 필적 특징)",
+        "page": 6,
+        "bbox": {
+          "x": 260,
+          "y": 256,
+          "width": 1140,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-050-004-000-3",
+        "idx_in_page": 3,
+        "text": "8. 각도 측정 결과",
+        "page": 6,
+        "bbox": {
+          "x": 180,
+          "y": 320,
+          "width": 300,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-050-004-000-4",
+        "idx_in_page": 4,
+        "text": "디지털 각도 측정기를 이용한 분석:",
+        "page": 6,
+        "bbox": {
+          "x": 180,
+          "y": 362,
+          "width": 560,
+          "height": 28
         },
         "type": "body",
         "confidence_score": 0.97
       },
       {
-        "paragraph_id": "para-050-003-001-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "paragraph_id": "para-050-004-000-5",
+        "idx_in_page": 5,
+        "text": "글자 기울기 (수직선 대비):",
         "page": 6,
         "bbox": {
-          "x": 188.0,
-          "y": 1195.2,
-          "width": 1280.05,
-          "height": 50
+          "x": 180,
+          "y": 400,
+          "width": 400,
+          "height": 28
         },
         "type": "body",
-        "confidence_score": 0.94
+        "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-050-003-002-0",
-        "idx_in_page": 0,
-        "text": "[7페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-        "page": 7,
+        "paragraph_id": "para-050-004-000-6",
+        "idx_in_page": 6,
+        "text": "- 대조 자료: 우측으로 평균 8-12도 기울어짐 (일관된 경향)",
+        "page": 6,
         "bbox": {
-          "x": 185.74,
-          "y": 106.79,
-          "width": 1249.77,
-          "height": 50
+          "x": 220,
+          "y": 438,
+          "width": 880,
+          "height": 28
         },
-        "type": "body",
-        "confidence_score": 0.94
+        "type": "list",
+        "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-050-003-002-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
-        "page": 7,
+        "paragraph_id": "para-050-004-000-7",
+        "idx_in_page": 7,
+        "text": "- 감정 대상: 거의 수직 (0-3도), 일부 글자만 우측 기울기",
+        "page": 6,
         "bbox": {
-          "x": 216.38,
-          "y": 1197.73,
-          "width": 1233.35,
-          "height": 50
+          "x": 220,
+          "y": 476,
+          "width": 840,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-004-000-8",
+        "idx_in_page": 8,
+        "text": "획 간 각도:",
+        "page": 6,
+        "bbox": {
+          "x": 180,
+          "y": 520,
+          "width": 200,
+          "height": 28
         },
         "type": "body",
         "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-004-000-9",
+        "idx_in_page": 9,
+        "text": "- 대조 자료 '김' 자: 'ㄱ'과 'ㅣ' 획이 이루는 각도 약 85도",
+        "page": 6,
+        "bbox": {
+          "x": 220,
+          "y": 558,
+          "width": 880,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-050-004-000-10",
+        "idx_in_page": 10,
+        "text": "- 감정 대상 '김' 자: 'ㄱ'과 'ㅣ' 획이 이루는 각도 약 92도 (명확한 차이)",
+        "page": 6,
+        "bbox": {
+          "x": 220,
+          "y": 596,
+          "width": 1020,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-004-000-11",
+        "idx_in_page": 11,
+        "text": "9. 디지털 이미지 분석",
+        "page": 6,
+        "bbox": {
+          "x": 180,
+          "y": 660,
+          "width": 360,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-050-004-000-12",
+        "idx_in_page": 12,
+        "text": "600dpi 고해상도 스캔 후 픽셀 단위 비교:",
+        "page": 6,
+        "bbox": {
+          "x": 180,
+          "y": 702,
+          "width": 620,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-005-000-0",
+        "idx_in_page": 0,
+        "text": "잉크 농도 분석:",
+        "page": 7,
+        "bbox": {
+          "x": 180,
+          "y": 180,
+          "width": 260,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-005-000-1",
+        "idx_in_page": 1,
+        "text": "- 대조 자료: RGB 값 평균 (18, 22, 25) - 진한 흑색",
+        "page": 7,
+        "bbox": {
+          "x": 220,
+          "y": 218,
+          "width": 800,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-005-000-2",
+        "idx_in_page": 2,
+        "text": "- 감정 대상: RGB 값 평균 (35, 40, 42) - 상대적으로 옅은 흑색 (필기구 상이)",
+        "page": 7,
+        "bbox": {
+          "x": 220,
+          "y": 256,
+          "width": 1060,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-005-000-3",
+        "idx_in_page": 3,
+        "text": "획 두께 분석:",
+        "page": 7,
+        "bbox": {
+          "x": 180,
+          "y": 300,
+          "width": 220,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-005-000-4",
+        "idx_in_page": 4,
+        "text": "- 대조 자료: 평균 0.8mm, 필압에 따라 0.6-1.2mm 변화",
+        "page": 7,
+        "bbox": {
+          "x": 220,
+          "y": 338,
+          "width": 840,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-005-000-5",
+        "idx_in_page": 5,
+        "text": "- 감정 대상: 평균 0.6mm, 거의 일정 (0.5-0.7mm)",
+        "page": 7,
+        "bbox": {
+          "x": 220,
+          "y": 376,
+          "width": 740,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-005-000-6",
+        "idx_in_page": 6,
+        "text": "에지 분석 (획의 가장자리):",
+        "page": 7,
+        "bbox": {
+          "x": 180,
+          "y": 420,
+          "width": 420,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-005-000-7",
+        "idx_in_page": 7,
+        "text": "- 대조 자료: 자연스러운 번짐으로 경계가 부드러움",
+        "page": 7,
+        "bbox": {
+          "x": 220,
+          "y": 458,
+          "width": 780,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-050-005-000-8",
+        "idx_in_page": 8,
+        "text": "- 감정 대상: 경계가 또렷하고 인위적으로 날카로움",
+        "page": 7,
+        "bbox": {
+          "x": 220,
+          "y": 496,
+          "width": 760,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-005-000-9",
+        "idx_in_page": 9,
+        "text": "10. '수' 자의 세부 분석",
+        "page": 7,
+        "bbox": {
+          "x": 180,
+          "y": 560,
+          "width": 400,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-050-005-000-10",
+        "idx_in_page": 10,
+        "text": "(3) '수' 자의 필적 특징 분석",
+        "page": 7,
+        "bbox": {
+          "x": 180,
+          "y": 602,
+          "width": 480,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-005-000-11",
+        "idx_in_page": 11,
+        "text": "- 대조 자료: 'ㅅ' 획의 좌우 높이 차이가 뚜렷 (우측이 약 3mm 높음)",
+        "page": 7,
+        "bbox": {
+          "x": 220,
+          "y": 644,
+          "width": 1020,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-005-000-12",
+        "idx_in_page": 12,
+        "text": "- 감정 대상: 'ㅅ' 획이 거의 수평에 가까움 (높이 차이 1mm 미만)",
+        "page": 7,
+        "bbox": {
+          "x": 220,
+          "y": 682,
+          "width": 980,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-005-000-13",
+        "idx_in_page": 13,
+        "text": "- 대조 자료: 'ㅜ' 아래 점의 간격이 좁음 (약 2mm)",
+        "page": 7,
+        "bbox": {
+          "x": 220,
+          "y": 720,
+          "width": 740,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-005-000-14",
+        "idx_in_page": 14,
+        "text": "- 감정 대상: 'ㅜ' 아래 점의 간격이 넓음 (약 4mm)",
+        "page": 7,
+        "bbox": {
+          "x": 220,
+          "y": 758,
+          "width": 740,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
       }
     ]
   },

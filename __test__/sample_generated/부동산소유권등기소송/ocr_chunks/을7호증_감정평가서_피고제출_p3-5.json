@@ -15,98 +15,398 @@
   ],
   "chunk_number": 2,
   "paragraph_texts": [
-    "[3페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[4페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[5페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일"
+    "제2장 대상물건의 확인",
+    "1. 권리관계",
+    "   - 소유권: 피고 이영희 단독소유",
+    "   - 등기일자: 2024년 3월 18일",
+    "   - 부담사항: 없음",
+    "2. 물리적 현황",
+    "   - 건축년도: 2022년 6월 준공",
+    "   - 건물구조: 철근콘크리트조",
+    "   - 층수: 지상 45층 중 35층",
+    "   - 방향: 남향",
+    "3. 입지여건",
+    "   - 교통: 지하철 2호선 삼성역 도보 5분",
+    "   - 주변환경: 업무지구 중심, COEX 인접",
+    "   - 생활편의시설: 대형마트, 백화점 도보권",
+    "4. 시장동향",
+    "   - 최근 3개월 거래동향: 활발",
+    "   - 가격추이: 상승세 (전년대비 +8.2%)",
+    "   - 시장수급: 공급부족, 수요우위",
+    "제3장 가격조사 및 분석",
+    "1. 인근지역 거래사례 조사",
+    "   [거래사례 1]",
+    "   - 동일건물 450동 750호 (84.95㎡)",
+    "   - 거래일: 2024년 7월 15일",
+    "   - 거래가격: 금 555,000,000원",
+    "   - 층수: 32층",
+    "   - 방향: 동남향"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-039-002-000-0",
         "idx_in_page": 0,
-        "text": "[3페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "text": "제2장 대상물건의 확인",
         "page": 3,
         "bbox": {
-          "x": 188.85,
-          "y": 107.77,
-          "width": 1325.46,
+          "x": 198.14,
+          "y": 108.82,
+          "width": 1301.55,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-039-002-000-1",
+        "idx_in_page": 1,
+        "text": "1. 권리관계",
+        "page": 3,
+        "bbox": {
+          "x": 183.37,
+          "y": 1192.05,
+          "width": 1295.69,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-039-002-000-2",
+        "idx_in_page": 2,
+        "text": "   - 소유권: 피고 이영희 단독소유",
+        "page": 3,
+        "bbox": {
+          "x": 210.56,
+          "y": 99.54,
+          "width": 1240.89,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-039-002-000-3",
+        "idx_in_page": 3,
+        "text": "   - 등기일자: 2024년 3월 18일",
+        "page": 3,
+        "bbox": {
+          "x": 208.33,
+          "y": 1170.06,
+          "width": 1250.34,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-039-002-000-4",
+        "idx_in_page": 4,
+        "text": "   - 부담사항: 없음",
+        "page": 3,
+        "bbox": {
+          "x": 203.42,
+          "y": 91.28,
+          "width": 1233.25,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-039-002-000-5",
+        "idx_in_page": 5,
+        "text": "2. 물리적 현황",
+        "page": 3,
+        "bbox": {
+          "x": 186.43,
+          "y": 1186.6,
+          "width": 1319.93,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-039-002-000-6",
+        "idx_in_page": 6,
+        "text": "   - 건축년도: 2022년 6월 준공",
+        "page": 3,
+        "bbox": {
+          "x": 217.08,
+          "y": 94.3,
+          "width": 1264.53,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-039-002-000-7",
+        "idx_in_page": 7,
+        "text": "   - 건물구조: 철근콘크리트조",
+        "page": 3,
+        "bbox": {
+          "x": 204.3,
+          "y": 1175.46,
+          "width": 1325.83,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-039-002-000-8",
+        "idx_in_page": 8,
+        "text": "   - 층수: 지상 45층 중 35층",
+        "page": 3,
+        "bbox": {
+          "x": 216.4,
+          "y": 114.31,
+          "width": 1294.11,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-039-002-000-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "paragraph_id": "para-039-002-000-9",
+        "idx_in_page": 9,
+        "text": "   - 방향: 남향",
         "page": 3,
         "bbox": {
-          "x": 198.49,
-          "y": 1181.5,
-          "width": 1291.0,
+          "x": 195.35,
+          "y": 1181.8,
+          "width": 1242.82,
           "height": 50
         },
         "type": "body",
-        "confidence_score": 0.94
+        "confidence_score": 0.91
       },
       {
         "paragraph_id": "para-039-002-001-0",
         "idx_in_page": 0,
-        "text": "[4페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "text": "3. 입지여건",
         "page": 4,
         "bbox": {
-          "x": 193.71,
-          "y": 98.27,
-          "width": 1258.28,
+          "x": 218.29,
+          "y": 100.2,
+          "width": 1268.63,
           "height": 50
         },
         "type": "body",
-        "confidence_score": 0.94
+        "confidence_score": 0.91
       },
       {
         "paragraph_id": "para-039-002-001-1",
         "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "text": "   - 교통: 지하철 2호선 삼성역 도보 5분",
         "page": 4,
         "bbox": {
-          "x": 183.1,
-          "y": 1195.9,
-          "width": 1255.28,
+          "x": 197.96,
+          "y": 1172.78,
+          "width": 1309.98,
           "height": 50
         },
         "type": "body",
-        "confidence_score": 0.94
+        "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-039-002-002-0",
-        "idx_in_page": 0,
-        "text": "[5페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-        "page": 5,
+        "paragraph_id": "para-039-002-001-2",
+        "idx_in_page": 2,
+        "text": "   - 주변환경: 업무지구 중심, COEX 인접",
+        "page": 4,
         "bbox": {
-          "x": 207.98,
-          "y": 97.95,
-          "width": 1270.32,
+          "x": 191.71,
+          "y": 104.81,
+          "width": 1238.97,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-039-002-001-3",
+        "idx_in_page": 3,
+        "text": "   - 생활편의시설: 대형마트, 백화점 도보권",
+        "page": 4,
+        "bbox": {
+          "x": 213.72,
+          "y": 1195.12,
+          "width": 1320.06,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-039-002-001-4",
+        "idx_in_page": 4,
+        "text": "4. 시장동향",
+        "page": 4,
+        "bbox": {
+          "x": 200.42,
+          "y": 97.29,
+          "width": 1250.71,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-039-002-001-5",
+        "idx_in_page": 5,
+        "text": "   - 최근 3개월 거래동향: 활발",
+        "page": 4,
+        "bbox": {
+          "x": 210.31,
+          "y": 1173.5,
+          "width": 1284.97,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-039-002-001-6",
+        "idx_in_page": 6,
+        "text": "   - 가격추이: 상승세 (전년대비 +8.2%)",
+        "page": 4,
+        "bbox": {
+          "x": 217.17,
+          "y": 102.05,
+          "width": 1278.23,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-039-002-001-7",
+        "idx_in_page": 7,
+        "text": "   - 시장수급: 공급부족, 수요우위",
+        "page": 4,
+        "bbox": {
+          "x": 187.37,
+          "y": 1187.3,
+          "width": 1239.2,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.97
       },
       {
-        "paragraph_id": "para-039-002-002-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "paragraph_id": "para-039-002-002-0",
+        "idx_in_page": 0,
+        "text": "제3장 가격조사 및 분석",
         "page": 5,
         "bbox": {
-          "x": 201.33,
-          "y": 1186.82,
-          "width": 1232.12,
+          "x": 209.53,
+          "y": 116.43,
+          "width": 1239.45,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-039-002-002-1",
+        "idx_in_page": 1,
+        "text": "1. 인근지역 거래사례 조사",
+        "page": 5,
+        "bbox": {
+          "x": 215.94,
+          "y": 1195.61,
+          "width": 1288.74,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-039-002-002-2",
+        "idx_in_page": 2,
+        "text": "   [거래사례 1]",
+        "page": 5,
+        "bbox": {
+          "x": 193.96,
+          "y": 94.43,
+          "width": 1243.86,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-039-002-002-3",
+        "idx_in_page": 3,
+        "text": "   - 동일건물 450동 750호 (84.95㎡)",
+        "page": 5,
+        "bbox": {
+          "x": 194.72,
+          "y": 1197.89,
+          "width": 1245.94,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-039-002-002-4",
+        "idx_in_page": 4,
+        "text": "   - 거래일: 2024년 7월 15일",
+        "page": 5,
+        "bbox": {
+          "x": 194.96,
+          "y": 117.09,
+          "width": 1244.79,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-039-002-002-5",
+        "idx_in_page": 5,
+        "text": "   - 거래가격: 금 555,000,000원",
+        "page": 5,
+        "bbox": {
+          "x": 183.75,
+          "y": 1189.02,
+          "width": 1299.46,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-039-002-002-6",
+        "idx_in_page": 6,
+        "text": "   - 층수: 32층",
+        "page": 5,
+        "bbox": {
+          "x": 199.42,
+          "y": 101.15,
+          "width": 1305.01,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-039-002-002-7",
+        "idx_in_page": 7,
+        "text": "   - 방향: 동남향",
+        "page": 5,
+        "bbox": {
+          "x": 189.04,
+          "y": 1196.48,
+          "width": 1235.71,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
       }
     ]
   },
@@ -127,5 +427,5 @@
       "height": 2379
     }
   ],
-  "created_at": "2024-08-03T00:00:00+00:00"
+  "created_at": "2024-08-02T00:00:00+00:00"
 }

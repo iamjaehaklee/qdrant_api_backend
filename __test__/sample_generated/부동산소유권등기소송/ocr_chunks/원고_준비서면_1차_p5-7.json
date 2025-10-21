@@ -15,95 +15,335 @@
   ],
   "chunk_number": 3,
   "paragraph_texts": [
-    "[5페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
-    "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
-    "[6페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
-    "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
-    "[7페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
-    "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다."
+    "5. 결론",
+    "상기 내용을 종합하면, 원고는 매매계약에 따른 모든 의무를 성실히 이행하였으며, 피고의 계약해제는 법적 근거가 없는 부당한 행위입니다.",
+    "따라서 원고는 피고를 상대로 이 사건 부동산에 관한 소유권이전등기 절차 이행을 청구하는 바이며, 귀원께서는 원고의 청구를 인용하여 주시기 바랍니다.",
+    "입 증 방 법",
+    "갑 제1호증   부동산 매매계약서",
+    "갑 제2호증   보충계약서",
+    "갑 제3호증   등기부등본",
+    "갑 제4호증   건축물대장",
+    "갑 제5호증   부동산 감정평가서",
+    "갑 제6호증   계약금 계좌거래내역 (2024. 3. 15.)",
+    "갑 제7호증   중도금 1차 계좌거래내역 (2024. 4. 15.)",
+    "갑 제8호증   중도금 2차 계좌거래내역 (2024. 5. 15.)",
+    "갑 제9호증   잔금 계좌거래내역 (2024. 6. 15.)",
+    "갑 제10호증  내용증명 (1차 이행촉구)",
+    "갑 제11호증  내용증명 (2차 최고)",
+    "첨 부 서 류",
+    "1. 위 입증방법  각 1통",
+    "2024. 8. 2.",
+    "원고 소송대리인",
+    "법무법인 정의",
+    "담당변호사 박정의 (인)",
+    "서울중앙지방법원 민사합의21부 귀중"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-003-003-000-0",
         "idx_in_page": 0,
-        "text": "[5페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
+        "text": "5. 결론",
         "page": 5,
         "bbox": {
           "x": 192.7,
-          "y": 97.3,
-          "width": 1233.96,
-          "height": 50
+          "y": 507.3,
+          "width": 153.96,
+          "height": 38
         },
-        "type": "body",
-        "confidence_score": 0.93
+        "type": "heading",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-003-003-000-1",
         "idx_in_page": 1,
-        "text": "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
+        "text": "상기 내용을 종합하면, 원고는 매매계약에 따른 모든 의무를 성실히 이행하였으며, 피고의 계약해제는 법적 근거가 없는 부당한 행위입니다.",
         "page": 5,
         "bbox": {
-          "x": 204.58,
-          "y": 1198.65,
+          "x": 213.58,
+          "y": 577.65,
           "width": 1274.15,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.97
-      },
-      {
-        "paragraph_id": "para-003-003-001-0",
-        "idx_in_page": 0,
-        "text": "[6페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
-        "page": 6,
-        "bbox": {
-          "x": 187.85,
-          "y": 109.79,
-          "width": 1301.93,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.96
-      },
-      {
-        "paragraph_id": "para-003-003-001-1",
-        "idx_in_page": 1,
-        "text": "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
-        "page": 6,
-        "bbox": {
-          "x": 202.82,
-          "y": 1192.5,
-          "width": 1234.78,
-          "height": 50
+          "height": 48
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-003-003-002-0",
-        "idx_in_page": 0,
-        "text": "[7페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
-        "page": 7,
+        "paragraph_id": "para-003-003-000-2",
+        "idx_in_page": 2,
+        "text": "따라서 원고는 피고를 상대로 이 사건 부동산에 관한 소유권이전등기 절차 이행을 청구하는 바이며, 귀원께서는 원고의 청구를 인용하여 주시기 바랍니다.",
+        "page": 5,
         "bbox": {
-          "x": 208.25,
-          "y": 105.07,
-          "width": 1256.37,
-          "height": 50
+          "x": 213.58,
+          "y": 647.65,
+          "width": 1274.15,
+          "height": 60
         },
         "type": "body",
-        "confidence_score": 0.92
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-003-003-001-0",
+        "idx_in_page": 0,
+        "text": "입 증 방 법",
+        "page": 6,
+        "bbox": {
+          "x": 687.85,
+          "y": 209.79,
+          "width": 306.93,
+          "height": 42
+        },
+        "type": "title",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-003-003-001-1",
+        "idx_in_page": 1,
+        "text": "갑 제1호증   부동산 매매계약서",
+        "page": 6,
+        "bbox": {
+          "x": 212.82,
+          "y": 302.5,
+          "width": 634.78,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-003-003-001-2",
+        "idx_in_page": 2,
+        "text": "갑 제2호증   보충계약서",
+        "page": 6,
+        "bbox": {
+          "x": 212.82,
+          "y": 352.5,
+          "width": 534.78,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-003-003-001-3",
+        "idx_in_page": 3,
+        "text": "갑 제3호증   등기부등본",
+        "page": 6,
+        "bbox": {
+          "x": 212.82,
+          "y": 402.5,
+          "width": 484.78,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-003-003-001-4",
+        "idx_in_page": 4,
+        "text": "갑 제4호증   건축물대장",
+        "page": 6,
+        "bbox": {
+          "x": 212.82,
+          "y": 452.5,
+          "width": 484.78,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-003-003-001-5",
+        "idx_in_page": 5,
+        "text": "갑 제5호증   부동산 감정평가서",
+        "page": 6,
+        "bbox": {
+          "x": 212.82,
+          "y": 502.5,
+          "width": 584.78,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-003-003-001-6",
+        "idx_in_page": 6,
+        "text": "갑 제6호증   계약금 계좌거래내역 (2024. 3. 15.)",
+        "page": 6,
+        "bbox": {
+          "x": 212.82,
+          "y": 552.5,
+          "width": 784.78,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-003-003-001-7",
+        "idx_in_page": 7,
+        "text": "갑 제7호증   중도금 1차 계좌거래내역 (2024. 4. 15.)",
+        "page": 6,
+        "bbox": {
+          "x": 212.82,
+          "y": 602.5,
+          "width": 834.78,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-003-003-001-8",
+        "idx_in_page": 8,
+        "text": "갑 제8호증   중도금 2차 계좌거래내역 (2024. 5. 15.)",
+        "page": 6,
+        "bbox": {
+          "x": 212.82,
+          "y": 652.5,
+          "width": 834.78,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-003-003-001-9",
+        "idx_in_page": 9,
+        "text": "갑 제9호증   잔금 계좌거래내역 (2024. 6. 15.)",
+        "page": 6,
+        "bbox": {
+          "x": 212.82,
+          "y": 702.5,
+          "width": 784.78,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-003-003-001-10",
+        "idx_in_page": 10,
+        "text": "갑 제10호증  내용증명 (1차 이행촉구)",
+        "page": 6,
+        "bbox": {
+          "x": 212.82,
+          "y": 752.5,
+          "width": 684.78,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-003-003-001-11",
+        "idx_in_page": 11,
+        "text": "갑 제11호증  내용증명 (2차 최고)",
+        "page": 6,
+        "bbox": {
+          "x": 212.82,
+          "y": 802.5,
+          "width": 634.78,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-003-003-002-0",
+        "idx_in_page": 0,
+        "text": "첨 부 서 류",
+        "page": 7,
+        "bbox": {
+          "x": 688.25,
+          "y": 205.07,
+          "width": 304.37,
+          "height": 42
+        },
+        "type": "title",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-003-003-002-1",
         "idx_in_page": 1,
-        "text": "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
+        "text": "1. 위 입증방법  각 1통",
+        "page": 7,
+        "bbox": {
+          "x": 213.79,
+          "y": 297.07,
+          "width": 480.82,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-003-003-002-2",
+        "idx_in_page": 2,
+        "text": "2024. 8. 2.",
+        "page": 7,
+        "bbox": {
+          "x": 1313.79,
+          "y": 447.07,
+          "width": 205.82,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-003-003-002-3",
+        "idx_in_page": 3,
+        "text": "원고 소송대리인",
+        "page": 7,
+        "bbox": {
+          "x": 1223.79,
+          "y": 497.07,
+          "width": 295.82,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-003-003-002-4",
+        "idx_in_page": 4,
+        "text": "법무법인 정의",
+        "page": 7,
+        "bbox": {
+          "x": 1273.79,
+          "y": 547.07,
+          "width": 245.82,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-003-003-002-5",
+        "idx_in_page": 5,
+        "text": "담당변호사 박정의 (인)",
+        "page": 7,
+        "bbox": {
+          "x": 1223.79,
+          "y": 597.07,
+          "width": 295.82,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-003-003-002-6",
+        "idx_in_page": 6,
+        "text": "서울중앙지방법원 민사합의21부 귀중",
         "page": 7,
         "bbox": {
           "x": 188.79,
-          "y": 1192.07,
-          "width": 1280.82,
-          "height": 50
+          "y": 697.07,
+          "width": 580.82,
+          "height": 35
         },
         "type": "body",
         "confidence_score": 0.95

@@ -24,9 +24,9 @@ SAMPLE_DATA_DIR = Path(__file__).parent.parent.parent / "sample_generated" / "�
 async def client():
     """
     Async HTTP client for testing FastAPI endpoints
-    Server must be running on localhost:8000
+    Server must be running on localhost:6030
     """
-    async with AsyncClient(base_url="http://localhost:8000") as ac:
+    async with AsyncClient(base_url="http://localhost:6030") as ac:
         yield ac
 
 
@@ -102,7 +102,9 @@ def create_test_summary(
     summary_id: str = None,
     project_id: int = 1001,
     file_id: int = 21,
-    summary_text: str = "테스트 요약 텍스트입니다."
+    summary_text: str = "테스트 요약 텍스트입니다.",
+    correlation_id: str = "test-correlation-id",
+    request_timestamp: str = "2025-01-20T00:00:00Z"
 ) -> Dict:
     """
     Create a test summary payload
@@ -112,6 +114,8 @@ def create_test_summary(
         project_id: Project ID
         file_id: File ID
         summary_text: Summary text content
+        correlation_id: Distributed tracing correlation ID
+        request_timestamp: Initial request timestamp (ISO 8601)
 
     Returns:
         Summary creation payload
@@ -119,7 +123,9 @@ def create_test_summary(
     payload = {
         "project_id": project_id,
         "file_id": file_id,
-        "summary_text": summary_text
+        "summary_text": summary_text,
+        "correlation_id": correlation_id,
+        "request_timestamp": request_timestamp
     }
 
     if summary_id:

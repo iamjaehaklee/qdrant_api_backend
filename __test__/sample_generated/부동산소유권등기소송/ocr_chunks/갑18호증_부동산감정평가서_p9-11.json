@@ -1,5 +1,5 @@
 {
-  "chunk_id": "2ecb8182-d9da-40df-ac90-4f9ae56cf93c",
+  "chunk_id": "ded70426-dc5e-4580-b683-839216521247",
   "file_id": 29,
   "project_id": 1001,
   "storage_file_name": "exhibit_a18_appraisal.pdf",
@@ -15,53 +15,105 @@
   ],
   "chunk_number": 5,
   "paragraph_texts": [
-    "[9페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[10페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[11페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일"
+    "V. 원가법 적용",
+    "1. 재조달원가",
+    "- 건물 신축단가: ㎡당 3,200,000원",
+    "- 대지지분 가액: 180,000,000원",
+    "- 재조달원가 합계: 450,400,000원",
+    "2. 감가수정",
+    "- 경과연수: 9년 (2015년 준공)",
+    "- 내용연수: 60년 (철근콘크리트조)",
+    "- 물리적 감가: 15%",
+    "- 기능적·경제적 감가: 2%",
+    "원가법 평가액: 525,000,000원",
+    "VI. 수익환원법 검토",
+    "1. 임대료 조사",
+    "- 인근 유사물건 임대료: 월 2,800,000원 ~ 3,200,000원",
+    "- 평균 임대료: 월 3,000,000원",
+    "- 연간 총수익: 36,000,000원"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-029-005-000-0",
         "idx_in_page": 0,
-        "text": "[9페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "text": "V. 원가법 적용",
         "page": 9,
         "bbox": {
-          "x": 209.45,
-          "y": 90.88,
-          "width": 1302.8,
-          "height": 50
+          "x": 180,
+          "y": 90,
+          "width": 1200,
+          "height": 60
         },
-        "type": "body",
-        "confidence_score": 0.91
+        "type": "heading",
+        "confidence_score": 0.93
       },
       {
         "paragraph_id": "para-029-005-000-1",
         "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "text": "1. 재조달원가",
         "page": 9,
         "bbox": {
-          "x": 191.31,
-          "y": 1197.09,
-          "width": 1322.74,
-          "height": 50
+          "x": 185,
+          "y": 195,
+          "width": 1210,
+          "height": 40
         },
         "type": "body",
-        "confidence_score": 0.93
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-029-005-000-2",
+        "idx_in_page": 2,
+        "text": "- 건물 신축단가: ㎡당 3,200,000원",
+        "page": 9,
+        "bbox": {
+          "x": 190,
+          "y": 240,
+          "width": 1220,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-029-005-000-3",
+        "idx_in_page": 3,
+        "text": "- 대지지분 가액: 180,000,000원",
+        "page": 9,
+        "bbox": {
+          "x": 195,
+          "y": 285,
+          "width": 1230,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-029-005-000-4",
+        "idx_in_page": 4,
+        "text": "- 재조달원가 합계: 450,400,000원",
+        "page": 9,
+        "bbox": {
+          "x": 200,
+          "y": 330,
+          "width": 1240,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.97
       },
       {
         "paragraph_id": "para-029-005-001-0",
         "idx_in_page": 0,
-        "text": "[10페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "text": "2. 감가수정",
         "page": 10,
         "bbox": {
-          "x": 183.21,
-          "y": 106.39,
-          "width": 1330.59,
-          "height": 50
+          "x": 180,
+          "y": 150,
+          "width": 1200,
+          "height": 40
         },
         "type": "body",
         "confidence_score": 0.93
@@ -69,44 +121,142 @@
       {
         "paragraph_id": "para-029-005-001-1",
         "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "text": "- 경과연수: 9년 (2015년 준공)",
         "page": 10,
         "bbox": {
-          "x": 181.3,
-          "y": 1191.49,
-          "width": 1323.06,
-          "height": 50
+          "x": 185,
+          "y": 195,
+          "width": 1210,
+          "height": 40
         },
         "type": "body",
         "confidence_score": 0.94
       },
       {
-        "paragraph_id": "para-029-005-002-0",
-        "idx_in_page": 0,
-        "text": "[11페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-        "page": 11,
+        "paragraph_id": "para-029-005-001-2",
+        "idx_in_page": 2,
+        "text": "- 내용연수: 60년 (철근콘크리트조)",
+        "page": 10,
         "bbox": {
-          "x": 203.87,
-          "y": 94.49,
-          "width": 1311.73,
-          "height": 50
+          "x": 190,
+          "y": 240,
+          "width": 1220,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-029-005-001-3",
+        "idx_in_page": 3,
+        "text": "- 물리적 감가: 15%",
+        "page": 10,
+        "bbox": {
+          "x": 195,
+          "y": 285,
+          "width": 1230,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-029-005-001-4",
+        "idx_in_page": 4,
+        "text": "- 기능적·경제적 감가: 2%",
+        "page": 10,
+        "bbox": {
+          "x": 200,
+          "y": 330,
+          "width": 1240,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-029-005-001-5",
+        "idx_in_page": 5,
+        "text": "원가법 평가액: 525,000,000원",
+        "page": 10,
+        "bbox": {
+          "x": 205,
+          "y": 375,
+          "width": 1250,
+          "height": 40
         },
         "type": "body",
         "confidence_score": 0.93
       },
       {
-        "paragraph_id": "para-029-005-002-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "paragraph_id": "para-029-005-002-0",
+        "idx_in_page": 0,
+        "text": "VI. 수익환원법 검토",
         "page": 11,
         "bbox": {
-          "x": 194.86,
-          "y": 1182.27,
-          "width": 1253.96,
-          "height": 50
+          "x": 180,
+          "y": 90,
+          "width": 1200,
+          "height": 60
+        },
+        "type": "heading",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-029-005-002-1",
+        "idx_in_page": 1,
+        "text": "1. 임대료 조사",
+        "page": 11,
+        "bbox": {
+          "x": 185,
+          "y": 195,
+          "width": 1210,
+          "height": 40
         },
         "type": "body",
         "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-029-005-002-2",
+        "idx_in_page": 2,
+        "text": "- 인근 유사물건 임대료: 월 2,800,000원 ~ 3,200,000원",
+        "page": 11,
+        "bbox": {
+          "x": 190,
+          "y": 240,
+          "width": 1220,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-029-005-002-3",
+        "idx_in_page": 3,
+        "text": "- 평균 임대료: 월 3,000,000원",
+        "page": 11,
+        "bbox": {
+          "x": 195,
+          "y": 285,
+          "width": 1230,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-029-005-002-4",
+        "idx_in_page": 4,
+        "text": "- 연간 총수익: 36,000,000원",
+        "page": 11,
+        "bbox": {
+          "x": 200,
+          "y": 330,
+          "width": 1240,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.97
       }
     ]
   },

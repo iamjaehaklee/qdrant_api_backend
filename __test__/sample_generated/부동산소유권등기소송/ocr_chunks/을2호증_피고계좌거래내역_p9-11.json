@@ -15,98 +15,698 @@
   ],
   "chunk_number": 5,
   "paragraph_texts": [
-    "[9페이지] 계좌거래내역 거래일시: 2024년 8월 15일",
-    "입금액: 300,000,000원",
-    "[10페이지] 계좌거래내역 거래일시: 2024년 8월 15일",
-    "입금액: 300,000,000원",
-    "[11페이지] 계좌거래내역 거래일시: 2024년 8월 15일",
-    "입금액: 300,000,000원"
+    "국민은행 계좌거래내역",
+    "계좌번호: 123-45-678901 (예금주: 이영희)",
+    "조회기간: 2024년 5월 01일 ~ 2024년 5월 30일",
+    "거래일시\t구분\t거래내용\t입금액\t출금액\t잔액",
+    "2024.05.20 14:17\t입금\tATM입금\t107,593원\t\t5,107,593원",
+    "2024.05.01 14:32\t출금\tATM출금\t\t480,966원\t4,626,627원",
+    "2024.05.11 17:59\t입금\t계좌이체\t391,782원\t\t5,018,409원",
+    "2024.05.23 16:46\t출금\t계좌이체\t\t92,395원\t4,926,014원",
+    "2024.05.02 10:08\t입금\tATM입금\t415,908원\t\t5,341,922원",
+    "2024.05.26 10:58\t출금\tATM출금\t\t117,458원\t5,224,464원",
+    "2024.05.24 15:56\t입금\t계좌이체\t415,054원\t\t5,639,518원",
+    "2024.05.07 15:17\t출금\t계좌이체\t\t434,416원\t5,205,102원",
+    "2024.05.23 09:56\t출금\tATM출금\t\t38,725원\t5,166,377원",
+    "2024.05.28 16:08\t입금\t계좌이체\t134,116원\t\t5,300,493원",
+    "2024.05.28 10:38\t입금\tATM입금\t73,560원\t\t5,374,053원",
+    "국민은행 계좌거래내역",
+    "계좌번호: 123-45-678901 (예금주: 이영희)",
+    "조회기간: 2024년 6월 01일 ~ 2024년 6월 30일",
+    "거래일시\t구분\t거래내용\t입금액\t출금액\t잔액",
+    "2024.06.02 15:30\t입금\t계좌이체\t118,054원\t\t5,118,054원",
+    "2024.06.16 13:41\t입금\tATM입금\t28,037원\t\t5,146,091원",
+    "2024.06.11 10:15\t출금\t계좌이체\t\t33,360원\t5,112,731원",
+    "2024.06.05 14:24\t출금\tATM출금\t\t158,697원\t4,954,034원",
+    "2024.06.09 16:11\t출금\t계좌이체\t\t356,998원\t4,597,036원",
+    "2024.06.15 12:28\t출금\tATM출금\t\t33,205원\t4,563,831원",
+    "2024.06.08 11:12\t출금\t계좌이체\t\t291,199원\t4,272,632원",
+    "2024.06.08 14:42\t출금\t계좌이체\t\t238,605원\t4,034,027원",
+    "2024.06.21 14:54\t입금\t계좌이체\t451,542원\t\t4,485,569원",
+    "2024.06.14 12:02\t입금\t계좌이체\t270,363원\t\t4,755,932원",
+    "2024.06.20 10:34\t입금\t계좌이체\t88,479원\t\t4,844,411원",
+    "2024.06.12 11:07\t입금\t계좌이체\t241,499원\t\t5,085,910원",
+    "국민은행 계좌거래내역",
+    "계좌번호: 123-45-678901 (예금주: 이영희)",
+    "조회기간: 2024년 6월 01일 ~ 2024년 6월 30일",
+    "거래일시\t구분\t거래내용\t입금액\t출금액\t잔액",
+    "2024.06.28 17:54\t출금\tATM출금\t\t246,890원\t4,753,110원",
+    "2024.06.19 12:11\t출금\tATM출금\t\t340,239원\t4,412,871원",
+    "2024.06.06 10:28\t출금\t계좌이체\t\t84,341원\t4,328,530원",
+    "2024.06.26 09:38\t출금\tATM출금\t\t247,499원\t4,081,031원",
+    "2024.06.20 11:39\t입금\tATM입금\t446,051원\t\t4,527,082원",
+    "2024.06.15 14:30\t입금\t김철수 (매매대금)\t150,000,000원\t\t154,527,082원",
+    "2024.06.08 09:49\t출금\t계좌이체\t\t181,071원\t154,346,011원",
+    "2024.06.27 12:33\t입금\t계좌이체\t345,697원\t\t154,691,708원",
+    "2024.06.01 10:29\t출금\tATM출금\t\t223,269원\t154,468,439원",
+    "2024.06.27 10:45\t출금\tATM출금\t\t175,296원\t154,293,143원",
+    "2024.06.17 13:01\t입금\tATM입금\t305,248원\t\t154,598,391원"
   ],
   "chunk_content": {
     "paragraphs": [
       {
-        "paragraph_id": "para-034-005-000-0",
+        "paragraph_id": "para-034-005-008-0",
         "idx_in_page": 0,
-        "text": "[9페이지] 계좌거래내역 거래일시: 2024년 8월 15일",
+        "text": "국민은행 계좌거래내역",
         "page": 9,
         "bbox": {
-          "x": 211.28,
-          "y": 94.97,
-          "width": 1240.71,
+          "x": 180.0,
+          "y": 120.0,
+          "width": 1200,
           "height": 50
         },
-        "type": "body",
+        "type": "header",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-034-005-008-1",
+        "idx_in_page": 1,
+        "text": "계좌번호: 123-45-678901 (예금주: 이영희)",
+        "page": 9,
+        "bbox": {
+          "x": 185.0,
+          "y": 180.0,
+          "width": 1190,
+          "height": 50
+        },
+        "type": "header",
         "confidence_score": 0.91
       },
       {
-        "paragraph_id": "para-034-005-000-1",
-        "idx_in_page": 1,
-        "text": "입금액: 300,000,000원",
+        "paragraph_id": "para-034-005-008-2",
+        "idx_in_page": 2,
+        "text": "조회기간: 2024년 5월 01일 ~ 2024년 5월 30일",
         "page": 9,
         "bbox": {
-          "x": 218.45,
-          "y": 1194.24,
-          "width": 1270.29,
+          "x": 190.0,
+          "y": 240.0,
+          "width": 1180,
           "height": 50
+        },
+        "type": "header",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-034-005-008-3",
+        "idx_in_page": 3,
+        "text": "거래일시\t구분\t거래내용\t입금액\t출금액\t잔액",
+        "page": 9,
+        "bbox": {
+          "x": 180.0,
+          "y": 300.0,
+          "width": 1370,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-034-005-008-4",
+        "idx_in_page": 4,
+        "text": "2024.05.20 14:17\t입금\tATM입금\t107,593원\t\t5,107,593원",
+        "page": 9,
+        "bbox": {
+          "x": 185.0,
+          "y": 360.0,
+          "width": 1360,
+          "height": 35
         },
         "type": "body",
         "confidence_score": 0.94
       },
       {
-        "paragraph_id": "para-034-005-001-0",
-        "idx_in_page": 0,
-        "text": "[10페이지] 계좌거래내역 거래일시: 2024년 8월 15일",
-        "page": 10,
+        "paragraph_id": "para-034-005-008-5",
+        "idx_in_page": 5,
+        "text": "2024.05.01 14:32\t출금\tATM출금\t\t480,966원\t4,626,627원",
+        "page": 9,
         "bbox": {
-          "x": 181.47,
-          "y": 92.11,
-          "width": 1292.77,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.93
-      },
-      {
-        "paragraph_id": "para-034-005-001-1",
-        "idx_in_page": 1,
-        "text": "입금액: 300,000,000원",
-        "page": 10,
-        "bbox": {
-          "x": 208.57,
-          "y": 1194.52,
-          "width": 1264.8,
-          "height": 50
+          "x": 190.0,
+          "y": 405.0,
+          "width": 1400,
+          "height": 35
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-034-005-002-0",
-        "idx_in_page": 0,
-        "text": "[11페이지] 계좌거래내역 거래일시: 2024년 8월 15일",
-        "page": 11,
+        "paragraph_id": "para-034-005-008-6",
+        "idx_in_page": 6,
+        "text": "2024.05.11 17:59\t입금\t계좌이체\t391,782원\t\t5,018,409원",
+        "page": 9,
         "bbox": {
-          "x": 203.9,
-          "y": 90.94,
-          "width": 1324.91,
-          "height": 50
+          "x": 180.0,
+          "y": 450.0,
+          "width": 1390,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-034-005-008-7",
+        "idx_in_page": 7,
+        "text": "2024.05.23 16:46\t출금\t계좌이체\t\t92,395원\t4,926,014원",
+        "page": 9,
+        "bbox": {
+          "x": 185.0,
+          "y": 495.0,
+          "width": 1380,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-034-005-008-8",
+        "idx_in_page": 8,
+        "text": "2024.05.02 10:08\t입금\tATM입금\t415,908원\t\t5,341,922원",
+        "page": 9,
+        "bbox": {
+          "x": 190.0,
+          "y": 540.0,
+          "width": 1370,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-034-005-008-9",
+        "idx_in_page": 9,
+        "text": "2024.05.26 10:58\t출금\tATM출금\t\t117,458원\t5,224,464원",
+        "page": 9,
+        "bbox": {
+          "x": 180.0,
+          "y": 585.0,
+          "width": 1360,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-034-005-008-10",
+        "idx_in_page": 10,
+        "text": "2024.05.24 15:56\t입금\t계좌이체\t415,054원\t\t5,639,518원",
+        "page": 9,
+        "bbox": {
+          "x": 185.0,
+          "y": 630.0,
+          "width": 1400,
+          "height": 35
         },
         "type": "body",
         "confidence_score": 0.9
       },
       {
-        "paragraph_id": "para-034-005-002-1",
-        "idx_in_page": 1,
-        "text": "입금액: 300,000,000원",
-        "page": 11,
+        "paragraph_id": "para-034-005-008-11",
+        "idx_in_page": 11,
+        "text": "2024.05.07 15:17\t출금\t계좌이체\t\t434,416원\t5,205,102원",
+        "page": 9,
         "bbox": {
-          "x": 181.95,
-          "y": 1194.36,
-          "width": 1256.52,
+          "x": 190.0,
+          "y": 675.0,
+          "width": 1390,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-034-005-008-12",
+        "idx_in_page": 12,
+        "text": "2024.05.23 09:56\t출금\tATM출금\t\t38,725원\t5,166,377원",
+        "page": 9,
+        "bbox": {
+          "x": 180.0,
+          "y": 720.0,
+          "width": 1380,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-034-005-008-13",
+        "idx_in_page": 13,
+        "text": "2024.05.28 16:08\t입금\t계좌이체\t134,116원\t\t5,300,493원",
+        "page": 9,
+        "bbox": {
+          "x": 185.0,
+          "y": 765.0,
+          "width": 1370,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-034-005-008-14",
+        "idx_in_page": 14,
+        "text": "2024.05.28 10:38\t입금\tATM입금\t73,560원\t\t5,374,053원",
+        "page": 9,
+        "bbox": {
+          "x": 190.0,
+          "y": 810.0,
+          "width": 1360,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-034-005-009-0",
+        "idx_in_page": 0,
+        "text": "국민은행 계좌거래내역",
+        "page": 10,
+        "bbox": {
+          "x": 180.0,
+          "y": 120.0,
+          "width": 1200,
+          "height": 50
+        },
+        "type": "header",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-034-005-009-1",
+        "idx_in_page": 1,
+        "text": "계좌번호: 123-45-678901 (예금주: 이영희)",
+        "page": 10,
+        "bbox": {
+          "x": 185.0,
+          "y": 180.0,
+          "width": 1190,
+          "height": 50
+        },
+        "type": "header",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-034-005-009-2",
+        "idx_in_page": 2,
+        "text": "조회기간: 2024년 6월 01일 ~ 2024년 6월 30일",
+        "page": 10,
+        "bbox": {
+          "x": 190.0,
+          "y": 240.0,
+          "width": 1180,
+          "height": 50
+        },
+        "type": "header",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-034-005-009-3",
+        "idx_in_page": 3,
+        "text": "거래일시\t구분\t거래내용\t입금액\t출금액\t잔액",
+        "page": 10,
+        "bbox": {
+          "x": 180.0,
+          "y": 300.0,
+          "width": 1370,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-034-005-009-4",
+        "idx_in_page": 4,
+        "text": "2024.06.02 15:30\t입금\t계좌이체\t118,054원\t\t5,118,054원",
+        "page": 10,
+        "bbox": {
+          "x": 185.0,
+          "y": 360.0,
+          "width": 1360,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-034-005-009-5",
+        "idx_in_page": 5,
+        "text": "2024.06.16 13:41\t입금\tATM입금\t28,037원\t\t5,146,091원",
+        "page": 10,
+        "bbox": {
+          "x": 190.0,
+          "y": 405.0,
+          "width": 1400,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-034-005-009-6",
+        "idx_in_page": 6,
+        "text": "2024.06.11 10:15\t출금\t계좌이체\t\t33,360원\t5,112,731원",
+        "page": 10,
+        "bbox": {
+          "x": 180.0,
+          "y": 450.0,
+          "width": 1390,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-034-005-009-7",
+        "idx_in_page": 7,
+        "text": "2024.06.05 14:24\t출금\tATM출금\t\t158,697원\t4,954,034원",
+        "page": 10,
+        "bbox": {
+          "x": 185.0,
+          "y": 495.0,
+          "width": 1380,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-034-005-009-8",
+        "idx_in_page": 8,
+        "text": "2024.06.09 16:11\t출금\t계좌이체\t\t356,998원\t4,597,036원",
+        "page": 10,
+        "bbox": {
+          "x": 190.0,
+          "y": 540.0,
+          "width": 1370,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-034-005-009-9",
+        "idx_in_page": 9,
+        "text": "2024.06.15 12:28\t출금\tATM출금\t\t33,205원\t4,563,831원",
+        "page": 10,
+        "bbox": {
+          "x": 180.0,
+          "y": 585.0,
+          "width": 1360,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-034-005-009-10",
+        "idx_in_page": 10,
+        "text": "2024.06.08 11:12\t출금\t계좌이체\t\t291,199원\t4,272,632원",
+        "page": 10,
+        "bbox": {
+          "x": 185.0,
+          "y": 630.0,
+          "width": 1400,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-034-005-009-11",
+        "idx_in_page": 11,
+        "text": "2024.06.08 14:42\t출금\t계좌이체\t\t238,605원\t4,034,027원",
+        "page": 10,
+        "bbox": {
+          "x": 190.0,
+          "y": 675.0,
+          "width": 1390,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-034-005-009-12",
+        "idx_in_page": 12,
+        "text": "2024.06.21 14:54\t입금\t계좌이체\t451,542원\t\t4,485,569원",
+        "page": 10,
+        "bbox": {
+          "x": 180.0,
+          "y": 720.0,
+          "width": 1380,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-034-005-009-13",
+        "idx_in_page": 13,
+        "text": "2024.06.14 12:02\t입금\t계좌이체\t270,363원\t\t4,755,932원",
+        "page": 10,
+        "bbox": {
+          "x": 185.0,
+          "y": 765.0,
+          "width": 1370,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-034-005-009-14",
+        "idx_in_page": 14,
+        "text": "2024.06.20 10:34\t입금\t계좌이체\t88,479원\t\t4,844,411원",
+        "page": 10,
+        "bbox": {
+          "x": 190.0,
+          "y": 810.0,
+          "width": 1360,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-034-005-009-15",
+        "idx_in_page": 15,
+        "text": "2024.06.12 11:07\t입금\t계좌이체\t241,499원\t\t5,085,910원",
+        "page": 10,
+        "bbox": {
+          "x": 180.0,
+          "y": 855.0,
+          "width": 1400,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-034-005-010-0",
+        "idx_in_page": 0,
+        "text": "국민은행 계좌거래내역",
+        "page": 11,
+        "bbox": {
+          "x": 180.0,
+          "y": 120.0,
+          "width": 1200,
+          "height": 50
+        },
+        "type": "header",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-034-005-010-1",
+        "idx_in_page": 1,
+        "text": "계좌번호: 123-45-678901 (예금주: 이영희)",
+        "page": 11,
+        "bbox": {
+          "x": 185.0,
+          "y": 180.0,
+          "width": 1190,
+          "height": 50
+        },
+        "type": "header",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-034-005-010-2",
+        "idx_in_page": 2,
+        "text": "조회기간: 2024년 6월 01일 ~ 2024년 6월 30일",
+        "page": 11,
+        "bbox": {
+          "x": 190.0,
+          "y": 240.0,
+          "width": 1180,
+          "height": 50
+        },
+        "type": "header",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-034-005-010-3",
+        "idx_in_page": 3,
+        "text": "거래일시\t구분\t거래내용\t입금액\t출금액\t잔액",
+        "page": 11,
+        "bbox": {
+          "x": 180.0,
+          "y": 300.0,
+          "width": 1370,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-034-005-010-4",
+        "idx_in_page": 4,
+        "text": "2024.06.28 17:54\t출금\tATM출금\t\t246,890원\t4,753,110원",
+        "page": 11,
+        "bbox": {
+          "x": 185.0,
+          "y": 360.0,
+          "width": 1360,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-034-005-010-5",
+        "idx_in_page": 5,
+        "text": "2024.06.19 12:11\t출금\tATM출금\t\t340,239원\t4,412,871원",
+        "page": 11,
+        "bbox": {
+          "x": 190.0,
+          "y": 405.0,
+          "width": 1400,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-034-005-010-6",
+        "idx_in_page": 6,
+        "text": "2024.06.06 10:28\t출금\t계좌이체\t\t84,341원\t4,328,530원",
+        "page": 11,
+        "bbox": {
+          "x": 180.0,
+          "y": 450.0,
+          "width": 1390,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-034-005-010-7",
+        "idx_in_page": 7,
+        "text": "2024.06.26 09:38\t출금\tATM출금\t\t247,499원\t4,081,031원",
+        "page": 11,
+        "bbox": {
+          "x": 185.0,
+          "y": 495.0,
+          "width": 1380,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-034-005-010-8",
+        "idx_in_page": 8,
+        "text": "2024.06.20 11:39\t입금\tATM입금\t446,051원\t\t4,527,082원",
+        "page": 11,
+        "bbox": {
+          "x": 190.0,
+          "y": 540.0,
+          "width": 1370,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-034-005-010-9",
+        "idx_in_page": 9,
+        "text": "2024.06.15 14:30\t입금\t김철수 (매매대금)\t150,000,000원\t\t154,527,082원",
+        "page": 11,
+        "bbox": {
+          "x": 180.0,
+          "y": 585.0,
+          "width": 1360,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-034-005-010-10",
+        "idx_in_page": 10,
+        "text": "2024.06.08 09:49\t출금\t계좌이체\t\t181,071원\t154,346,011원",
+        "page": 11,
+        "bbox": {
+          "x": 185.0,
+          "y": 645.0,
+          "width": 1400,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-034-005-010-11",
+        "idx_in_page": 11,
+        "text": "2024.06.27 12:33\t입금\t계좌이체\t345,697원\t\t154,691,708원",
+        "page": 11,
+        "bbox": {
+          "x": 190.0,
+          "y": 690.0,
+          "width": 1390,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-034-005-010-12",
+        "idx_in_page": 12,
+        "text": "2024.06.01 10:29\t출금\tATM출금\t\t223,269원\t154,468,439원",
+        "page": 11,
+        "bbox": {
+          "x": 180.0,
+          "y": 735.0,
+          "width": 1380,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-034-005-010-13",
+        "idx_in_page": 13,
+        "text": "2024.06.27 10:45\t출금\tATM출금\t\t175,296원\t154,293,143원",
+        "page": 11,
+        "bbox": {
+          "x": 185.0,
+          "y": 780.0,
+          "width": 1370,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-034-005-010-14",
+        "idx_in_page": 14,
+        "text": "2024.06.17 13:01\t입금\tATM입금\t305,248원\t\t154,598,391원",
+        "page": 11,
+        "bbox": {
+          "x": 190.0,
+          "y": 825.0,
+          "width": 1360,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
       }
     ]
   },

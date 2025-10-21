@@ -1,5 +1,5 @@
 {
-  "chunk_id": "418ad7d6-6688-4947-aa85-e8424f41ab81",
+  "chunk_id": "52ab67a9-28a5-4247-9e85-5b50c6bfa676",
   "file_id": 29,
   "project_id": 1001,
   "storage_file_name": "exhibit_a18_appraisal.pdf",
@@ -15,98 +15,218 @@
   ],
   "chunk_number": 8,
   "paragraph_texts": [
-    "[15페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[16페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[17페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일"
+    "VIII. 매매계약가격과의 비교",
+    "1. 원고 주장 매수가: 500,000,000원",
+    "2. 감정평가액: 520,000,000원",
+    "3. 차액: 20,000,000원 (약 3.8% 저렴)",
+    "4. 평가의견: 매수가는 시세 대비 합리적 거래가격으로 판단됨",
+    "IX. 특기사항",
+    "1. 본 감정평가는 법원 감정 목적으로 작성되었음",
+    "2. 평가 대상 부동산은 현장 실사를 통해 확인하였음",
+    "3. 등기부등본, 건축물대장 등 공적 자료를 확인하였음",
+    "4. 권리관계 등 법률적 사항은 평가범위에서 제외됨",
+    "X. 감정평가 조건",
+    "- 본 평가액은 기준시점 현재 정상적 시장가치를 의미함",
+    "- 평가 이후 시장변동에 따라 실제 거래가격은 달라질 수 있음",
+    "- 본 평가서는 법원 제출 목적 외 다른 용도로 사용 불가"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-029-008-000-0",
         "idx_in_page": 0,
-        "text": "[15페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "text": "VIII. 매매계약가격과의 비교",
         "page": 15,
         "bbox": {
-          "x": 219.63,
-          "y": 100.71,
-          "width": 1267.53,
-          "height": 50
+          "x": 180,
+          "y": 90,
+          "width": 1200,
+          "height": 60
         },
-        "type": "body",
-        "confidence_score": 0.95
+        "type": "heading",
+        "confidence_score": 0.93
       },
       {
         "paragraph_id": "para-029-008-000-1",
         "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "text": "1. 원고 주장 매수가: 500,000,000원",
         "page": 15,
         "bbox": {
-          "x": 188.51,
-          "y": 1195.57,
-          "width": 1297.42,
-          "height": 50
+          "x": 185,
+          "y": 195,
+          "width": 1210,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-029-008-000-2",
+        "idx_in_page": 2,
+        "text": "2. 감정평가액: 520,000,000원",
+        "page": 15,
+        "bbox": {
+          "x": 190,
+          "y": 240,
+          "width": 1220,
+          "height": 40
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-029-008-001-0",
-        "idx_in_page": 0,
-        "text": "[16페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-        "page": 16,
+        "paragraph_id": "para-029-008-000-3",
+        "idx_in_page": 3,
+        "text": "3. 차액: 20,000,000원 (약 3.8% 저렴)",
+        "page": 15,
         "bbox": {
-          "x": 202.32,
-          "y": 107.03,
-          "width": 1257.51,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.95
-      },
-      {
-        "paragraph_id": "para-029-008-001-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
-        "page": 16,
-        "bbox": {
-          "x": 198.68,
-          "y": 1181.25,
-          "width": 1303.1,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.95
-      },
-      {
-        "paragraph_id": "para-029-008-002-0",
-        "idx_in_page": 0,
-        "text": "[17페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-        "page": 17,
-        "bbox": {
-          "x": 200.19,
-          "y": 99.52,
-          "width": 1240.69,
-          "height": 50
+          "x": 195,
+          "y": 285,
+          "width": 1230,
+          "height": 40
         },
         "type": "body",
         "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-029-008-002-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
-        "page": 17,
+        "paragraph_id": "para-029-008-000-4",
+        "idx_in_page": 4,
+        "text": "4. 평가의견: 매수가는 시세 대비 합리적 거래가격으로 판단됨",
+        "page": 15,
         "bbox": {
-          "x": 207.33,
-          "y": 1191.08,
-          "width": 1281.9,
-          "height": 50
+          "x": 200,
+          "y": 330,
+          "width": 1240,
+          "height": 40
         },
         "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-029-008-001-0",
+        "idx_in_page": 0,
+        "text": "IX. 특기사항",
+        "page": 16,
+        "bbox": {
+          "x": 180,
+          "y": 90,
+          "width": 1200,
+          "height": 60
+        },
+        "type": "heading",
         "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-029-008-001-1",
+        "idx_in_page": 1,
+        "text": "1. 본 감정평가는 법원 감정 목적으로 작성되었음",
+        "page": 16,
+        "bbox": {
+          "x": 185,
+          "y": 195,
+          "width": 1210,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-029-008-001-2",
+        "idx_in_page": 2,
+        "text": "2. 평가 대상 부동산은 현장 실사를 통해 확인하였음",
+        "page": 16,
+        "bbox": {
+          "x": 190,
+          "y": 240,
+          "width": 1220,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-029-008-001-3",
+        "idx_in_page": 3,
+        "text": "3. 등기부등본, 건축물대장 등 공적 자료를 확인하였음",
+        "page": 16,
+        "bbox": {
+          "x": 195,
+          "y": 285,
+          "width": 1230,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-029-008-001-4",
+        "idx_in_page": 4,
+        "text": "4. 권리관계 등 법률적 사항은 평가범위에서 제외됨",
+        "page": 16,
+        "bbox": {
+          "x": 200,
+          "y": 330,
+          "width": 1240,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-029-008-002-0",
+        "idx_in_page": 0,
+        "text": "X. 감정평가 조건",
+        "page": 17,
+        "bbox": {
+          "x": 180,
+          "y": 90,
+          "width": 1200,
+          "height": 60
+        },
+        "type": "heading",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-029-008-002-1",
+        "idx_in_page": 1,
+        "text": "- 본 평가액은 기준시점 현재 정상적 시장가치를 의미함",
+        "page": 17,
+        "bbox": {
+          "x": 185,
+          "y": 195,
+          "width": 1210,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-029-008-002-2",
+        "idx_in_page": 2,
+        "text": "- 평가 이후 시장변동에 따라 실제 거래가격은 달라질 수 있음",
+        "page": 17,
+        "bbox": {
+          "x": 190,
+          "y": 240,
+          "width": 1220,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-029-008-002-3",
+        "idx_in_page": 3,
+        "text": "- 본 평가서는 법원 제출 목적 외 다른 용도로 사용 불가",
+        "page": 17,
+        "bbox": {
+          "x": 195,
+          "y": 285,
+          "width": 1230,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.96
       }
     ]
   },

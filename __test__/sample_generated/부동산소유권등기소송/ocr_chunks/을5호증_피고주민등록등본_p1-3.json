@@ -15,98 +15,248 @@
   ],
   "chunk_number": 1,
   "paragraph_texts": [
-    "[1페이지] 을5호증_피고주민등록등본 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[2페이지] 을5호증_피고주민등록등본 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[3페이지] 을5호증_피고주민등록등본 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "주민등록등본",
+    "발급일: 2024년 9월 20일",
+    "세대주: 이영희",
+    "주민등록번호: 671015-1******",
+    "주소: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+    "전입일: 2018년 3월 20일",
+    "세대구성원 현황",
+    "성명: 이영희",
+    "주민등록번호: 671015-1******",
+    "세대주와의 관계: 본인",
+    "전입일: 2018년 3월 20일",
+    "변동사항",
+    "2018년 3월 20일: 서울특별시 송파구 올림픽로 456 -> 서울특별시 강남구 테헤란로 123으로 전입",
+    "발급사유: 법원 제출용",
+    "본 주민등록등본은 「주민등록법」 제29조에 따라 발급합니다.",
+    "서울특별시 강남구청장 [직인]"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-037-001-000-0",
         "idx_in_page": 0,
-        "text": "[1페이지] 을5호증_피고주민등록등본 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "주민등록등본",
         "page": 1,
         "bbox": {
-          "x": 180.95,
-          "y": 106.3,
-          "width": 1325.08,
-          "height": 50
+          "x": 700.0,
+          "y": 150.0,
+          "width": 280.0,
+          "height": 45
         },
-        "type": "body",
-        "confidence_score": 0.94
+        "type": "heading",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-037-001-000-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "발급일: 2024년 9월 20일",
         "page": 1,
         "bbox": {
-          "x": 198.23,
-          "y": 1188.22,
-          "width": 1317.19,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.94
-      },
-      {
-        "paragraph_id": "para-037-001-001-0",
-        "idx_in_page": 0,
-        "text": "[2페이지] 을5호증_피고주민등록등본 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 2,
-        "bbox": {
-          "x": 198.89,
-          "y": 105.35,
-          "width": 1241.41,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.94
-      },
-      {
-        "paragraph_id": "para-037-001-001-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 2,
-        "bbox": {
-          "x": 199.4,
-          "y": 1185.31,
-          "width": 1282.27,
-          "height": 50
+          "x": 1200.0,
+          "y": 220.0,
+          "width": 300.0,
+          "height": 35
         },
         "type": "body",
         "confidence_score": 0.97
       },
       {
-        "paragraph_id": "para-037-001-002-0",
-        "idx_in_page": 0,
-        "text": "[3페이지] 을5호증_피고주민등록등본 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 3,
+        "paragraph_id": "para-037-001-000-2",
+        "idx_in_page": 2,
+        "text": "세대주: 이영희",
+        "page": 1,
         "bbox": {
-          "x": 191.5,
-          "y": 109.44,
-          "width": 1313.75,
-          "height": 50
+          "x": 200.0,
+          "y": 320.0,
+          "width": 250.0,
+          "height": 35
         },
         "type": "body",
-        "confidence_score": 0.93
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-037-001-000-3",
+        "idx_in_page": 3,
+        "text": "주민등록번호: 671015-1******",
+        "page": 1,
+        "bbox": {
+          "x": 200.0,
+          "y": 365.0,
+          "width": 400.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-037-001-000-4",
+        "idx_in_page": 4,
+        "text": "주소: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "page": 1,
+        "bbox": {
+          "x": 200.0,
+          "y": 410.0,
+          "width": 850.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-037-001-000-5",
+        "idx_in_page": 5,
+        "text": "전입일: 2018년 3월 20일",
+        "page": 1,
+        "bbox": {
+          "x": 200.0,
+          "y": 455.0,
+          "width": 350.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-037-001-001-0",
+        "idx_in_page": 0,
+        "text": "세대구성원 현황",
+        "page": 2,
+        "bbox": {
+          "x": 200.0,
+          "y": 150.0,
+          "width": 280.0,
+          "height": 40
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-037-001-001-1",
+        "idx_in_page": 1,
+        "text": "성명: 이영희",
+        "page": 2,
+        "bbox": {
+          "x": 250.0,
+          "y": 220.0,
+          "width": 200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-037-001-001-2",
+        "idx_in_page": 2,
+        "text": "주민등록번호: 671015-1******",
+        "page": 2,
+        "bbox": {
+          "x": 250.0,
+          "y": 265.0,
+          "width": 400.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-037-001-001-3",
+        "idx_in_page": 3,
+        "text": "세대주와의 관계: 본인",
+        "page": 2,
+        "bbox": {
+          "x": 250.0,
+          "y": 310.0,
+          "width": 320.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-037-001-001-4",
+        "idx_in_page": 4,
+        "text": "전입일: 2018년 3월 20일",
+        "page": 2,
+        "bbox": {
+          "x": 250.0,
+          "y": 355.0,
+          "width": 350.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-037-001-002-0",
+        "idx_in_page": 0,
+        "text": "변동사항",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 150.0,
+          "width": 180.0,
+          "height": 40
+        },
+        "type": "heading",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-037-001-002-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "2018년 3월 20일: 서울특별시 송파구 올림픽로 456 -> 서울특별시 강남구 테헤란로 123으로 전입",
         "page": 3,
         "bbox": {
-          "x": 216.55,
-          "y": 1192.04,
-          "width": 1232.38,
-          "height": 50
+          "x": 250.0,
+          "y": 220.0,
+          "width": 1100.0,
+          "height": 35
         },
         "type": "body",
-        "confidence_score": 0.95
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-037-001-002-2",
+        "idx_in_page": 2,
+        "text": "발급사유: 법원 제출용",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 1900.0,
+          "width": 350.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-037-001-002-3",
+        "idx_in_page": 3,
+        "text": "본 주민등록등본은 「주민등록법」 제29조에 따라 발급합니다.",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 1950.0,
+          "width": 750.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-037-001-002-4",
+        "idx_in_page": 4,
+        "text": "서울특별시 강남구청장 [직인]",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 2050.0,
+          "width": 450.0,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.93
       }
     ]
   },

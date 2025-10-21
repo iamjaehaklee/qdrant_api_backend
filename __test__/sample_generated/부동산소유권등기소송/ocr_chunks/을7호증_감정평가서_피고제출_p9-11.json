@@ -1,5 +1,5 @@
 {
-  "chunk_id": "eeb1d746-01b9-4e30-8227-49ef5c64d724",
+  "chunk_id": "b2a9c147-8e53-4d91-ab4e-f19d62e37485",
   "file_id": 39,
   "project_id": 1001,
   "storage_file_name": "exhibit_b7_appraisal_defendant.pdf",
@@ -15,94 +15,469 @@
   ],
   "chunk_number": 5,
   "paragraph_texts": [
-    "[9페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[10페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[11페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일"
+    "3. 개별요인 비교",
+    "   [사례1 대비]",
+    "   - 층수: 35층 vs 32층 (+1.5%)",
+    "   - 방향: 남향 vs 동남향 (+0.5%)",
+    "   - 실내상태: 유사 (0%)",
+    "   - 종합보정률: +2.0%",
+    "   [사례2 대비]",
+    "   - 층수: 35층 vs 38층 (-1.0%)",
+    "   - 방향: 남향 vs 남향 (0%)",
+    "   - 실내상태: 유사 (0%)",
+    "   - 종합보정률: -1.0%",
+    "   [사례3 대비]",
+    "   - 건물등급: 상 vs 상 (0%)",
+    "   - 접근성: 더 우수 (+2.0%)",
+    "   - 면적차이: 84.95㎡ vs 84.00㎡ (+0.2%)",
+    "   - 층수: 35층 vs 30층 (+2.5%)",
+    "   - 종합보정률: +4.7%",
+    "4. 보정 후 비교가격",
+    "   - 사례1: 555,000,000원 × 1.02 = 566,100,000원",
+    "   - 사례2: 562,000,000원 × 0.99 = 556,380,000원",
+    "   - 사례3: 548,000,000원 × 1.047 = 573,756,000원",
+    "제5장 수익환원법 참고 적용",
+    "1. 수익성 분석",
+    "   - 월 임대료: 2,500,000원 (보증금 100,000,000원)",
+    "   - 연 임대수익: 30,000,000원",
+    "   - 보증금 운용수익: 100,000,000원 × 3.5% = 3,500,000원",
+    "   - 총 연수익: 33,500,000원",
+    "2. 환원율 적정",
+    "   - 무위험수익률: 3.5% (국고채 3년)",
+    "   - 위험할증률: 2.5%",
+    "   - 적정 환원율: 6.0%"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-039-005-000-0",
         "idx_in_page": 0,
-        "text": "[9페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "text": "3. 개별요인 비교",
         "page": 9,
         "bbox": {
-          "x": 196.53,
-          "y": 95.98,
-          "width": 1329.67,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.94
-      },
-      {
-        "paragraph_id": "para-039-005-000-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
-        "page": 9,
-        "bbox": {
-          "x": 192.84,
-          "y": 1179.62,
-          "width": 1237.78,
+          "x": 199.16,
+          "y": 116.14,
+          "width": 1236.04,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-039-005-001-0",
-        "idx_in_page": 0,
-        "text": "[10페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-        "page": 10,
+        "paragraph_id": "para-039-005-000-1",
+        "idx_in_page": 1,
+        "text": "   [사례1 대비]",
+        "page": 9,
         "bbox": {
-          "x": 205.56,
-          "y": 92.57,
-          "width": 1270.81,
+          "x": 206.85,
+          "y": 1170.7,
+          "width": 1234.95,
           "height": 50
         },
         "type": "body",
-        "confidence_score": 0.94
+        "confidence_score": 0.92
       },
       {
-        "paragraph_id": "para-039-005-001-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
-        "page": 10,
+        "paragraph_id": "para-039-005-000-2",
+        "idx_in_page": 2,
+        "text": "   - 층수: 35층 vs 32층 (+1.5%)",
+        "page": 9,
         "bbox": {
-          "x": 203.04,
-          "y": 1181.3,
-          "width": 1313.88,
+          "x": 206.84,
+          "y": 107.99,
+          "width": 1285.35,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-039-005-000-3",
+        "idx_in_page": 3,
+        "text": "   - 방향: 남향 vs 동남향 (+0.5%)",
+        "page": 9,
+        "bbox": {
+          "x": 218.58,
+          "y": 1174.68,
+          "width": 1285.34,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-039-005-000-4",
+        "idx_in_page": 4,
+        "text": "   - 실내상태: 유사 (0%)",
+        "page": 9,
+        "bbox": {
+          "x": 181.98,
+          "y": 111.72,
+          "width": 1305.8,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.93
       },
       {
+        "paragraph_id": "para-039-005-000-5",
+        "idx_in_page": 5,
+        "text": "   - 종합보정률: +2.0%",
+        "page": 9,
+        "bbox": {
+          "x": 180.97,
+          "y": 1186.81,
+          "width": 1244.26,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-039-005-000-6",
+        "idx_in_page": 6,
+        "text": "   [사례2 대비]",
+        "page": 9,
+        "bbox": {
+          "x": 193.03,
+          "y": 103.66,
+          "width": 1287.56,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-039-005-000-7",
+        "idx_in_page": 7,
+        "text": "   - 층수: 35층 vs 38층 (-1.0%)",
+        "page": 9,
+        "bbox": {
+          "x": 218.96,
+          "y": 1176.46,
+          "width": 1271.05,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-039-005-000-8",
+        "idx_in_page": 8,
+        "text": "   - 방향: 남향 vs 남향 (0%)",
+        "page": 9,
+        "bbox": {
+          "x": 206.92,
+          "y": 107.77,
+          "width": 1328.06,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-039-005-000-9",
+        "idx_in_page": 9,
+        "text": "   - 실내상태: 유사 (0%)",
+        "page": 9,
+        "bbox": {
+          "x": 201.93,
+          "y": 1174.02,
+          "width": 1273.85,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-039-005-000-10",
+        "idx_in_page": 10,
+        "text": "   - 종합보정률: -1.0%",
+        "page": 9,
+        "bbox": {
+          "x": 188.54,
+          "y": 119.24,
+          "width": 1280.63,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-039-005-001-0",
+        "idx_in_page": 0,
+        "text": "   [사례3 대비]",
+        "page": 10,
+        "bbox": {
+          "x": 207.37,
+          "y": 1193.25,
+          "width": 1235.79,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-039-005-001-1",
+        "idx_in_page": 1,
+        "text": "   - 건물등급: 상 vs 상 (0%)",
+        "page": 10,
+        "bbox": {
+          "x": 197.32,
+          "y": 114.3,
+          "width": 1267.84,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-039-005-001-2",
+        "idx_in_page": 2,
+        "text": "   - 접근성: 더 우수 (+2.0%)",
+        "page": 10,
+        "bbox": {
+          "x": 204.67,
+          "y": 1198.07,
+          "width": 1305.23,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-039-005-001-3",
+        "idx_in_page": 3,
+        "text": "   - 면적차이: 84.95㎡ vs 84.00㎡ (+0.2%)",
+        "page": 10,
+        "bbox": {
+          "x": 197.63,
+          "y": 105.19,
+          "width": 1294.22,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-039-005-001-4",
+        "idx_in_page": 4,
+        "text": "   - 층수: 35층 vs 30층 (+2.5%)",
+        "page": 10,
+        "bbox": {
+          "x": 218.39,
+          "y": 1185.36,
+          "width": 1290.64,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-039-005-001-5",
+        "idx_in_page": 5,
+        "text": "   - 종합보정률: +4.7%",
+        "page": 10,
+        "bbox": {
+          "x": 188.04,
+          "y": 98.08,
+          "width": 1279.33,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-039-005-001-6",
+        "idx_in_page": 6,
+        "text": "4. 보정 후 비교가격",
+        "page": 10,
+        "bbox": {
+          "x": 187.66,
+          "y": 1182.38,
+          "width": 1266.01,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-039-005-001-7",
+        "idx_in_page": 7,
+        "text": "   - 사례1: 555,000,000원 × 1.02 = 566,100,000원",
+        "page": 10,
+        "bbox": {
+          "x": 193.31,
+          "y": 116.52,
+          "width": 1261.63,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-039-005-001-8",
+        "idx_in_page": 8,
+        "text": "   - 사례2: 562,000,000원 × 0.99 = 556,380,000원",
+        "page": 10,
+        "bbox": {
+          "x": 218.36,
+          "y": 1176.9,
+          "width": 1318.96,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-039-005-001-9",
+        "idx_in_page": 9,
+        "text": "   - 사례3: 548,000,000원 × 1.047 = 573,756,000원",
+        "page": 10,
+        "bbox": {
+          "x": 183.87,
+          "y": 100.25,
+          "width": 1266.77,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
         "paragraph_id": "para-039-005-002-0",
         "idx_in_page": 0,
-        "text": "[11페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "text": "제5장 수익환원법 참고 적용",
         "page": 11,
         "bbox": {
-          "x": 184.08,
-          "y": 102.68,
-          "width": 1274.29,
+          "x": 203.23,
+          "y": 1197.34,
+          "width": 1264.27,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-039-005-002-1",
+        "idx_in_page": 1,
+        "text": "1. 수익성 분석",
+        "page": 11,
+        "bbox": {
+          "x": 216.29,
+          "y": 118.95,
+          "width": 1264.13,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-039-005-002-2",
+        "idx_in_page": 2,
+        "text": "   - 월 임대료: 2,500,000원 (보증금 100,000,000원)",
+        "page": 11,
+        "bbox": {
+          "x": 196.23,
+          "y": 1183.22,
+          "width": 1290.68,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-039-005-002-3",
+        "idx_in_page": 3,
+        "text": "   - 연 임대수익: 30,000,000원",
+        "page": 11,
+        "bbox": {
+          "x": 216.36,
+          "y": 93.42,
+          "width": 1325.81,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-039-005-002-4",
+        "idx_in_page": 4,
+        "text": "   - 보증금 운용수익: 100,000,000원 × 3.5% = 3,500,000원",
+        "page": 11,
+        "bbox": {
+          "x": 185.45,
+          "y": 1186.69,
+          "width": 1296.71,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-039-005-002-5",
+        "idx_in_page": 5,
+        "text": "   - 총 연수익: 33,500,000원",
+        "page": 11,
+        "bbox": {
+          "x": 217.11,
+          "y": 116.14,
+          "width": 1306.16,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-039-005-002-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "paragraph_id": "para-039-005-002-6",
+        "idx_in_page": 6,
+        "text": "2. 환원율 적정",
         "page": 11,
         "bbox": {
-          "x": 219.48,
-          "y": 1180.23,
-          "width": 1325.96,
+          "x": 208.38,
+          "y": 1175.59,
+          "width": 1289.57,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-039-005-002-7",
+        "idx_in_page": 7,
+        "text": "   - 무위험수익률: 3.5% (국고채 3년)",
+        "page": 11,
+        "bbox": {
+          "x": 209.67,
+          "y": 113.3,
+          "width": 1244.97,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-039-005-002-8",
+        "idx_in_page": 8,
+        "text": "   - 위험할증률: 2.5%",
+        "page": 11,
+        "bbox": {
+          "x": 193.62,
+          "y": 1193.32,
+          "width": 1258.74,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-039-005-002-9",
+        "idx_in_page": 9,
+        "text": "   - 적정 환원율: 6.0%",
+        "page": 11,
+        "bbox": {
+          "x": 218.85,
+          "y": 112.14,
+          "width": 1314.64,
           "height": 50
         },
         "type": "body",
@@ -127,5 +502,5 @@
       "height": 2379
     }
   ],
-  "created_at": "2024-08-06T00:00:00+00:00"
+  "created_at": "2024-08-05T00:00:00+00:00"
 }

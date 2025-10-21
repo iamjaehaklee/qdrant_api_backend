@@ -15,98 +15,308 @@
   ],
   "chunk_number": 1,
   "paragraph_texts": [
-    "[1페이지] 갑20호증_원고주민등록등본 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[2페이지] 갑20호증_원고주민등록등본 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[3페이지] 갑20호증_원고주민등록등본 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "주민등록등본",
+    "발급번호: 2024-서울-654321",
+    "발급일자: 2024년 3월 14일",
+    "세대주 성명: 김철수",
+    "주민등록번호: 850322-1******",
+    "세대주 관계: 본인",
+    "주소 정보",
+    "주소: 서울특별시 서초구 반포대로 45",
+    "상세주소: 101동 202호",
+    "전입일자: 2020년 5월 12일",
+    "거주 기간: 3년 10개월",
+    "주택 유형: 아파트",
+    "전입 사유: 임차",
+    "세대원 정보",
+    "1. 세대주: 김철수 (850322-1******)",
+    "   전입일: 2020년 5월 12일",
+    "   세대주 관계: 본인",
+    "2. 배우자: 최영숙 (860515-2******)",
+    "   전입일: 2020년 5월 12일",
+    "   세대주 관계: 배우자"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-031-001-000-0",
         "idx_in_page": 0,
-        "text": "[1페이지] 갑20호증_원고주민등록등본 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "주민등록등본",
         "page": 1,
         "bbox": {
-          "x": 191.17,
-          "y": 91.41,
-          "width": 1231.2,
-          "height": 50
+          "x": 185,
+          "y": 95,
+          "width": 1220,
+          "height": 38
         },
-        "type": "body",
-        "confidence_score": 0.94
+        "type": "title",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-031-001-000-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "발급번호: 2024-서울-654321",
         "page": 1,
         "bbox": {
-          "x": 189.91,
-          "y": 1182.62,
-          "width": 1266.21,
-          "height": 50
+          "x": 190,
+          "y": 255,
+          "width": 1230,
+          "height": 43
         },
         "type": "body",
-        "confidence_score": 0.93
+        "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-031-001-001-0",
-        "idx_in_page": 0,
-        "text": "[2페이지] 갑20호증_원고주민등록등본 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 2,
+        "paragraph_id": "para-031-001-000-2",
+        "idx_in_page": 2,
+        "text": "발급일자: 2024년 3월 14일",
+        "page": 1,
         "bbox": {
-          "x": 213.07,
-          "y": 93.02,
-          "width": 1234.93,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.94
-      },
-      {
-        "paragraph_id": "para-031-001-001-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 2,
-        "bbox": {
-          "x": 192.02,
-          "y": 1197.03,
-          "width": 1258.47,
-          "height": 50
+          "x": 195,
+          "y": 415,
+          "width": 1240,
+          "height": 48
         },
         "type": "body",
         "confidence_score": 0.97
       },
       {
-        "paragraph_id": "para-031-001-002-0",
-        "idx_in_page": 0,
-        "text": "[3페이지] 갑20호증_원고주민등록등본 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 3,
+        "paragraph_id": "para-031-001-000-3",
+        "idx_in_page": 3,
+        "text": "세대주 성명: 김철수",
+        "page": 1,
         "bbox": {
-          "x": 207.84,
-          "y": 94.65,
-          "width": 1241.13,
-          "height": 50
+          "x": 200,
+          "y": 575,
+          "width": 1250,
+          "height": 38
         },
         "type": "body",
-        "confidence_score": 0.92
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-031-001-000-4",
+        "idx_in_page": 4,
+        "text": "주민등록번호: 850322-1******",
+        "page": 1,
+        "bbox": {
+          "x": 205,
+          "y": 735,
+          "width": 1260,
+          "height": 43
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-031-001-000-5",
+        "idx_in_page": 5,
+        "text": "세대주 관계: 본인",
+        "page": 1,
+        "bbox": {
+          "x": 210,
+          "y": 895,
+          "width": 1270,
+          "height": 48
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-031-001-001-0",
+        "idx_in_page": 0,
+        "text": "주소 정보",
+        "page": 2,
+        "bbox": {
+          "x": 185,
+          "y": 95,
+          "width": 1220,
+          "height": 38
+        },
+        "type": "title",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-031-001-001-1",
+        "idx_in_page": 1,
+        "text": "주소: 서울특별시 서초구 반포대로 45",
+        "page": 2,
+        "bbox": {
+          "x": 190,
+          "y": 255,
+          "width": 1230,
+          "height": 43
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-031-001-001-2",
+        "idx_in_page": 2,
+        "text": "상세주소: 101동 202호",
+        "page": 2,
+        "bbox": {
+          "x": 195,
+          "y": 415,
+          "width": 1240,
+          "height": 48
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-031-001-001-3",
+        "idx_in_page": 3,
+        "text": "전입일자: 2020년 5월 12일",
+        "page": 2,
+        "bbox": {
+          "x": 200,
+          "y": 575,
+          "width": 1250,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-031-001-001-4",
+        "idx_in_page": 4,
+        "text": "거주 기간: 3년 10개월",
+        "page": 2,
+        "bbox": {
+          "x": 205,
+          "y": 735,
+          "width": 1260,
+          "height": 43
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-031-001-001-5",
+        "idx_in_page": 5,
+        "text": "주택 유형: 아파트",
+        "page": 2,
+        "bbox": {
+          "x": 210,
+          "y": 895,
+          "width": 1270,
+          "height": 48
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-031-001-001-6",
+        "idx_in_page": 6,
+        "text": "전입 사유: 임차",
+        "page": 2,
+        "bbox": {
+          "x": 185,
+          "y": 1055,
+          "width": 1280,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-031-001-002-0",
+        "idx_in_page": 0,
+        "text": "세대원 정보",
+        "page": 3,
+        "bbox": {
+          "x": 185,
+          "y": 95,
+          "width": 1220,
+          "height": 38
+        },
+        "type": "title",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-031-001-002-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "1. 세대주: 김철수 (850322-1******)",
         "page": 3,
         "bbox": {
-          "x": 205.94,
-          "y": 1195.15,
-          "width": 1239.41,
-          "height": 50
+          "x": 190,
+          "y": 255,
+          "width": 1230,
+          "height": 43
         },
         "type": "body",
-        "confidence_score": 0.92
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-031-001-002-2",
+        "idx_in_page": 2,
+        "text": "   전입일: 2020년 5월 12일",
+        "page": 3,
+        "bbox": {
+          "x": 195,
+          "y": 415,
+          "width": 1240,
+          "height": 48
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-031-001-002-3",
+        "idx_in_page": 3,
+        "text": "   세대주 관계: 본인",
+        "page": 3,
+        "bbox": {
+          "x": 200,
+          "y": 575,
+          "width": 1250,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-031-001-002-4",
+        "idx_in_page": 4,
+        "text": "2. 배우자: 최영숙 (860515-2******)",
+        "page": 3,
+        "bbox": {
+          "x": 205,
+          "y": 735,
+          "width": 1260,
+          "height": 43
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-031-001-002-5",
+        "idx_in_page": 5,
+        "text": "   전입일: 2020년 5월 12일",
+        "page": 3,
+        "bbox": {
+          "x": 210,
+          "y": 895,
+          "width": 1270,
+          "height": 48
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-031-001-002-6",
+        "idx_in_page": 6,
+        "text": "   세대주 관계: 배우자",
+        "page": 3,
+        "bbox": {
+          "x": 185,
+          "y": 1055,
+          "width": 1280,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.96
       }
     ]
   },

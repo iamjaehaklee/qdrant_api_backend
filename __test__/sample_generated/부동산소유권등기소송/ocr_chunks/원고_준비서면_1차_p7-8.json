@@ -14,68 +14,338 @@
   ],
   "chunk_number": 4,
   "paragraph_texts": [
-    "[7페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
-    "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
-    "[8페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
-    "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다."
+    "첨 부 서 류",
+    "1. 위 입증방법  각 1통",
+    "2024. 8. 2.",
+    "원고 소송대리인",
+    "법무법인 정의",
+    "담당변호사 박정의 (인)",
+    "서울중앙지방법원 민사합의21부 귀중",
+    "[별지] 부동산의 표시",
+    "1. 토지",
+    "서울특별시 강남구 역삼동 123-45",
+    "지목: 대",
+    "면적: 198.5㎡",
+    "2. 건물",
+    "서울특별시 강남구 역삼동 123-45 소재",
+    "철근콘크리트조 슬래브지붕 5층 근린생활시설",
+    "1층  89.32㎡",
+    "2층  89.32㎡",
+    "3층  89.32㎡",
+    "4층  89.32㎡",
+    "5층  89.32㎡",
+    "합계 446.60㎡",
+    "이상"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-003-004-000-0",
         "idx_in_page": 0,
-        "text": "[7페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
+        "text": "첨 부 서 류",
         "page": 7,
         "bbox": {
-          "x": 198.63,
-          "y": 91.32,
-          "width": 1264.91,
-          "height": 50
+          "x": 688.63,
+          "y": 201.32,
+          "width": 303.91,
+          "height": 42
         },
-        "type": "body",
-        "confidence_score": 0.96
+        "type": "title",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-003-004-000-1",
         "idx_in_page": 1,
-        "text": "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
+        "text": "1. 위 입증방법  각 1통",
         "page": 7,
         "bbox": {
-          "x": 198.51,
-          "y": 1182.65,
-          "width": 1290.67,
-          "height": 50
+          "x": 213.51,
+          "y": 293.65,
+          "width": 480.67,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-003-004-000-2",
+        "idx_in_page": 2,
+        "text": "2024. 8. 2.",
+        "page": 7,
+        "bbox": {
+          "x": 1313.51,
+          "y": 443.65,
+          "width": 205.67,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-003-004-001-0",
-        "idx_in_page": 0,
-        "text": "[8페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
-        "page": 8,
+        "paragraph_id": "para-003-004-000-3",
+        "idx_in_page": 3,
+        "text": "원고 소송대리인",
+        "page": 7,
         "bbox": {
-          "x": 206.36,
-          "y": 96.64,
-          "width": 1320.72,
-          "height": 50
+          "x": 1223.51,
+          "y": 493.65,
+          "width": 295.67,
+          "height": 32
         },
         "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-003-004-000-4",
+        "idx_in_page": 4,
+        "text": "법무법인 정의",
+        "page": 7,
+        "bbox": {
+          "x": 1273.51,
+          "y": 543.65,
+          "width": 245.67,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-003-004-000-5",
+        "idx_in_page": 5,
+        "text": "담당변호사 박정의 (인)",
+        "page": 7,
+        "bbox": {
+          "x": 1223.51,
+          "y": 593.65,
+          "width": 295.67,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-003-004-000-6",
+        "idx_in_page": 6,
+        "text": "서울중앙지방법원 민사합의21부 귀중",
+        "page": 7,
+        "bbox": {
+          "x": 188.51,
+          "y": 693.65,
+          "width": 580.67,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-003-004-001-0",
+        "idx_in_page": 0,
+        "text": "[별지] 부동산의 표시",
+        "page": 8,
+        "bbox": {
+          "x": 656.36,
+          "y": 196.64,
+          "width": 368.72,
+          "height": 42
+        },
+        "type": "title",
         "confidence_score": 0.97
       },
       {
         "paragraph_id": "para-003-004-001-1",
         "idx_in_page": 1,
-        "text": "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
+        "text": "1. 토지",
         "page": 8,
         "bbox": {
           "x": 196.98,
-          "y": 1195.67,
-          "width": 1313.93,
-          "height": 50
+          "y": 296.67,
+          "width": 133.93,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-003-004-001-2",
+        "idx_in_page": 2,
+        "text": "서울특별시 강남구 역삼동 123-45",
+        "page": 8,
+        "bbox": {
+          "x": 246.98,
+          "y": 346.67,
+          "width": 583.93,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-003-004-001-3",
+        "idx_in_page": 3,
+        "text": "지목: 대",
+        "page": 8,
+        "bbox": {
+          "x": 246.98,
+          "y": 396.67,
+          "width": 183.93,
+          "height": 35
         },
         "type": "body",
         "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-003-004-001-4",
+        "idx_in_page": 4,
+        "text": "면적: 198.5㎡",
+        "page": 8,
+        "bbox": {
+          "x": 246.98,
+          "y": 446.67,
+          "width": 283.93,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-003-004-001-5",
+        "idx_in_page": 5,
+        "text": "2. 건물",
+        "page": 8,
+        "bbox": {
+          "x": 196.98,
+          "y": 526.67,
+          "width": 133.93,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-003-004-001-6",
+        "idx_in_page": 6,
+        "text": "서울특별시 강남구 역삼동 123-45 소재",
+        "page": 8,
+        "bbox": {
+          "x": 246.98,
+          "y": 576.67,
+          "width": 633.93,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-003-004-001-7",
+        "idx_in_page": 7,
+        "text": "철근콘크리트조 슬래브지붕 5층 근린생활시설",
+        "page": 8,
+        "bbox": {
+          "x": 246.98,
+          "y": 626.67,
+          "width": 783.93,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-003-004-001-8",
+        "idx_in_page": 8,
+        "text": "1층  89.32㎡",
+        "page": 8,
+        "bbox": {
+          "x": 246.98,
+          "y": 676.67,
+          "width": 283.93,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-003-004-001-9",
+        "idx_in_page": 9,
+        "text": "2층  89.32㎡",
+        "page": 8,
+        "bbox": {
+          "x": 246.98,
+          "y": 726.67,
+          "width": 283.93,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-003-004-001-10",
+        "idx_in_page": 10,
+        "text": "3층  89.32㎡",
+        "page": 8,
+        "bbox": {
+          "x": 246.98,
+          "y": 776.67,
+          "width": 283.93,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-003-004-001-11",
+        "idx_in_page": 11,
+        "text": "4층  89.32㎡",
+        "page": 8,
+        "bbox": {
+          "x": 246.98,
+          "y": 826.67,
+          "width": 283.93,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-003-004-001-12",
+        "idx_in_page": 12,
+        "text": "5층  89.32㎡",
+        "page": 8,
+        "bbox": {
+          "x": 246.98,
+          "y": 876.67,
+          "width": 283.93,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-003-004-001-13",
+        "idx_in_page": 13,
+        "text": "합계 446.60㎡",
+        "page": 8,
+        "bbox": {
+          "x": 246.98,
+          "y": 926.67,
+          "width": 333.93,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-003-004-001-14",
+        "idx_in_page": 14,
+        "text": "이상",
+        "page": 8,
+        "bbox": {
+          "x": 1413.98,
+          "y": 1006.67,
+          "width": 105.93,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
       }
     ]
   },

@@ -15,98 +15,323 @@
   ],
   "chunk_number": 1,
   "paragraph_texts": [
-    "[1페이지] 을1호증_보충합의서_위조의심 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[2페이지] 을1호증_보충합의서_위조의심 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[3페이지] 을1호증_보충합의서_위조의심 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "부동산 매매계약 보충합의서",
+    "본 합의서는 2024년 1월 15일 체결된 부동산 매매계약서에 대한 보충합의사항을 명시한다.",
+    "제1조 (기존 임차인 처리)",
+    "원고 김철수는 기존 임차인 홍길동과의 임대차계약을 2024년 6월 15일까지 해지하고, 해당 부동산을 피고에게 명도하기로 한다.",
+    "제2조 (보수비 지급)",
+    "원고는 인테리어 노후화 보수비 명목으로 금 30,000,000원(삼천만원)을 피고에게 별도 지급하기로 한다.",
+    "위 금액은 잔금 지급일에 함께 지급하며, 지연 시 연 6%의 지연손해금을 가산한다.",
+    "제3조 (합의 사항의 효력)",
+    "본 보충합의서는 기존 매매계약서와 동일한 효력을 가지며, 양 당사자는 이를 성실히 이행하기로 한다.",
+    "제4조 (분쟁 해결)",
+    "본 합의와 관련하여 분쟁이 발생할 경우, 서울중앙지방법원을 관할법원으로 한다.",
+    "작성일자: 2024년 3월 20일",
+    "원고 (매도인)",
+    "성명: 김철수",
+    "주소: 서울특별시 강남구 테헤란로 123",
+    "서명: 김철수",
+    "(상기 서명은 필적감정 결과 원고 김철수의 필체가 아닌 것으로 판명됨)",
+    "피고 (매수인)",
+    "성명: 이영희",
+    "주소: 경기도 성남시 분당구 정자동 456",
+    "서명: 이영희"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-033-001-000-0",
         "idx_in_page": 0,
-        "text": "[1페이지] 을1호증_보충합의서_위조의심 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "부동산 매매계약 보충합의서",
         "page": 1,
         "bbox": {
-          "x": 185.67,
-          "y": 108.02,
-          "width": 1289.13,
-          "height": 50
+          "x": 200.0,
+          "y": 100.0,
+          "width": 1200.0,
+          "height": 45.0
         },
-        "type": "body",
-        "confidence_score": 0.95
+        "type": "title",
+        "confidence_score": 0.91
       },
       {
         "paragraph_id": "para-033-001-000-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "본 합의서는 2024년 1월 15일 체결된 부동산 매매계약서에 대한 보충합의사항을 명시한다.",
         "page": 1,
         "bbox": {
-          "x": 183.3,
-          "y": 1195.93,
-          "width": 1283.48,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.99
-      },
-      {
-        "paragraph_id": "para-033-001-001-0",
-        "idx_in_page": 0,
-        "text": "[2페이지] 을1호증_보충합의서_위조의심 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 2,
-        "bbox": {
-          "x": 207.33,
-          "y": 98.31,
-          "width": 1262.36,
-          "height": 50
+          "x": 205.0,
+          "y": 290.0,
+          "width": 1190.0,
+          "height": 35.0
         },
         "type": "body",
         "confidence_score": 0.92
       },
       {
-        "paragraph_id": "para-033-001-001-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 2,
+        "paragraph_id": "para-033-001-000-2",
+        "idx_in_page": 2,
+        "text": "제1조 (기존 임차인 처리)",
+        "page": 1,
         "bbox": {
-          "x": 183.03,
-          "y": 1179.65,
-          "width": 1298.86,
-          "height": 50
+          "x": 210.0,
+          "y": 430.0,
+          "width": 1180.0,
+          "height": 35.0
         },
-        "type": "body",
+        "type": "heading",
         "confidence_score": 0.93
       },
       {
-        "paragraph_id": "para-033-001-002-0",
-        "idx_in_page": 0,
-        "text": "[3페이지] 을1호증_보충합의서_위조의심 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 3,
+        "paragraph_id": "para-033-001-000-3",
+        "idx_in_page": 3,
+        "text": "원고 김철수는 기존 임차인 홍길동과의 임대차계약을 2024년 6월 15일까지 해지하고, 해당 부동산을 피고에게 명도하기로 한다.",
+        "page": 1,
         "bbox": {
-          "x": 201.7,
-          "y": 104.87,
-          "width": 1237.22,
-          "height": 50
+          "x": 200.0,
+          "y": 570.0,
+          "width": 1170.0,
+          "height": 35.0
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-033-001-000-4",
+        "idx_in_page": 4,
+        "text": "제2조 (보수비 지급)",
+        "page": 1,
+        "bbox": {
+          "x": 205.0,
+          "y": 710.0,
+          "width": 1160.0,
+          "height": 35.0
+        },
+        "type": "heading",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-033-001-000-5",
+        "idx_in_page": 5,
+        "text": "원고는 인테리어 노후화 보수비 명목으로 금 30,000,000원(삼천만원)을 피고에게 별도 지급하기로 한다.",
+        "page": 1,
+        "bbox": {
+          "x": 210.0,
+          "y": 850.0,
+          "width": 1200.0,
+          "height": 35.0
         },
         "type": "body",
         "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-033-001-002-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 3,
+        "paragraph_id": "para-033-001-000-6",
+        "idx_in_page": 6,
+        "text": "위 금액은 잔금 지급일에 함께 지급하며, 지연 시 연 6%의 지연손해금을 가산한다.",
+        "page": 1,
         "bbox": {
-          "x": 209.79,
-          "y": 1189.02,
-          "width": 1262.52,
-          "height": 50
+          "x": 200.0,
+          "y": 990.0,
+          "width": 1190.0,
+          "height": 35.0
         },
         "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-033-001-000-7",
+        "idx_in_page": 7,
+        "text": "제3조 (합의 사항의 효력)",
+        "page": 1,
+        "bbox": {
+          "x": 205.0,
+          "y": 1130.0,
+          "width": 1180.0,
+          "height": 35.0
+        },
+        "type": "heading",
         "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-033-001-001-0",
+        "idx_in_page": 0,
+        "text": "본 보충합의서는 기존 매매계약서와 동일한 효력을 가지며, 양 당사자는 이를 성실히 이행하기로 한다.",
+        "page": 2,
+        "bbox": {
+          "x": 200.0,
+          "y": 150.0,
+          "width": 1200.0,
+          "height": 35.0
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-033-001-001-1",
+        "idx_in_page": 1,
+        "text": "제4조 (분쟁 해결)",
+        "page": 2,
+        "bbox": {
+          "x": 205.0,
+          "y": 290.0,
+          "width": 1190.0,
+          "height": 35.0
+        },
+        "type": "heading",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-033-001-001-2",
+        "idx_in_page": 2,
+        "text": "본 합의와 관련하여 분쟁이 발생할 경우, 서울중앙지방법원을 관할법원으로 한다.",
+        "page": 2,
+        "bbox": {
+          "x": 210.0,
+          "y": 430.0,
+          "width": 1180.0,
+          "height": 35.0
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-033-001-001-3",
+        "idx_in_page": 3,
+        "text": "작성일자: 2024년 3월 20일",
+        "page": 2,
+        "bbox": {
+          "x": 200.0,
+          "y": 570.0,
+          "width": 1170.0,
+          "height": 35.0
+        },
+        "type": "date",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-033-001-001-4",
+        "idx_in_page": 4,
+        "text": "원고 (매도인)",
+        "page": 2,
+        "bbox": {
+          "x": 205.0,
+          "y": 710.0,
+          "width": 1160.0,
+          "height": 35.0
+        },
+        "type": "signature_label",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-033-001-001-5",
+        "idx_in_page": 5,
+        "text": "성명: 김철수",
+        "page": 2,
+        "bbox": {
+          "x": 210.0,
+          "y": 850.0,
+          "width": 1200.0,
+          "height": 35.0
+        },
+        "type": "signature_info",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-033-001-001-6",
+        "idx_in_page": 6,
+        "text": "주소: 서울특별시 강남구 테헤란로 123",
+        "page": 2,
+        "bbox": {
+          "x": 200.0,
+          "y": 990.0,
+          "width": 1190.0,
+          "height": 35.0
+        },
+        "type": "signature_info",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-033-001-001-7",
+        "idx_in_page": 7,
+        "text": "서명: 김철수",
+        "page": 2,
+        "bbox": {
+          "x": 205.0,
+          "y": 2150.0,
+          "width": 1180.0,
+          "height": 35.0
+        },
+        "type": "signature",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-033-001-002-0",
+        "idx_in_page": 0,
+        "text": "(상기 서명은 필적감정 결과 원고 김철수의 필체가 아닌 것으로 판명됨)",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 150.0,
+          "width": 1200.0,
+          "height": 35.0
+        },
+        "type": "note",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-033-001-002-1",
+        "idx_in_page": 1,
+        "text": "피고 (매수인)",
+        "page": 3,
+        "bbox": {
+          "x": 205.0,
+          "y": 290.0,
+          "width": 1190.0,
+          "height": 35.0
+        },
+        "type": "signature_label",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-033-001-002-2",
+        "idx_in_page": 2,
+        "text": "성명: 이영희",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 430.0,
+          "width": 1180.0,
+          "height": 35.0
+        },
+        "type": "signature_info",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-033-001-002-3",
+        "idx_in_page": 3,
+        "text": "주소: 경기도 성남시 분당구 정자동 456",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 570.0,
+          "width": 1170.0,
+          "height": 35.0
+        },
+        "type": "signature_info",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-033-001-002-4",
+        "idx_in_page": 4,
+        "text": "서명: 이영희",
+        "page": 3,
+        "bbox": {
+          "x": 205.0,
+          "y": 2000.0,
+          "width": 1160.0,
+          "height": 35.0
+        },
+        "type": "signature",
+        "confidence_score": 0.95
       }
     ]
   },

@@ -1,5 +1,5 @@
 {
-  "chunk_id": "ac5c18a0-223d-4ca8-8b17-287b9b8770a9",
+  "chunk_id": "71801c9d-3b0f-4861-b2be-b83203047423",
   "file_id": 29,
   "project_id": 1001,
   "storage_file_name": "exhibit_a18_appraisal.pdf",
@@ -15,98 +15,218 @@
   ],
   "chunk_number": 3,
   "paragraph_texts": [
-    "[5페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[6페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[7페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일"
+    "2. 주변 환경",
+    "- 주변 시설: 삼성역, COEX, 현대백화점 인접",
+    "- 학군: 개포초등학교, 개포중학교 학군",
+    "- 생활 편의시설: 대형마트, 병원, 공원 등 양호",
+    "- 주거환경: 업무·상업 복합지역, 주거 선호도 높음",
+    "IV. 감정평가 방법 및 적용",
+    "본 평가는 거래사례비교법 및 원가법 병용을 적용하였습니다.",
+    "1. 거래사례비교법",
+    "인근 유사 아파트의 최근 거래사례를 조사·분석하여 비교하는 방법",
+    "2. 거래사례 수집 현황 (2024년 4~6월)",
+    "- 아크로타워 456동 512호 (84㎡): 518,000,000원 (2024.04.12)",
+    "- 아크로타워 457동 1805호 (85㎡): 522,000,000원 (2024.05.08)",
+    "- 아크로타워 458동 2204호 (84㎡): 510,000,000원 (2024.05.24)",
+    "- 아크로타워 456동 1512호 (84.5㎡): 515,000,000원 (2024.06.15)"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-029-003-000-0",
         "idx_in_page": 0,
-        "text": "[5페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "text": "2. 주변 환경",
         "page": 5,
         "bbox": {
-          "x": 208.31,
-          "y": 104.53,
-          "width": 1261.1,
-          "height": 50
+          "x": 180,
+          "y": 150,
+          "width": 1200,
+          "height": 40
         },
         "type": "body",
-        "confidence_score": 0.95
+        "confidence_score": 0.93
       },
       {
         "paragraph_id": "para-029-003-000-1",
         "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "text": "- 주변 시설: 삼성역, COEX, 현대백화점 인접",
         "page": 5,
         "bbox": {
-          "x": 194.99,
-          "y": 1193.14,
-          "width": 1233.35,
-          "height": 50
+          "x": 185,
+          "y": 195,
+          "width": 1210,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-029-003-000-2",
+        "idx_in_page": 2,
+        "text": "- 학군: 개포초등학교, 개포중학교 학군",
+        "page": 5,
+        "bbox": {
+          "x": 190,
+          "y": 240,
+          "width": 1220,
+          "height": 40
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-029-003-001-0",
-        "idx_in_page": 0,
-        "text": "[6페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-        "page": 6,
+        "paragraph_id": "para-029-003-000-3",
+        "idx_in_page": 3,
+        "text": "- 생활 편의시설: 대형마트, 병원, 공원 등 양호",
+        "page": 5,
         "bbox": {
-          "x": 209.77,
-          "y": 108.77,
-          "width": 1269.48,
-          "height": 50
+          "x": 195,
+          "y": 285,
+          "width": 1230,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-029-003-000-4",
+        "idx_in_page": 4,
+        "text": "- 주거환경: 업무·상업 복합지역, 주거 선호도 높음",
+        "page": 5,
+        "bbox": {
+          "x": 200,
+          "y": 330,
+          "width": 1240,
+          "height": 40
         },
         "type": "body",
         "confidence_score": 0.97
       },
       {
-        "paragraph_id": "para-029-003-001-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "paragraph_id": "para-029-003-001-0",
+        "idx_in_page": 0,
+        "text": "IV. 감정평가 방법 및 적용",
         "page": 6,
         "bbox": {
-          "x": 189.54,
-          "y": 1184.88,
-          "width": 1253.58,
-          "height": 50
+          "x": 180,
+          "y": 90,
+          "width": 1200,
+          "height": 60
+        },
+        "type": "heading",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-029-003-001-1",
+        "idx_in_page": 1,
+        "text": "본 평가는 거래사례비교법 및 원가법 병용을 적용하였습니다.",
+        "page": 6,
+        "bbox": {
+          "x": 185,
+          "y": 195,
+          "width": 1210,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-029-003-001-2",
+        "idx_in_page": 2,
+        "text": "1. 거래사례비교법",
+        "page": 6,
+        "bbox": {
+          "x": 190,
+          "y": 240,
+          "width": 1220,
+          "height": 40
         },
         "type": "body",
         "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-029-003-001-3",
+        "idx_in_page": 3,
+        "text": "인근 유사 아파트의 최근 거래사례를 조사·분석하여 비교하는 방법",
+        "page": 6,
+        "bbox": {
+          "x": 195,
+          "y": 285,
+          "width": 1230,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.96
       },
       {
         "paragraph_id": "para-029-003-002-0",
         "idx_in_page": 0,
-        "text": "[7페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "text": "2. 거래사례 수집 현황 (2024년 4~6월)",
         "page": 7,
         "bbox": {
-          "x": 181.46,
-          "y": 100.5,
-          "width": 1328.53,
-          "height": 50
+          "x": 180,
+          "y": 150,
+          "width": 1200,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-029-003-002-1",
+        "idx_in_page": 1,
+        "text": "- 아크로타워 456동 512호 (84㎡): 518,000,000원 (2024.04.12)",
+        "page": 7,
+        "bbox": {
+          "x": 185,
+          "y": 195,
+          "width": 1210,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-029-003-002-2",
+        "idx_in_page": 2,
+        "text": "- 아크로타워 457동 1805호 (85㎡): 522,000,000원 (2024.05.08)",
+        "page": 7,
+        "bbox": {
+          "x": 190,
+          "y": 240,
+          "width": 1220,
+          "height": 40
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-029-003-002-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "paragraph_id": "para-029-003-002-3",
+        "idx_in_page": 3,
+        "text": "- 아크로타워 458동 2204호 (84㎡): 510,000,000원 (2024.05.24)",
         "page": 7,
         "bbox": {
-          "x": 190.61,
-          "y": 1197.31,
-          "width": 1249.97,
-          "height": 50
+          "x": 195,
+          "y": 285,
+          "width": 1230,
+          "height": 40
         },
         "type": "body",
-        "confidence_score": 0.92
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-029-003-002-4",
+        "idx_in_page": 4,
+        "text": "- 아크로타워 456동 1512호 (84.5㎡): 515,000,000원 (2024.06.15)",
+        "page": 7,
+        "bbox": {
+          "x": 200,
+          "y": 330,
+          "width": 1240,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.97
       }
     ]
   },

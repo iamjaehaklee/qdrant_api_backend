@@ -15,98 +15,593 @@
   ],
   "chunk_number": 1,
   "paragraph_texts": [
-    "[1페이지] 부동산 매매계약서 매도인: 이영희, 매수인: 김철수",
+    "부동산 매매계약 보충계약서",
+    "작성일자: 2024년 3월 18일",
+    "본 보충계약서는 2024년 3월 15일자로 체결된 부동산 매매계약서의 보충사항을 명시한다.",
+    "원계약 내용",
+    "목적물: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+    "매도인: 이영희 (주민등록번호 671015-1******)",
+    "매수인: 김철수 (주민등록번호 850322-1******)",
     "매매대금: 금 500,000,000원",
-    "[2페이지] 부동산 매매계약서 매도인: 이영희, 매수인: 김철수",
-    "매매대금: 금 500,000,000원",
-    "[3페이지] 부동산 매매계약서 매도인: 이영희, 매수인: 김철수",
-    "매매대금: 금 500,000,000원"
+    "제1조 (보충사항의 목적)",
+    "본 보충계약서는 2024년 3월 15일 체결된 부동산 매매계약서의 일부 조항을",
+    "구체화하고 당사자 간 추가 합의사항을 명확히 하기 위해 작성되었다.",
+    "본 보충계약서는 원계약과 동일한 효력을 가진다.",
+    "제2조 (부동산에 부착된 물품의 귀속)",
+    "매도인은 잔금일까지 부동산에 부착된 다음 각 호의 물품을 그대로 두고 인도한다.",
+    "1. 에어컨 3대 (거실 1대, 안방 1대, 작은방 1대)",
+    "   - 제조사: 삼성전자",
+    "   - 설치일자: 2022년 5월",
+    "   - 작동 상태: 정상",
+    "2. 냉장고 1대 (주방)",
+    "   - 제조사: LG전자",
+    "   - 용량: 800L",
+    "   - 구입일자: 2021년 3월",
+    "3. 세탁기 1대 (세탁실)",
+    "   - 제조사: LG전자",
+    "   - 용량: 21kg",
+    "   - 구입일자: 2021년 3월",
+    "위 물품들은 잔금일 현재의 상태로 인도되며, 매수인은 이를 확인하고 수령한다.",
+    "매도인은 위 물품의 고장 또는 하자에 대해 별도의 담보책임을 부담하지 않는다.",
+    "제3조 (관리비 및 제세공과금의 부담)",
+    "부동산의 관리비 및 제세공과금의 부담은 다음과 같이 한다.",
+    "1. 잔금일 이전분: 매도인이 부담",
+    "   - 아파트 관리비 (일반관리비, 난방비, 수도료, 전기료 등)",
+    "   - 재산세 및 종합부동산세",
+    "   - 기타 공과금",
+    "2. 잔금일 이후분: 매수인이 부담",
+    "   - 위 1항과 동일한 항목",
+    "3. 관리비 정산",
+    "   - 매도인은 잔금일 3일 전까지 관리사무소에서 관리비 정산 확인서를 발급받아 매수인에게 제시한다.",
+    "   - 잔금일 이전 미납 관리비가 있는 경우 매도인은 잔금일 이전에 완납한다."
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-010-001-000-0",
         "idx_in_page": 0,
-        "text": "[1페이지] 부동산 매매계약서 매도인: 이영희, 매수인: 김철수",
+        "text": "부동산 매매계약 보충계약서",
         "page": 1,
         "bbox": {
-          "x": 215.8,
-          "y": 102.98,
-          "width": 1242.78,
-          "height": 50
+          "x": 600.0,
+          "y": 150.0,
+          "width": 480.0,
+          "height": 45
         },
-        "type": "body",
-        "confidence_score": 0.95
+        "type": "title",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-010-001-000-1",
         "idx_in_page": 1,
-        "text": "매매대금: 금 500,000,000원",
+        "text": "작성일자: 2024년 3월 18일",
         "page": 1,
         "bbox": {
-          "x": 191.5,
-          "y": 1195.37,
-          "width": 1312.48,
-          "height": 50
+          "x": 1200.0,
+          "y": 220.0,
+          "width": 280.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-010-001-000-2",
+        "idx_in_page": 2,
+        "text": "본 보충계약서는 2024년 3월 15일자로 체결된 부동산 매매계약서의 보충사항을 명시한다.",
+        "page": 1,
+        "bbox": {
+          "x": 200.0,
+          "y": 300.0,
+          "width": 1040.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-010-001-000-3",
+        "idx_in_page": 3,
+        "text": "원계약 내용",
+        "page": 1,
+        "bbox": {
+          "x": 200.0,
+          "y": 380.0,
+          "width": 180.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-010-001-000-4",
+        "idx_in_page": 4,
+        "text": "목적물: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "page": 1,
+        "bbox": {
+          "x": 220.0,
+          "y": 430.0,
+          "width": 780.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-010-001-000-5",
+        "idx_in_page": 5,
+        "text": "매도인: 이영희 (주민등록번호 671015-1******)",
+        "page": 1,
+        "bbox": {
+          "x": 220.0,
+          "y": 475.0,
+          "width": 520.0,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-010-001-001-0",
-        "idx_in_page": 0,
-        "text": "[2페이지] 부동산 매매계약서 매도인: 이영희, 매수인: 김철수",
-        "page": 2,
+        "paragraph_id": "para-010-001-000-6",
+        "idx_in_page": 6,
+        "text": "매수인: 김철수 (주민등록번호 850322-1******)",
+        "page": 1,
         "bbox": {
-          "x": 194.49,
-          "y": 102.47,
-          "width": 1327.26,
-          "height": 50
+          "x": 220.0,
+          "y": 520.0,
+          "width": 520.0,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-010-001-000-7",
+        "idx_in_page": 7,
+        "text": "매매대금: 금 500,000,000원",
+        "page": 1,
+        "bbox": {
+          "x": 220.0,
+          "y": 565.0,
+          "width": 380.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-010-001-000-8",
+        "idx_in_page": 8,
+        "text": "제1조 (보충사항의 목적)",
+        "page": 1,
+        "bbox": {
+          "x": 200.0,
+          "y": 650.0,
+          "width": 320.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-010-001-000-9",
+        "idx_in_page": 9,
+        "text": "본 보충계약서는 2024년 3월 15일 체결된 부동산 매매계약서의 일부 조항을",
+        "page": 1,
+        "bbox": {
+          "x": 200.0,
+          "y": 700.0,
+          "width": 900.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-010-001-000-10",
+        "idx_in_page": 10,
+        "text": "구체화하고 당사자 간 추가 합의사항을 명확히 하기 위해 작성되었다.",
+        "page": 1,
+        "bbox": {
+          "x": 200.0,
+          "y": 745.0,
+          "width": 840.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-010-001-000-11",
+        "idx_in_page": 11,
+        "text": "본 보충계약서는 원계약과 동일한 효력을 가진다.",
+        "page": 1,
+        "bbox": {
+          "x": 200.0,
+          "y": 790.0,
+          "width": 600.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-010-001-001-0",
+        "idx_in_page": 0,
+        "text": "제2조 (부동산에 부착된 물품의 귀속)",
+        "page": 2,
+        "bbox": {
+          "x": 200.0,
+          "y": 180.0,
+          "width": 480.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.97
       },
       {
         "paragraph_id": "para-010-001-001-1",
         "idx_in_page": 1,
-        "text": "매매대금: 금 500,000,000원",
+        "text": "매도인은 잔금일까지 부동산에 부착된 다음 각 호의 물품을 그대로 두고 인도한다.",
         "page": 2,
         "bbox": {
-          "x": 209.79,
-          "y": 1180.29,
-          "width": 1268.2,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.92
-      },
-      {
-        "paragraph_id": "para-010-001-002-0",
-        "idx_in_page": 0,
-        "text": "[3페이지] 부동산 매매계약서 매도인: 이영희, 매수인: 김철수",
-        "page": 3,
-        "bbox": {
-          "x": 198.4,
-          "y": 100.2,
-          "width": 1241.62,
-          "height": 50
+          "x": 200.0,
+          "y": 230.0,
+          "width": 1000.0,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-010-001-002-1",
-        "idx_in_page": 1,
-        "text": "매매대금: 금 500,000,000원",
-        "page": 3,
+        "paragraph_id": "para-010-001-001-2",
+        "idx_in_page": 2,
+        "text": "1. 에어컨 3대 (거실 1대, 안방 1대, 작은방 1대)",
+        "page": 2,
         "bbox": {
-          "x": 211.56,
-          "y": 1190.48,
-          "width": 1289.23,
-          "height": 50
+          "x": 220.0,
+          "y": 280.0,
+          "width": 620.0,
+          "height": 32
         },
         "type": "body",
-        "confidence_score": 0.99
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-010-001-001-3",
+        "idx_in_page": 3,
+        "text": "   - 제조사: 삼성전자",
+        "page": 2,
+        "bbox": {
+          "x": 240.0,
+          "y": 325.0,
+          "width": 280.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-010-001-001-4",
+        "idx_in_page": 4,
+        "text": "   - 설치일자: 2022년 5월",
+        "page": 2,
+        "bbox": {
+          "x": 240.0,
+          "y": 365.0,
+          "width": 320.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-010-001-001-5",
+        "idx_in_page": 5,
+        "text": "   - 작동 상태: 정상",
+        "page": 2,
+        "bbox": {
+          "x": 240.0,
+          "y": 405.0,
+          "width": 260.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-010-001-001-6",
+        "idx_in_page": 6,
+        "text": "2. 냉장고 1대 (주방)",
+        "page": 2,
+        "bbox": {
+          "x": 220.0,
+          "y": 460.0,
+          "width": 280.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-010-001-001-7",
+        "idx_in_page": 7,
+        "text": "   - 제조사: LG전자",
+        "page": 2,
+        "bbox": {
+          "x": 240.0,
+          "y": 505.0,
+          "width": 260.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-010-001-001-8",
+        "idx_in_page": 8,
+        "text": "   - 용량: 800L",
+        "page": 2,
+        "bbox": {
+          "x": 240.0,
+          "y": 545.0,
+          "width": 200.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-010-001-001-9",
+        "idx_in_page": 9,
+        "text": "   - 구입일자: 2021년 3월",
+        "page": 2,
+        "bbox": {
+          "x": 240.0,
+          "y": 585.0,
+          "width": 300.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-010-001-001-10",
+        "idx_in_page": 10,
+        "text": "3. 세탁기 1대 (세탁실)",
+        "page": 2,
+        "bbox": {
+          "x": 220.0,
+          "y": 640.0,
+          "width": 300.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-010-001-001-11",
+        "idx_in_page": 11,
+        "text": "   - 제조사: LG전자",
+        "page": 2,
+        "bbox": {
+          "x": 240.0,
+          "y": 685.0,
+          "width": 260.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-010-001-001-12",
+        "idx_in_page": 12,
+        "text": "   - 용량: 21kg",
+        "page": 2,
+        "bbox": {
+          "x": 240.0,
+          "y": 725.0,
+          "width": 200.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-010-001-001-13",
+        "idx_in_page": 13,
+        "text": "   - 구입일자: 2021년 3월",
+        "page": 2,
+        "bbox": {
+          "x": 240.0,
+          "y": 765.0,
+          "width": 300.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-010-001-001-14",
+        "idx_in_page": 14,
+        "text": "위 물품들은 잔금일 현재의 상태로 인도되며, 매수인은 이를 확인하고 수령한다.",
+        "page": 2,
+        "bbox": {
+          "x": 200.0,
+          "y": 830.0,
+          "width": 920.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-010-001-001-15",
+        "idx_in_page": 15,
+        "text": "매도인은 위 물품의 고장 또는 하자에 대해 별도의 담보책임을 부담하지 않는다.",
+        "page": 2,
+        "bbox": {
+          "x": 200.0,
+          "y": 875.0,
+          "width": 960.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-010-001-002-0",
+        "idx_in_page": 0,
+        "text": "제3조 (관리비 및 제세공과금의 부담)",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 180.0,
+          "width": 480.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-010-001-002-1",
+        "idx_in_page": 1,
+        "text": "부동산의 관리비 및 제세공과금의 부담은 다음과 같이 한다.",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 230.0,
+          "width": 740.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-010-001-002-2",
+        "idx_in_page": 2,
+        "text": "1. 잔금일 이전분: 매도인이 부담",
+        "page": 3,
+        "bbox": {
+          "x": 220.0,
+          "y": 280.0,
+          "width": 440.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-010-001-002-3",
+        "idx_in_page": 3,
+        "text": "   - 아파트 관리비 (일반관리비, 난방비, 수도료, 전기료 등)",
+        "page": 3,
+        "bbox": {
+          "x": 240.0,
+          "y": 325.0,
+          "width": 760.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-010-001-002-4",
+        "idx_in_page": 4,
+        "text": "   - 재산세 및 종합부동산세",
+        "page": 3,
+        "bbox": {
+          "x": 240.0,
+          "y": 365.0,
+          "width": 380.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-010-001-002-5",
+        "idx_in_page": 5,
+        "text": "   - 기타 공과금",
+        "page": 3,
+        "bbox": {
+          "x": 240.0,
+          "y": 405.0,
+          "width": 220.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-010-001-002-6",
+        "idx_in_page": 6,
+        "text": "2. 잔금일 이후분: 매수인이 부담",
+        "page": 3,
+        "bbox": {
+          "x": 220.0,
+          "y": 460.0,
+          "width": 440.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-010-001-002-7",
+        "idx_in_page": 7,
+        "text": "   - 위 1항과 동일한 항목",
+        "page": 3,
+        "bbox": {
+          "x": 240.0,
+          "y": 505.0,
+          "width": 340.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-010-001-002-8",
+        "idx_in_page": 8,
+        "text": "3. 관리비 정산",
+        "page": 3,
+        "bbox": {
+          "x": 220.0,
+          "y": 560.0,
+          "width": 240.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-010-001-002-9",
+        "idx_in_page": 9,
+        "text": "   - 매도인은 잔금일 3일 전까지 관리사무소에서 관리비 정산 확인서를 발급받아 매수인에게 제시한다.",
+        "page": 3,
+        "bbox": {
+          "x": 240.0,
+          "y": 605.0,
+          "width": 1120.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-010-001-002-10",
+        "idx_in_page": 10,
+        "text": "   - 잔금일 이전 미납 관리비가 있는 경우 매도인은 잔금일 이전에 완납한다.",
+        "page": 3,
+        "bbox": {
+          "x": 240.0,
+          "y": 650.0,
+          "width": 980.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
       }
     ]
   },

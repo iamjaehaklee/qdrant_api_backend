@@ -15,37 +15,95 @@
   ],
   "chunk_number": 3,
   "paragraph_texts": [
-    "거래일시: 2024년 6월 15일 15:32:18",
-    "거래구분: 즉시이체",
-    "출금액: 150,000,000원",
-    "입금계좌: 국민은행 123-45-678901 (이영희)",
-    "거래 후 잔액: 520,000원",
-    "적요: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호 매매 잔금",
-    "비고: 대출 금 150,000,000원",
+    "신한은행 계좌거래내역",
+    "계좌번호: 110-987-654321",
+    "예금주: 김철수",
+    "조회기간: 2024년 06월 1일 ~ 2024년 06월 01일",
+    "거래일시",
+    "거래내용",
+    "출금액",
+    "입금액",
+    "잔액",
+    "2024.06.01 09:56:11",
+    "이체 하나은행 (학원비)",
+    "680000",
+    "",
+    "159320000",
+    "2024.06.01 10:32:20",
+    "카드대금 현대카드",
+    "920000",
+    "",
+    "158400000",
+    "2024.06.01 13:30:22",
+    "ATM입금",
+    "",
+    "2000000",
+    "160400000",
+    "2024.06.01 14:41:41",
+    "자동이체 (아파트관리비)",
+    "320000",
+    "",
+    "160080000",
     "페이지 5/10",
-    "거래일시: 2024년 6월 15일 15:32:18",
-    "거래구분: 즉시이체",
-    "출금액: 150,000,000원",
-    "입금계좌: 국민은행 123-45-678901 (이영희)",
-    "거래 후 잔액: 520,000원",
-    "적요: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호 매매 잔금",
-    "비고: 대출 금 150,000,000원",
+    "거래일시",
+    "거래내용",
+    "출금액",
+    "입금액",
+    "잔액",
+    "2024.06.01 19:52:35",
+    "이체 국민은행 (통신비)",
+    "89000",
+    "",
+    "159991000",
+    "2024.06.01 22:13:44",
+    "급여이체 (주)테크컴퍼니",
+    "",
+    "4500000",
+    "164491000",
+    "2024.06.01 23:31:29",
+    "이체 하나은행 (학원비)",
+    "680000",
+    "",
+    "163811000",
+    "2024.06.02 01:44:17",
+    "카드대금 신한카드",
+    "1850000",
+    "",
+    "161961000",
     "페이지 6/10",
-    "거래일시: 2024년 6월 15일 15:32:18",
-    "거래구분: 즉시이체",
-    "출금액: 150,000,000원",
-    "입금계좌: 국민은행 123-45-678901 (이영희)",
-    "거래 후 잔액: 520,000원",
-    "적요: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호 매매 잔금",
-    "비고: 대출 금 150,000,000원",
+    "거래일시",
+    "거래내용",
+    "출금액",
+    "입금액",
+    "잔액",
+    "2024.06.02 06:18:47",
+    "ATM출금 강남역점",
+    "500000",
+    "",
+    "161461000",
+    "2024.06.02 07:52:29",
+    "ATM입금",
+    "",
+    "2000000",
+    "163461000",
+    "2024.06.02 10:17:21",
+    "급여이체 (주)테크컴퍼니",
+    "",
+    "4500000",
+    "167961000",
+    "2024.06.02 11:43:44",
+    "카드대금 신한카드",
+    "1850000",
+    "",
+    "166111000",
     "페이지 7/10"
   ],
   "chunk_content": {
     "paragraphs": [
       {
-        "paragraph_id": "para-020-003-004-0",
+        "paragraph_id": "para-020-003-000-0",
         "idx_in_page": 0,
-        "text": "거래일시: 2024년 6월 15일 15:32:18",
+        "text": "신한은행 계좌거래내역",
         "page": 5,
         "bbox": {
           "x": 180,
@@ -53,187 +111,131 @@
           "width": 1200,
           "height": 45
         },
-        "type": "body",
-        "confidence_score": 0.9
+        "type": "header",
+        "confidence_score": 0.98
       },
       {
-        "paragraph_id": "para-020-003-004-1",
+        "paragraph_id": "para-020-003-000-1",
         "idx_in_page": 1,
-        "text": "거래구분: 즉시이체",
-        "page": 5,
-        "bbox": {
-          "x": 185,
-          "y": 160,
-          "width": 1210,
-          "height": 45
-        },
-        "type": "body",
-        "confidence_score": 0.91
-      },
-      {
-        "paragraph_id": "para-020-003-004-2",
-        "idx_in_page": 2,
-        "text": "출금액: 150,000,000원",
-        "page": 5,
-        "bbox": {
-          "x": 190,
-          "y": 220,
-          "width": 1220,
-          "height": 45
-        },
-        "type": "body",
-        "confidence_score": 0.92
-      },
-      {
-        "paragraph_id": "para-020-003-004-3",
-        "idx_in_page": 3,
-        "text": "입금계좌: 국민은행 123-45-678901 (이영희)",
-        "page": 5,
-        "bbox": {
-          "x": 195,
-          "y": 280,
-          "width": 1230,
-          "height": 45
-        },
-        "type": "body",
-        "confidence_score": 0.93
-      },
-      {
-        "paragraph_id": "para-020-003-004-4",
-        "idx_in_page": 4,
-        "text": "거래 후 잔액: 520,000원",
+        "text": "계좌번호: 110-987-654321",
         "page": 5,
         "bbox": {
           "x": 200,
-          "y": 340,
-          "width": 1240,
-          "height": 45
+          "y": 160,
+          "width": 800,
+          "height": 35
         },
         "type": "body",
-        "confidence_score": 0.94
+        "confidence_score": 0.97
       },
       {
-        "paragraph_id": "para-020-003-004-5",
-        "idx_in_page": 5,
-        "text": "적요: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호 매매 잔금",
+        "paragraph_id": "para-020-003-000-2",
+        "idx_in_page": 2,
+        "text": "예금주: 김철수",
         "page": 5,
         "bbox": {
-          "x": 205,
-          "y": 400,
-          "width": 1250,
-          "height": 45
+          "x": 200,
+          "y": 200,
+          "width": 400,
+          "height": 35
         },
         "type": "body",
-        "confidence_score": 0.95
+        "confidence_score": 0.97
       },
       {
-        "paragraph_id": "para-020-003-004-6",
-        "idx_in_page": 6,
-        "text": "비고: 대출 금 150,000,000원",
+        "paragraph_id": "para-020-003-000-3",
+        "idx_in_page": 3,
+        "text": "조회기간: 2024년 06월 1일 ~ 2024년 06월 01일",
         "page": 5,
         "bbox": {
-          "x": 210,
-          "y": 460,
-          "width": 1260,
-          "height": 45
+          "x": 200,
+          "y": 240,
+          "width": 900,
+          "height": 35
         },
         "type": "body",
         "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-020-003-004-7",
-        "idx_in_page": 7,
-        "text": "페이지 5/10",
-        "page": 5,
-        "bbox": {
-          "x": 215,
-          "y": 2300,
-          "width": 1270,
-          "height": 45
-        },
-        "type": "footer",
-        "confidence_score": 0.97
-      },
-      {
         "paragraph_id": "para-020-003-005-0",
         "idx_in_page": 0,
-        "text": "거래일시: 2024년 6월 15일 15:32:18",
-        "page": 6,
+        "text": "거래일시",
+        "page": 5,
         "bbox": {
-          "x": 180,
+          "x": 200,
           "y": 100,
-          "width": 1200,
-          "height": 45
+          "width": 250,
+          "height": 30
         },
-        "type": "body",
-        "confidence_score": 0.9
+        "type": "table_header",
+        "confidence_score": 0.95
       },
       {
         "paragraph_id": "para-020-003-005-1",
         "idx_in_page": 1,
-        "text": "거래구분: 즉시이체",
-        "page": 6,
+        "text": "거래내용",
+        "page": 5,
         "bbox": {
-          "x": 185,
-          "y": 160,
-          "width": 1210,
-          "height": 45
+          "x": 450,
+          "y": 100,
+          "width": 250,
+          "height": 30
         },
-        "type": "body",
-        "confidence_score": 0.91
+        "type": "table_header",
+        "confidence_score": 0.95
       },
       {
         "paragraph_id": "para-020-003-005-2",
         "idx_in_page": 2,
-        "text": "출금액: 150,000,000원",
-        "page": 6,
+        "text": "출금액",
+        "page": 5,
         "bbox": {
-          "x": 190,
-          "y": 220,
-          "width": 1220,
-          "height": 45
+          "x": 700,
+          "y": 100,
+          "width": 150,
+          "height": 30
         },
-        "type": "body",
-        "confidence_score": 0.92
+        "type": "table_header",
+        "confidence_score": 0.95
       },
       {
         "paragraph_id": "para-020-003-005-3",
         "idx_in_page": 3,
-        "text": "입금계좌: 국민은행 123-45-678901 (이영희)",
-        "page": 6,
+        "text": "입금액",
+        "page": 5,
         "bbox": {
-          "x": 195,
-          "y": 280,
-          "width": 1230,
-          "height": 45
+          "x": 850,
+          "y": 100,
+          "width": 150,
+          "height": 30
         },
-        "type": "body",
-        "confidence_score": 0.93
+        "type": "table_header",
+        "confidence_score": 0.95
       },
       {
         "paragraph_id": "para-020-003-005-4",
         "idx_in_page": 4,
-        "text": "거래 후 잔액: 520,000원",
-        "page": 6,
+        "text": "잔액",
+        "page": 5,
         "bbox": {
-          "x": 200,
-          "y": 340,
-          "width": 1240,
-          "height": 45
+          "x": 1000,
+          "y": 100,
+          "width": 200,
+          "height": 30
         },
-        "type": "body",
-        "confidence_score": 0.94
+        "type": "table_header",
+        "confidence_score": 0.95
       },
       {
         "paragraph_id": "para-020-003-005-5",
         "idx_in_page": 5,
-        "text": "적요: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호 매매 잔금",
-        "page": 6,
+        "text": "2024.06.01 09:56:11",
+        "page": 5,
         "bbox": {
-          "x": 205,
-          "y": 400,
-          "width": 1250,
-          "height": 45
+          "x": 200,
+          "y": 140,
+          "width": 250,
+          "height": 28
         },
         "type": "body",
         "confidence_score": 0.95
@@ -241,142 +243,1010 @@
       {
         "paragraph_id": "para-020-003-005-6",
         "idx_in_page": 6,
-        "text": "비고: 대출 금 150,000,000원",
-        "page": 6,
+        "text": "이체 하나은행 (학원비)",
+        "page": 5,
         "bbox": {
-          "x": 210,
-          "y": 460,
-          "width": 1260,
-          "height": 45
-        },
-        "type": "body",
-        "confidence_score": 0.96
-      },
-      {
-        "paragraph_id": "para-020-003-005-7",
-        "idx_in_page": 7,
-        "text": "페이지 6/10",
-        "page": 6,
-        "bbox": {
-          "x": 215,
-          "y": 2300,
-          "width": 1270,
-          "height": 45
-        },
-        "type": "footer",
-        "confidence_score": 0.97
-      },
-      {
-        "paragraph_id": "para-020-003-006-0",
-        "idx_in_page": 0,
-        "text": "거래일시: 2024년 6월 15일 15:32:18",
-        "page": 7,
-        "bbox": {
-          "x": 180,
-          "y": 100,
-          "width": 1200,
-          "height": 45
-        },
-        "type": "body",
-        "confidence_score": 0.9
-      },
-      {
-        "paragraph_id": "para-020-003-006-1",
-        "idx_in_page": 1,
-        "text": "거래구분: 즉시이체",
-        "page": 7,
-        "bbox": {
-          "x": 185,
-          "y": 160,
-          "width": 1210,
-          "height": 45
-        },
-        "type": "body",
-        "confidence_score": 0.91
-      },
-      {
-        "paragraph_id": "para-020-003-006-2",
-        "idx_in_page": 2,
-        "text": "출금액: 150,000,000원",
-        "page": 7,
-        "bbox": {
-          "x": 190,
-          "y": 220,
-          "width": 1220,
-          "height": 45
-        },
-        "type": "body",
-        "confidence_score": 0.92
-      },
-      {
-        "paragraph_id": "para-020-003-006-3",
-        "idx_in_page": 3,
-        "text": "입금계좌: 국민은행 123-45-678901 (이영희)",
-        "page": 7,
-        "bbox": {
-          "x": 195,
-          "y": 280,
-          "width": 1230,
-          "height": 45
+          "x": 450,
+          "y": 140,
+          "width": 250,
+          "height": 28
         },
         "type": "body",
         "confidence_score": 0.93
       },
       {
-        "paragraph_id": "para-020-003-006-4",
-        "idx_in_page": 4,
-        "text": "거래 후 잔액: 520,000원",
-        "page": 7,
+        "paragraph_id": "para-020-003-005-7",
+        "idx_in_page": 7,
+        "text": "680,000",
+        "page": 5,
         "bbox": {
-          "x": 200,
-          "y": 340,
-          "width": 1240,
-          "height": 45
+          "x": 700,
+          "y": 140,
+          "width": 150,
+          "height": 28
         },
         "type": "body",
-        "confidence_score": 0.94
+        "confidence_score": 0.91
       },
       {
-        "paragraph_id": "para-020-003-006-5",
-        "idx_in_page": 5,
-        "text": "적요: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호 매매 잔금",
-        "page": 7,
+        "paragraph_id": "para-020-003-005-8",
+        "idx_in_page": 8,
+        "text": "",
+        "page": 5,
         "bbox": {
-          "x": 205,
-          "y": 400,
-          "width": 1250,
-          "height": 45
+          "x": 850,
+          "y": 140,
+          "width": 150,
+          "height": 28
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-020-003-006-6",
-        "idx_in_page": 6,
-        "text": "비고: 대출 금 150,000,000원",
-        "page": 7,
+        "paragraph_id": "para-020-003-005-9",
+        "idx_in_page": 9,
+        "text": "159,320,000",
+        "page": 5,
         "bbox": {
-          "x": 210,
-          "y": 460,
-          "width": 1260,
-          "height": 45
+          "x": 1000,
+          "y": 140,
+          "width": 200,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-020-003-005-10",
+        "idx_in_page": 10,
+        "text": "2024.06.01 10:32:20",
+        "page": 5,
+        "bbox": {
+          "x": 200,
+          "y": 175,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-020-003-005-11",
+        "idx_in_page": 11,
+        "text": "카드대금 현대카드",
+        "page": 5,
+        "bbox": {
+          "x": 450,
+          "y": 175,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-020-003-005-12",
+        "idx_in_page": 12,
+        "text": "920,000",
+        "page": 5,
+        "bbox": {
+          "x": 700,
+          "y": 175,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-020-003-005-13",
+        "idx_in_page": 13,
+        "text": "",
+        "page": 5,
+        "bbox": {
+          "x": 850,
+          "y": 175,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-020-003-005-14",
+        "idx_in_page": 14,
+        "text": "158,400,000",
+        "page": 5,
+        "bbox": {
+          "x": 1000,
+          "y": 175,
+          "width": 200,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-020-003-005-15",
+        "idx_in_page": 15,
+        "text": "2024.06.01 13:30:22",
+        "page": 5,
+        "bbox": {
+          "x": 200,
+          "y": 210,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-020-003-005-16",
+        "idx_in_page": 16,
+        "text": "ATM입금",
+        "page": 5,
+        "bbox": {
+          "x": 450,
+          "y": 210,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-020-003-005-17",
+        "idx_in_page": 17,
+        "text": "",
+        "page": 5,
+        "bbox": {
+          "x": 700,
+          "y": 210,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-020-003-005-18",
+        "idx_in_page": 18,
+        "text": "2,000,000",
+        "page": 5,
+        "bbox": {
+          "x": 850,
+          "y": 210,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-020-003-005-19",
+        "idx_in_page": 19,
+        "text": "160,400,000",
+        "page": 5,
+        "bbox": {
+          "x": 1000,
+          "y": 210,
+          "width": 200,
+          "height": 28
         },
         "type": "body",
         "confidence_score": 0.96
       },
       {
+        "paragraph_id": "para-020-003-005-20",
+        "idx_in_page": 20,
+        "text": "2024.06.01 14:41:41",
+        "page": 5,
+        "bbox": {
+          "x": 200,
+          "y": 245,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-020-003-005-21",
+        "idx_in_page": 21,
+        "text": "자동이체 (아파트관리비)",
+        "page": 5,
+        "bbox": {
+          "x": 450,
+          "y": 245,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-020-003-005-22",
+        "idx_in_page": 22,
+        "text": "320,000",
+        "page": 5,
+        "bbox": {
+          "x": 700,
+          "y": 245,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-020-003-005-23",
+        "idx_in_page": 23,
+        "text": "",
+        "page": 5,
+        "bbox": {
+          "x": 850,
+          "y": 245,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-020-003-005-24",
+        "idx_in_page": 24,
+        "text": "160,080,000",
+        "page": 5,
+        "bbox": {
+          "x": 1000,
+          "y": 245,
+          "width": 200,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-020-003-005-25",
+        "idx_in_page": 25,
+        "text": "페이지 5/10",
+        "page": 5,
+        "bbox": {
+          "x": 600,
+          "y": 2300,
+          "width": 200,
+          "height": 30
+        },
+        "type": "footer",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-020-003-006-0",
+        "idx_in_page": 0,
+        "text": "거래일시",
+        "page": 6,
+        "bbox": {
+          "x": 200,
+          "y": 100,
+          "width": 250,
+          "height": 30
+        },
+        "type": "table_header",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-020-003-006-1",
+        "idx_in_page": 1,
+        "text": "거래내용",
+        "page": 6,
+        "bbox": {
+          "x": 450,
+          "y": 100,
+          "width": 250,
+          "height": 30
+        },
+        "type": "table_header",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-020-003-006-2",
+        "idx_in_page": 2,
+        "text": "출금액",
+        "page": 6,
+        "bbox": {
+          "x": 700,
+          "y": 100,
+          "width": 150,
+          "height": 30
+        },
+        "type": "table_header",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-020-003-006-3",
+        "idx_in_page": 3,
+        "text": "입금액",
+        "page": 6,
+        "bbox": {
+          "x": 850,
+          "y": 100,
+          "width": 150,
+          "height": 30
+        },
+        "type": "table_header",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-020-003-006-4",
+        "idx_in_page": 4,
+        "text": "잔액",
+        "page": 6,
+        "bbox": {
+          "x": 1000,
+          "y": 100,
+          "width": 200,
+          "height": 30
+        },
+        "type": "table_header",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-020-003-006-5",
+        "idx_in_page": 5,
+        "text": "2024.06.01 19:52:35",
+        "page": 6,
+        "bbox": {
+          "x": 200,
+          "y": 140,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-020-003-006-6",
+        "idx_in_page": 6,
+        "text": "이체 국민은행 (통신비)",
+        "page": 6,
+        "bbox": {
+          "x": 450,
+          "y": 140,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
         "paragraph_id": "para-020-003-006-7",
         "idx_in_page": 7,
+        "text": "89,000",
+        "page": 6,
+        "bbox": {
+          "x": 700,
+          "y": 140,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-020-003-006-8",
+        "idx_in_page": 8,
+        "text": "",
+        "page": 6,
+        "bbox": {
+          "x": 850,
+          "y": 140,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-020-003-006-9",
+        "idx_in_page": 9,
+        "text": "159,991,000",
+        "page": 6,
+        "bbox": {
+          "x": 1000,
+          "y": 140,
+          "width": 200,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-020-003-006-10",
+        "idx_in_page": 10,
+        "text": "2024.06.01 22:13:44",
+        "page": 6,
+        "bbox": {
+          "x": 200,
+          "y": 175,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-020-003-006-11",
+        "idx_in_page": 11,
+        "text": "급여이체 (주)테크컴퍼니",
+        "page": 6,
+        "bbox": {
+          "x": 450,
+          "y": 175,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-020-003-006-12",
+        "idx_in_page": 12,
+        "text": "",
+        "page": 6,
+        "bbox": {
+          "x": 700,
+          "y": 175,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-020-003-006-13",
+        "idx_in_page": 13,
+        "text": "4,500,000",
+        "page": 6,
+        "bbox": {
+          "x": 850,
+          "y": 175,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-020-003-006-14",
+        "idx_in_page": 14,
+        "text": "164,491,000",
+        "page": 6,
+        "bbox": {
+          "x": 1000,
+          "y": 175,
+          "width": 200,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-020-003-006-15",
+        "idx_in_page": 15,
+        "text": "2024.06.01 23:31:29",
+        "page": 6,
+        "bbox": {
+          "x": 200,
+          "y": 210,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-020-003-006-16",
+        "idx_in_page": 16,
+        "text": "이체 하나은행 (학원비)",
+        "page": 6,
+        "bbox": {
+          "x": 450,
+          "y": 210,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-020-003-006-17",
+        "idx_in_page": 17,
+        "text": "680,000",
+        "page": 6,
+        "bbox": {
+          "x": 700,
+          "y": 210,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-020-003-006-18",
+        "idx_in_page": 18,
+        "text": "",
+        "page": 6,
+        "bbox": {
+          "x": 850,
+          "y": 210,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-020-003-006-19",
+        "idx_in_page": 19,
+        "text": "163,811,000",
+        "page": 6,
+        "bbox": {
+          "x": 1000,
+          "y": 210,
+          "width": 200,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-020-003-006-20",
+        "idx_in_page": 20,
+        "text": "2024.06.02 01:44:17",
+        "page": 6,
+        "bbox": {
+          "x": 200,
+          "y": 245,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-020-003-006-21",
+        "idx_in_page": 21,
+        "text": "카드대금 신한카드",
+        "page": 6,
+        "bbox": {
+          "x": 450,
+          "y": 245,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-020-003-006-22",
+        "idx_in_page": 22,
+        "text": "1,850,000",
+        "page": 6,
+        "bbox": {
+          "x": 700,
+          "y": 245,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-020-003-006-23",
+        "idx_in_page": 23,
+        "text": "",
+        "page": 6,
+        "bbox": {
+          "x": 850,
+          "y": 245,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-020-003-006-24",
+        "idx_in_page": 24,
+        "text": "161,961,000",
+        "page": 6,
+        "bbox": {
+          "x": 1000,
+          "y": 245,
+          "width": 200,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-020-003-006-25",
+        "idx_in_page": 25,
+        "text": "페이지 6/10",
+        "page": 6,
+        "bbox": {
+          "x": 600,
+          "y": 2300,
+          "width": 200,
+          "height": 30
+        },
+        "type": "footer",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-020-003-007-0",
+        "idx_in_page": 0,
+        "text": "거래일시",
+        "page": 7,
+        "bbox": {
+          "x": 200,
+          "y": 100,
+          "width": 250,
+          "height": 30
+        },
+        "type": "table_header",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-020-003-007-1",
+        "idx_in_page": 1,
+        "text": "거래내용",
+        "page": 7,
+        "bbox": {
+          "x": 450,
+          "y": 100,
+          "width": 250,
+          "height": 30
+        },
+        "type": "table_header",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-020-003-007-2",
+        "idx_in_page": 2,
+        "text": "출금액",
+        "page": 7,
+        "bbox": {
+          "x": 700,
+          "y": 100,
+          "width": 150,
+          "height": 30
+        },
+        "type": "table_header",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-020-003-007-3",
+        "idx_in_page": 3,
+        "text": "입금액",
+        "page": 7,
+        "bbox": {
+          "x": 850,
+          "y": 100,
+          "width": 150,
+          "height": 30
+        },
+        "type": "table_header",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-020-003-007-4",
+        "idx_in_page": 4,
+        "text": "잔액",
+        "page": 7,
+        "bbox": {
+          "x": 1000,
+          "y": 100,
+          "width": 200,
+          "height": 30
+        },
+        "type": "table_header",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-020-003-007-5",
+        "idx_in_page": 5,
+        "text": "2024.06.02 06:18:47",
+        "page": 7,
+        "bbox": {
+          "x": 200,
+          "y": 140,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-020-003-007-6",
+        "idx_in_page": 6,
+        "text": "ATM출금 강남역점",
+        "page": 7,
+        "bbox": {
+          "x": 450,
+          "y": 140,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-020-003-007-7",
+        "idx_in_page": 7,
+        "text": "500,000",
+        "page": 7,
+        "bbox": {
+          "x": 700,
+          "y": 140,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-020-003-007-8",
+        "idx_in_page": 8,
+        "text": "",
+        "page": 7,
+        "bbox": {
+          "x": 850,
+          "y": 140,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-020-003-007-9",
+        "idx_in_page": 9,
+        "text": "161,461,000",
+        "page": 7,
+        "bbox": {
+          "x": 1000,
+          "y": 140,
+          "width": 200,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-020-003-007-10",
+        "idx_in_page": 10,
+        "text": "2024.06.02 07:52:29",
+        "page": 7,
+        "bbox": {
+          "x": 200,
+          "y": 175,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-020-003-007-11",
+        "idx_in_page": 11,
+        "text": "ATM입금",
+        "page": 7,
+        "bbox": {
+          "x": 450,
+          "y": 175,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-020-003-007-12",
+        "idx_in_page": 12,
+        "text": "",
+        "page": 7,
+        "bbox": {
+          "x": 700,
+          "y": 175,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-020-003-007-13",
+        "idx_in_page": 13,
+        "text": "2,000,000",
+        "page": 7,
+        "bbox": {
+          "x": 850,
+          "y": 175,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-020-003-007-14",
+        "idx_in_page": 14,
+        "text": "163,461,000",
+        "page": 7,
+        "bbox": {
+          "x": 1000,
+          "y": 175,
+          "width": 200,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-020-003-007-15",
+        "idx_in_page": 15,
+        "text": "2024.06.02 10:17:21",
+        "page": 7,
+        "bbox": {
+          "x": 200,
+          "y": 210,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-020-003-007-16",
+        "idx_in_page": 16,
+        "text": "급여이체 (주)테크컴퍼니",
+        "page": 7,
+        "bbox": {
+          "x": 450,
+          "y": 210,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-020-003-007-17",
+        "idx_in_page": 17,
+        "text": "",
+        "page": 7,
+        "bbox": {
+          "x": 700,
+          "y": 210,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-020-003-007-18",
+        "idx_in_page": 18,
+        "text": "4,500,000",
+        "page": 7,
+        "bbox": {
+          "x": 850,
+          "y": 210,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-020-003-007-19",
+        "idx_in_page": 19,
+        "text": "167,961,000",
+        "page": 7,
+        "bbox": {
+          "x": 1000,
+          "y": 210,
+          "width": 200,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-020-003-007-20",
+        "idx_in_page": 20,
+        "text": "2024.06.02 11:43:44",
+        "page": 7,
+        "bbox": {
+          "x": 200,
+          "y": 245,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-020-003-007-21",
+        "idx_in_page": 21,
+        "text": "카드대금 신한카드",
+        "page": 7,
+        "bbox": {
+          "x": 450,
+          "y": 245,
+          "width": 250,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-020-003-007-22",
+        "idx_in_page": 22,
+        "text": "1,850,000",
+        "page": 7,
+        "bbox": {
+          "x": 700,
+          "y": 245,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-020-003-007-23",
+        "idx_in_page": 23,
+        "text": "",
+        "page": 7,
+        "bbox": {
+          "x": 850,
+          "y": 245,
+          "width": 150,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-020-003-007-24",
+        "idx_in_page": 24,
+        "text": "166,111,000",
+        "page": 7,
+        "bbox": {
+          "x": 1000,
+          "y": 245,
+          "width": 200,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-020-003-007-25",
+        "idx_in_page": 25,
         "text": "페이지 7/10",
         "page": 7,
         "bbox": {
-          "x": 215,
+          "x": 600,
           "y": 2300,
-          "width": 1270,
-          "height": 45
+          "width": 200,
+          "height": 30
         },
         "type": "footer",
-        "confidence_score": 0.97
+        "confidence_score": 0.98
       }
     ]
   },

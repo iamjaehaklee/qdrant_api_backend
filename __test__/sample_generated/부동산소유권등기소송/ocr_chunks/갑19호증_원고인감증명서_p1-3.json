@@ -15,98 +15,263 @@
   ],
   "chunk_number": 1,
   "paragraph_texts": [
-    "[1페이지] 갑19호증_원고인감증명서 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[2페이지] 갑19호증_원고인감증명서 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[3페이지] 갑19호증_원고인감증명서 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "인감증명서",
+    "발급번호: 2024-서울-123456",
+    "성명: 김철수",
+    "주민등록번호: 850322-1******",
+    "주소: 서울특별시 서초구 반포대로 45, 101동 202호",
+    "용도: 부동산 매매계약",
+    "인감",
+    "[인감 날인]",
+    "위와 같이 인감을 등록하였음을 증명합니다.",
+    "2024년 3월 14일",
+    "서울특별시 서초구청장 [직인]",
+    "인감증명서 사용 안내",
+    "1. 본 증명서는 발급일로부터 3개월간 유효합니다.",
+    "2. 용도 외 사용을 금지합니다.",
+    "3. 위조 또는 변조 시 법적 책임을 지게 됩니다.",
+    "4. 타인에게 양도하거나 대여할 수 없습니다.",
+    "5. 본 증명서는 전자서명법에 따라 전자적으로도 발급 가능합니다."
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-030-001-000-0",
         "idx_in_page": 0,
-        "text": "[1페이지] 갑19호증_원고인감증명서 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "인감증명서",
         "page": 1,
         "bbox": {
-          "x": 209.99,
-          "y": 107.77,
-          "width": 1322.33,
+          "x": 190,
+          "y": 100,
+          "width": 1200,
+          "height": 40
+        },
+        "type": "title",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-030-001-000-1",
+        "idx_in_page": 1,
+        "text": "발급번호: 2024-서울-123456",
+        "page": 1,
+        "bbox": {
+          "x": 195,
+          "y": 280,
+          "width": 1210,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-030-001-000-2",
+        "idx_in_page": 2,
+        "text": "성명: 김철수",
+        "page": 1,
+        "bbox": {
+          "x": 200,
+          "y": 460,
+          "width": 1220,
           "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-030-001-000-3",
+        "idx_in_page": 3,
+        "text": "주민등록번호: 850322-1******",
+        "page": 1,
+        "bbox": {
+          "x": 205,
+          "y": 640,
+          "width": 1230,
+          "height": 40
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-030-001-000-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "paragraph_id": "para-030-001-000-4",
+        "idx_in_page": 4,
+        "text": "주소: 서울특별시 서초구 반포대로 45, 101동 202호",
         "page": 1,
         "bbox": {
-          "x": 205.25,
-          "y": 1186.89,
-          "width": 1319.3,
+          "x": 210,
+          "y": 820,
+          "width": 1240,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-030-001-000-5",
+        "idx_in_page": 5,
+        "text": "용도: 부동산 매매계약",
+        "page": 1,
+        "bbox": {
+          "x": 215,
+          "y": 1000,
+          "width": 1250,
           "height": 50
         },
         "type": "body",
-        "confidence_score": 0.93
+        "confidence_score": 0.97
       },
       {
         "paragraph_id": "para-030-001-001-0",
         "idx_in_page": 0,
-        "text": "[2페이지] 갑19호증_원고인감증명서 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "인감",
         "page": 2,
         "bbox": {
-          "x": 202.42,
-          "y": 103.35,
-          "width": 1311.68,
-          "height": 50
+          "x": 190,
+          "y": 100,
+          "width": 1200,
+          "height": 40
         },
-        "type": "body",
-        "confidence_score": 0.93
+        "type": "title",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-030-001-001-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "[인감 날인]",
         "page": 2,
         "bbox": {
-          "x": 193.38,
-          "y": 1193.76,
-          "width": 1315.95,
-          "height": 50
+          "x": 195,
+          "y": 280,
+          "width": 1210,
+          "height": 45
         },
         "type": "body",
         "confidence_score": 0.92
       },
       {
-        "paragraph_id": "para-030-001-002-0",
-        "idx_in_page": 0,
-        "text": "[3페이지] 갑19호증_원고인감증명서 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 3,
+        "paragraph_id": "para-030-001-001-2",
+        "idx_in_page": 2,
+        "text": "위와 같이 인감을 등록하였음을 증명합니다.",
+        "page": 2,
         "bbox": {
-          "x": 193.74,
-          "y": 103.45,
-          "width": 1313.02,
+          "x": 200,
+          "y": 460,
+          "width": 1220,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-030-001-002-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "paragraph_id": "para-030-001-001-3",
+        "idx_in_page": 3,
+        "text": "2024년 3월 14일",
+        "page": 2,
+        "bbox": {
+          "x": 205,
+          "y": 640,
+          "width": 1230,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-030-001-001-4",
+        "idx_in_page": 4,
+        "text": "서울특별시 서초구청장 [직인]",
+        "page": 2,
+        "bbox": {
+          "x": 210,
+          "y": 820,
+          "width": 1240,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-030-001-002-0",
+        "idx_in_page": 0,
+        "text": "인감증명서 사용 안내",
         "page": 3,
         "bbox": {
-          "x": 182.09,
-          "y": 1184.91,
-          "width": 1257.09,
+          "x": 190,
+          "y": 100,
+          "width": 1200,
+          "height": 40
+        },
+        "type": "title",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-030-001-002-1",
+        "idx_in_page": 1,
+        "text": "1. 본 증명서는 발급일로부터 3개월간 유효합니다.",
+        "page": 3,
+        "bbox": {
+          "x": 195,
+          "y": 280,
+          "width": 1210,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-030-001-002-2",
+        "idx_in_page": 2,
+        "text": "2. 용도 외 사용을 금지합니다.",
+        "page": 3,
+        "bbox": {
+          "x": 200,
+          "y": 460,
+          "width": 1220,
           "height": 50
         },
         "type": "body",
-        "confidence_score": 0.98
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-030-001-002-3",
+        "idx_in_page": 3,
+        "text": "3. 위조 또는 변조 시 법적 책임을 지게 됩니다.",
+        "page": 3,
+        "bbox": {
+          "x": 205,
+          "y": 640,
+          "width": 1230,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-030-001-002-4",
+        "idx_in_page": 4,
+        "text": "4. 타인에게 양도하거나 대여할 수 없습니다.",
+        "page": 3,
+        "bbox": {
+          "x": 210,
+          "y": 820,
+          "width": 1240,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-030-001-002-5",
+        "idx_in_page": 5,
+        "text": "5. 본 증명서는 전자서명법에 따라 전자적으로도 발급 가능합니다.",
+        "page": 3,
+        "bbox": {
+          "x": 215,
+          "y": 1000,
+          "width": 1250,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
       }
     ]
   },

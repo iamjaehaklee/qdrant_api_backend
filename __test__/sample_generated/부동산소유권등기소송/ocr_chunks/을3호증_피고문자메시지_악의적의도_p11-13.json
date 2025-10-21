@@ -15,53 +15,155 @@
   ],
   "chunk_number": 6,
   "paragraph_texts": [
-    "[11페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[12페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[13페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "정모씨: 소송 진행 상황은?",
+    "피고 이영희: 답변서 준비 중이야",
+    "피고 이영희: 변호사가 최대한 늦게 내라고 했어",
+    "정모씨: 시간 끌기만 하면 뭐해. 결국 지는 거 아니야",
+    "피고 이영희: 일단 지더라도 시간 벌었으면 됐어",
+    "피고 이영희: 그동안 집값이 더 오를 테니까",
+    "정모씨: 너 법원 판결 나와도 안 넘겨줄 생각이지?",
+    "피고 이영희: 그건 그때 가서 생각해",
+    "2024년 7월 5일 (금) 16:20",
+    "정모씨: 법원에서 연락 왔어?",
+    "피고 이영희: 답변서 제출 독촉 왔어",
+    "피고 이영희: 변호사가 기한 연장 신청했대",
+    "정모씨: 계속 이렇게 버티는 거야?",
+    "피고 이영희: 응. 집값이 계속 오르는데 왜 넘겨줘",
+    "2024년 8월 1일 (목) 09:30",
+    "피고 이영희: 아침부터 경찰 왔어",
+    "정모씨: 경찰? 왜?",
+    "피고 이영희: 압수수색영장 가지고 왔어",
+    "피고 이영희: 휴대폰이랑 서류 다 가져갔어",
+    "정모씨: 미쳤다... 너 이제 어떡하려고",
+    "피고 이영희: 이 문자들도 다 볼 거야",
+    "정모씨: 내 문자까지 증거로 쓰이는 거 아니야",
+    "피고 이영희: 미안. 이제 진짜 큰일 났어",
+    "정모씨: 내가 뭐라고 했어. 그렇게 말리는 거"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-035-006-000-0",
         "idx_in_page": 0,
-        "text": "[11페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "정모씨: 소송 진행 상황은?",
         "page": 11,
         "bbox": {
-          "x": 217.04,
-          "y": 90.64,
-          "width": 1327.82,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.92
-      },
-      {
-        "paragraph_id": "para-035-006-000-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 11,
-        "bbox": {
-          "x": 187.58,
-          "y": 1190.43,
-          "width": 1275.56,
-          "height": 50
+          "x": 860.0,
+          "y": 180.0,
+          "width": 500.0,
+          "height": 38
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
+        "paragraph_id": "para-035-006-000-1",
+        "idx_in_page": 1,
+        "text": "피고 이영희: 답변서 준비 중이야",
+        "page": 11,
+        "bbox": {
+          "x": 200.0,
+          "y": 240.0,
+          "width": 620.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-035-006-000-2",
+        "idx_in_page": 2,
+        "text": "피고 이영희: 변호사가 최대한 늦게 내라고 했어",
+        "page": 11,
+        "bbox": {
+          "x": 200.0,
+          "y": 300.0,
+          "width": 880.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-035-006-000-3",
+        "idx_in_page": 3,
+        "text": "정모씨: 시간 끌기만 하면 뭐해. 결국 지는 거 아니야",
+        "page": 11,
+        "bbox": {
+          "x": 660.0,
+          "y": 360.0,
+          "width": 820.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-035-006-000-4",
+        "idx_in_page": 4,
+        "text": "피고 이영희: 일단 지더라도 시간 벌었으면 됐어",
+        "page": 11,
+        "bbox": {
+          "x": 200.0,
+          "y": 420.0,
+          "width": 880.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-035-006-000-5",
+        "idx_in_page": 5,
+        "text": "피고 이영희: 그동안 집값이 더 오를 테니까",
+        "page": 11,
+        "bbox": {
+          "x": 200.0,
+          "y": 480.0,
+          "width": 760.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-035-006-000-6",
+        "idx_in_page": 6,
+        "text": "정모씨: 너 법원 판결 나와도 안 넘겨줄 생각이지?",
+        "page": 11,
+        "bbox": {
+          "x": 680.0,
+          "y": 540.0,
+          "width": 800.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-035-006-000-7",
+        "idx_in_page": 7,
+        "text": "피고 이영희: 그건 그때 가서 생각해",
+        "page": 11,
+        "bbox": {
+          "x": 200.0,
+          "y": 600.0,
+          "width": 680.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
         "paragraph_id": "para-035-006-001-0",
         "idx_in_page": 0,
-        "text": "[12페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "2024년 7월 5일 (금) 16:20",
         "page": 12,
         "bbox": {
-          "x": 195.23,
-          "y": 108.27,
-          "width": 1278.24,
-          "height": 50
+          "x": 200.0,
+          "y": 120.0,
+          "width": 420.0,
+          "height": 35
         },
         "type": "body",
         "confidence_score": 0.96
@@ -69,44 +171,212 @@
       {
         "paragraph_id": "para-035-006-001-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "정모씨: 법원에서 연락 왔어?",
         "page": 12,
         "bbox": {
-          "x": 190.92,
-          "y": 1194.52,
-          "width": 1244.88,
-          "height": 50
+          "x": 840.0,
+          "y": 180.0,
+          "width": 580.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-035-006-001-2",
+        "idx_in_page": 2,
+        "text": "피고 이영희: 답변서 제출 독촉 왔어",
+        "page": 12,
+        "bbox": {
+          "x": 200.0,
+          "y": 240.0,
+          "width": 680.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-035-006-001-3",
+        "idx_in_page": 3,
+        "text": "피고 이영희: 변호사가 기한 연장 신청했대",
+        "page": 12,
+        "bbox": {
+          "x": 200.0,
+          "y": 300.0,
+          "width": 780.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-035-006-001-4",
+        "idx_in_page": 4,
+        "text": "정모씨: 계속 이렇게 버티는 거야?",
+        "page": 12,
+        "bbox": {
+          "x": 780.0,
+          "y": 360.0,
+          "width": 640.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-035-006-001-5",
+        "idx_in_page": 5,
+        "text": "피고 이영희: 응. 집값이 계속 오르는데 왜 넘겨줘",
+        "page": 12,
+        "bbox": {
+          "x": 200.0,
+          "y": 420.0,
+          "width": 900.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-035-006-002-0",
+        "idx_in_page": 0,
+        "text": "2024년 8월 1일 (목) 09:30",
+        "page": 13,
+        "bbox": {
+          "x": 200.0,
+          "y": 120.0,
+          "width": 420.0,
+          "height": 35
         },
         "type": "body",
         "confidence_score": 0.97
       },
       {
-        "paragraph_id": "para-035-006-002-0",
-        "idx_in_page": 0,
-        "text": "[13페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 13,
-        "bbox": {
-          "x": 196.67,
-          "y": 96.86,
-          "width": 1328.35,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.9
-      },
-      {
         "paragraph_id": "para-035-006-002-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "피고 이영희: 아침부터 경찰 왔어",
         "page": 13,
         "bbox": {
-          "x": 189.46,
-          "y": 1192.25,
-          "width": 1252.02,
-          "height": 50
+          "x": 200.0,
+          "y": 180.0,
+          "width": 640.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-035-006-002-2",
+        "idx_in_page": 2,
+        "text": "정모씨: 경찰? 왜?",
+        "page": 13,
+        "bbox": {
+          "x": 960.0,
+          "y": 240.0,
+          "width": 360.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-035-006-002-3",
+        "idx_in_page": 3,
+        "text": "피고 이영희: 압수수색영장 가지고 왔어",
+        "page": 13,
+        "bbox": {
+          "x": 200.0,
+          "y": 300.0,
+          "width": 760.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-035-006-002-4",
+        "idx_in_page": 4,
+        "text": "피고 이영희: 휴대폰이랑 서류 다 가져갔어",
+        "page": 13,
+        "bbox": {
+          "x": 200.0,
+          "y": 360.0,
+          "width": 820.0,
+          "height": 38
         },
         "type": "body",
         "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-035-006-002-5",
+        "idx_in_page": 5,
+        "text": "정모씨: 미쳤다... 너 이제 어떡하려고",
+        "page": 13,
+        "bbox": {
+          "x": 740.0,
+          "y": 420.0,
+          "width": 720.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-035-006-002-6",
+        "idx_in_page": 6,
+        "text": "피고 이영희: 이 문자들도 다 볼 거야",
+        "page": 13,
+        "bbox": {
+          "x": 200.0,
+          "y": 480.0,
+          "width": 680.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-035-006-002-7",
+        "idx_in_page": 7,
+        "text": "정모씨: 내 문자까지 증거로 쓰이는 거 아니야",
+        "page": 13,
+        "bbox": {
+          "x": 680.0,
+          "y": 540.0,
+          "width": 800.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-035-006-002-8",
+        "idx_in_page": 8,
+        "text": "피고 이영희: 미안. 이제 진짜 큰일 났어",
+        "page": 13,
+        "bbox": {
+          "x": 200.0,
+          "y": 600.0,
+          "width": 760.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-035-006-002-9",
+        "idx_in_page": 9,
+        "text": "정모씨: 내가 뭐라고 했어. 그렇게 말리는 거",
+        "page": 13,
+        "bbox": {
+          "x": 660.0,
+          "y": 660.0,
+          "width": 820.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.92
       }
     ]
   },

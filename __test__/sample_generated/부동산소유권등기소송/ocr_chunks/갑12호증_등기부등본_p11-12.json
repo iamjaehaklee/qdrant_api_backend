@@ -14,65 +14,230 @@
   ],
   "chunk_number": 6,
   "paragraph_texts": [
-    "[11페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
-    "소유자: 이영희 (2020년 12월 15일 매매)",
-    "[12페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
-    "소유자: 이영희 (2020년 12월 15일 매매)"
+    "【소유자 연혁】 - 계속",
+    "2018.3.5 매매로 인한 소유권 이전 (이영희)",
+    "이전 소유자: (개인정보 보호를 위해 표시 생략)",
+    "【주의사항】",
+    "본 등기부등본에 기재된 권리관계는 발급일 현재의 것이며,",
+    "이후 변동사항이 있을 수 있으므로 최신 정보 확인이 필요합니다",
+    "【법적 효력】",
+    "본 등기부등본은 「부동산등기법」에 따라 발급된 공적 증명서로서",
+    "법적 효력을 가집니다",
+    "【개인정보 처리방침】",
+    "본 등기부등본에 포함된 개인정보는 「개인정보 보호법」에 따라",
+    "적법하게 처리되었으며, 무단 복제 및 배포를 금지합니다",
+    "- 끝 -",
+    "서울중앙지방법원 등기국",
+    "(직인 생략)"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-023-006-000-0",
         "idx_in_page": 0,
-        "text": "[11페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
+        "text": "【소유자 연혁】 - 계속",
         "page": 11,
         "bbox": {
-          "x": 196.8,
-          "y": 103.86,
-          "width": 1328.1,
-          "height": 50
+          "x": 215,
+          "y": 645,
+          "width": 950,
+          "height": 42
+        },
+        "type": "heading",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-023-006-000-1",
+        "idx_in_page": 1,
+        "text": "2018.3.5 매매로 인한 소유권 이전 (이영희)",
+        "page": 11,
+        "bbox": {
+          "x": 215,
+          "y": 705,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-023-006-000-1",
-        "idx_in_page": 1,
-        "text": "소유자: 이영희 (2020년 12월 15일 매매)",
+        "paragraph_id": "para-023-006-000-2",
+        "idx_in_page": 2,
+        "text": "이전 소유자: (개인정보 보호를 위해 표시 생략)",
         "page": 11,
         "bbox": {
-          "x": 188.77,
-          "y": 1183.64,
-          "width": 1277.91,
-          "height": 50
+          "x": 215,
+          "y": 755,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-023-006-001-0",
+        "idx_in_page": 0,
+        "text": "【주의사항】",
+        "page": 12,
+        "bbox": {
+          "x": 215,
+          "y": 95,
+          "width": 950,
+          "height": 42
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-023-006-001-1",
+        "idx_in_page": 1,
+        "text": "본 등기부등본에 기재된 권리관계는 발급일 현재의 것이며,",
+        "page": 12,
+        "bbox": {
+          "x": 215,
+          "y": 155,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-023-006-001-2",
+        "idx_in_page": 2,
+        "text": "이후 변동사항이 있을 수 있으므로 최신 정보 확인이 필요합니다",
+        "page": 12,
+        "bbox": {
+          "x": 215,
+          "y": 205,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-023-006-001-3",
+        "idx_in_page": 3,
+        "text": "【법적 효력】",
+        "page": 12,
+        "bbox": {
+          "x": 215,
+          "y": 275,
+          "width": 950,
+          "height": 42
+        },
+        "type": "heading",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-023-006-001-4",
+        "idx_in_page": 4,
+        "text": "본 등기부등본은 「부동산등기법」에 따라 발급된 공적 증명서로서",
+        "page": 12,
+        "bbox": {
+          "x": 215,
+          "y": 335,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-023-006-001-5",
+        "idx_in_page": 5,
+        "text": "법적 효력을 가집니다",
+        "page": 12,
+        "bbox": {
+          "x": 215,
+          "y": 385,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-023-006-001-6",
+        "idx_in_page": 6,
+        "text": "【개인정보 처리방침】",
+        "page": 12,
+        "bbox": {
+          "x": 215,
+          "y": 455,
+          "width": 950,
+          "height": 42
+        },
+        "type": "heading",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-023-006-001-7",
+        "idx_in_page": 7,
+        "text": "본 등기부등본에 포함된 개인정보는 「개인정보 보호법」에 따라",
+        "page": 12,
+        "bbox": {
+          "x": 215,
+          "y": 515,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-023-006-001-8",
+        "idx_in_page": 8,
+        "text": "적법하게 처리되었으며, 무단 복제 및 배포를 금지합니다",
+        "page": 12,
+        "bbox": {
+          "x": 215,
+          "y": 565,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-023-006-001-9",
+        "idx_in_page": 9,
+        "text": "- 끝 -",
+        "page": 12,
+        "bbox": {
+          "x": 215,
+          "y": 635,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-023-006-001-10",
+        "idx_in_page": 10,
+        "text": "서울중앙지방법원 등기국",
+        "page": 12,
+        "bbox": {
+          "x": 215,
+          "y": 685,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-023-006-001-0",
-        "idx_in_page": 0,
-        "text": "[12페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
+        "paragraph_id": "para-023-006-001-11",
+        "idx_in_page": 11,
+        "text": "(직인 생략)",
         "page": 12,
         "bbox": {
-          "x": 193.68,
-          "y": 94.93,
-          "width": 1286.68,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.95
-      },
-      {
-        "paragraph_id": "para-023-006-001-1",
-        "idx_in_page": 1,
-        "text": "소유자: 이영희 (2020년 12월 15일 매매)",
-        "page": 12,
-        "bbox": {
-          "x": 211.49,
-          "y": 1186.0,
-          "width": 1299.73,
-          "height": 50
+          "x": 215,
+          "y": 735,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.99

@@ -15,98 +15,198 @@
   ],
   "chunk_number": 1,
   "paragraph_texts": [
-    "[1페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
-    "소유자: 이영희 (2020년 12월 15일 매매)",
-    "[2페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
-    "소유자: 이영희 (2020년 12월 15일 매매)",
-    "[3페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
-    "소유자: 이영희 (2020년 12월 15일 매매)"
+    "등기부등본",
+    "발급번호: 1234567890123 발급일자: 2024년 7월 25일",
+    "서울특별시 강남구 테헤란로 123 (아크로타워)",
+    "【표제부】(전유부분의 건물의 표시)",
+    "1동의 건물의 표시: 서울특별시 강남구 테헤란로 123",
+    "표시번호 접수 소재지번, 건물명칭 및 번호 건물내역",
+    "1 2015년12월28일 강남구 테헤란로 123 아크로타워 456동 789호",
+    "구조: 철근콘크리트조 용도: 아파트 면적: 84.5㎡",
+    "【표제부】(대지권의 목적인 토지의 표시)",
+    "표시번호 소재지번 지목 면적",
+    "1 서울특별시 강남구 역삼동 789-12 대 15,234.50㎡",
+    "【표제부】(전유부분의 대지권의 표시)",
+    "표시번호 대지권종류 대지권비율",
+    "1 소유권대지권 52.3/10000",
+    "【갑구】(소유권에 관한 사항)",
+    "순위번호 등기목적 접수 등기원인 권리자 및 기타사항",
+    "1 소유권이전 2018년3월10일 제12345호 2018년3월5일 매매",
+    "소유자: 이영희 (671015-1******)",
+    "주소: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-023-001-000-0",
         "idx_in_page": 0,
-        "text": "[1페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
+        "text": "등기부등본",
         "page": 1,
-        "bbox": {
-          "x": 215.4,
-          "y": 90.03,
-          "width": 1255.62,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.98
+        "bbox": {"x": 680, "y": 95, "width": 320, "height": 48},
+        "type": "title",
+        "confidence_score": 0.99
       },
       {
         "paragraph_id": "para-023-001-000-1",
         "idx_in_page": 1,
-        "text": "소유자: 이영희 (2020년 12월 15일 매매)",
+        "text": "발급번호: 1234567890123 발급일자: 2024년 7월 25일",
         "page": 1,
-        "bbox": {
-          "x": 183.48,
-          "y": 1185.72,
-          "width": 1270.16,
-          "height": 50
-        },
+        "bbox": {"x": 215, "y": 165, "width": 1250, "height": 35},
         "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-023-001-000-2",
+        "idx_in_page": 2,
+        "text": "서울특별시 강남구 테헤란로 123 (아크로타워)",
+        "page": 1,
+        "bbox": {"x": 215, "y": 220, "width": 1250, "height": 35},
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-023-001-000-3",
+        "idx_in_page": 3,
+        "text": "【표제부】(전유부분의 건물의 표시)",
+        "page": 1,
+        "bbox": {"x": 215, "y": 285, "width": 850, "height": 42},
+        "type": "heading",
         "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-023-001-000-4",
+        "idx_in_page": 4,
+        "text": "1동의 건물의 표시: 서울특별시 강남구 테헤란로 123",
+        "page": 1,
+        "bbox": {"x": 215, "y": 345, "width": 1150, "height": 32},
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-023-001-000-5",
+        "idx_in_page": 5,
+        "text": "표시번호 접수 소재지번, 건물명칭 및 번호 건물내역",
+        "page": 1,
+        "bbox": {"x": 215, "y": 395, "width": 1250, "height": 32},
+        "type": "table_header",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-023-001-000-6",
+        "idx_in_page": 6,
+        "text": "1 2015년12월28일 강남구 테헤란로 123 아크로타워 456동 789호",
+        "page": 1,
+        "bbox": {"x": 215, "y": 445, "width": 1250, "height": 32},
+        "type": "table_row",
+        "confidence_score": 0.93
       },
       {
         "paragraph_id": "para-023-001-001-0",
         "idx_in_page": 0,
-        "text": "[2페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
+        "text": "구조: 철근콘크리트조 용도: 아파트 면적: 84.5㎡",
         "page": 2,
-        "bbox": {
-          "x": 202.89,
-          "y": 97.57,
-          "width": 1280.41,
-          "height": 50
-        },
+        "bbox": {"x": 215, "y": 95, "width": 1150, "height": 32},
         "type": "body",
-        "confidence_score": 0.92
+        "confidence_score": 0.96
       },
       {
         "paragraph_id": "para-023-001-001-1",
         "idx_in_page": 1,
-        "text": "소유자: 이영희 (2020년 12월 15일 매매)",
+        "text": "【표제부】(대지권의 목적인 토지의 표시)",
         "page": 2,
-        "bbox": {
-          "x": 195.57,
-          "y": 1199.5,
-          "width": 1274.17,
-          "height": 50
-        },
-        "type": "body",
+        "bbox": {"x": 215, "y": 155, "width": 850, "height": 42},
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-023-001-001-2",
+        "idx_in_page": 2,
+        "text": "표시번호 소재지번 지목 면적",
+        "page": 2,
+        "bbox": {"x": 215, "y": 215, "width": 900, "height": 32},
+        "type": "table_header",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-023-001-001-3",
+        "idx_in_page": 3,
+        "text": "1 서울특별시 강남구 역삼동 789-12 대 15,234.50㎡",
+        "page": 2,
+        "bbox": {"x": 215, "y": 265, "width": 1150, "height": 32},
+        "type": "table_row",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-023-001-001-4",
+        "idx_in_page": 4,
+        "text": "【표제부】(전유부분의 대지권의 표시)",
+        "page": 2,
+        "bbox": {"x": 215, "y": 335, "width": 850, "height": 42},
+        "type": "heading",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-023-001-001-5",
+        "idx_in_page": 5,
+        "text": "표시번호 대지권종류 대지권비율",
+        "page": 2,
+        "bbox": {"x": 215, "y": 395, "width": 750, "height": 32},
+        "type": "table_header",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-023-001-001-6",
+        "idx_in_page": 6,
+        "text": "1 소유권대지권 52.3/10000",
+        "page": 2,
+        "bbox": {"x": 215, "y": 445, "width": 650, "height": 32},
+        "type": "table_row",
         "confidence_score": 0.92
       },
       {
         "paragraph_id": "para-023-001-002-0",
         "idx_in_page": 0,
-        "text": "[3페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
+        "text": "【갑구】(소유권에 관한 사항)",
         "page": 3,
-        "bbox": {
-          "x": 181.85,
-          "y": 99.82,
-          "width": 1261.68,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.95
+        "bbox": {"x": 215, "y": 95, "width": 650, "height": 42},
+        "type": "heading",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-023-001-002-1",
         "idx_in_page": 1,
-        "text": "소유자: 이영희 (2020년 12월 15일 매매)",
+        "text": "순위번호 등기목적 접수 등기원인 권리자 및 기타사항",
         "page": 3,
-        "bbox": {
-          "x": 182.31,
-          "y": 1179.54,
-          "width": 1285.23,
-          "height": 50
-        },
-        "type": "body",
+        "bbox": {"x": 215, "y": 155, "width": 1250, "height": 32},
+        "type": "table_header",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-023-001-002-2",
+        "idx_in_page": 2,
+        "text": "1 소유권이전 2018년3월10일 제12345호 2018년3월5일 매매",
+        "page": 3,
+        "bbox": {"x": 215, "y": 205, "width": 1250, "height": 32},
+        "type": "table_row",
         "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-023-001-002-3",
+        "idx_in_page": 3,
+        "text": "소유자: 이영희 (671015-1******)",
+        "page": 3,
+        "bbox": {"x": 215, "y": 255, "width": 850, "height": 32},
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-023-001-002-4",
+        "idx_in_page": 4,
+        "text": "주소: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "page": 3,
+        "bbox": {"x": 215, "y": 305, "width": 1200, "height": 32},
+        "type": "body",
+        "confidence_score": 0.96
       }
     ]
   },

@@ -1,5 +1,5 @@
 {
-  "chunk_id": "239d1316-c48f-4a58-8388-ddf57e5d193e",
+  "chunk_id": "c41a301a-834a-4825-94dc-7a87f0af0019",
   "file_id": 36,
   "project_id": 1001,
   "storage_file_name": "exhibit_b4_mortgage_docs.pdf",
@@ -15,98 +15,278 @@
   ],
   "chunk_number": 3,
   "paragraph_texts": [
-    "[5페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[6페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[7페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "제5조 (근저당권 설정)",
+    "1. 채권최고액: 금 이억육천만원정 (₩260,000,000)",
+    "   (대출원금 2억원의 130%)",
+    "2. 채권자: 국민은행 강남지점",
+    "3. 채무자: 이영희",
+    "4. 설정일자: 2018년 3월 12일",
+    "5. 접수번호: 2018년 3월 12일 제12345호",
+    "제6조 (대출금의 상환)",
+    "1. 을은 매월 10일까지 원리금을 갑이 지정한 계좌로 입금하여야 한다.",
+    "2. 지정계좌: 국민은행 강남지점 012-34-5678-901 (예금주: 이영희)",
+    "3. 연체 시 연체이자율: 대출금리 + 3% (연 6.45%)",
+    "4. 중도상환수수료: 대출 후 3년 이내 중도상환 시 잔액의 1.5%",
+    "제7조 (상환일정표) - 1차년도~5차년도",
+    "2018년 4월~2019년 3월: 월 1,170,000원 (원금 620,000원, 이자 550,000원)",
+    "2019년 4월~2020년 3월: 월 1,170,000원 (원금 638,000원, 이자 532,000원)",
+    "2020년 4월~2021년 3월: 월 1,170,000원 (원금 656,000원, 이자 514,000원)",
+    "2021년 4월~2022년 3월: 월 1,170,000원 (원금 674,000원, 이자 496,000원)",
+    "2022년 4월~2023년 3월: 월 1,170,000원 (원금 693,000원, 이자 477,000원)"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-036-003-000-0",
         "idx_in_page": 0,
-        "text": "[5페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "제5조 (근저당권 설정)",
         "page": 5,
         "bbox": {
-          "x": 213.23,
-          "y": 103.87,
-          "width": 1327.89,
-          "height": 50
+          "x": 195.56,
+          "y": 149,
+          "width": 1271.6,
+          "height": 73
         },
-        "type": "body",
-        "confidence_score": 0.93
+        "type": "heading",
+        "confidence_score": 0.91
       },
       {
         "paragraph_id": "para-036-003-000-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "1. 채권최고액: 금 이억육천만원정 (₩260,000,000)",
         "page": 5,
         "bbox": {
-          "x": 190.5,
-          "y": 1196.05,
-          "width": 1320.59,
-          "height": 50
+          "x": 205.19,
+          "y": 415,
+          "width": 1216.37,
+          "height": 54
         },
         "type": "body",
-        "confidence_score": 0.93
+        "confidence_score": 0.94
       },
       {
-        "paragraph_id": "para-036-003-001-0",
-        "idx_in_page": 0,
-        "text": "[6페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 6,
+        "paragraph_id": "para-036-003-000-2",
+        "idx_in_page": 2,
+        "text": "   (대출원금 2억원의 130%)",
+        "page": 5,
         "bbox": {
-          "x": 218.67,
-          "y": 97.4,
-          "width": 1242.59,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.93
-      },
-      {
-        "paragraph_id": "para-036-003-001-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 6,
-        "bbox": {
-          "x": 185.67,
-          "y": 1197.27,
-          "width": 1309.8,
-          "height": 50
+          "x": 215.59,
+          "y": 564,
+          "width": 1293.96,
+          "height": 52
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-036-003-002-0",
-        "idx_in_page": 0,
-        "text": "[7페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 7,
+        "paragraph_id": "para-036-003-000-3",
+        "idx_in_page": 3,
+        "text": "2. 채권자: 국민은행 강남지점",
+        "page": 5,
         "bbox": {
-          "x": 203.3,
-          "y": 95.11,
-          "width": 1265.18,
+          "x": 191.15,
+          "y": 867,
+          "width": 1252.79,
+          "height": 51
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-036-003-000-4",
+        "idx_in_page": 4,
+        "text": "3. 채무자: 이영희",
+        "page": 5,
+        "bbox": {
+          "x": 181.8,
+          "y": 796,
+          "width": 1225.02,
           "height": 50
         },
         "type": "body",
-        "confidence_score": 0.97
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-036-003-000-5",
+        "idx_in_page": 5,
+        "text": "4. 설정일자: 2018년 3월 12일",
+        "page": 5,
+        "bbox": {
+          "x": 214.49,
+          "y": 1418,
+          "width": 1292.97,
+          "height": 46
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-036-003-000-6",
+        "idx_in_page": 6,
+        "text": "5. 접수번호: 2018년 3월 12일 제12345호",
+        "page": 5,
+        "bbox": {
+          "x": 183.55,
+          "y": 1056,
+          "width": 1260.56,
+          "height": 49
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-036-003-001-0",
+        "idx_in_page": 0,
+        "text": "제6조 (대출금의 상환)",
+        "page": 6,
+        "bbox": {
+          "x": 203.48,
+          "y": 184,
+          "width": 1264.6,
+          "height": 69
+        },
+        "type": "heading",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-036-003-001-1",
+        "idx_in_page": 1,
+        "text": "1. 을은 매월 10일까지 원리금을 갑이 지정한 계좌로 입금하여야 한다.",
+        "page": 6,
+        "bbox": {
+          "x": 183.08,
+          "y": 392,
+          "width": 1208.14,
+          "height": 51
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-036-003-001-2",
+        "idx_in_page": 2,
+        "text": "2. 지정계좌: 국민은행 강남지점 012-34-5678-901 (예금주: 이영희)",
+        "page": 6,
+        "bbox": {
+          "x": 191.64,
+          "y": 1030,
+          "width": 1312.0,
+          "height": 48
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-036-003-001-3",
+        "idx_in_page": 3,
+        "text": "3. 연체 시 연체이자율: 대출금리 + 3% (연 6.45%)",
+        "page": 6,
+        "bbox": {
+          "x": 199.68,
+          "y": 1183,
+          "width": 1200.29,
+          "height": 47
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-036-003-001-4",
+        "idx_in_page": 4,
+        "text": "4. 중도상환수수료: 대출 후 3년 이내 중도상환 시 잔액의 1.5%",
+        "page": 6,
+        "bbox": {
+          "x": 201.05,
+          "y": 935,
+          "width": 1283.41,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-036-003-002-0",
+        "idx_in_page": 0,
+        "text": "제7조 (상환일정표) - 1차년도~5차년도",
+        "page": 7,
+        "bbox": {
+          "x": 213.53,
+          "y": 126,
+          "width": 1217.98,
+          "height": 75
+        },
+        "type": "heading",
+        "confidence_score": 0.93
       },
       {
         "paragraph_id": "para-036-003-002-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "2018년 4월~2019년 3월: 월 1,170,000원 (원금 620,000원, 이자 550,000원)",
         "page": 7,
         "bbox": {
-          "x": 189.73,
-          "y": 1196.49,
-          "width": 1271.5,
-          "height": 50
+          "x": 186.36,
+          "y": 1031,
+          "width": 1283.46,
+          "height": 46
         },
         "type": "body",
-        "confidence_score": 0.97
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-036-003-002-2",
+        "idx_in_page": 2,
+        "text": "2019년 4월~2020년 3월: 월 1,170,000원 (원금 638,000원, 이자 532,000원)",
+        "page": 7,
+        "bbox": {
+          "x": 182.69,
+          "y": 1187,
+          "width": 1278.01,
+          "height": 54
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-036-003-002-3",
+        "idx_in_page": 3,
+        "text": "2020년 4월~2021년 3월: 월 1,170,000원 (원금 656,000원, 이자 514,000원)",
+        "page": 7,
+        "bbox": {
+          "x": 181.74,
+          "y": 1153,
+          "width": 1204.4,
+          "height": 47
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-036-003-002-4",
+        "idx_in_page": 4,
+        "text": "2021년 4월~2022년 3월: 월 1,170,000원 (원금 674,000원, 이자 496,000원)",
+        "page": 7,
+        "bbox": {
+          "x": 211.29,
+          "y": 1084,
+          "width": 1312.57,
+          "height": 47
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-036-003-002-5",
+        "idx_in_page": 5,
+        "text": "2022년 4월~2023년 3월: 월 1,170,000원 (원금 693,000원, 이자 477,000원)",
+        "page": 7,
+        "bbox": {
+          "x": 185.12,
+          "y": 1250,
+          "width": 1306.39,
+          "height": 48
+        },
+        "type": "body",
+        "confidence_score": 0.98
       }
     ]
   },

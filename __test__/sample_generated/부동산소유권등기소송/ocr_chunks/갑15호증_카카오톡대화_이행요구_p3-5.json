@@ -15,98 +15,263 @@
   ],
   "chunk_number": 2,
   "paragraph_texts": [
-    "[3페이지] 카카오톡 대화내역 2024년 2월 28일 15:30 - 피고: 임차인이 완전히 이사 나갔습니다.",
-    "2024년 3월 10일 10:15 - 원고: 매매대금은 5억 맞죠? 2024년 3월 10일 10:17 - 피고: 네, 5억 맞습니다.",
-    "[4페이지] 카카오톡 대화내역 2024년 2월 28일 15:30 - 피고: 임차인이 완전히 이사 나갔습니다.",
-    "2024년 3월 10일 10:15 - 원고: 매매대금은 5억 맞죠? 2024년 3월 10일 10:17 - 피고: 네, 5억 맞습니다.",
-    "[5페이지] 카카오톡 대화내역 2024년 2월 28일 15:30 - 피고: 임차인이 완전히 이사 나갔습니다.",
-    "2024년 3월 10일 10:15 - 원고: 매매대금은 5억 맞죠? 2024년 3월 10일 10:17 - 피고: 네, 5억 맞습니다."
+    "카카오톡 대화 내역 - 3페이지",
+    "",
+    "카카오톡 대화 내역 - 4페이지",
+    "",
+    "카카오톡 대화 내역 - 5페이지",
+    "",
+    "[2024-06-10 14:00] 원고: 잔금일 6월 15일 맞죠?",
+    "[2024-06-10 14:05] 피고: 네, 맞습니다.",
+    "[2024-06-10 14:10] 원고: 등기 서류 준비되셨나요?",
+    "[2024-06-10 14:15] 피고: 네, 준비 중입니다.",
+    "[2024-06-15 09:00] 원고: 오늘 잔금 2억 송금하겠습니다.",
+    "[2024-06-15 09:05] 피고: 네, 확인 후 연락드리겠습니다.",
+    "[2024-06-15 10:30] 원고: 송금 완료했습니다. 확인 부탁드립니다.",
+    "[2024-06-15 10:35] 피고: 확인했습니다.",
+    "[2024-06-15 10:40] 원고: 등기 서류 언제 주시나요?",
+    "[2024-06-15 14:00] 원고: 서류 준비되셨나요?",
+    "[2024-06-15 17:00] 원고: 연락 부탁드립니다."
   ],
   "chunk_content": {
     "paragraphs": [
       {
-        "paragraph_id": "para-026-002-000-0",
+        "paragraph_id": "para-026-002-003-0",
         "idx_in_page": 0,
-        "text": "[3페이지] 카카오톡 대화내역 2024년 2월 28일 15:30 - 피고: 임차인이 완전히 이사 나갔습니다.",
+        "text": "카카오톡 대화 내역 - 3페이지",
         "page": 3,
         "bbox": {
-          "x": 194.26,
-          "y": 96.68,
-          "width": 1301.75,
-          "height": 50
+          "x": 200,
+          "y": 100,
+          "width": 1200,
+          "height": 40
         },
-        "type": "body",
+        "type": "header",
         "confidence_score": 0.98
       },
       {
-        "paragraph_id": "para-026-002-000-1",
+        "paragraph_id": "para-026-002-003-1",
         "idx_in_page": 1,
-        "text": "2024년 3월 10일 10:15 - 원고: 매매대금은 5억 맞죠? 2024년 3월 10일 10:17 - 피고: 네, 5억 맞습니다.",
+        "text": "[2024-06-10 14:00] 원고: 잔금일 6월 15일 맞죠?",
         "page": 3,
         "bbox": {
-          "x": 192.3,
-          "y": 1180.0,
-          "width": 1293.97,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.97
-      },
-      {
-        "paragraph_id": "para-026-002-001-0",
-        "idx_in_page": 0,
-        "text": "[4페이지] 카카오톡 대화내역 2024년 2월 28일 15:30 - 피고: 임차인이 완전히 이사 나갔습니다.",
-        "page": 4,
-        "bbox": {
-          "x": 188.19,
-          "y": 100.84,
-          "width": 1258.66,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.95
-      },
-      {
-        "paragraph_id": "para-026-002-001-1",
-        "idx_in_page": 1,
-        "text": "2024년 3월 10일 10:15 - 원고: 매매대금은 5억 맞죠? 2024년 3월 10일 10:17 - 피고: 네, 5억 맞습니다.",
-        "page": 4,
-        "bbox": {
-          "x": 196.2,
-          "y": 1181.69,
-          "width": 1237.41,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.92
-      },
-      {
-        "paragraph_id": "para-026-002-002-0",
-        "idx_in_page": 0,
-        "text": "[5페이지] 카카오톡 대화내역 2024년 2월 28일 15:30 - 피고: 임차인이 완전히 이사 나갔습니다.",
-        "page": 5,
-        "bbox": {
-          "x": 200.03,
-          "y": 107.98,
-          "width": 1275.93,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.95
-      },
-      {
-        "paragraph_id": "para-026-002-002-1",
-        "idx_in_page": 1,
-        "text": "2024년 3월 10일 10:15 - 원고: 매매대금은 5억 맞죠? 2024년 3월 10일 10:17 - 피고: 네, 5억 맞습니다.",
-        "page": 5,
-        "bbox": {
-          "x": 210.83,
-          "y": 1189.7,
-          "width": 1314.07,
-          "height": 50
+          "x": 220,
+          "y": 150,
+          "width": 1300,
+          "height": 35
         },
         "type": "body",
         "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-026-002-003-2",
+        "idx_in_page": 2,
+        "text": "[2024-06-10 14:05] 피고: 네, 맞습니다.",
+        "page": 3,
+        "bbox": {
+          "x": 220,
+          "y": 200,
+          "width": 1300,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-026-002-003-3",
+        "idx_in_page": 3,
+        "text": "[2024-06-10 14:10] 원고: 등기 서류 준비되셨나요?",
+        "page": 3,
+        "bbox": {
+          "x": 220,
+          "y": 250,
+          "width": 1300,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-026-002-003-4",
+        "idx_in_page": 4,
+        "text": "페이지 3/{total_pages}",
+        "page": 3,
+        "bbox": {
+          "x": 600,
+          "y": 2300,
+          "width": 200,
+          "height": 30
+        },
+        "type": "footer",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-026-002-004-0",
+        "idx_in_page": 0,
+        "text": "카카오톡 대화 내역 - 4페이지",
+        "page": 4,
+        "bbox": {
+          "x": 200,
+          "y": 100,
+          "width": 1200,
+          "height": 40
+        },
+        "type": "header",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-026-002-004-1",
+        "idx_in_page": 1,
+        "text": "[2024-06-10 14:15] 피고: 네, 준비 중입니다.",
+        "page": 4,
+        "bbox": {
+          "x": 220,
+          "y": 150,
+          "width": 1300,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-026-002-004-2",
+        "idx_in_page": 2,
+        "text": "[2024-06-15 09:00] 원고: 오늘 잔금 2억 송금하겠습니다.",
+        "page": 4,
+        "bbox": {
+          "x": 220,
+          "y": 200,
+          "width": 1300,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-026-002-004-3",
+        "idx_in_page": 3,
+        "text": "[2024-06-15 09:05] 피고: 네, 확인 후 연락드리겠습니다.",
+        "page": 4,
+        "bbox": {
+          "x": 220,
+          "y": 250,
+          "width": 1300,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-026-002-004-4",
+        "idx_in_page": 4,
+        "text": "페이지 4/{total_pages}",
+        "page": 4,
+        "bbox": {
+          "x": 600,
+          "y": 2300,
+          "width": 200,
+          "height": 30
+        },
+        "type": "footer",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-026-002-005-0",
+        "idx_in_page": 0,
+        "text": "카카오톡 대화 내역 - 5페이지",
+        "page": 5,
+        "bbox": {
+          "x": 200,
+          "y": 100,
+          "width": 1200,
+          "height": 40
+        },
+        "type": "header",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-026-002-005-1",
+        "idx_in_page": 1,
+        "text": "[2024-06-15 10:30] 원고: 송금 완료했습니다. 확인 부탁드립니다.",
+        "page": 5,
+        "bbox": {
+          "x": 220,
+          "y": 150,
+          "width": 1300,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-026-002-005-2",
+        "idx_in_page": 2,
+        "text": "[2024-06-15 10:35] 피고: 확인했습니다.",
+        "page": 5,
+        "bbox": {
+          "x": 220,
+          "y": 200,
+          "width": 1300,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-026-002-005-3",
+        "idx_in_page": 3,
+        "text": "[2024-06-15 10:40] 원고: 등기 서류 언제 주시나요?",
+        "page": 5,
+        "bbox": {
+          "x": 220,
+          "y": 250,
+          "width": 1300,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-026-002-005-4",
+        "idx_in_page": 4,
+        "text": "[2024-06-15 14:00] 원고: 서류 준비되셨나요?",
+        "page": 5,
+        "bbox": {
+          "x": 220,
+          "y": 300,
+          "width": 1300,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-026-002-005-5",
+        "idx_in_page": 5,
+        "text": "[2024-06-15 17:00] 원고: 연락 부탁드립니다.",
+        "page": 5,
+        "bbox": {
+          "x": 220,
+          "y": 350,
+          "width": 1300,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-026-002-005-6",
+        "idx_in_page": 6,
+        "text": "페이지 5/{total_pages}",
+        "page": 5,
+        "bbox": {
+          "x": 600,
+          "y": 2300,
+          "width": 200,
+          "height": 30
+        },
+        "type": "footer",
+        "confidence_score": 0.98
       }
     ]
   },

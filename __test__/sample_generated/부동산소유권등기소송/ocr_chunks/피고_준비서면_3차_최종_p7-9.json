@@ -15,98 +15,248 @@
   ],
   "chunk_number": 4,
   "paragraph_texts": [
-    "[7페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
-    "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
-    "[8페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
-    "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
-    "[9페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
-    "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다."
+    "다. 최종 의견",
+    "이상의 이유로 피고는 원고의 청구를 기각하여 주실 것을 거듭 요청드립니다.",
+    "2024년 10월 15일",
+    "피고 이영희 (인)",
+    "첨부서류",
+    "1. 을 제1호증 보충합의서 사본 1부",
+    "2. 을 제2호증 피고 계좌거래내역 사본 1부",
+    "3. 을 제3호증 피고 문자메시지 사본 1부",
+    "4. 을 제4호증 부동산담보대출서류 사본 1부",
+    "5. 을 제5호증 피고 주민등록등본 1부",
+    "6. 을 제6호증 피고 진술서 1부",
+    "7. 을 제7호증 감정평가서 1부",
+    "8. 을 제8호증 제3자 진술서 1부",
+    "송달료 납부서",
+    "송달료: 50,000원",
+    "납부인: 피고 이영희"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-008-004-000-0",
-        "idx_in_page": 0,
-        "text": "[7페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
+        "idx_in_page": 5,
+        "text": "다. 최종 의견",
         "page": 7,
         "bbox": {
-          "x": 201.87,
-          "y": 98.93,
-          "width": 1315.69,
-          "height": 50
+          "x": 250.0,
+          "y": 800.0,
+          "width": 440.0,
+          "height": 35
         },
         "type": "body",
-        "confidence_score": 0.93
+        "confidence_score": 0.95
       },
       {
         "paragraph_id": "para-008-004-000-1",
-        "idx_in_page": 1,
-        "text": "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
+        "idx_in_page": 6,
+        "text": "이상의 이유로 피고는 원고의 청구를 기각하여 주실 것을 거듭 요청드립니다.",
         "page": 7,
         "bbox": {
-          "x": 219.23,
-          "y": 1196.01,
-          "width": 1249.72,
-          "height": 50
+          "x": 250.0,
+          "y": 860.0,
+          "width": 605.0,
+          "height": 35
         },
         "type": "body",
-        "confidence_score": 0.92
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-008-004-000-2",
+        "idx_in_page": 7,
+        "text": "2024년 10월 15일",
+        "page": 7,
+        "bbox": {
+          "x": 250.0,
+          "y": 920.0,
+          "width": 465.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.9299999999999999
+      },
+      {
+        "paragraph_id": "para-008-004-000-3",
+        "idx_in_page": 8,
+        "text": "피고 이영희 (인)",
+        "page": 7,
+        "bbox": {
+          "x": 250.0,
+          "y": 980.0,
+          "width": 450.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.9199999999999999
       },
       {
         "paragraph_id": "para-008-004-001-0",
         "idx_in_page": 0,
-        "text": "[8페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
+        "text": "첨부서류",
         "page": 8,
         "bbox": {
-          "x": 188.08,
-          "y": 99.47,
-          "width": 1253.17,
-          "height": 50
+          "x": 200.0,
+          "y": 150.0,
+          "width": 420.0,
+          "height": 40
         },
-        "type": "body",
-        "confidence_score": 0.97
+        "type": "heading",
+        "confidence_score": 0.96
       },
       {
         "paragraph_id": "para-008-004-001-1",
         "idx_in_page": 1,
-        "text": "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
+        "text": "1. 을 제1호증 보충합의서 사본 1부",
         "page": 8,
         "bbox": {
-          "x": 200.22,
-          "y": 1195.89,
-          "width": 1297.6,
-          "height": 50
+          "x": 250.0,
+          "y": 200.0,
+          "width": 505.0,
+          "height": 35
         },
         "type": "body",
-        "confidence_score": 0.98
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-008-004-001-2",
+        "idx_in_page": 2,
+        "text": "2. 을 제2호증 피고 계좌거래내역 사본 1부",
+        "page": 8,
+        "bbox": {
+          "x": 250.0,
+          "y": 250.0,
+          "width": 525.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-008-004-001-3",
+        "idx_in_page": 3,
+        "text": "3. 을 제3호증 피고 문자메시지 사본 1부",
+        "page": 8,
+        "bbox": {
+          "x": 250.0,
+          "y": 300.0,
+          "width": 520.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.9299999999999999
+      },
+      {
+        "paragraph_id": "para-008-004-001-4",
+        "idx_in_page": 4,
+        "text": "4. 을 제4호증 부동산담보대출서류 사본 1부",
+        "page": 8,
+        "bbox": {
+          "x": 250.0,
+          "y": 350.0,
+          "width": 525.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.9199999999999999
+      },
+      {
+        "paragraph_id": "para-008-004-001-5",
+        "idx_in_page": 5,
+        "text": "5. 을 제5호증 피고 주민등록등본 1부",
+        "page": 8,
+        "bbox": {
+          "x": 250.0,
+          "y": 400.0,
+          "width": 510.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.9099999999999999
+      },
+      {
+        "paragraph_id": "para-008-004-001-6",
+        "idx_in_page": 6,
+        "text": "6. 을 제6호증 피고 진술서 1부",
+        "page": 8,
+        "bbox": {
+          "x": 250.0,
+          "y": 450.0,
+          "width": 495.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.8999999999999999
+      },
+      {
+        "paragraph_id": "para-008-004-001-7",
+        "idx_in_page": 7,
+        "text": "7. 을 제7호증 감정평가서 1부",
+        "page": 8,
+        "bbox": {
+          "x": 250.0,
+          "y": 500.0,
+          "width": 490.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.8899999999999999
+      },
+      {
+        "paragraph_id": "para-008-004-001-8",
+        "idx_in_page": 8,
+        "text": "8. 을 제8호증 제3자 진술서 1부",
+        "page": 8,
+        "bbox": {
+          "x": 250.0,
+          "y": 550.0,
+          "width": 500.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.88
       },
       {
         "paragraph_id": "para-008-004-002-0",
         "idx_in_page": 0,
-        "text": "[9페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
+        "text": "송달료 납부서",
         "page": 9,
         "bbox": {
-          "x": 189.73,
-          "y": 101.78,
-          "width": 1270.43,
-          "height": 50
+          "x": 200.0,
+          "y": 150.0,
+          "width": 435.0,
+          "height": 40
         },
-        "type": "body",
-        "confidence_score": 0.96
+        "type": "heading",
+        "confidence_score": 0.94
       },
       {
         "paragraph_id": "para-008-004-002-1",
         "idx_in_page": 1,
-        "text": "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
+        "text": "송달료: 50,000원",
         "page": 9,
         "bbox": {
-          "x": 200.37,
-          "y": 1180.47,
-          "width": 1272.1,
-          "height": 50
+          "x": 250.0,
+          "y": 210.0,
+          "width": 460.0,
+          "height": 35
         },
         "type": "body",
-        "confidence_score": 0.92
+        "confidence_score": 0.9299999999999999
+      },
+      {
+        "paragraph_id": "para-008-004-002-2",
+        "idx_in_page": 2,
+        "text": "납부인: 피고 이영희",
+        "page": 9,
+        "bbox": {
+          "x": 250.0,
+          "y": 270.0,
+          "width": 455.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.9199999999999999
       }
     ]
   },

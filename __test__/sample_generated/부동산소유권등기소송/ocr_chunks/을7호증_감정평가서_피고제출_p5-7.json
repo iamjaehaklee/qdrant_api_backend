@@ -15,98 +15,428 @@
   ],
   "chunk_number": 3,
   "paragraph_texts": [
-    "[5페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[6페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[7페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일"
+    "제3장 가격조사 및 분석",
+    "1. 인근지역 거래사례 조사",
+    "   [거래사례 1]",
+    "   - 동일건물 450동 750호 (84.95㎡)",
+    "   - 거래일: 2024년 7월 15일",
+    "   - 거래가격: 금 555,000,000원",
+    "   - 층수: 32층",
+    "   - 방향: 동남향",
+    "   [거래사례 2]",
+    "   - 동일건물 458동 820호 (84.95㎡)",
+    "   - 거래일: 2024년 8월 3일",
+    "   - 거래가격: 금 562,000,000원",
+    "   - 층수: 38층",
+    "   - 방향: 남향",
+    "   [거래사례 3]",
+    "   - 인근 비슷한 건물 (도보 2분)",
+    "   - 거래일: 2024년 7월 28일",
+    "   - 거래가격: 금 548,000,000원 (84.00㎡)",
+    "   - 층수: 30층",
+    "2. 공시가격 조사",
+    "   - 2024년 공동주택 공시가격: 금 468,000,000원",
+    "   - 공시가격 대비 시세: 약 120% 수준",
+    "3. 호가 조사 (2024년 8월 기준)",
+    "   - 매매 호가: 550,000,000원 ~ 580,000,000원",
+    "   - 평균 호가: 약 565,000,000원",
+    "4. 전월세 시세",
+    "   - 전세: 400,000,000원 ~ 420,000,000원",
+    "   - 월세: 보증금 100,000,000원 / 월 2,500,000원"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-039-003-000-0",
         "idx_in_page": 0,
-        "text": "[5페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "text": "제3장 가격조사 및 분석",
         "page": 5,
         "bbox": {
-          "x": 181.77,
-          "y": 96.63,
-          "width": 1311.64,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.9
-      },
-      {
-        "paragraph_id": "para-039-003-000-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
-        "page": 5,
-        "bbox": {
-          "x": 191.02,
-          "y": 1193.62,
-          "width": 1298.23,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.9
-      },
-      {
-        "paragraph_id": "para-039-003-001-0",
-        "idx_in_page": 0,
-        "text": "[6페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-        "page": 6,
-        "bbox": {
-          "x": 194.99,
-          "y": 95.93,
-          "width": 1247.61,
+          "x": 212.02,
+          "y": 103.22,
+          "width": 1282.18,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-039-003-001-1",
+        "paragraph_id": "para-039-003-000-1",
         "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
-        "page": 6,
+        "text": "1. 인근지역 거래사례 조사",
+        "page": 5,
         "bbox": {
-          "x": 197.31,
-          "y": 1189.31,
-          "width": 1290.42,
+          "x": 199.91,
+          "y": 1198.15,
+          "width": 1251.75,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-039-003-000-2",
+        "idx_in_page": 2,
+        "text": "   [거래사례 1]",
+        "page": 5,
+        "bbox": {
+          "x": 184.28,
+          "y": 110.38,
+          "width": 1305.3,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-039-003-000-3",
+        "idx_in_page": 3,
+        "text": "   - 동일건물 450동 750호 (84.95㎡)",
+        "page": 5,
+        "bbox": {
+          "x": 214.86,
+          "y": 1194.18,
+          "width": 1233.17,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-039-003-000-4",
+        "idx_in_page": 4,
+        "text": "   - 거래일: 2024년 7월 15일",
+        "page": 5,
+        "bbox": {
+          "x": 214.91,
+          "y": 97.82,
+          "width": 1269.42,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-039-003-000-5",
+        "idx_in_page": 5,
+        "text": "   - 거래가격: 금 555,000,000원",
+        "page": 5,
+        "bbox": {
+          "x": 180.34,
+          "y": 1192.83,
+          "width": 1328.0,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-039-003-000-6",
+        "idx_in_page": 6,
+        "text": "   - 층수: 32층",
+        "page": 5,
+        "bbox": {
+          "x": 190.66,
+          "y": 94.88,
+          "width": 1315.65,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-039-003-000-7",
+        "idx_in_page": 7,
+        "text": "   - 방향: 동남향",
+        "page": 5,
+        "bbox": {
+          "x": 184.19,
+          "y": 1194.67,
+          "width": 1307.4,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-039-003-002-0",
+        "paragraph_id": "para-039-003-001-0",
         "idx_in_page": 0,
-        "text": "[7페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-        "page": 7,
+        "text": "   [거래사례 2]",
+        "page": 6,
         "bbox": {
-          "x": 197.47,
-          "y": 105.27,
-          "width": 1309.75,
+          "x": 180.46,
+          "y": 109.62,
+          "width": 1327.39,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-039-003-001-1",
+        "idx_in_page": 1,
+        "text": "   - 동일건물 458동 820호 (84.95㎡)",
+        "page": 6,
+        "bbox": {
+          "x": 215.29,
+          "y": 1181.21,
+          "width": 1244.2,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-039-003-001-2",
+        "idx_in_page": 2,
+        "text": "   - 거래일: 2024년 8월 3일",
+        "page": 6,
+        "bbox": {
+          "x": 214.85,
+          "y": 113.42,
+          "width": 1309.15,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.94
       },
       {
-        "paragraph_id": "para-039-003-002-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
-        "page": 7,
+        "paragraph_id": "para-039-003-001-3",
+        "idx_in_page": 3,
+        "text": "   - 거래가격: 금 562,000,000원",
+        "page": 6,
         "bbox": {
-          "x": 193.01,
-          "y": 1179.52,
-          "width": 1253.83,
+          "x": 183.75,
+          "y": 1181.51,
+          "width": 1253.85,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-039-003-001-4",
+        "idx_in_page": 4,
+        "text": "   - 층수: 38층",
+        "page": 6,
+        "bbox": {
+          "x": 211.03,
+          "y": 113.29,
+          "width": 1313.45,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-039-003-001-5",
+        "idx_in_page": 5,
+        "text": "   - 방향: 남향",
+        "page": 6,
+        "bbox": {
+          "x": 181.63,
+          "y": 1192.79,
+          "width": 1329.32,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-039-003-001-6",
+        "idx_in_page": 6,
+        "text": "   [거래사례 3]",
+        "page": 6,
+        "bbox": {
+          "x": 206.16,
+          "y": 93.54,
+          "width": 1275.85,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-039-003-001-7",
+        "idx_in_page": 7,
+        "text": "   - 인근 비슷한 건물 (도보 2분)",
+        "page": 6,
+        "bbox": {
+          "x": 192.85,
+          "y": 1175.3,
+          "width": 1290.27,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-039-003-001-8",
+        "idx_in_page": 8,
+        "text": "   - 거래일: 2024년 7월 28일",
+        "page": 6,
+        "bbox": {
+          "x": 215.94,
+          "y": 94.73,
+          "width": 1274.27,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-039-003-001-9",
+        "idx_in_page": 9,
+        "text": "   - 거래가격: 금 548,000,000원 (84.00㎡)",
+        "page": 6,
+        "bbox": {
+          "x": 193.2,
+          "y": 1189.03,
+          "width": 1271.77,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-039-003-001-10",
+        "idx_in_page": 10,
+        "text": "   - 층수: 30층",
+        "page": 6,
+        "bbox": {
+          "x": 208.95,
+          "y": 112.97,
+          "width": 1248.91,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-039-003-002-0",
+        "idx_in_page": 0,
+        "text": "2. 공시가격 조사",
+        "page": 7,
+        "bbox": {
+          "x": 186.84,
+          "y": 1186.96,
+          "width": 1324.24,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-039-003-002-1",
+        "idx_in_page": 1,
+        "text": "   - 2024년 공동주택 공시가격: 금 468,000,000원",
+        "page": 7,
+        "bbox": {
+          "x": 205.7,
+          "y": 115.01,
+          "width": 1320.81,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-039-003-002-2",
+        "idx_in_page": 2,
+        "text": "   - 공시가격 대비 시세: 약 120% 수준",
+        "page": 7,
+        "bbox": {
+          "x": 182.23,
+          "y": 1191.58,
+          "width": 1279.38,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-039-003-002-3",
+        "idx_in_page": 3,
+        "text": "3. 호가 조사 (2024년 8월 기준)",
+        "page": 7,
+        "bbox": {
+          "x": 190.24,
+          "y": 96.32,
+          "width": 1287.4,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-039-003-002-4",
+        "idx_in_page": 4,
+        "text": "   - 매매 호가: 550,000,000원 ~ 580,000,000원",
+        "page": 7,
+        "bbox": {
+          "x": 210.25,
+          "y": 1172.66,
+          "width": 1267.02,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-039-003-002-5",
+        "idx_in_page": 5,
+        "text": "   - 평균 호가: 약 565,000,000원",
+        "page": 7,
+        "bbox": {
+          "x": 202.97,
+          "y": 117.67,
+          "width": 1302.84,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-039-003-002-6",
+        "idx_in_page": 6,
+        "text": "4. 전월세 시세",
+        "page": 7,
+        "bbox": {
+          "x": 193.85,
+          "y": 1193.04,
+          "width": 1263.44,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-039-003-002-7",
+        "idx_in_page": 7,
+        "text": "   - 전세: 400,000,000원 ~ 420,000,000원",
+        "page": 7,
+        "bbox": {
+          "x": 196.55,
+          "y": 108.96,
+          "width": 1301.36,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-039-003-002-8",
+        "idx_in_page": 8,
+        "text": "   - 월세: 보증금 100,000,000원 / 월 2,500,000원",
+        "page": 7,
+        "bbox": {
+          "x": 192.34,
+          "y": 1184.36,
+          "width": 1264.23,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
       }
     ]
   },
@@ -127,5 +457,5 @@
       "height": 2379
     }
   ],
-  "created_at": "2024-08-04T00:00:00+00:00"
+  "created_at": "2024-08-03T00:00:00+00:00"
 }

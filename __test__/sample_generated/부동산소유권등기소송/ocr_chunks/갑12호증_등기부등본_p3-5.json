@@ -15,98 +15,178 @@
   ],
   "chunk_number": 2,
   "paragraph_texts": [
-    "[3페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
-    "소유자: 이영희 (2020년 12월 15일 매매)",
-    "[4페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
-    "소유자: 이영희 (2020년 12월 15일 매매)",
-    "[5페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
-    "소유자: 이영희 (2020년 12월 15일 매매)"
+    "【갑구】(소유권에 관한 사항) - 계속",
+    "순위번호 등기목적 접수 등기원인 권리자 및 기타사항",
+    "1 소유권이전 2018년3월10일 제12345호 2018년3월5일 매매",
+    "소유자: 이영희 (671015-1******)",
+    "주소: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+    "【을구】(소유권 이외의 권리에 관한 사항)",
+    "순위번호 등기목적 접수 등기원인 권리자 및 기타사항",
+    "1 근저당권설정 2018년3월10일 제12350호 2018년3월10일 설정",
+    "채권최고액: 금 200,000,000원",
+    "채무자: 이영희 (671015-1******)",
+    "근저당권자: 주식회사 국민은행 강남지점",
+    "주소: 서울특별시 강남구 테헤란로 152",
+    "【을구】변경사항 및 말소이력",
+    "현재까지 말소된 근저당권 없음",
+    "본 등기부등본은 2024년 7월 25일 현재 유효함",
+    "발급기관: 서울중앙지방법원 등기국",
+    "문의사항: 02-530-1234"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-023-002-000-0",
         "idx_in_page": 0,
-        "text": "[3페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
+        "text": "【갑구】(소유권에 관한 사항) - 계속",
         "page": 3,
-        "bbox": {
-          "x": 206.59,
-          "y": 91.1,
-          "width": 1241.85,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.94
+        "bbox": {"x": 215, "y": 385, "width": 750, "height": 42},
+        "type": "heading",
+        "confidence_score": 0.97
       },
       {
         "paragraph_id": "para-023-002-000-1",
         "idx_in_page": 1,
-        "text": "소유자: 이영희 (2020년 12월 15일 매매)",
+        "text": "순위번호 등기목적 접수 등기원인 권리자 및 기타사항",
         "page": 3,
-        "bbox": {
-          "x": 209.34,
-          "y": 1182.43,
-          "width": 1263.13,
-          "height": 50
-        },
+        "bbox": {"x": 215, "y": 445, "width": 1250, "height": 32},
+        "type": "table_header",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-023-002-000-2",
+        "idx_in_page": 2,
+        "text": "1 소유권이전 2018년3월10일 제12345호 2018년3월5일 매매",
+        "page": 3,
+        "bbox": {"x": 215, "y": 495, "width": 1250, "height": 32},
+        "type": "table_row",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-023-002-000-3",
+        "idx_in_page": 3,
+        "text": "소유자: 이영희 (671015-1******)",
+        "page": 3,
+        "bbox": {"x": 215, "y": 545, "width": 850, "height": 32},
         "type": "body",
         "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-023-002-000-4",
+        "idx_in_page": 4,
+        "text": "주소: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "page": 3,
+        "bbox": {"x": 215, "y": 595, "width": 1200, "height": 32},
+        "type": "body",
+        "confidence_score": 0.95
       },
       {
         "paragraph_id": "para-023-002-001-0",
         "idx_in_page": 0,
-        "text": "[4페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
+        "text": "【을구】(소유권 이외의 권리에 관한 사항)",
         "page": 4,
-        "bbox": {
-          "x": 184.31,
-          "y": 90.9,
-          "width": 1313.94,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.94
+        "bbox": {"x": 215, "y": 95, "width": 850, "height": 42},
+        "type": "heading",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-023-002-001-1",
         "idx_in_page": 1,
-        "text": "소유자: 이영희 (2020년 12월 15일 매매)",
+        "text": "순위번호 등기목적 접수 등기원인 권리자 및 기타사항",
         "page": 4,
-        "bbox": {
-          "x": 215.38,
-          "y": 1187.66,
-          "width": 1277.86,
-          "height": 50
-        },
+        "bbox": {"x": 215, "y": 155, "width": 1250, "height": 32},
+        "type": "table_header",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-023-002-001-2",
+        "idx_in_page": 2,
+        "text": "1 근저당권설정 2018년3월10일 제12350호 2018년3월10일 설정",
+        "page": 4,
+        "bbox": {"x": 215, "y": 205, "width": 1250, "height": 32},
+        "type": "table_row",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-023-002-001-3",
+        "idx_in_page": 3,
+        "text": "채권최고액: 금 200,000,000원",
+        "page": 4,
+        "bbox": {"x": 215, "y": 255, "width": 750, "height": 32},
         "type": "body",
-        "confidence_score": 0.91
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-023-002-001-4",
+        "idx_in_page": 4,
+        "text": "채무자: 이영희 (671015-1******)",
+        "page": 4,
+        "bbox": {"x": 215, "y": 305, "width": 700, "height": 32},
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-023-002-001-5",
+        "idx_in_page": 5,
+        "text": "근저당권자: 주식회사 국민은행 강남지점",
+        "page": 4,
+        "bbox": {"x": 215, "y": 355, "width": 950, "height": 32},
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-023-002-001-6",
+        "idx_in_page": 6,
+        "text": "주소: 서울특별시 강남구 테헤란로 152",
+        "page": 4,
+        "bbox": {"x": 215, "y": 405, "width": 850, "height": 32},
+        "type": "body",
+        "confidence_score": 0.94
       },
       {
         "paragraph_id": "para-023-002-002-0",
         "idx_in_page": 0,
-        "text": "[5페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
+        "text": "【을구】변경사항 및 말소이력",
         "page": 5,
-        "bbox": {
-          "x": 180.75,
-          "y": 102.39,
-          "width": 1257.96,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.92
+        "bbox": {"x": 215, "y": 95, "width": 650, "height": 42},
+        "type": "heading",
+        "confidence_score": 0.97
       },
       {
         "paragraph_id": "para-023-002-002-1",
         "idx_in_page": 1,
-        "text": "소유자: 이영희 (2020년 12월 15일 매매)",
+        "text": "현재까지 말소된 근저당권 없음",
         "page": 5,
-        "bbox": {
-          "x": 200.07,
-          "y": 1198.31,
-          "width": 1310.46,
-          "height": 50
-        },
+        "bbox": {"x": 215, "y": 155, "width": 750, "height": 32},
         "type": "body",
         "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-023-002-002-2",
+        "idx_in_page": 2,
+        "text": "본 등기부등본은 2024년 7월 25일 현재 유효함",
+        "page": 5,
+        "bbox": {"x": 215, "y": 205, "width": 950, "height": 32},
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-023-002-002-3",
+        "idx_in_page": 3,
+        "text": "발급기관: 서울중앙지방법원 등기국",
+        "page": 5,
+        "bbox": {"x": 215, "y": 255, "width": 750, "height": 32},
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-023-002-002-4",
+        "idx_in_page": 4,
+        "text": "문의사항: 02-530-1234",
+        "page": 5,
+        "bbox": {"x": 215, "y": 305, "width": 550, "height": 32},
+        "type": "body",
+        "confidence_score": 0.93
       }
     ]
   },

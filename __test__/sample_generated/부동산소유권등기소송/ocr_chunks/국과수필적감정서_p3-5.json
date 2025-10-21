@@ -15,98 +15,458 @@
   ],
   "chunk_number": 2,
   "paragraph_texts": [
-    "[3페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[4페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[5페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일"
+    "⑤ 각도 분석: 글자의 기울기 및 획 간 각도 측정",
+    "⑥ 디지털 이미지 분석: 고해상도 스캔 이미지의 픽셀 단위 비교",
+    "4. 감정 결과",
+    "을 제1호증 '보충합의서'에 기재된 '김철수' 서명은 대조 자료의 필적과 현저한 차이를 보이며, 동일인의 필적이 아닌 것으로 판단됨.",
+    "구체적인 차이점은 다음과 같음:",
+    "(1) '김' 자의 필적 특징 분석",
+    "- 대조 자료: 'ㄱ' 획의 시작 부분에서 필압이 강하게 나타나며, 우상향 약 15도 각도로 진행",
+    "- 감정 대상: 'ㄱ' 획의 시작이 약하고 수평에 가까운 약 5도 각도로 진행",
+    "- 대조 자료: 'ㅣ' 획과 'ㅁ' 획의 연결 부분에서 자연스러운 필순 흐름 확인",
+    "- 감정 대상: 연결 부분이 끊어져 있어 필기 습관의 불일치 명확",
+    "(2) '철' 자의 필적 특징 분석",
+    "- 대조 자료: 좌측 'ㅊ' 부분의 첫 획이 우측 상단에서 시작하여 좌하향",
+    "- 감정 대상: 좌측 'ㅊ' 부분의 첫 획이 좌측 상단에서 시작 (명확한 차이)",
+    "- 대조 자료: 'ㅓ' 획의 세로선이 직선형이며 필압이 일정",
+    "- 감정 대상: 'ㅓ' 획의 세로선이 약간 휘어져 있으며 필압 변화 관찰",
+    "- 대조 자료: 우측 '金' 부분의 가로획 간격이 일정하며 평행 유지",
+    "- 감정 대상: 가로획 간격이 불규칙하고 평행이 아님",
+    "5. 현미경 감정 소견",
+    "100배율 확대 관찰 결과:",
+    "① 필압 분포: 감정 대상 서명은 전체적으로 필압이 약하고 균일하여, 대조 자료의 강약 변화가 뚜렷한 필압 패턴과 상이",
+    "② 획의 시작점: 대조 자료는 획 시작 부분에 잉크 뭉침 현상이 일관되게 나타나나, 감정 대상은 이러한 특징 없음",
+    "③ 획의 끝점: 대조 자료는 획 끝부분이 자연스럽게 가늘어지는 반면, 감정 대상은 갑자기 끊어지는 양상",
+    "④ 잉크 번짐: 대조 자료는 특정 필압 부분에서 미세한 잉크 번짐 확인, 감정 대상은 번짐 없이 또렷함 (필기구 상이 추정)",
+    "6. 필압 측정 결과",
+    "디지털 필압 측정기를 이용한 압력 분포 분석:",
+    "대조 자료 평균 필압: 180-220 gf (gram-force)",
+    "감정 대상 평균 필압: 120-150 gf (대조 자료 대비 약 35% 낮음)",
+    "필압 변화 패턴:",
+    "- 대조 자료: 획 시작 시 강한 필압(220 gf) → 중간 유지(180 gf) → 끝부분 약화(140 gf)",
+    "- 감정 대상: 전체적으로 균일한 필압 유지(120-150 gf), 자연스러운 강약 변화 부재"
   ],
   "chunk_content": {
     "paragraphs": [
       {
-        "paragraph_id": "para-050-002-000-0",
-        "idx_in_page": 0,
-        "text": "[3페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "paragraph_id": "para-050-001-002-7",
+        "idx_in_page": 7,
+        "text": "⑤ 각도 분석: 글자의 기울기 및 획 간 각도 측정",
         "page": 3,
         "bbox": {
-          "x": 189.63,
-          "y": 102.16,
-          "width": 1235.97,
-          "height": 50
+          "x": 220,
+          "y": 474,
+          "width": 740,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-001-002-8",
+        "idx_in_page": 8,
+        "text": "⑥ 디지털 이미지 분석: 고해상도 스캔 이미지의 픽셀 단위 비교",
+        "page": 3,
+        "bbox": {
+          "x": 220,
+          "y": 512,
+          "width": 960,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-001-002-9",
+        "idx_in_page": 9,
+        "text": "4. 감정 결과",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 580,
+          "width": 220,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-050-001-002-10",
+        "idx_in_page": 10,
+        "text": "을 제1호증 '보충합의서'에 기재된 '김철수' 서명은 대조 자료의 필적과 현저한 차이를 보이며, 동일인의 필적이 아닌 것으로 판단됨.",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 622,
+          "width": 1180,
+          "height": 28
         },
         "type": "body",
-        "confidence_score": 0.96
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-001-002-11",
+        "idx_in_page": 11,
+        "text": "구체적인 차이점은 다음과 같음:",
+        "page": 3,
+        "bbox": {
+          "x": 180,
+          "y": 660,
+          "width": 480,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-050-002-000-0",
+        "idx_in_page": 0,
+        "text": "(1) '김' 자의 필적 특징 분석",
+        "page": 4,
+        "bbox": {
+          "x": 180,
+          "y": 180,
+          "width": 480,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
       },
       {
         "paragraph_id": "para-050-002-000-1",
         "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
-        "page": 3,
-        "bbox": {
-          "x": 189.13,
-          "y": 1192.42,
-          "width": 1260.9,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.95
-      },
-      {
-        "paragraph_id": "para-050-002-001-0",
-        "idx_in_page": 0,
-        "text": "[4페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "text": "- 대조 자료: 'ㄱ' 획의 시작 부분에서 필압이 강하게 나타나며, 우상향 약 15도 각도로 진행",
         "page": 4,
         "bbox": {
-          "x": 181.3,
-          "y": 93.29,
-          "width": 1263.69,
-          "height": 50
+          "x": 220,
+          "y": 222,
+          "width": 1120,
+          "height": 28
         },
-        "type": "body",
+        "type": "list",
         "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-050-002-001-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "paragraph_id": "para-050-002-000-2",
+        "idx_in_page": 2,
+        "text": "- 감정 대상: 'ㄱ' 획의 시작이 약하고 수평에 가까운 약 5도 각도로 진행",
         "page": 4,
         "bbox": {
-          "x": 191.17,
-          "y": 1194.49,
-          "width": 1280.69,
-          "height": 50
+          "x": 220,
+          "y": 260,
+          "width": 1020,
+          "height": 28
         },
-        "type": "body",
-        "confidence_score": 0.92
+        "type": "list",
+        "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-050-002-002-0",
+        "paragraph_id": "para-050-002-000-3",
+        "idx_in_page": 3,
+        "text": "- 대조 자료: 'ㅣ' 획과 'ㅁ' 획의 연결 부분에서 자연스러운 필순 흐름 확인",
+        "page": 4,
+        "bbox": {
+          "x": 220,
+          "y": 298,
+          "width": 1060,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-002-000-4",
+        "idx_in_page": 4,
+        "text": "- 감정 대상: 연결 부분이 끊어져 있어 필기 습관의 불일치 명확",
+        "page": 4,
+        "bbox": {
+          "x": 220,
+          "y": 336,
+          "width": 920,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-002-000-5",
+        "idx_in_page": 5,
+        "text": "(2) '철' 자의 필적 특징 분석",
+        "page": 4,
+        "bbox": {
+          "x": 180,
+          "y": 400,
+          "width": 480,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-050-002-000-6",
+        "idx_in_page": 6,
+        "text": "- 대조 자료: 좌측 'ㅊ' 부분의 첫 획이 우측 상단에서 시작하여 좌하향",
+        "page": 4,
+        "bbox": {
+          "x": 220,
+          "y": 442,
+          "width": 1000,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-002-000-7",
+        "idx_in_page": 7,
+        "text": "- 감정 대상: 좌측 'ㅊ' 부분의 첫 획이 좌측 상단에서 시작 (명확한 차이)",
+        "page": 4,
+        "bbox": {
+          "x": 220,
+          "y": 480,
+          "width": 1040,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-002-000-8",
+        "idx_in_page": 8,
+        "text": "- 대조 자료: 'ㅓ' 획의 세로선이 직선형이며 필압이 일정",
+        "page": 4,
+        "bbox": {
+          "x": 220,
+          "y": 518,
+          "width": 840,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-002-000-9",
+        "idx_in_page": 9,
+        "text": "- 감정 대상: 'ㅓ' 획의 세로선이 약간 휘어져 있으며 필압 변화 관찰",
+        "page": 4,
+        "bbox": {
+          "x": 220,
+          "y": 556,
+          "width": 1000,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-002-000-10",
+        "idx_in_page": 10,
+        "text": "- 대조 자료: 우측 '金' 부분의 가로획 간격이 일정하며 평행 유지",
+        "page": 4,
+        "bbox": {
+          "x": 220,
+          "y": 594,
+          "width": 980,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-002-000-11",
+        "idx_in_page": 11,
+        "text": "- 감정 대상: 가로획 간격이 불규칙하고 평행이 아님",
+        "page": 4,
+        "bbox": {
+          "x": 220,
+          "y": 632,
+          "width": 780,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-003-000-0",
         "idx_in_page": 0,
-        "text": "[5페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "text": "5. 현미경 감정 소견",
         "page": 5,
         "bbox": {
-          "x": 181.45,
-          "y": 102.11,
-          "width": 1239.48,
-          "height": 50
+          "x": 180,
+          "y": 180,
+          "width": 320,
+          "height": 32
         },
-        "type": "body",
-        "confidence_score": 0.93
+        "type": "heading",
+        "confidence_score": 0.98
       },
       {
-        "paragraph_id": "para-050-002-002-1",
+        "paragraph_id": "para-050-003-000-1",
         "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "text": "100배율 확대 관찰 결과:",
         "page": 5,
         "bbox": {
-          "x": 206.78,
-          "y": 1192.58,
-          "width": 1245.1,
-          "height": 50
+          "x": 180,
+          "y": 222,
+          "width": 380,
+          "height": 28
         },
         "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-003-000-2",
+        "idx_in_page": 2,
+        "text": "① 필압 분포: 감정 대상 서명은 전체적으로 필압이 약하고 균일하여, 대조 자료의 강약 변화가 뚜렷한 필압 패턴과 상이",
+        "page": 5,
+        "bbox": {
+          "x": 220,
+          "y": 260,
+          "width": 1180,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-003-000-3",
+        "idx_in_page": 3,
+        "text": "② 획의 시작점: 대조 자료는 획 시작 부분에 잉크 뭉침 현상이 일관되게 나타나나, 감정 대상은 이러한 특징 없음",
+        "page": 5,
+        "bbox": {
+          "x": 220,
+          "y": 298,
+          "width": 1200,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-003-000-4",
+        "idx_in_page": 4,
+        "text": "③ 획의 끝점: 대조 자료는 획 끝부분이 자연스럽게 가늘어지는 반면, 감정 대상은 갑자기 끊어지는 양상",
+        "page": 5,
+        "bbox": {
+          "x": 220,
+          "y": 336,
+          "width": 1160,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-003-000-5",
+        "idx_in_page": 5,
+        "text": "④ 잉크 번짐: 대조 자료는 특정 필압 부분에서 미세한 잉크 번짐 확인, 감정 대상은 번짐 없이 또렷함 (필기구 상이 추정)",
+        "page": 5,
+        "bbox": {
+          "x": 220,
+          "y": 374,
+          "width": 1240,
+          "height": 28
+        },
+        "type": "list",
         "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-050-003-000-6",
+        "idx_in_page": 6,
+        "text": "6. 필압 측정 결과",
+        "page": 5,
+        "bbox": {
+          "x": 180,
+          "y": 440,
+          "width": 300,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-050-003-000-7",
+        "idx_in_page": 7,
+        "text": "디지털 필압 측정기를 이용한 압력 분포 분석:",
+        "page": 5,
+        "bbox": {
+          "x": 180,
+          "y": 482,
+          "width": 680,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-003-000-8",
+        "idx_in_page": 8,
+        "text": "대조 자료 평균 필압: 180-220 gf (gram-force)",
+        "page": 5,
+        "bbox": {
+          "x": 220,
+          "y": 520,
+          "width": 720,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-003-000-9",
+        "idx_in_page": 9,
+        "text": "감정 대상 평균 필압: 120-150 gf (대조 자료 대비 약 35% 낮음)",
+        "page": 5,
+        "bbox": {
+          "x": 220,
+          "y": 558,
+          "width": 900,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-003-000-10",
+        "idx_in_page": 10,
+        "text": "필압 변화 패턴:",
+        "page": 5,
+        "bbox": {
+          "x": 180,
+          "y": 600,
+          "width": 240,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-003-000-11",
+        "idx_in_page": 11,
+        "text": "- 대조 자료: 획 시작 시 강한 필압(220 gf) → 중간 유지(180 gf) → 끝부분 약화(140 gf)",
+        "page": 5,
+        "bbox": {
+          "x": 220,
+          "y": 638,
+          "width": 1140,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-050-003-000-12",
+        "idx_in_page": 12,
+        "text": "- 감정 대상: 전체적으로 균일한 필압 유지(120-150 gf), 자연스러운 강약 변화 부재",
+        "page": 5,
+        "bbox": {
+          "x": 220,
+          "y": 676,
+          "width": 1080,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
       }
     ]
   },

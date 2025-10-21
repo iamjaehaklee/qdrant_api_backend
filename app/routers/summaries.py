@@ -4,9 +4,13 @@ CRUD and search endpoints for OCR summaries
 """
 
 import uuid
+import logging
+from datetime import datetime, timezone
 from typing import Optional
 from fastapi import APIRouter, HTTPException, status
 from qdrant_client import AsyncQdrantClient
+
+logger = logging.getLogger(__name__)
 from qdrant_client.models import (
     PointStruct,
     Filter,
@@ -63,6 +67,20 @@ async def create_summary(summary: SummaryCreate):
     Embeddings are generated from summary_text field
     """
     try:
+        # Auto-generate tracing fields if not provided
+        if summary.correlation_id is None:
+            summary.correlation_id = str(uuid.uuid4())
+        if summary.request_timestamp is None:
+            summary.request_timestamp = datetime.now(timezone.utc).isoformat()
+
+        logger.info(
+            f"Create summary request: correlation_id={summary.correlation_id}, "
+            f"file_id={summary.file_id}, project_id={summary.project_id}, "
+            f"user_id={summary.user_id}, queue_id={summary.queue_id}, "
+            f"original_file_name={summary.original_file_name}, "
+            f"request_timestamp={summary.request_timestamp}"
+        )
+
         # Generate summary_id
         point_id = _validate_or_generate_uuid(summary.summary_id)
 
@@ -70,9 +88,9 @@ async def create_summary(summary: SummaryCreate):
         dense_vector = await generate_dense_embedding(summary.summary_text)
         sparse_vector_dict = await generate_sparse_embedding(summary.summary_text)
 
-        # Convert sparse vector dict to SparseVector format
-        sparse_indices = list(sparse_vector_dict.keys())
-        sparse_values = list(sparse_vector_dict.values())
+        # Convert sparse vector dict to SparseVector format with explicit type conversion
+        sparse_indices = [int(k) for k in sparse_vector_dict.keys()]
+        sparse_values = [float(v) for v in sparse_vector_dict.values()]
 
         # Prepare payload
         payload = SummaryPayload(

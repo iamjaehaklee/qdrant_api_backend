@@ -13,6 +13,7 @@ from qdrant_client.models import (
     MatchValue,
     MatchText,
     SparseVector,
+    NamedSparseVector,
     ContextExamplePair
 )
 
@@ -121,9 +122,9 @@ async def sparse_search(request: SparseSearchRequest):
         # Generate sparse query embedding
         sparse_embedding_dict = await generate_query_sparse_embedding(request.query_text)
 
-        # Convert to SparseVector format
-        sparse_indices = list(sparse_embedding_dict.keys())
-        sparse_values = list(sparse_embedding_dict.values())
+        # Convert to SparseVector format with explicit type conversion
+        sparse_indices = [int(k) for k in sparse_embedding_dict.keys()]
+        sparse_values = [float(v) for v in sparse_embedding_dict.values()]
 
         # Build filter
         filter_conditions = []
@@ -141,9 +142,9 @@ async def sparse_search(request: SparseSearchRequest):
         # Sparse vector search
         results = await qdrant_client.search(
             collection_name=COLLECTION_NAME,
-            query_vector=(
-                settings.sparse_vector_name,
-                SparseVector(indices=sparse_indices, values=sparse_values)
+            query_vector=NamedSparseVector(
+                name=settings.sparse_vector_name,
+                vector=SparseVector(indices=sparse_indices, values=sparse_values)
             ),
             limit=request.limit,
             score_threshold=request.score_threshold,
@@ -281,8 +282,8 @@ async def dense_sparse_rrf_search(request: DenseSparseRRFRequest):
 
         async def _sparse_search():
             sparse_embedding_dict = await generate_query_sparse_embedding(request.query_text)
-            sparse_indices = list(sparse_embedding_dict.keys())
-            sparse_values = list(sparse_embedding_dict.values())
+            sparse_indices = [int(k) for k in sparse_embedding_dict.keys()]
+            sparse_values = [float(v) for v in sparse_embedding_dict.values()]
 
             filter_conditions = []
             if request.filter_project_id is not None:
@@ -297,9 +298,9 @@ async def dense_sparse_rrf_search(request: DenseSparseRRFRequest):
 
             results = await qdrant_client.search(
                 collection_name=COLLECTION_NAME,
-                query_vector=(
-                    settings.sparse_vector_name,
-                    SparseVector(indices=sparse_indices, values=sparse_values)
+                query_vector=NamedSparseVector(
+                    name=settings.sparse_vector_name,
+                    vector=SparseVector(indices=sparse_indices, values=sparse_values)
                 ),
                 limit=request.limit * 2,
                 score_threshold=request.score_threshold,
@@ -444,15 +445,28 @@ async def discover_search(request: DiscoverSearchRequest):
         search_filter = Filter(must=filter_conditions) if filter_conditions else None
 
         # Discovery search
-        results = await qdrant_client.discover(
-            collection_name=COLLECTION_NAME,
-            target=(settings.dense_vector_name, target_vector),
-            context=context,
-            limit=request.limit,
-            query_filter=search_filter,
-            with_payload=True,
-            with_vectors=False
-        )
+        try:
+            results = await qdrant_client.discover(
+                collection_name=COLLECTION_NAME,
+                target=target_vector,
+                context=context,
+                using=settings.dense_vector_name,
+                limit=request.limit,
+                query_filter=search_filter,
+                with_payload=True,
+                with_vectors=False
+            )
+        except Exception as discover_err:
+            # Enhanced error logging for debugging
+            import logging
+            logger = logging.getLogger(__name__)
+            logger.error(
+                f"Qdrant discover() failed: {str(discover_err)}, "
+                f"context_pairs={[{'pos':p.positive,'neg':p.negative} for p in request.context_pairs]}, "
+                f"vector_name={settings.dense_vector_name}, "
+                f"collection={COLLECTION_NAME}"
+            )
+            raise
 
         # Convert to response
         response_results = [
@@ -569,15 +583,19 @@ async def filter_search(request: FilterSearchRequest):
 
         search_filter = Filter(must=filter_conditions) if filter_conditions else None
 
-        # Scroll with offset
+        # Scroll with numeric offset support
+        # Note: Qdrant scroll() offset is point ID-based, so we fetch extra and skip manually
+        fetch_limit = request.limit + request.offset
         results, next_offset = await qdrant_client.scroll(
             collection_name=COLLECTION_NAME,
             scroll_filter=search_filter,
-            limit=request.limit,
-            offset=request.offset,
+            limit=fetch_limit,
             with_payload=True,
             with_vectors=False
         )
+
+        # Apply numeric offset by skipping first N results
+        paginated_results = results[request.offset:request.offset + request.limit]
 
         # Convert to response
         response_results = [
@@ -585,7 +603,7 @@ async def filter_search(request: FilterSearchRequest):
                 point_id=str(result.id),
                 payload=SummaryPayload(**result.payload)
             )
-            for result in results
+            for result in paginated_results
         ]
 
         return SearchResponse(

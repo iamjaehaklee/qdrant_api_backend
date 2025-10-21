@@ -1,5 +1,5 @@
 {
-  "chunk_id": "78c54056-dc06-45f8-a6c8-2cc1c126971c",
+  "chunk_id": "22bbc69f-c20f-4f5f-9fcd-9ecf9bb00885",
   "file_id": 36,
   "project_id": 1001,
   "storage_file_name": "exhibit_b4_mortgage_docs.pdf",
@@ -15,98 +15,263 @@
   ],
   "chunk_number": 5,
   "paragraph_texts": [
-    "[9페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[10페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[11페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "제8조 (대출잔액 현황) - 2024년 6월 기준",
+    "1. 대출원금: 200,000,000원",
+    "2. 기 상환원금: 20,000,000원",
+    "3. 현재 대출잔액: 180,000,000원",
+    "4. 연체횟수: 0회 (정상 상환 중)",
+    "5. 최종 상환일: 2024년 6월 10일",
+    "제9조 (특약사항)",
+    "1. 본 부동산을 제3자에게 매도할 경우, 을은 잔여 대출금을 일시 상환하여야 한다.",
+    "2. 매수인과의 합의에 따라 근저당권 말소 의무를 부담할 수 있다.",
+    "3. 근저당권 말소 시 을은 갑에게 서면으로 통지하고 말소등기 서류를 제출하여야 한다.",
+    "4. 을이 근저당권 말소 의무를 이행하지 않을 경우, 매수인은 매매대금 중 대출잔액 상당액의 지급을 거절할 수 있다.",
+    "제10조 (기한의 이익 상실)",
+    "다음 각 호의 사유가 발생한 경우, 을은 기한의 이익을 상실하고 즉시 대출원리금 전액을 상환하여야 한다:",
+    "1. 원리금을 2회 이상 연체한 경우",
+    "2. 담보물건에 대한 압류, 가압류, 가처분 등 강제집행이 개시된 경우",
+    "3. 을의 신용상태가 현저히 악화된 경우",
+    "4. 담보물건이 멸실 또는 훼손되어 담보가치가 현저히 감소한 경우"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-036-005-000-0",
         "idx_in_page": 0,
-        "text": "[9페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "제8조 (대출잔액 현황) - 2024년 6월 기준",
         "page": 9,
         "bbox": {
-          "x": 215.58,
-          "y": 108.73,
-          "width": 1308.95,
-          "height": 50
+          "x": 216.07,
+          "y": 240,
+          "width": 1245.55,
+          "height": 67
         },
-        "type": "body",
-        "confidence_score": 0.95
+        "type": "heading",
+        "confidence_score": 0.94
       },
       {
         "paragraph_id": "para-036-005-000-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "1. 대출원금: 200,000,000원",
         "page": 9,
         "bbox": {
-          "x": 218.59,
-          "y": 1194.46,
-          "width": 1250.84,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.92
-      },
-      {
-        "paragraph_id": "para-036-005-001-0",
-        "idx_in_page": 0,
-        "text": "[10페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 10,
-        "bbox": {
-          "x": 205.08,
-          "y": 90.95,
-          "width": 1246.44,
-          "height": 50
+          "x": 217.98,
+          "y": 769,
+          "width": 1252.08,
+          "height": 51
         },
         "type": "body",
         "confidence_score": 0.97
       },
       {
-        "paragraph_id": "para-036-005-001-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 10,
+        "paragraph_id": "para-036-005-000-2",
+        "idx_in_page": 2,
+        "text": "2. 기 상환원금: 20,000,000원",
+        "page": 9,
         "bbox": {
-          "x": 186.91,
-          "y": 1187.64,
-          "width": 1267.82,
-          "height": 50
+          "x": 190.36,
+          "y": 548,
+          "width": 1283.91,
+          "height": 45
         },
         "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-036-005-000-3",
+        "idx_in_page": 3,
+        "text": "3. 현재 대출잔액: 180,000,000원",
+        "page": 9,
+        "bbox": {
+          "x": 181.89,
+          "y": 473,
+          "width": 1301.32,
+          "height": 47
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-036-005-000-4",
+        "idx_in_page": 4,
+        "text": "4. 연체횟수: 0회 (정상 상환 중)",
+        "page": 9,
+        "bbox": {
+          "x": 192.18,
+          "y": 582,
+          "width": 1224.64,
+          "height": 52
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-036-005-000-5",
+        "idx_in_page": 5,
+        "text": "5. 최종 상환일: 2024년 6월 10일",
+        "page": 9,
+        "bbox": {
+          "x": 181.7,
+          "y": 1207,
+          "width": 1218.08,
+          "height": 47
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-036-005-001-0",
+        "idx_in_page": 0,
+        "text": "제9조 (특약사항)",
+        "page": 10,
+        "bbox": {
+          "x": 205.93,
+          "y": 183,
+          "width": 1268.22,
+          "height": 71
+        },
+        "type": "heading",
         "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-036-005-001-1",
+        "idx_in_page": 1,
+        "text": "1. 본 부동산을 제3자에게 매도할 경우, 을은 잔여 대출금을 일시 상환하여야 한다.",
+        "page": 10,
+        "bbox": {
+          "x": 208.61,
+          "y": 281,
+          "width": 1314.04,
+          "height": 52
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-036-005-001-2",
+        "idx_in_page": 2,
+        "text": "2. 매수인과의 합의에 따라 근저당권 말소 의무를 부담할 수 있다.",
+        "page": 10,
+        "bbox": {
+          "x": 195.12,
+          "y": 1241,
+          "width": 1297.28,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-036-005-001-3",
+        "idx_in_page": 3,
+        "text": "3. 근저당권 말소 시 을은 갑에게 서면으로 통지하고 말소등기 서류를 제출하여야 한다.",
+        "page": 10,
+        "bbox": {
+          "x": 201.9,
+          "y": 753,
+          "width": 1221.84,
+          "height": 49
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-036-005-001-4",
+        "idx_in_page": 4,
+        "text": "4. 을이 근저당권 말소 의무를 이행하지 않을 경우, 매수인은 매매대금 중 대출잔액 상당액의 지급을 거절할 수 있다.",
+        "page": 10,
+        "bbox": {
+          "x": 203.63,
+          "y": 871,
+          "width": 1229.28,
+          "height": 48
+        },
+        "type": "body",
+        "confidence_score": 0.93
       },
       {
         "paragraph_id": "para-036-005-002-0",
         "idx_in_page": 0,
-        "text": "[11페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "제10조 (기한의 이익 상실)",
         "page": 11,
         "bbox": {
-          "x": 187.08,
-          "y": 106.53,
-          "width": 1279.4,
-          "height": 50
+          "x": 218.36,
+          "y": 209,
+          "width": 1305.99,
+          "height": 64
+        },
+        "type": "heading",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-036-005-002-1",
+        "idx_in_page": 1,
+        "text": "다음 각 호의 사유가 발생한 경우, 을은 기한의 이익을 상실하고 즉시 대출원리금 전액을 상환하여야 한다:",
+        "page": 11,
+        "bbox": {
+          "x": 184.01,
+          "y": 475,
+          "width": 1228.99,
+          "height": 47
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-036-005-002-2",
+        "idx_in_page": 2,
+        "text": "1. 원리금을 2회 이상 연체한 경우",
+        "page": 11,
+        "bbox": {
+          "x": 187.23,
+          "y": 422,
+          "width": 1257.65,
+          "height": 49
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-036-005-002-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "paragraph_id": "para-036-005-002-3",
+        "idx_in_page": 3,
+        "text": "2. 담보물건에 대한 압류, 가압류, 가처분 등 강제집행이 개시된 경우",
         "page": 11,
         "bbox": {
-          "x": 201.46,
-          "y": 1184.64,
-          "width": 1328.31,
-          "height": 50
+          "x": 219.06,
+          "y": 1132,
+          "width": 1290.22,
+          "height": 48
         },
         "type": "body",
-        "confidence_score": 0.93
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-036-005-002-4",
+        "idx_in_page": 4,
+        "text": "3. 을의 신용상태가 현저히 악화된 경우",
+        "page": 11,
+        "bbox": {
+          "x": 219.61,
+          "y": 732,
+          "width": 1237.0,
+          "height": 55
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-036-005-002-5",
+        "idx_in_page": 5,
+        "text": "4. 담보물건이 멸실 또는 훼손되어 담보가치가 현저히 감소한 경우",
+        "page": 11,
+        "bbox": {
+          "x": 187.97,
+          "y": 846,
+          "width": 1219.02,
+          "height": 54
+        },
+        "type": "body",
+        "confidence_score": 0.97
       }
     ]
   },

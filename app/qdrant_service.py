@@ -5,6 +5,7 @@ Handles all interactions with Qdrant vector database
 
 import uuid
 import asyncio
+import time
 from typing import Optional
 from qdrant_client import AsyncQdrantClient
 from qdrant_client.models import (
@@ -16,7 +17,8 @@ from qdrant_client.models import (
     Range,
     ScoredPoint,
     NamedVector,
-    SparseVector
+    SparseVector,
+    NamedSparseVector
 )
 
 from app.config import settings
@@ -51,6 +53,9 @@ class QdrantService:
             timeout=30.0
         )
         self.collection_name = collection_name
+        # lightweight health cache
+        self._health_cache: dict | None = None
+        self._health_cache_ts: float = 0.0
 
     @staticmethod
     def _validate_or_generate_uuid(chunk_id: Optional[str]) -> str:
@@ -78,15 +83,26 @@ class QdrantService:
     async def check_health(self) -> dict:
         """Check Qdrant connection and collection status"""
         try:
+            # short TTL cache to avoid hammering Qdrant on frequent health checks
+            ttl = getattr(settings, 'health_cache_ttl', 0.0) or 0.0
+            if ttl > 0:
+                now = time.monotonic()
+                if self._health_cache is not None and (now - self._health_cache_ts) < ttl:
+                    return self._health_cache
+
             collections = await self.client.get_collections()
             collection_exists = any(
                 col.name == self.collection_name
                 for col in collections.collections
             )
-            return {
+            result = {
                 "connected": True,
                 "collection_exists": collection_exists
             }
+            if ttl > 0:
+                self._health_cache = result
+                self._health_cache_ts = time.monotonic()
+            return result
         except Exception as e:
             return {
                 "connected": False,
@@ -711,12 +727,12 @@ class QdrantService:
 
         search_filter = Filter(must=filter_conditions) if filter_conditions else None
 
-        # Sparse vector search
+        # Sparse vector search (use NamedSparseVector for query)
         results = await self.client.search(
             collection_name=self.collection_name,
-            query_vector=(
-                settings.sparse_vector_name,
-                SparseVector(indices=sparse_indices, values=sparse_values)
+            query_vector=NamedSparseVector(
+                name=settings.sparse_vector_name,
+                vector=SparseVector(indices=sparse_indices, values=sparse_values)
             ),
             limit=limit,
             score_threshold=score_threshold,

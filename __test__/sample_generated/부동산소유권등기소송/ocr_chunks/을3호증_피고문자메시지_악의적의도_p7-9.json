@@ -15,67 +15,223 @@
   ],
   "chunk_number": 4,
   "paragraph_texts": [
-    "[7페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[8페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[9페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "피고 이영희: 어제 변호사 사무실에서 전화 왔어",
+    "정모씨: 그 사람이 진짜 변호사 선임했구나",
+    "피고 이영희: 응. 근데 나도 변호사 알아보는 중이야",
+    "정모씨: 네가 잘못한 건데 무슨 변호사를 써",
+    "피고 이영희: 계약서 조항 잘 보면 빠져나갈 구멍이 있대",
+    "정모씨: 그런 게 어디 있어",
+    "피고 이영희: 나중에 얘기해줄게",
+    "2024년 6월 19일 (수) 17:45",
+    "피고 이영희: 원고 측 변호사가 소장 보낸대",
+    "정모씨: 드디어 소송 시작하는구나",
+    "피고 이영희: 응. 근데 겁나지 않아",
+    "피고 이영희: 소송하면 최소 1년은 걸릴 텐데, 그동안 집값 더 오르겠지",
+    "정모씨: 법원 판결 나면 어떡하려고",
+    "피고 이영희: 그때 가서 생각해. 일단 시간 벌기가 목표야",
+    "2024년 6월 20일 (목) 11:20",
+    "정모씨: 어제 소장 받았어?",
+    "피고 이영희: 아직. 근데 곧 올 거야",
+    "정모씨: 진짜 답답하다. 네가 하는 짓이",
+    "피고 이영희: 난 합리적으로 판단하는 거야",
+    "피고 이영희: 5천만 원 손해 보는 것보다 소송 비용이 훨씬 싸잖아",
+    "정모씨: 그게 아니라 도덕적인 문제라고",
+    "피고 이영희: 도덕으로 밥 먹고 살아? 돈이 중요하지"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-035-004-000-0",
         "idx_in_page": 0,
-        "text": "[7페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "피고 이영희: 어제 변호사 사무실에서 전화 왔어",
         "page": 7,
         "bbox": {
-          "x": 209.34,
-          "y": 106.38,
-          "width": 1262.89,
-          "height": 50
+          "x": 200.0,
+          "y": 180.0,
+          "width": 860.0,
+          "height": 38
         },
         "type": "body",
-        "confidence_score": 0.95
+        "confidence_score": 0.93
       },
       {
         "paragraph_id": "para-035-004-000-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "정모씨: 그 사람이 진짜 변호사 선임했구나",
         "page": 7,
         "bbox": {
-          "x": 201.8,
-          "y": 1193.4,
-          "width": 1322.35,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.97
-      },
-      {
-        "paragraph_id": "para-035-004-001-0",
-        "idx_in_page": 0,
-        "text": "[8페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 8,
-        "bbox": {
-          "x": 188.78,
-          "y": 93.63,
-          "width": 1327.9,
-          "height": 50
+          "x": 740.0,
+          "y": 240.0,
+          "width": 720.0,
+          "height": 38
         },
         "type": "body",
         "confidence_score": 0.94
       },
       {
-        "paragraph_id": "para-035-004-001-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "paragraph_id": "para-035-004-000-2",
+        "idx_in_page": 2,
+        "text": "피고 이영희: 응. 근데 나도 변호사 알아보는 중이야",
+        "page": 7,
+        "bbox": {
+          "x": 200.0,
+          "y": 300.0,
+          "width": 880.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-035-004-000-3",
+        "idx_in_page": 3,
+        "text": "정모씨: 네가 잘못한 건데 무슨 변호사를 써",
+        "page": 7,
+        "bbox": {
+          "x": 680.0,
+          "y": 360.0,
+          "width": 780.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-035-004-000-4",
+        "idx_in_page": 4,
+        "text": "피고 이영희: 계약서 조항 잘 보면 빠져나갈 구멍이 있대",
+        "page": 7,
+        "bbox": {
+          "x": 200.0,
+          "y": 420.0,
+          "width": 1000.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-035-004-000-5",
+        "idx_in_page": 5,
+        "text": "정모씨: 그런 게 어디 있어",
+        "page": 7,
+        "bbox": {
+          "x": 900.0,
+          "y": 480.0,
+          "width": 480.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-035-004-000-6",
+        "idx_in_page": 6,
+        "text": "피고 이영희: 나중에 얘기해줄게",
+        "page": 7,
+        "bbox": {
+          "x": 200.0,
+          "y": 540.0,
+          "width": 580.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-035-004-001-0",
+        "idx_in_page": 0,
+        "text": "2024년 6월 19일 (수) 17:45",
         "page": 8,
         "bbox": {
-          "x": 192.79,
-          "y": 1195.57,
-          "width": 1262.31,
-          "height": 50
+          "x": 200.0,
+          "y": 120.0,
+          "width": 420.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-035-004-001-1",
+        "idx_in_page": 1,
+        "text": "피고 이영희: 원고 측 변호사가 소장 보낸대",
+        "page": 8,
+        "bbox": {
+          "x": 200.0,
+          "y": 180.0,
+          "width": 780.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-035-004-001-2",
+        "idx_in_page": 2,
+        "text": "정모씨: 드디어 소송 시작하는구나",
+        "page": 8,
+        "bbox": {
+          "x": 820.0,
+          "y": 240.0,
+          "width": 620.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-035-004-001-3",
+        "idx_in_page": 3,
+        "text": "피고 이영희: 응. 근데 겁나지 않아",
+        "page": 8,
+        "bbox": {
+          "x": 200.0,
+          "y": 300.0,
+          "width": 660.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-035-004-001-4",
+        "idx_in_page": 4,
+        "text": "피고 이영희: 소송하면 최소 1년은 걸릴 텐데, 그동안 집값 더 오르겠지",
+        "page": 8,
+        "bbox": {
+          "x": 200.0,
+          "y": 360.0,
+          "width": 1120.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-035-004-001-5",
+        "idx_in_page": 5,
+        "text": "정모씨: 법원 판결 나면 어떡하려고",
+        "page": 8,
+        "bbox": {
+          "x": 780.0,
+          "y": 420.0,
+          "width": 640.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-035-004-001-6",
+        "idx_in_page": 6,
+        "text": "피고 이영희: 그때 가서 생각해. 일단 시간 벌기가 목표야",
+        "page": 8,
+        "bbox": {
+          "x": 200.0,
+          "y": 480.0,
+          "width": 1000.0,
+          "height": 38
         },
         "type": "body",
         "confidence_score": 0.92
@@ -83,30 +239,114 @@
       {
         "paragraph_id": "para-035-004-002-0",
         "idx_in_page": 0,
-        "text": "[9페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "2024년 6월 20일 (목) 11:20",
         "page": 9,
         "bbox": {
-          "x": 187.34,
-          "y": 93.13,
-          "width": 1249.09,
-          "height": 50
+          "x": 200.0,
+          "y": 120.0,
+          "width": 420.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-035-004-002-1",
+        "idx_in_page": 1,
+        "text": "정모씨: 어제 소장 받았어?",
+        "page": 9,
+        "bbox": {
+          "x": 880.0,
+          "y": 180.0,
+          "width": 480.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-035-004-002-2",
+        "idx_in_page": 2,
+        "text": "피고 이영희: 아직. 근데 곧 올 거야",
+        "page": 9,
+        "bbox": {
+          "x": 200.0,
+          "y": 240.0,
+          "width": 620.0,
+          "height": 38
         },
         "type": "body",
         "confidence_score": 0.94
       },
       {
-        "paragraph_id": "para-035-004-002-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "paragraph_id": "para-035-004-002-3",
+        "idx_in_page": 3,
+        "text": "정모씨: 진짜 답답하다. 네가 하는 짓이",
         "page": 9,
         "bbox": {
-          "x": 196.97,
-          "y": 1198.94,
-          "width": 1304.0,
-          "height": 50
+          "x": 760.0,
+          "y": 300.0,
+          "width": 700.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-035-004-002-4",
+        "idx_in_page": 4,
+        "text": "피고 이영희: 난 합리적으로 판단하는 거야",
+        "page": 9,
+        "bbox": {
+          "x": 200.0,
+          "y": 360.0,
+          "width": 760.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-035-004-002-5",
+        "idx_in_page": 5,
+        "text": "피고 이영희: 5천만 원 손해 보는 것보다 소송 비용이 훨씬 싸잖아",
+        "page": 9,
+        "bbox": {
+          "x": 200.0,
+          "y": 420.0,
+          "width": 1060.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-035-004-002-6",
+        "idx_in_page": 6,
+        "text": "정모씨: 그게 아니라 도덕적인 문제라고",
+        "page": 9,
+        "bbox": {
+          "x": 740.0,
+          "y": 480.0,
+          "width": 720.0,
+          "height": 38
         },
         "type": "body",
         "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-035-004-002-7",
+        "idx_in_page": 7,
+        "text": "피고 이영희: 도덕으로 밥 먹고 살아? 돈이 중요하지",
+        "page": 9,
+        "bbox": {
+          "x": 200.0,
+          "y": 540.0,
+          "width": 980.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.92
       }
     ]
   },

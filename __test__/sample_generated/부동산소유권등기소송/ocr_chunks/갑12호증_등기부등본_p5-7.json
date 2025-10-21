@@ -15,98 +15,233 @@
   ],
   "chunk_number": 3,
   "paragraph_texts": [
-    "[5페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
-    "소유자: 이영희 (2020년 12월 15일 매매)",
-    "[6페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
-    "소유자: 이영희 (2020년 12월 15일 매매)",
-    "[7페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
-    "소유자: 이영희 (2020년 12월 15일 매매)"
+    "【을구】(소유권 이외의 권리에 관한 사항) - 계속",
+    "근저당권 설정일: 2018년 3월 10일",
+    "설정금액: 금 200,000,000원",
+    "채권자: 주식회사 국민은행 강남지점",
+    "【참고사항】",
+    "본 부동산에는 근저당권이 설정되어 있으며, 현재까지 말소되지 않음",
+    "등기부 열람 시 주의사항:",
+    "1. 갑구는 소유권에 관한 사항을 기재",
+    "2. 을구는 소유권 이외의 권리(근저당권, 전세권 등)를 기재",
+    "3. 말소사항은 밑줄로 표시됨",
+    "【등기원인증서】",
+    "본 등기는 다음 서류에 기초하여 이루어짐:",
+    "- 매매계약서 (2018.3.5)",
+    "- 근저당권설정계약서 (2018.3.10)",
+    "- 소유권이전등기 신청서"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-023-003-000-0",
         "idx_in_page": 0,
-        "text": "[5페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
+        "text": "【을구】(소유권 이외의 권리에 관한 사항) - 계속",
         "page": 5,
         "bbox": {
-          "x": 215.85,
-          "y": 105.51,
-          "width": 1272.38,
-          "height": 50
+          "x": 215,
+          "y": 385,
+          "width": 950,
+          "height": 42
         },
-        "type": "body",
-        "confidence_score": 0.95
+        "type": "heading",
+        "confidence_score": 0.99
       },
       {
         "paragraph_id": "para-023-003-000-1",
         "idx_in_page": 1,
-        "text": "소유자: 이영희 (2020년 12월 15일 매매)",
+        "text": "근저당권 설정일: 2018년 3월 10일",
         "page": 5,
         "bbox": {
-          "x": 192.95,
-          "y": 1187.64,
-          "width": 1314.66,
-          "height": 50
+          "x": 215,
+          "y": 445,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-023-003-001-0",
-        "idx_in_page": 0,
-        "text": "[6페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
-        "page": 6,
+        "paragraph_id": "para-023-003-000-2",
+        "idx_in_page": 2,
+        "text": "설정금액: 금 200,000,000원",
+        "page": 5,
         "bbox": {
-          "x": 182.15,
-          "y": 90.35,
-          "width": 1268.87,
-          "height": 50
+          "x": 215,
+          "y": 495,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
-        "confidence_score": 0.98
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-023-003-000-3",
+        "idx_in_page": 3,
+        "text": "채권자: 주식회사 국민은행 강남지점",
+        "page": 5,
+        "bbox": {
+          "x": 215,
+          "y": 545,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-023-003-000-4",
+        "idx_in_page": 4,
+        "text": "【참고사항】",
+        "page": 5,
+        "bbox": {
+          "x": 215,
+          "y": 615,
+          "width": 950,
+          "height": 42
+        },
+        "type": "heading",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-023-003-001-0",
+        "idx_in_page": 0,
+        "text": "본 부동산에는 근저당권이 설정되어 있으며, 현재까지 말소되지 않음",
+        "page": 6,
+        "bbox": {
+          "x": 215,
+          "y": 95,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
       },
       {
         "paragraph_id": "para-023-003-001-1",
         "idx_in_page": 1,
-        "text": "소유자: 이영희 (2020년 12월 15일 매매)",
+        "text": "등기부 열람 시 주의사항:",
         "page": 6,
         "bbox": {
-          "x": 207.91,
-          "y": 1196.15,
-          "width": 1263.32,
-          "height": 50
+          "x": 215,
+          "y": 145,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
-        "confidence_score": 0.94
+        "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-023-003-002-0",
-        "idx_in_page": 0,
-        "text": "[7페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
-        "page": 7,
+        "paragraph_id": "para-023-003-001-2",
+        "idx_in_page": 2,
+        "text": "1. 갑구는 소유권에 관한 사항을 기재",
+        "page": 6,
         "bbox": {
-          "x": 185.95,
-          "y": 102.69,
-          "width": 1231.61,
-          "height": 50
+          "x": 215,
+          "y": 195,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.92
       },
       {
-        "paragraph_id": "para-023-003-002-1",
-        "idx_in_page": 1,
-        "text": "소유자: 이영희 (2020년 12월 15일 매매)",
-        "page": 7,
+        "paragraph_id": "para-023-003-001-3",
+        "idx_in_page": 3,
+        "text": "2. 을구는 소유권 이외의 권리(근저당권, 전세권 등)를 기재",
+        "page": 6,
         "bbox": {
-          "x": 187.26,
-          "y": 1191.21,
-          "width": 1249.96,
-          "height": 50
+          "x": 215,
+          "y": 245,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
-        "confidence_score": 0.94
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-023-003-001-4",
+        "idx_in_page": 4,
+        "text": "3. 말소사항은 밑줄로 표시됨",
+        "page": 6,
+        "bbox": {
+          "x": 215,
+          "y": 295,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-023-003-002-0",
+        "idx_in_page": 0,
+        "text": "【등기원인증서】",
+        "page": 7,
+        "bbox": {
+          "x": 215,
+          "y": 95,
+          "width": 950,
+          "height": 42
+        },
+        "type": "heading",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-023-003-002-1",
+        "idx_in_page": 1,
+        "text": "본 등기는 다음 서류에 기초하여 이루어짐:",
+        "page": 7,
+        "bbox": {
+          "x": 215,
+          "y": 155,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-023-003-002-2",
+        "idx_in_page": 2,
+        "text": "- 매매계약서 (2018.3.5)",
+        "page": 7,
+        "bbox": {
+          "x": 215,
+          "y": 205,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-023-003-002-3",
+        "idx_in_page": 3,
+        "text": "- 근저당권설정계약서 (2018.3.10)",
+        "page": 7,
+        "bbox": {
+          "x": 215,
+          "y": 255,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-023-003-002-4",
+        "idx_in_page": 4,
+        "text": "- 소유권이전등기 신청서",
+        "page": 7,
+        "bbox": {
+          "x": 215,
+          "y": 305,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
       }
     ]
   },

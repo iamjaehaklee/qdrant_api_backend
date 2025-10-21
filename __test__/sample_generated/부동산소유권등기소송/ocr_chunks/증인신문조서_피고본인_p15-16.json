@@ -14,68 +14,234 @@
   ],
   "chunk_number": 8,
   "paragraph_texts": [
-    "[15페이지] 증인신문조서 재판장: 계약 체결 당시 상황에 대해 진술하시기 바랍니다.",
-    "증인: 2024년 3월 15일 강남부동산공인중개사사무소에서 계약이 체결되었습니다. 재판장: 특약사항에 대해서는 어떻게 기억하십니까?",
-    "[16페이지] 증인신문조서 재판장: 계약 체결 당시 상황에 대해 진술하시기 바랍니다.",
-    "증인: 2024년 3월 15일 강남부동산공인중개사사무소에서 계약이 체결되었습니다. 재판장: 특약사항에 대해서는 어떻게 기억하십니까?"
+    "증인: 네, 서명은 했지만 내용을 제대로 이해하지 못했습니다.",
+    "재판장: 부동산 매매 경험이 처음이십니까?",
+    "증인: 아니요, 이전에도 몇 차례 있었습니다.",
+    "재판장: 그렇다면 계약서 내용을 이해하는 것이 어렵지 않았을 텐데요.",
+    "증인: 그때는 급하게 진행되어서 꼼꼼히 확인하지 못했습니다.",
+    "재판장: 알겠습니다. 증인신문을 마치겠습니다.",
+    "재판장: 다음 기일은 2024년 12월 10일 오전 10시로 지정합니다.",
+    "재판장: 증인은 퇴정하셔도 됩니다.",
+    "증인 퇴정",
+    "재판장: 양측 변호사께서는 다음 기일까지 추가 서면을 제출해 주시기 바랍니다.",
+    "원고측 변호사: 네, 알겠습니다.",
+    "피고측 변호사: 네, 제출하겠습니다.",
+    "재판장: 그럼 오늘 변론은 여기서 마치겠습니다.",
+    "폐정",
+    "(증인신문조서 종료)",
+    ""
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-042-008-000-0",
         "idx_in_page": 0,
-        "text": "[15페이지] 증인신문조서 재판장: 계약 체결 당시 상황에 대해 진술하시기 바랍니다.",
+        "text": "증인: 네, 서명은 했지만 내용을 제대로 이해하지 못했습니다.",
         "page": 15,
         "bbox": {
-          "x": 215.16,
-          "y": 96.92,
-          "width": 1272.33,
-          "height": 50
+          "x": 180.0,
+          "y": 150.0,
+          "width": 1302.0,
+          "height": 45
         },
         "type": "body",
-        "confidence_score": 0.98
+        "confidence_score": 0.9
       },
       {
         "paragraph_id": "para-042-008-000-1",
         "idx_in_page": 1,
-        "text": "증인: 2024년 3월 15일 강남부동산공인중개사사무소에서 계약이 체결되었습니다. 재판장: 특약사항에 대해서는 어떻게 기억하십니까?",
+        "text": "재판장: 부동산 매매 경험이 처음이십니까?",
         "page": 15,
         "bbox": {
-          "x": 180.11,
-          "y": 1179.67,
-          "width": 1271.09,
-          "height": 50
+          "x": 185.0,
+          "y": 210.0,
+          "width": 1269.0,
+          "height": 45
+        },
+        "type": "heading",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-042-008-000-2",
+        "idx_in_page": 2,
+        "text": "증인: 아니요, 이전에도 몇 차례 있었습니다.",
+        "page": 15,
+        "bbox": {
+          "x": 190.0,
+          "y": 270.0,
+          "width": 1275.0,
+          "height": 45
         },
         "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-042-008-000-3",
+        "idx_in_page": 3,
+        "text": "재판장: 그렇다면 계약서 내용을 이해하는 것이 어렵지 않았을 텐데요.",
+        "page": 15,
+        "bbox": {
+          "x": 180.0,
+          "y": 330.0,
+          "width": 1314.0,
+          "height": 45
+        },
+        "type": "heading",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-042-008-000-4",
+        "idx_in_page": 4,
+        "text": "증인: 그때는 급하게 진행되어서 꼼꼼히 확인하지 못했습니다.",
+        "page": 15,
+        "bbox": {
+          "x": 185.0,
+          "y": 390.0,
+          "width": 1299.0,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-042-008-000-5",
+        "idx_in_page": 5,
+        "text": "재판장: 알겠습니다. 증인신문을 마치겠습니다.",
+        "page": 15,
+        "bbox": {
+          "x": 190.0,
+          "y": 450.0,
+          "width": 1275.0,
+          "height": 45
+        },
+        "type": "heading",
         "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-042-008-000-6",
+        "idx_in_page": 6,
+        "text": "재판장: 다음 기일은 2024년 12월 10일 오전 10시로 지정합니다.",
+        "page": 15,
+        "bbox": {
+          "x": 180.0,
+          "y": 510.0,
+          "width": 1320.0,
+          "height": 45
+        },
+        "type": "heading",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-042-008-000-7",
+        "idx_in_page": 7,
+        "text": "재판장: 증인은 퇴정하셔도 됩니다.",
+        "page": 15,
+        "bbox": {
+          "x": 185.0,
+          "y": 570.0,
+          "width": 1257.0,
+          "height": 45
+        },
+        "type": "heading",
+        "confidence_score": 0.97
       },
       {
         "paragraph_id": "para-042-008-001-0",
         "idx_in_page": 0,
-        "text": "[16페이지] 증인신문조서 재판장: 계약 체결 당시 상황에 대해 진술하시기 바랍니다.",
+        "text": "증인 퇴정",
         "page": 16,
         "bbox": {
-          "x": 185.3,
-          "y": 95.91,
-          "width": 1309.17,
-          "height": 50
+          "x": 180.0,
+          "y": 150.0,
+          "width": 1215.0,
+          "height": 45
         },
-        "type": "body",
-        "confidence_score": 0.97
+        "type": "heading",
+        "confidence_score": 0.9
       },
       {
         "paragraph_id": "para-042-008-001-1",
         "idx_in_page": 1,
-        "text": "증인: 2024년 3월 15일 강남부동산공인중개사사무소에서 계약이 체결되었습니다. 재판장: 특약사항에 대해서는 어떻게 기억하십니까?",
+        "text": "재판장: 양측 변호사께서는 다음 기일까지 추가 서면을 제출해 주시기 바랍니다.",
         "page": 16,
         "bbox": {
-          "x": 194.05,
-          "y": 1195.05,
-          "width": 1266.95,
-          "height": 50
+          "x": 185.0,
+          "y": 210.0,
+          "width": 1329.0,
+          "height": 45
+        },
+        "type": "heading",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-042-008-001-2",
+        "idx_in_page": 2,
+        "text": "원고측 변호사: 네, 알겠습니다.",
+        "page": 16,
+        "bbox": {
+          "x": 190.0,
+          "y": 270.0,
+          "width": 1254.0,
+          "height": 45
         },
         "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-042-008-001-3",
+        "idx_in_page": 3,
+        "text": "피고측 변호사: 네, 제출하겠습니다.",
+        "page": 16,
+        "bbox": {
+          "x": 180.0,
+          "y": 330.0,
+          "width": 1260.0,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-042-008-001-4",
+        "idx_in_page": 4,
+        "text": "재판장: 그럼 오늘 변론은 여기서 마치겠습니다.",
+        "page": 16,
+        "bbox": {
+          "x": 185.0,
+          "y": 390.0,
+          "width": 1278.0,
+          "height": 45
+        },
+        "type": "heading",
         "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-042-008-001-5",
+        "idx_in_page": 5,
+        "text": "폐정",
+        "page": 16,
+        "bbox": {
+          "x": 190.0,
+          "y": 450.0,
+          "width": 1206.0,
+          "height": 45
+        },
+        "type": "heading",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-042-008-001-6",
+        "idx_in_page": 6,
+        "text": "(증인신문조서 종료)",
+        "page": 16,
+        "bbox": {
+          "x": 180.0,
+          "y": 510.0,
+          "width": 1233.0,
+          "height": 45
+        },
+        "type": "heading",
+        "confidence_score": 0.96
       }
     ]
   },

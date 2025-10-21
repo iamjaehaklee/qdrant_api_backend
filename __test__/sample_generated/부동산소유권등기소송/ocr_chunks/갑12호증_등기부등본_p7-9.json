@@ -15,98 +15,248 @@
   ],
   "chunk_number": 4,
   "paragraph_texts": [
-    "[7페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
-    "소유자: 이영희 (2020년 12월 15일 매매)",
-    "[8페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
-    "소유자: 이영희 (2020년 12월 15일 매매)",
-    "[9페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
-    "소유자: 이영희 (2020년 12월 15일 매매)"
+    "【등기원인증서】 - 계속",
+    "- 매매계약서 (2018.3.5)",
+    "- 근저당권설정계약서 (2018.3.10)",
+    "- 소유권이전등기 신청서",
+    "- 등기필증",
+    "【등기소 정보】",
+    "관할등기소: 서울중앙지방법원 등기국",
+    "주소: 서울특별시 서초구 서초대로 219",
+    "전화: 02-530-1234",
+    "팩스: 02-530-1235",
+    "업무시간: 평일 09:00 - 18:00 (점심시간 12:00-13:00)",
+    "【발급정보】",
+    "발급일자: 2024년 7월 25일",
+    "발급번호: 1234567890123",
+    "열람자: (본인 또는 대리인)",
+    "발급목적: 소송용"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-023-004-000-0",
         "idx_in_page": 0,
-        "text": "[7페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
+        "text": "【등기원인증서】 - 계속",
         "page": 7,
         "bbox": {
-          "x": 210.59,
-          "y": 104.72,
-          "width": 1282.52,
-          "height": 50
+          "x": 215,
+          "y": 385,
+          "width": 950,
+          "height": 42
         },
-        "type": "body",
-        "confidence_score": 0.96
+        "type": "heading",
+        "confidence_score": 0.97
       },
       {
         "paragraph_id": "para-023-004-000-1",
         "idx_in_page": 1,
-        "text": "소유자: 이영희 (2020년 12월 15일 매매)",
+        "text": "- 매매계약서 (2018.3.5)",
         "page": 7,
         "bbox": {
-          "x": 201.31,
-          "y": 1187.52,
-          "width": 1307.0,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.95
-      },
-      {
-        "paragraph_id": "para-023-004-001-0",
-        "idx_in_page": 0,
-        "text": "[8페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
-        "page": 8,
-        "bbox": {
-          "x": 182.66,
-          "y": 97.31,
-          "width": 1272.23,
-          "height": 50
+          "x": 215,
+          "y": 445,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-023-004-001-1",
-        "idx_in_page": 1,
-        "text": "소유자: 이영희 (2020년 12월 15일 매매)",
+        "paragraph_id": "para-023-004-000-2",
+        "idx_in_page": 2,
+        "text": "- 근저당권설정계약서 (2018.3.10)",
+        "page": 7,
+        "bbox": {
+          "x": 215,
+          "y": 495,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-023-004-000-3",
+        "idx_in_page": 3,
+        "text": "- 소유권이전등기 신청서",
+        "page": 7,
+        "bbox": {
+          "x": 215,
+          "y": 545,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-023-004-000-4",
+        "idx_in_page": 4,
+        "text": "- 등기필증",
+        "page": 7,
+        "bbox": {
+          "x": 215,
+          "y": 595,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-023-004-001-0",
+        "idx_in_page": 0,
+        "text": "【등기소 정보】",
         "page": 8,
         "bbox": {
-          "x": 203.82,
-          "y": 1196.1,
-          "width": 1288.22,
-          "height": 50
+          "x": 215,
+          "y": 95,
+          "width": 950,
+          "height": 42
+        },
+        "type": "heading",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-023-004-001-1",
+        "idx_in_page": 1,
+        "text": "관할등기소: 서울중앙지방법원 등기국",
+        "page": 8,
+        "bbox": {
+          "x": 215,
+          "y": 155,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-023-004-001-2",
+        "idx_in_page": 2,
+        "text": "주소: 서울특별시 서초구 서초대로 219",
+        "page": 8,
+        "bbox": {
+          "x": 215,
+          "y": 205,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-023-004-001-3",
+        "idx_in_page": 3,
+        "text": "전화: 02-530-1234",
+        "page": 8,
+        "bbox": {
+          "x": 215,
+          "y": 255,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-023-004-002-0",
-        "idx_in_page": 0,
-        "text": "[9페이지] 등기부등본 소재지: 서울특별시 강남구 테헤란로 123",
-        "page": 9,
+        "paragraph_id": "para-023-004-001-4",
+        "idx_in_page": 4,
+        "text": "팩스: 02-530-1235",
+        "page": 8,
         "bbox": {
-          "x": 206.62,
-          "y": 90.3,
-          "width": 1251.17,
-          "height": 50
+          "x": 215,
+          "y": 305,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
-        "confidence_score": 0.9
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-023-004-001-5",
+        "idx_in_page": 5,
+        "text": "업무시간: 평일 09:00 - 18:00 (점심시간 12:00-13:00)",
+        "page": 8,
+        "bbox": {
+          "x": 215,
+          "y": 355,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-023-004-002-0",
+        "idx_in_page": 0,
+        "text": "【발급정보】",
+        "page": 9,
+        "bbox": {
+          "x": 215,
+          "y": 95,
+          "width": 950,
+          "height": 42
+        },
+        "type": "heading",
+        "confidence_score": 0.96
       },
       {
         "paragraph_id": "para-023-004-002-1",
         "idx_in_page": 1,
-        "text": "소유자: 이영희 (2020년 12월 15일 매매)",
+        "text": "발급일자: 2024년 7월 25일",
         "page": 9,
         "bbox": {
-          "x": 182.35,
-          "y": 1197.39,
-          "width": 1272.89,
-          "height": 50
+          "x": 215,
+          "y": 155,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
-        "confidence_score": 0.9
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-023-004-002-2",
+        "idx_in_page": 2,
+        "text": "발급번호: 1234567890123",
+        "page": 9,
+        "bbox": {
+          "x": 215,
+          "y": 205,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-023-004-002-3",
+        "idx_in_page": 3,
+        "text": "열람자: (본인 또는 대리인)",
+        "page": 9,
+        "bbox": {
+          "x": 215,
+          "y": 255,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-023-004-002-4",
+        "idx_in_page": 4,
+        "text": "발급목적: 소송용",
+        "page": 9,
+        "bbox": {
+          "x": 215,
+          "y": 305,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
       }
     ]
   },

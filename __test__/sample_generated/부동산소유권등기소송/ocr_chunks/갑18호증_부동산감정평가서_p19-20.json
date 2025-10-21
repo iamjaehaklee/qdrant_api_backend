@@ -1,5 +1,5 @@
 {
-  "chunk_id": "53185130-afa9-4a73-98e6-8282a7968958",
+  "chunk_id": "9e71a239-e2d8-4077-af6d-e1fe03c464d2",
   "file_id": 29,
   "project_id": 1001,
   "storage_file_name": "exhibit_a18_appraisal.pdf",
@@ -14,68 +14,158 @@
   ],
   "chunk_number": 10,
   "paragraph_texts": [
-    "[19페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[20페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일"
+    "XII. 감정평가법인 및 감정평가사 인적사항",
+    "감정평가법인: 대한감정평가법인",
+    "소재지: 서울특별시 서초구 서초대로 300, 우림빌딩 12층",
+    "감정평가사: 정감정",
+    "감정평가사 등록번호: 2015-1234",
+    "XIII. 결론",
+    "대상 부동산의 기준시점(2024년 7월 1일) 현재 시장가치는",
+    "금 오억이천만원정(₩520,000,000원)으로 평가됩니다.",
+    "2024년 7월 15일",
+    "대한감정평가법인 감정평가사 정감정 (인)"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-029-010-000-0",
         "idx_in_page": 0,
-        "text": "[19페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "text": "XII. 감정평가법인 및 감정평가사 인적사항",
         "page": 19,
         "bbox": {
-          "x": 183.09,
-          "y": 101.61,
-          "width": 1329.55,
-          "height": 50
+          "x": 180,
+          "y": 90,
+          "width": 1200,
+          "height": 60
         },
-        "type": "body",
-        "confidence_score": 0.97
+        "type": "heading",
+        "confidence_score": 0.93
       },
       {
         "paragraph_id": "para-029-010-000-1",
         "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "text": "감정평가법인: 대한감정평가법인",
         "page": 19,
         "bbox": {
-          "x": 194.33,
-          "y": 1188.08,
-          "width": 1260.77,
-          "height": 50
+          "x": 185,
+          "y": 195,
+          "width": 1210,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-029-010-000-2",
+        "idx_in_page": 2,
+        "text": "소재지: 서울특별시 서초구 서초대로 300, 우림빌딩 12층",
+        "page": 19,
+        "bbox": {
+          "x": 190,
+          "y": 240,
+          "width": 1220,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-029-010-000-3",
+        "idx_in_page": 3,
+        "text": "감정평가사: 정감정",
+        "page": 19,
+        "bbox": {
+          "x": 195,
+          "y": 285,
+          "width": 1230,
+          "height": 40
         },
         "type": "body",
         "confidence_score": 0.96
       },
       {
+        "paragraph_id": "para-029-010-000-4",
+        "idx_in_page": 4,
+        "text": "감정평가사 등록번호: 2015-1234",
+        "page": 19,
+        "bbox": {
+          "x": 200,
+          "y": 330,
+          "width": 1240,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
         "paragraph_id": "para-029-010-001-0",
         "idx_in_page": 0,
-        "text": "[20페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "text": "XIII. 결론",
         "page": 20,
         "bbox": {
-          "x": 184.03,
-          "y": 107.05,
-          "width": 1236.09,
-          "height": 50
+          "x": 180,
+          "y": 90,
+          "width": 1200,
+          "height": 60
+        },
+        "type": "heading",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-029-010-001-1",
+        "idx_in_page": 1,
+        "text": "대상 부동산의 기준시점(2024년 7월 1일) 현재 시장가치는",
+        "page": 20,
+        "bbox": {
+          "x": 185,
+          "y": 195,
+          "width": 1210,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-029-010-001-2",
+        "idx_in_page": 2,
+        "text": "금 오억이천만원정(₩520,000,000원)으로 평가됩니다.",
+        "page": 20,
+        "bbox": {
+          "x": 190,
+          "y": 240,
+          "width": 1220,
+          "height": 40
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-029-010-001-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "paragraph_id": "para-029-010-001-3",
+        "idx_in_page": 3,
+        "text": "2024년 7월 15일",
         "page": 20,
         "bbox": {
-          "x": 207.19,
-          "y": 1190.62,
-          "width": 1301.05,
-          "height": 50
+          "x": 195,
+          "y": 285,
+          "width": 1230,
+          "height": 40
         },
         "type": "body",
-        "confidence_score": 0.95
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-029-010-001-4",
+        "idx_in_page": 4,
+        "text": "대한감정평가법인 감정평가사 정감정 (인)",
+        "page": 20,
+        "bbox": {
+          "x": 200,
+          "y": 330,
+          "width": 1240,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.97
       }
     ]
   },

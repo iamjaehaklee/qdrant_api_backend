@@ -15,95 +15,530 @@
   ],
   "chunk_number": 6,
   "paragraph_texts": [
-    "[11페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[12페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[13페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일"
+    "④ 필압 분석 그래프 (첨부 D-1)",
+    "⑤ 각도 측정 데이터 시트 (첨부 D-2)",
+    "⑥ RGB 색상 분석 데이터 (첨부 D-3)",
+    "⑦ 획 두께 분석 그래프 (첨부 D-4)",
+    "⑧ 필순 분석 다이어그램 (첨부 D-5)",
+    "⑨ 글자 크기 및 자간 비교표 (첨부 D-6)",
+    "⑩ 종합 비교 분석 리포트 (첨부 E-1)",
+    "17. 감정 일시 및 장소",
+    "감정 수행 일시: 2024년 9월 5일 ~ 2024년 9월 18일 (총 14일간)",
+    "감정 수행 장소: 국립과학수사연구원 문서감정과 (서울특별시 서초구 법원로 1길 23)",
+    "주요 감정 일정:",
+    "- 2024년 9월 5일: 감정 자료 접수 및 예비 검토",
+    "- 2024년 9월 6일 ~ 9월 8일: 육안 감정 및 기초 분석",
+    "- 2024년 9월 9일 ~ 9월 12일: 현미경 감정 및 디지털 분석",
+    "- 2024년 9월 13일 ~ 9월 15일: 데이터 종합 분석 및 통계 처리",
+    "- 2024년 9월 16일 ~ 9월 17일: 감정 결과 검토 및 보고서 작성",
+    "- 2024년 9월 18일: 최종 검토 및 보고서 완료",
+    "18. 감정인 정보",
+    "주감정인:",
+    "성명: 박감정 (朴鑑定)",
+    "직위: 국립과학수사연구원 문서감정과 선임연구관",
+    "경력: 문서감정 분야 20년 (1,200건 이상 감정 수행)",
+    "학력: 서울대학교 화학과 학사, 동 대학원 분석화학 석사",
+    "자격: 문서감정 전문가 (Certified Forensic Document Examiner)",
+    "보조감정인:",
+    "성명: 이분석 (李分析)",
+    "직위: 국립과학수사연구원 문서감정과 연구사",
+    "경력: 문서감정 분야 8년 (450건 이상 감정 수행)",
+    "학력: 연세대학교 물리학과 학사, 광학 이미지 분석 전공",
+    "19. 법적 고지 사항",
+    "본 감정서는 서울중앙지방법원의 감정 촉탁에 따라 작성되었으며, 다음 사항을 고지함:",
+    "(1) 본 감정 결과는 제출된 감정 대상 및 대조 자료에 기초한 것으로, 추가 자료가 제출될 경우 결론이 달라질 수 있음",
+    "(2) 본 감정서는 법정에서의 증거 자료로 활용될 목적으로 작성되었으나, 최종 판단은 법원의 권한임",
+    "(3) 본 감정서의 내용은 감정인의 전문적 의견이며, 절대적 진실을 보증하는 것은 아님",
+    "(4) 본 감정서는 무단 복제, 변조, 또는 일부 발췌 사용이 금지됨"
   ],
   "chunk_content": {
     "paragraphs": [
       {
-        "paragraph_id": "para-050-006-000-0",
-        "idx_in_page": 0,
-        "text": "[11페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "paragraph_id": "para-050-009-000-13",
+        "idx_in_page": 13,
+        "text": "④ 필압 분석 그래프 (첨부 D-1)",
         "page": 11,
         "bbox": {
-          "x": 191.67,
-          "y": 101.34,
-          "width": 1304.85,
-          "height": 50
+          "x": 220,
+          "y": 714,
+          "width": 560,
+          "height": 28
         },
-        "type": "body",
-        "confidence_score": 0.96
-      },
-      {
-        "paragraph_id": "para-050-006-000-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
-        "page": 11,
-        "bbox": {
-          "x": 204.37,
-          "y": 1198.23,
-          "width": 1246.29,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.96
-      },
-      {
-        "paragraph_id": "para-050-006-001-0",
-        "idx_in_page": 0,
-        "text": "[12페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-        "page": 12,
-        "bbox": {
-          "x": 210.32,
-          "y": 103.28,
-          "width": 1288.89,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.98
-      },
-      {
-        "paragraph_id": "para-050-006-001-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
-        "page": 12,
-        "bbox": {
-          "x": 219.42,
-          "y": 1199.1,
-          "width": 1238.02,
-          "height": 50
-        },
-        "type": "body",
+        "type": "list",
         "confidence_score": 0.97
       },
       {
-        "paragraph_id": "para-050-006-002-0",
-        "idx_in_page": 0,
-        "text": "[13페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-        "page": 13,
+        "paragraph_id": "para-050-009-000-14",
+        "idx_in_page": 14,
+        "text": "⑤ 각도 측정 데이터 시트 (첨부 D-2)",
+        "page": 11,
         "bbox": {
-          "x": 187.34,
-          "y": 91.78,
-          "width": 1240.66,
-          "height": 50
+          "x": 220,
+          "y": 752,
+          "width": 640,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-009-000-15",
+        "idx_in_page": 15,
+        "text": "⑥ RGB 색상 분석 데이터 (첨부 D-3)",
+        "page": 11,
+        "bbox": {
+          "x": 220,
+          "y": 790,
+          "width": 640,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-009-000-16",
+        "idx_in_page": 16,
+        "text": "⑦ 획 두께 분석 그래프 (첨부 D-4)",
+        "page": 11,
+        "bbox": {
+          "x": 220,
+          "y": 828,
+          "width": 600,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-009-000-17",
+        "idx_in_page": 17,
+        "text": "⑧ 필순 분석 다이어그램 (첨부 D-5)",
+        "page": 11,
+        "bbox": {
+          "x": 220,
+          "y": 866,
+          "width": 600,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-009-000-18",
+        "idx_in_page": 18,
+        "text": "⑨ 글자 크기 및 자간 비교표 (첨부 D-6)",
+        "page": 11,
+        "bbox": {
+          "x": 220,
+          "y": 904,
+          "width": 680,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-009-000-19",
+        "idx_in_page": 19,
+        "text": "⑩ 종합 비교 분석 리포트 (첨부 E-1)",
+        "page": 11,
+        "bbox": {
+          "x": 220,
+          "y": 942,
+          "width": 640,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-010-000-0",
+        "idx_in_page": 0,
+        "text": "17. 감정 일시 및 장소",
+        "page": 12,
+        "bbox": {
+          "x": 180,
+          "y": 180,
+          "width": 340,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-050-010-000-1",
+        "idx_in_page": 1,
+        "text": "감정 수행 일시: 2024년 9월 5일 ~ 2024년 9월 18일 (총 14일간)",
+        "page": 12,
+        "bbox": {
+          "x": 180,
+          "y": 222,
+          "width": 980,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-010-000-2",
+        "idx_in_page": 2,
+        "text": "감정 수행 장소: 국립과학수사연구원 문서감정과 (서울특별시 서초구 법원로 1길 23)",
+        "page": 12,
+        "bbox": {
+          "x": 180,
+          "y": 260,
+          "width": 1180,
+          "height": 28
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-050-006-002-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "paragraph_id": "para-050-010-000-3",
+        "idx_in_page": 3,
+        "text": "주요 감정 일정:",
+        "page": 12,
+        "bbox": {
+          "x": 180,
+          "y": 303,
+          "width": 260,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-010-000-4",
+        "idx_in_page": 4,
+        "text": "- 2024년 9월 5일: 감정 자료 접수 및 예비 검토",
+        "page": 12,
+        "bbox": {
+          "x": 220,
+          "y": 341,
+          "width": 800,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-010-000-5",
+        "idx_in_page": 5,
+        "text": "- 2024년 9월 6일 ~ 9월 8일: 육안 감정 및 기초 분석",
+        "page": 12,
+        "bbox": {
+          "x": 220,
+          "y": 379,
+          "width": 840,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-010-000-6",
+        "idx_in_page": 6,
+        "text": "- 2024년 9월 9일 ~ 9월 12일: 현미경 감정 및 디지털 분석",
+        "page": 12,
+        "bbox": {
+          "x": 220,
+          "y": 417,
+          "width": 900,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-010-000-7",
+        "idx_in_page": 7,
+        "text": "- 2024년 9월 13일 ~ 9월 15일: 데이터 종합 분석 및 통계 처리",
+        "page": 12,
+        "bbox": {
+          "x": 220,
+          "y": 455,
+          "width": 1000,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-050-010-000-8",
+        "idx_in_page": 8,
+        "text": "- 2024년 9월 16일 ~ 9월 17일: 감정 결과 검토 및 보고서 작성",
+        "page": 12,
+        "bbox": {
+          "x": 220,
+          "y": 493,
+          "width": 1000,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-010-000-9",
+        "idx_in_page": 9,
+        "text": "- 2024년 9월 18일: 최종 검토 및 보고서 완료",
+        "page": 12,
+        "bbox": {
+          "x": 220,
+          "y": 531,
+          "width": 780,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-010-000-10",
+        "idx_in_page": 10,
+        "text": "18. 감정인 정보",
+        "page": 12,
+        "bbox": {
+          "x": 180,
+          "y": 600,
+          "width": 280,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-050-010-000-11",
+        "idx_in_page": 11,
+        "text": "주감정인:",
+        "page": 12,
+        "bbox": {
+          "x": 180,
+          "y": 642,
+          "width": 160,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-010-000-12",
+        "idx_in_page": 12,
+        "text": "성명: 박감정 (朴鑑定)",
+        "page": 12,
+        "bbox": {
+          "x": 220,
+          "y": 680,
+          "width": 380,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-010-000-13",
+        "idx_in_page": 13,
+        "text": "직위: 국립과학수사연구원 문서감정과 선임연구관",
+        "page": 12,
+        "bbox": {
+          "x": 220,
+          "y": 718,
+          "width": 780,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-011-000-0",
+        "idx_in_page": 0,
+        "text": "경력: 문서감정 분야 20년 (1,200건 이상 감정 수행)",
         "page": 13,
         "bbox": {
-          "x": 212.34,
-          "y": 1182.95,
-          "width": 1299.72,
-          "height": 50
+          "x": 220,
+          "y": 180,
+          "width": 840,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-011-000-1",
+        "idx_in_page": 1,
+        "text": "학력: 서울대학교 화학과 학사, 동 대학원 분석화학 석사",
+        "page": 13,
+        "bbox": {
+          "x": 220,
+          "y": 218,
+          "width": 840,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-011-000-2",
+        "idx_in_page": 2,
+        "text": "자격: 문서감정 전문가 (Certified Forensic Document Examiner)",
+        "page": 13,
+        "bbox": {
+          "x": 220,
+          "y": 256,
+          "width": 1000,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-050-011-000-3",
+        "idx_in_page": 3,
+        "text": "보조감정인:",
+        "page": 13,
+        "bbox": {
+          "x": 180,
+          "y": 300,
+          "width": 180,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-011-000-4",
+        "idx_in_page": 4,
+        "text": "성명: 이분석 (李分析)",
+        "page": 13,
+        "bbox": {
+          "x": 220,
+          "y": 338,
+          "width": 380,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-011-000-5",
+        "idx_in_page": 5,
+        "text": "직위: 국립과학수사연구원 문서감정과 연구사",
+        "page": 13,
+        "bbox": {
+          "x": 220,
+          "y": 376,
+          "width": 720,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-011-000-6",
+        "idx_in_page": 6,
+        "text": "경력: 문서감정 분야 8년 (450건 이상 감정 수행)",
+        "page": 13,
+        "bbox": {
+          "x": 220,
+          "y": 414,
+          "width": 800,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-011-000-7",
+        "idx_in_page": 7,
+        "text": "학력: 연세대학교 물리학과 학사, 광학 이미지 분석 전공",
+        "page": 13,
+        "bbox": {
+          "x": 220,
+          "y": 452,
+          "width": 880,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-050-011-000-8",
+        "idx_in_page": 8,
+        "text": "19. 법적 고지 사항",
+        "page": 13,
+        "bbox": {
+          "x": 180,
+          "y": 520,
+          "width": 300,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-050-011-000-9",
+        "idx_in_page": 9,
+        "text": "본 감정서는 서울중앙지방법원의 감정 촉탁에 따라 작성되었으며, 다음 사항을 고지함:",
+        "page": 13,
+        "bbox": {
+          "x": 180,
+          "y": 562,
+          "width": 1120,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-011-000-10",
+        "idx_in_page": 10,
+        "text": "(1) 본 감정 결과는 제출된 감정 대상 및 대조 자료에 기초한 것으로, 추가 자료가 제출될 경우 결론이 달라질 수 있음",
+        "page": 13,
+        "bbox": {
+          "x": 180,
+          "y": 605,
+          "width": 1260,
+          "height": 56
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-050-011-000-11",
+        "idx_in_page": 11,
+        "text": "(2) 본 감정서는 법정에서의 증거 자료로 활용될 목적으로 작성되었으나, 최종 판단은 법원의 권한임",
+        "page": 13,
+        "bbox": {
+          "x": 180,
+          "y": 677,
+          "width": 1240,
+          "height": 56
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-011-000-12",
+        "idx_in_page": 12,
+        "text": "(3) 본 감정서의 내용은 감정인의 전문적 의견이며, 절대적 진실을 보증하는 것은 아님",
+        "page": 13,
+        "bbox": {
+          "x": 180,
+          "y": 749,
+          "width": 1160,
+          "height": 56
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-011-000-13",
+        "idx_in_page": 13,
+        "text": "(4) 본 감정서는 무단 복제, 변조, 또는 일부 발췌 사용이 금지됨",
+        "page": 13,
+        "bbox": {
+          "x": 180,
+          "y": 821,
+          "width": 920,
+          "height": 28
         },
         "type": "body",
         "confidence_score": 0.96

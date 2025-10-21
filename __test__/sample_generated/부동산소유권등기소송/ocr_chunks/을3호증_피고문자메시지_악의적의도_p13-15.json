@@ -15,98 +15,323 @@
   ],
   "chunk_number": 7,
   "paragraph_texts": [
-    "[13페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[14페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[15페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "피고 이영희: 아침부터 경찰 왔어",
+    "정모씨: 경찰? 왜?",
+    "피고 이영희: 압수수색영장 가지고 왔어",
+    "피고 이영희: 휴대폰이랑 서류 다 가져갔어",
+    "정모씨: 미쳤다... 너 이제 어떡하려고",
+    "피고 이영희: 이 문자들도 다 볼 거야",
+    "정모씨: 내 문자까지 증거로 쓰이는 거 아니야",
+    "피고 이영희: 미안. 이제 진짜 큰일 났어",
+    "정모씨: 내가 뭐라고 했어. 그렇게 말리는 거",
+    "[증거 분석 노트]",
+    "본 문자메시지는 피고 이영희의 악의적 계약 불이행 의도를 명백히 보여주는 결정적 증거임.",
+    "주요 증거 포인트:",
+    "1. 2024년 6월 15일 18:30 - 피고가 등기 안 해주고 버티면 집값 더 오를 때까지 시간 벌 수 있을지 지인에게 문의",
+    "2. 2024년 6월 17일 09:40 - '지금 시세가 5억 5천까지 올랐대. 그래서 지금 등기 안 해주고 버티는 중이야. 계약 파기하고 더 비싸게 팔 생각이야' 명백한 계약 위반 의도",
+    "3. 소송 비용보다 집값 차이가 크다는 경제적 타산에 의한 고의적 불이행",
+    "4. 시간 끌기 위한 변호사 선임 및 전략 상담",
+    "5. 법원 판결 나와도 넘겨주지 않을 가능성 시사",
+    "[원고 변호사 의견]",
+    "이 문자메시지는 피고의 악의적 의도를 입증하는 핵심 증거입니다.",
+    "단순한 계약 불이행이 아니라 처음부터 시세 차익을 노린 계획적 기망 행위로 판단됩니다.",
+    "압수수색영장을 통해 확보한 원본 증거로 증거능력이 충분합니다."
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-035-007-000-0",
         "idx_in_page": 0,
-        "text": "[13페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "피고 이영희: 아침부터 경찰 왔어",
         "page": 13,
         "bbox": {
-          "x": 201.18,
-          "y": 94.26,
-          "width": 1323.56,
-          "height": 50
+          "x": 200.0,
+          "y": 180.0,
+          "width": 640.0,
+          "height": 38
         },
         "type": "body",
-        "confidence_score": 0.97
+        "confidence_score": 0.94
       },
       {
         "paragraph_id": "para-035-007-000-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "정모씨: 경찰? 왜?",
         "page": 13,
         "bbox": {
-          "x": 193.64,
-          "y": 1183.19,
-          "width": 1295.02,
-          "height": 50
+          "x": 960.0,
+          "y": 240.0,
+          "width": 360.0,
+          "height": 38
         },
         "type": "body",
-        "confidence_score": 0.97
+        "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-035-007-001-0",
-        "idx_in_page": 0,
-        "text": "[14페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 14,
+        "paragraph_id": "para-035-007-000-2",
+        "idx_in_page": 2,
+        "text": "피고 이영희: 압수수색영장 가지고 왔어",
+        "page": 13,
         "bbox": {
-          "x": 198.28,
-          "y": 99.72,
-          "width": 1326.59,
-          "height": 50
+          "x": 200.0,
+          "y": 300.0,
+          "width": 760.0,
+          "height": 38
         },
         "type": "body",
-        "confidence_score": 0.97
+        "confidence_score": 0.92
       },
       {
-        "paragraph_id": "para-035-007-001-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 14,
+        "paragraph_id": "para-035-007-000-3",
+        "idx_in_page": 3,
+        "text": "피고 이영희: 휴대폰이랑 서류 다 가져갔어",
+        "page": 13,
         "bbox": {
-          "x": 186.07,
-          "y": 1191.03,
-          "width": 1316.98,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.97
-      },
-      {
-        "paragraph_id": "para-035-007-002-0",
-        "idx_in_page": 0,
-        "text": "[15페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 15,
-        "bbox": {
-          "x": 196.34,
-          "y": 108.61,
-          "width": 1327.57,
-          "height": 50
+          "x": 200.0,
+          "y": 360.0,
+          "width": 820.0,
+          "height": 38
         },
         "type": "body",
         "confidence_score": 0.93
       },
       {
-        "paragraph_id": "para-035-007-002-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 15,
+        "paragraph_id": "para-035-007-000-4",
+        "idx_in_page": 4,
+        "text": "정모씨: 미쳤다... 너 이제 어떡하려고",
+        "page": 13,
         "bbox": {
-          "x": 200.98,
-          "y": 1185.49,
-          "width": 1327.03,
-          "height": 50
+          "x": 740.0,
+          "y": 420.0,
+          "width": 720.0,
+          "height": 38
         },
         "type": "body",
-        "confidence_score": 0.94
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-035-007-000-5",
+        "idx_in_page": 5,
+        "text": "피고 이영희: 이 문자들도 다 볼 거야",
+        "page": 13,
+        "bbox": {
+          "x": 200.0,
+          "y": 480.0,
+          "width": 680.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-035-007-000-6",
+        "idx_in_page": 6,
+        "text": "정모씨: 내 문자까지 증거로 쓰이는 거 아니야",
+        "page": 13,
+        "bbox": {
+          "x": 680.0,
+          "y": 540.0,
+          "width": 800.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-035-007-000-7",
+        "idx_in_page": 7,
+        "text": "피고 이영희: 미안. 이제 진짜 큰일 났어",
+        "page": 13,
+        "bbox": {
+          "x": 200.0,
+          "y": 600.0,
+          "width": 760.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-035-007-000-8",
+        "idx_in_page": 8,
+        "text": "정모씨: 내가 뭐라고 했어. 그렇게 말리는 거",
+        "page": 13,
+        "bbox": {
+          "x": 660.0,
+          "y": 660.0,
+          "width": 820.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-035-007-001-0",
+        "idx_in_page": 0,
+        "text": "[증거 분석 노트]",
+        "page": 14,
+        "bbox": {
+          "x": 200.0,
+          "y": 150.0,
+          "width": 420.0,
+          "height": 42
+        },
+        "type": "header",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-035-007-001-1",
+        "idx_in_page": 1,
+        "text": "본 문자메시지는 피고 이영희의 악의적 계약 불이행 의도를 명백히 보여주는 결정적 증거임.",
+        "page": 14,
+        "bbox": {
+          "x": 200.0,
+          "y": 220.0,
+          "width": 1240.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.90
+      },
+      {
+        "paragraph_id": "para-035-007-001-2",
+        "idx_in_page": 2,
+        "text": "주요 증거 포인트:",
+        "page": 14,
+        "bbox": {
+          "x": 200.0,
+          "y": 290.0,
+          "width": 380.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-035-007-001-3",
+        "idx_in_page": 3,
+        "text": "1. 2024년 6월 15일 18:30 - 피고가 등기 안 해주고 버티면 집값 더 오를 때까지 시간 벌 수 있을지 지인에게 문의",
+        "page": 14,
+        "bbox": {
+          "x": 220.0,
+          "y": 350.0,
+          "width": 1220.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.88
+      },
+      {
+        "paragraph_id": "para-035-007-001-4",
+        "idx_in_page": 4,
+        "text": "2. 2024년 6월 17일 09:40 - '지금 시세가 5억 5천까지 올랐대. 그래서 지금 등기 안 해주고 버티는 중이야. 계약 파기하고 더 비싸게 팔 생각이야' 명백한 계약 위반 의도",
+        "page": 14,
+        "bbox": {
+          "x": 220.0,
+          "y": 410.0,
+          "width": 1220.0,
+          "height": 55
+        },
+        "type": "body",
+        "confidence_score": 0.87
+      },
+      {
+        "paragraph_id": "para-035-007-001-5",
+        "idx_in_page": 5,
+        "text": "3. 소송 비용보다 집값 차이가 크다는 경제적 타산에 의한 고의적 불이행",
+        "page": 14,
+        "bbox": {
+          "x": 220.0,
+          "y": 490.0,
+          "width": 1120.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.89
+      },
+      {
+        "paragraph_id": "para-035-007-001-6",
+        "idx_in_page": 6,
+        "text": "4. 시간 끌기 위한 변호사 선임 및 전략 상담",
+        "page": 14,
+        "bbox": {
+          "x": 220.0,
+          "y": 550.0,
+          "width": 840.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-035-007-001-7",
+        "idx_in_page": 7,
+        "text": "5. 법원 판결 나와도 넘겨주지 않을 가능성 시사",
+        "page": 14,
+        "bbox": {
+          "x": 220.0,
+          "y": 610.0,
+          "width": 880.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-035-007-002-0",
+        "idx_in_page": 0,
+        "text": "[원고 변호사 의견]",
+        "page": 15,
+        "bbox": {
+          "x": 200.0,
+          "y": 150.0,
+          "width": 420.0,
+          "height": 42
+        },
+        "type": "header",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-035-007-002-1",
+        "idx_in_page": 1,
+        "text": "이 문자메시지는 피고의 악의적 의도를 입증하는 핵심 증거입니다.",
+        "page": 15,
+        "bbox": {
+          "x": 200.0,
+          "y": 220.0,
+          "width": 1100.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-035-007-002-2",
+        "idx_in_page": 2,
+        "text": "단순한 계약 불이행이 아니라 처음부터 시세 차익을 노린 계획적 기망 행위로 판단됩니다.",
+        "page": 15,
+        "bbox": {
+          "x": 200.0,
+          "y": 280.0,
+          "width": 1240.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.89
+      },
+      {
+        "paragraph_id": "para-035-007-002-3",
+        "idx_in_page": 3,
+        "text": "압수수색영장을 통해 확보한 원본 증거로 증거능력이 충분합니다.",
+        "page": 15,
+        "bbox": {
+          "x": 200.0,
+          "y": 340.0,
+          "width": 1060.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.90
       }
     ]
   },

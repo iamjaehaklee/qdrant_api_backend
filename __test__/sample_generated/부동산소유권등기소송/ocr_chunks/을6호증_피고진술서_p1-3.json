@@ -15,98 +15,473 @@
   ],
   "chunk_number": 1,
   "paragraph_texts": [
-    "[1페이지] 을6호증_피고진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[2페이지] 을6호증_피고진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[3페이지] 을6호증_피고진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "진술서",
+    "사건번호: 2024가합12345",
+    "피고 이영희",
+    "1. 인적사항",
+    "성명: 이영희",
+    "주민등록번호: 750823-2******",
+    "주소: 서울특별시 강남구 테헤란로 123, 456동 789호",
+    "2. 계약 체결 경위",
+    "저는 2024년 2월 15일경 공인중개사무소를 통해 서울시 송파구 소재 부동산(이하 '이 사건 부동산')을 매수하기로 원고 김철수와 부동산 매매계약을 체결하였습니다.",
+    "당시 계약 당시 매매대금은 5억 원으로 정하였고, 계약금 5천만 원을 계약일에 지급하였으며, 중도금 2억 원은 2024년 3월 15일, 잔금 2억 5천만 원은 2024년 4월 30일에 지급하기로 약정하였습니다.",
+    "3. 초기 합의 사항",
+    "계약 체결 당시 원고는 이 사건 부동산에 임차인이 거주하고 있어, 잔금일 이전까지 임차인을 퇴거시키겠다고 확약하였습니다.",
+    "또한 원고는 부동산 내부 일부 파손 부분(거실 벽지 훼손, 화장실 누수)에 대해 인수 전까지 보수하겠다고 구두로 약속하였습니다.",
+    "저는 원고의 이러한 약속을 믿고 계약을 체결하였으며, 계약금과 중도금을 약정일에 모두 지급하였습니다.",
+    "그러나 2024년 3월 중순경 원고로부터 임차인 퇴거에 어려움이 있다는 연락을 받게 되었습니다.",
+    "원고는 임차인이 이사를 거부하고 있으며, 법적 절차가 필요할 수 있다고 하였습니다.",
+    "저는 당황하였으나, 원고가 해결하겠다는 의사를 표명하였기에 협의를 진행하기로 하였습니다."
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-038-001-000-0",
         "idx_in_page": 0,
-        "text": "[1페이지] 을6호증_피고진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "진술서",
         "page": 1,
         "bbox": {
-          "x": 208.34,
-          "y": 105.3,
-          "width": 1280.9,
+          "x": 720.5,
+          "y": 150.3,
+          "width": 240.0,
+          "height": 65
+        },
+        "type": "title",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-038-001-000-1",
+        "idx_in_page": 1,
+        "text": "사건번호: 2024가합12345",
+        "page": 1,
+        "bbox": {
+          "x": 210.5,
+          "y": 280.5,
+          "width": 1260.0,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-038-001-000-2",
+        "idx_in_page": 2,
+        "text": "피고 이영희",
+        "page": 1,
+        "bbox": {
+          "x": 210.5,
+          "y": 340.2,
+          "width": 1260.0,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-038-001-000-3",
+        "idx_in_page": 3,
+        "text": "1. 인적사항",
+        "page": 1,
+        "bbox": {
+          "x": 210.5,
+          "y": 450.8,
+          "width": 1260.0,
+          "height": 50
+        },
+        "type": "heading",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-038-001-000-4",
+        "idx_in_page": 4,
+        "text": "성명: 이영희",
+        "page": 1,
+        "bbox": {
+          "x": 250.3,
+          "y": 520.4,
+          "width": 1220.2,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-038-001-000-5",
+        "idx_in_page": 5,
+        "text": "주민등록번호: 750823-2******",
+        "page": 1,
+        "bbox": {
+          "x": 250.3,
+          "y": 575.6,
+          "width": 1220.2,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-038-001-000-6",
+        "idx_in_page": 6,
+        "text": "주소: 서울특별시 강남구 테헤란로 123, 456동 789호",
+        "page": 1,
+        "bbox": {
+          "x": 250.3,
+          "y": 630.8,
+          "width": 1220.2,
+          "height": 42
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-038-001-000-7",
+        "idx_in_page": 7,
+        "text": "2. 계약 체결 경위",
+        "page": 1,
+        "bbox": {
+          "x": 210.5,
+          "y": 750.0,
+          "width": 1260.0,
+          "height": 50
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-038-001-000-8",
+        "idx_in_page": 8,
+        "text": "저는 2024년 2월 15일경 공인중개사무소를 통해 서울시 송파구 소재 부동산(이하 '이 사건 부동산')을 매수하기로 원고 김철수와 부동산 매매계약을 체결하였습니다.",
+        "page": 1,
+        "bbox": {
+          "x": 250.3,
+          "y": 820.5,
+          "width": 1220.2,
+          "height": 85
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-038-001-000-9",
+        "idx_in_page": 9,
+        "text": "당시 계약 당시 매매대금은 5억 원으로 정하였고, 계약금 5천만 원을 계약일에 지급하였으며, 중도금 2억 원은 2024년 3월 15일, 잔금 2억 5천만 원은 2024년 4월 30일에 지급하기로 약정하였습니다.",
+        "page": 1,
+        "bbox": {
+          "x": 250.3,
+          "y": 925.8,
+          "width": 1220.2,
+          "height": 85
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-038-001-000-10",
+        "idx_in_page": 10,
+        "text": "3. 초기 합의 사항",
+        "page": 1,
+        "bbox": {
+          "x": 210.5,
+          "y": 1050.0,
+          "width": 1260.0,
+          "height": 50
+        },
+        "type": "heading",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-038-001-000-11",
+        "idx_in_page": 11,
+        "text": "계약 체결 당시 원고는 이 사건 부동산에 임차인이 거주하고 있어, 잔금일 이전까지 임차인을 퇴거시키겠다고 확약하였습니다.",
+        "page": 1,
+        "bbox": {
+          "x": 250.3,
+          "y": 1120.5,
+          "width": 1220.2,
+          "height": 70
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-038-001-000-12",
+        "idx_in_page": 12,
+        "text": "또한 원고는 부동산 내부 일부 파손 부분(거실 벽지 훼손, 화장실 누수)에 대해 인수 전까지 보수하겠다고 구두로 약속하였습니다.",
+        "page": 1,
+        "bbox": {
+          "x": 250.3,
+          "y": 1210.8,
+          "width": 1220.2,
+          "height": 70
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-038-001-001-0",
+        "idx_in_page": 0,
+        "text": "저는 원고의 이러한 약속을 믿고 계약을 체결하였으며, 계약금과 중도금을 약정일에 모두 지급하였습니다.",
+        "page": 2,
+        "bbox": {
+          "x": 250.3,
+          "y": 150.5,
+          "width": 1220.2,
+          "height": 70
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-038-001-001-1",
+        "idx_in_page": 1,
+        "text": "그러나 2024년 3월 중순경 원고로부터 임차인 퇴거에 어려움이 있다는 연락을 받게 되었습니다.",
+        "page": 2,
+        "bbox": {
+          "x": 250.3,
+          "y": 240.8,
+          "width": 1220.2,
+          "height": 70
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-038-001-001-2",
+        "idx_in_page": 2,
+        "text": "원고는 임차인이 이사를 거부하고 있으며, 법적 절차가 필요할 수 있다고 하였습니다.",
+        "page": 2,
+        "bbox": {
+          "x": 250.3,
+          "y": 331.0,
+          "width": 1220.2,
+          "height": 70
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-038-001-001-3",
+        "idx_in_page": 3,
+        "text": "저는 당황하였으나, 원고가 해결하겠다는 의사를 표명하였기에 협의를 진행하기로 하였습니다.",
+        "page": 2,
+        "bbox": {
+          "x": 250.3,
+          "y": 421.2,
+          "width": 1220.2,
+          "height": 70
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-038-001-001-4",
+        "idx_in_page": 4,
+        "text": "이후 원고와 수차례 전화 통화 및 대면 협의를 진행하였고, 2024년 3월 18일 공인중개사무소에서 다시 만나 해결 방안을 논의하였습니다.",
+        "page": 2,
+        "bbox": {
+          "x": 250.3,
+          "y": 511.5,
+          "width": 1220.2,
+          "height": 85
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-038-001-001-5",
+        "idx_in_page": 5,
+        "text": "원고는 임차인 퇴거를 위해 별도의 이사비용을 지급하겠다고 제안하였고, 인테리어 보수비용도 부담하겠다고 하였습니다.",
+        "page": 2,
+        "bbox": {
+          "x": 250.3,
+          "y": 617.0,
+          "width": 1220.2,
+          "height": 85
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-038-001-001-6",
+        "idx_in_page": 6,
+        "text": "구체적으로 원고는 임차인 이사비용 300만 원과 인테리어 보수비용 500만 원, 총 800만 원을 부담하겠다고 약속하였습니다.",
+        "page": 2,
+        "bbox": {
+          "x": 250.3,
+          "y": 722.5,
+          "width": 1220.2,
+          "height": 85
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-038-001-001-7",
+        "idx_in_page": 7,
+        "text": "저는 원고의 제안을 수락하였고, 이러한 내용을 명확히 하기 위해 서면으로 작성하자고 제안하였습니다.",
+        "page": 2,
+        "bbox": {
+          "x": 250.3,
+          "y": 828.0,
+          "width": 1220.2,
+          "height": 70
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-038-001-001-8",
+        "idx_in_page": 8,
+        "text": "원고도 이에 동의하여 2024년 3월 20일 공인중개사 입회하에 보충합의서를 작성하게 되었습니다.",
+        "page": 2,
+        "bbox": {
+          "x": 250.3,
+          "y": 918.3,
+          "width": 1220.2,
+          "height": 70
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-038-001-002-0",
+        "idx_in_page": 0,
+        "text": "4. 보충합의서 체결 과정",
+        "page": 3,
+        "bbox": {
+          "x": 210.5,
+          "y": 150.0,
+          "width": 1260.0,
+          "height": 50
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-038-001-002-1",
+        "idx_in_page": 1,
+        "text": "2024년 3월 20일 오후 3시경, 공인중개사무소에서 원고, 공인중개사 박지성, 그리고 저 이렇게 세 사람이 모였습니다.",
+        "page": 3,
+        "bbox": {
+          "x": 250.3,
+          "y": 220.5,
+          "width": 1220.2,
+          "height": 85
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-038-001-002-2",
+        "idx_in_page": 2,
+        "text": "공인중개사는 보충합의서 양식을 준비해 왔으며, 다음과 같은 내용이 기재되었습니다:",
+        "page": 3,
+        "bbox": {
+          "x": 250.3,
+          "y": 326.0,
+          "width": 1220.2,
+          "height": 70
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-038-001-002-3",
+        "idx_in_page": 3,
+        "text": "- 임차인을 2024년 4월 20일까지 퇴거시킬 것",
+        "page": 3,
+        "bbox": {
+          "x": 290.5,
+          "y": 416.3,
+          "width": 1180.0,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.94
       },
       {
-        "paragraph_id": "para-038-001-000-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 1,
+        "paragraph_id": "para-038-001-002-4",
+        "idx_in_page": 4,
+        "text": "- 임차인 이사비용으로 300만 원을 원고가 부담할 것",
+        "page": 3,
         "bbox": {
-          "x": 208.51,
-          "y": 1192.59,
-          "width": 1268.13,
+          "x": 290.5,
+          "y": 486.6,
+          "width": 1180.0,
           "height": 50
         },
         "type": "body",
-        "confidence_score": 0.91
+        "confidence_score": 0.93
       },
       {
-        "paragraph_id": "para-038-001-001-0",
-        "idx_in_page": 0,
-        "text": "[2페이지] 을6호증_피고진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 2,
+        "paragraph_id": "para-038-001-002-5",
+        "idx_in_page": 5,
+        "text": "- 인테리어 보수(벽지 및 누수 수리)에 500만 원을 원고가 부담할 것",
+        "page": 3,
         "bbox": {
-          "x": 205.15,
-          "y": 106.05,
-          "width": 1238.58,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.97
-      },
-      {
-        "paragraph_id": "para-038-001-001-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 2,
-        "bbox": {
-          "x": 207.6,
-          "y": 1184.62,
-          "width": 1292.07,
+          "x": 290.5,
+          "y": 556.9,
+          "width": 1180.0,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-038-001-002-0",
-        "idx_in_page": 0,
-        "text": "[3페이지] 을6호증_피고진술서 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "paragraph_id": "para-038-001-002-6",
+        "idx_in_page": 6,
+        "text": "- 잔금 지급일을 2024년 5월 10일로 연기할 것",
         "page": 3,
         "bbox": {
-          "x": 197.27,
-          "y": 108.68,
-          "width": 1295.5,
+          "x": 290.5,
+          "y": 627.2,
+          "width": 1180.0,
           "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-038-001-002-7",
+        "idx_in_page": 7,
+        "text": "저와 원고는 보충합의서 내용을 확인한 후 각자 서명 날인하였습니다.",
+        "page": 3,
+        "bbox": {
+          "x": 250.3,
+          "y": 717.5,
+          "width": 1220.2,
+          "height": 70
         },
         "type": "body",
         "confidence_score": 0.94
       },
       {
-        "paragraph_id": "para-038-001-002-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "paragraph_id": "para-038-001-002-8",
+        "idx_in_page": 8,
+        "text": "공인중개사도 입회인으로 서명하였으며, 보충합의서는 원본 2부를 작성하여 원고와 제가 각각 1부씩 보관하기로 하였습니다.",
         "page": 3,
         "bbox": {
-          "x": 197.53,
-          "y": 1194.41,
-          "width": 1237.35,
-          "height": 50
+          "x": 250.3,
+          "y": 807.8,
+          "width": 1220.2,
+          "height": 85
         },
         "type": "body",
-        "confidence_score": 0.94
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-038-001-002-9",
+        "idx_in_page": 9,
+        "text": "저는 보충합의서가 체결되었으므로, 원고가 약속한 대로 임차인 퇴거와 인테리어 보수를 진행할 것으로 믿었습니다.",
+        "page": 3,
+        "bbox": {
+          "x": 250.3,
+          "y": 913.3,
+          "width": 1220.2,
+          "height": 85
+        },
+        "type": "body",
+        "confidence_score": 0.93
       }
     ]
   },

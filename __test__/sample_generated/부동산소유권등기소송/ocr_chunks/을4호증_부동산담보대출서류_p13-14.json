@@ -1,5 +1,5 @@
 {
-  "chunk_id": "bc4f2e7c-8edc-43f6-ab51-658bfcd8badb",
+  "chunk_id": "7b059304-02aa-4cce-8f3d-6fc26e2a4f24",
   "file_id": 36,
   "project_id": 1001,
   "storage_file_name": "exhibit_b4_mortgage_docs.pdf",
@@ -14,68 +14,203 @@
   ],
   "chunk_number": 7,
   "paragraph_texts": [
-    "[13페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[14페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "제12조 (관할법원)",
+    "본 계약과 관련한 분쟁은 대출자의 본점 소재지 법원을 제1심 관할법원으로 한다.",
+    "2018년 3월 10일",
+    "대출자(갑): 국민은행 강남지점",
+    "            지점장: 박지영 (인)",
+    "차주(을):  이영희 (인)",
+    "          주민등록번호: 750215-2******",
+    "          주소: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+    "          연락처: 010-1234-5678",
+    "[별첨]",
+    "1. 주민등록등본 1부",
+    "2. 등기사항전부증명서(건물) 1부",
+    "3. 소득증빙서류 1부"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-036-007-000-0",
         "idx_in_page": 0,
-        "text": "[13페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "제12조 (관할법원)",
         "page": 13,
         "bbox": {
-          "x": 187.94,
-          "y": 99.7,
-          "width": 1237.46,
-          "height": 50
+          "x": 182.06,
+          "y": 233,
+          "width": 1293.18,
+          "height": 64
         },
-        "type": "body",
-        "confidence_score": 0.95
+        "type": "heading",
+        "confidence_score": 0.92
       },
       {
         "paragraph_id": "para-036-007-000-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "본 계약과 관련한 분쟁은 대출자의 본점 소재지 법원을 제1심 관할법원으로 한다.",
         "page": 13,
         "bbox": {
-          "x": 188.15,
-          "y": 1196.83,
-          "width": 1245.41,
-          "height": 50
+          "x": 204.96,
+          "y": 480,
+          "width": 1314.45,
+          "height": 46
         },
         "type": "body",
-        "confidence_score": 0.93
+        "confidence_score": 0.91
       },
       {
-        "paragraph_id": "para-036-007-001-0",
-        "idx_in_page": 0,
-        "text": "[14페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 14,
+        "paragraph_id": "para-036-007-000-3",
+        "idx_in_page": 3,
+        "text": "2018년 3월 10일",
+        "page": 13,
         "bbox": {
-          "x": 181.91,
-          "y": 109.32,
-          "width": 1273.59,
-          "height": 50
+          "x": 200.85,
+          "y": 1127,
+          "width": 1222.81,
+          "height": 51
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-036-007-000-5",
+        "idx_in_page": 5,
+        "text": "대출자(갑): 국민은행 강남지점",
+        "page": 13,
+        "bbox": {
+          "x": 215.38,
+          "y": 882,
+          "width": 1273.33,
+          "height": 54
         },
         "type": "body",
         "confidence_score": 0.97
       },
       {
+        "paragraph_id": "para-036-007-000-6",
+        "idx_in_page": 6,
+        "text": "            지점장: 박지영 (인)",
+        "page": 13,
+        "bbox": {
+          "x": 218.37,
+          "y": 935,
+          "width": 1226.72,
+          "height": 46
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
         "paragraph_id": "para-036-007-001-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "차주(을):  이영희 (인)",
         "page": 14,
         "bbox": {
-          "x": 206.47,
-          "y": 1189.23,
-          "width": 1243.04,
-          "height": 50
+          "x": 180.45,
+          "y": 1041,
+          "width": 1215.32,
+          "height": 53
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-036-007-001-2",
+        "idx_in_page": 2,
+        "text": "          주민등록번호: 750215-2******",
+        "page": 14,
+        "bbox": {
+          "x": 198.78,
+          "y": 654,
+          "width": 1224.94,
+          "height": 48
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-036-007-001-3",
+        "idx_in_page": 3,
+        "text": "          주소: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "page": 14,
+        "bbox": {
+          "x": 187.18,
+          "y": 1327,
+          "width": 1224.61,
+          "height": 51
         },
         "type": "body",
         "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-036-007-001-4",
+        "idx_in_page": 4,
+        "text": "          연락처: 010-1234-5678",
+        "page": 14,
+        "bbox": {
+          "x": 193.89,
+          "y": 1419,
+          "width": 1218.27,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-036-007-001-6",
+        "idx_in_page": 6,
+        "text": "[별첨]",
+        "page": 14,
+        "bbox": {
+          "x": 198.0,
+          "y": 699,
+          "width": 1248.02,
+          "height": 60
+        },
+        "type": "heading",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-036-007-001-7",
+        "idx_in_page": 7,
+        "text": "1. 주민등록등본 1부",
+        "page": 14,
+        "bbox": {
+          "x": 197.68,
+          "y": 774,
+          "width": 1302.84,
+          "height": 51
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-036-007-001-8",
+        "idx_in_page": 8,
+        "text": "2. 등기사항전부증명서(건물) 1부",
+        "page": 14,
+        "bbox": {
+          "x": 192.19,
+          "y": 1385,
+          "width": 1278.58,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-036-007-001-9",
+        "idx_in_page": 9,
+        "text": "3. 소득증빙서류 1부",
+        "page": 14,
+        "bbox": {
+          "x": 208.25,
+          "y": 1064,
+          "width": 1323.27,
+          "height": 48
+        },
+        "type": "body",
+        "confidence_score": 0.94
       }
     ]
   },

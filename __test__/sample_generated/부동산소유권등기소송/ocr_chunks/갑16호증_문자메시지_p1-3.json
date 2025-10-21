@@ -15,98 +15,408 @@
   ],
   "chunk_number": 1,
   "paragraph_texts": [
-    "[1페이지] 갑16호증_문자메시지 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[2페이지] 갑16호증_문자메시지 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[3페이지] 갑16호증_문자메시지 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "문자메시지 내역 - 1페이지",
+    "",
+    "문자메시지 내역 - 2페이지",
+    "",
+    "문자메시지 내역 - 3페이지",
+    "",
+    "[2024-03-15 12:00] 원고 (010-1234-5678)",
+    "계약 감사합니다. 잔금일까지 잘 부탁드립니다.",
+    "",
+    "[2024-03-15 12:15] 피고 (010-9876-5432)",
+    "네, 저도 감사합니다.",
+    "",
+    "[2024-04-19 17:30] 원고 (010-1234-5678)",
+    "내일 중도금 1차 입금하겠습니다.",
+    "",
+    "[2024-04-19 17:45] 피고 (010-9876-5432)",
+    "네, 알겠습니다.",
+    "",
+    "[2024-04-20 10:05] 원고 (010-1234-5678)",
+    "중도금 1억5천 입금했습니다.",
+    "",
+    "[2024-04-20 10:10] 피고 (010-9876-5432)",
+    "확인했습니다. 감사합니다.",
+    "",
+    "[2024-05-19 16:00] 원고 (010-1234-5678)",
+    "내일 중도금 2차 입금하겠습니다.",
+    "",
+    "[2024-05-19 16:20] 피고 (010-9876-5432)",
+    "네, 확인하겠습니다.",
+    "",
+    "[2024-05-20 09:35] 원고 (010-1234-5678)",
+    "중도금 1억5천 입금 완료했습니다.",
+    "",
+    "[2024-05-20 09:40] 피고 (010-9876-5432)",
+    "네, 확인했습니다.",
+    ""
   ],
   "chunk_content": {
     "paragraphs": [
       {
-        "paragraph_id": "para-027-001-000-0",
-        "idx_in_page": 0,
-        "text": "[1페이지] 갑16호증_문자메시지 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 1,
-        "bbox": {
-          "x": 188.12,
-          "y": 96.24,
-          "width": 1246.73,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.93
-      },
-      {
-        "paragraph_id": "para-027-001-000-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 1,
-        "bbox": {
-          "x": 205.89,
-          "y": 1182.3,
-          "width": 1239.86,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.94
-      },
-      {
         "paragraph_id": "para-027-001-001-0",
         "idx_in_page": 0,
-        "text": "[2페이지] 갑16호증_문자메시지 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 2,
+        "text": "문자메시지 내역 - 1페이지",
+        "page": 1,
         "bbox": {
-          "x": 202.66,
-          "y": 105.12,
-          "width": 1317.82,
-          "height": 50
+          "x": 200,
+          "y": 100,
+          "width": 1200,
+          "height": 40
         },
-        "type": "body",
-        "confidence_score": 0.93
+        "type": "header",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-027-001-001-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 2,
+        "text": "[2024-03-15 12:00] 원고 (010-1234-5678)",
+        "page": 1,
         "bbox": {
-          "x": 200.97,
-          "y": 1183.48,
-          "width": 1295.72,
-          "height": 50
+          "x": 220,
+          "y": 150,
+          "width": 1000,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-001-001-2",
+        "idx_in_page": 2,
+        "text": "계약 감사합니다. 잔금일까지 잘 부탁드립니다.",
+        "page": 1,
+        "bbox": {
+          "x": 240,
+          "y": 185,
+          "width": 1200,
+          "height": 30
         },
         "type": "body",
         "confidence_score": 0.94
       },
       {
-        "paragraph_id": "para-027-001-002-0",
-        "idx_in_page": 0,
-        "text": "[3페이지] 갑16호증_문자메시지 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 3,
+        "paragraph_id": "para-027-001-001-3",
+        "idx_in_page": 3,
+        "text": "[2024-03-15 12:15] 피고 (010-9876-5432)",
+        "page": 1,
         "bbox": {
-          "x": 200.39,
-          "y": 109.07,
-          "width": 1315.42,
-          "height": 50
+          "x": 220,
+          "y": 235,
+          "width": 1000,
+          "height": 30
         },
         "type": "body",
-        "confidence_score": 0.92
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-001-001-4",
+        "idx_in_page": 4,
+        "text": "네, 저도 감사합니다.",
+        "page": 1,
+        "bbox": {
+          "x": 240,
+          "y": 270,
+          "width": 1200,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-027-001-001-5",
+        "idx_in_page": 5,
+        "text": "[2024-04-19 17:30] 원고 (010-1234-5678)",
+        "page": 1,
+        "bbox": {
+          "x": 220,
+          "y": 320,
+          "width": 1000,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-001-001-6",
+        "idx_in_page": 6,
+        "text": "내일 중도금 1차 입금하겠습니다.",
+        "page": 1,
+        "bbox": {
+          "x": 240,
+          "y": 355,
+          "width": 1200,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-027-001-001-7",
+        "idx_in_page": 7,
+        "text": "페이지 1/18",
+        "page": 1,
+        "bbox": {
+          "x": 600,
+          "y": 2300,
+          "width": 200,
+          "height": 30
+        },
+        "type": "footer",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-027-001-002-0",
+        "idx_in_page": 0,
+        "text": "문자메시지 내역 - 2페이지",
+        "page": 2,
+        "bbox": {
+          "x": 200,
+          "y": 100,
+          "width": 1200,
+          "height": 40
+        },
+        "type": "header",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-027-001-002-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 3,
+        "text": "[2024-04-19 17:45] 피고 (010-9876-5432)",
+        "page": 2,
         "bbox": {
-          "x": 185.61,
-          "y": 1180.69,
-          "width": 1262.95,
-          "height": 50
+          "x": 220,
+          "y": 150,
+          "width": 1000,
+          "height": 30
         },
         "type": "body",
         "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-001-002-2",
+        "idx_in_page": 2,
+        "text": "네, 알겠습니다.",
+        "page": 2,
+        "bbox": {
+          "x": 240,
+          "y": 185,
+          "width": 1200,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-027-001-002-3",
+        "idx_in_page": 3,
+        "text": "[2024-04-20 10:05] 원고 (010-1234-5678)",
+        "page": 2,
+        "bbox": {
+          "x": 220,
+          "y": 235,
+          "width": 1000,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-001-002-4",
+        "idx_in_page": 4,
+        "text": "중도금 1억5천 입금했습니다.",
+        "page": 2,
+        "bbox": {
+          "x": 240,
+          "y": 270,
+          "width": 1200,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-027-001-002-5",
+        "idx_in_page": 5,
+        "text": "[2024-04-20 10:10] 피고 (010-9876-5432)",
+        "page": 2,
+        "bbox": {
+          "x": 220,
+          "y": 320,
+          "width": 1000,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-001-002-6",
+        "idx_in_page": 6,
+        "text": "확인했습니다. 감사합니다.",
+        "page": 2,
+        "bbox": {
+          "x": 240,
+          "y": 355,
+          "width": 1200,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-027-001-002-7",
+        "idx_in_page": 7,
+        "text": "페이지 2/18",
+        "page": 2,
+        "bbox": {
+          "x": 600,
+          "y": 2300,
+          "width": 200,
+          "height": 30
+        },
+        "type": "footer",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-027-001-003-0",
+        "idx_in_page": 0,
+        "text": "문자메시지 내역 - 3페이지",
+        "page": 3,
+        "bbox": {
+          "x": 200,
+          "y": 100,
+          "width": 1200,
+          "height": 40
+        },
+        "type": "header",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-027-001-003-1",
+        "idx_in_page": 1,
+        "text": "[2024-05-19 16:00] 원고 (010-1234-5678)",
+        "page": 3,
+        "bbox": {
+          "x": 220,
+          "y": 150,
+          "width": 1000,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-001-003-2",
+        "idx_in_page": 2,
+        "text": "내일 중도금 2차 입금하겠습니다.",
+        "page": 3,
+        "bbox": {
+          "x": 240,
+          "y": 185,
+          "width": 1200,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-027-001-003-3",
+        "idx_in_page": 3,
+        "text": "[2024-05-19 16:20] 피고 (010-9876-5432)",
+        "page": 3,
+        "bbox": {
+          "x": 220,
+          "y": 235,
+          "width": 1000,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-001-003-4",
+        "idx_in_page": 4,
+        "text": "네, 확인하겠습니다.",
+        "page": 3,
+        "bbox": {
+          "x": 240,
+          "y": 270,
+          "width": 1200,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-027-001-003-5",
+        "idx_in_page": 5,
+        "text": "[2024-05-20 09:35] 원고 (010-1234-5678)",
+        "page": 3,
+        "bbox": {
+          "x": 220,
+          "y": 320,
+          "width": 1000,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-001-003-6",
+        "idx_in_page": 6,
+        "text": "중도금 1억5천 입금 완료했습니다.",
+        "page": 3,
+        "bbox": {
+          "x": 240,
+          "y": 355,
+          "width": 1200,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-027-001-003-7",
+        "idx_in_page": 7,
+        "text": "[2024-05-20 09:40] 피고 (010-9876-5432)",
+        "page": 3,
+        "bbox": {
+          "x": 220,
+          "y": 405,
+          "width": 1000,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-001-003-8",
+        "idx_in_page": 8,
+        "text": "네, 확인했습니다.",
+        "page": 3,
+        "bbox": {
+          "x": 240,
+          "y": 440,
+          "width": 1200,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-027-001-003-9",
+        "idx_in_page": 9,
+        "text": "페이지 3/18",
+        "page": 3,
+        "bbox": {
+          "x": 600,
+          "y": 2300,
+          "width": 200,
+          "height": 30
+        },
+        "type": "footer",
+        "confidence_score": 0.98
       }
     ]
   },

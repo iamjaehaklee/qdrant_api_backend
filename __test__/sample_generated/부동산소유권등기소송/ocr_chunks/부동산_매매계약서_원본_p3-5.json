@@ -15,98 +15,488 @@
   ],
   "chunk_number": 2,
   "paragraph_texts": [
-    "[3페이지] 부동산 매매계약서 매도인: 이영희, 매수인: 김철수",
-    "매매대금: 금 500,000,000원",
-    "[4페이지] 부동산 매매계약서 매도인: 이영희, 매수인: 김철수",
-    "매매대금: 금 500,000,000원",
-    "[5페이지] 부동산 매매계약서 매도인: 이영희, 매수인: 김철수",
-    "매매대금: 금 500,000,000원"
+    "3. 목적물이 토지대장, 건축물대장 등 공적장부상의 표시와 상이한 경우",
+    "제5조 (계약의 해제)",
+    "다음 각 호의 경우 당사자는 계약을 해제할 수 있다.",
+    "1. 매수인이 제1조의 매매대금을 지정된 일자에 지급하지 않은 경우",
+    "2. 매도인이 제2조의 소유권 이전등기에 필요한 서류 교부 및 목적물 인도의무를 이행하지 않은 경우",
+    "3. 매도인이 제3조의 담보책임을 이행하지 못한 경우",
+    "제6조 (특약사항)",
+    "1. 기존 근저당권 금 200,000,000원은 매도인이 잔금일까지 말소한다.",
+    "2. 목적물의 관리비 및 제세공과금은 잔금일 이전까지는 매도인이, 이후는 매수인이 부담한다.",
+    "3. 매수인은 은행 주택담보대출을 활용할 예정이며, 대출 불가시 계약은 자동 해제된다.",
+    "제7조 (중개보수)",
+    "매도인 및 매수인은 중개업소에 각각 중개보수를 지급한다.",
+    "중개보수: 거래금액의 0.4% (부가가치세 별도)",
+    "중개업소: 강남부동산공인중개사사무소",
+    "대표: 박중개 (등록번호 제12345호)",
+    "제8조 (계약의 효력)",
+    "본 계약서는 2부를 작성하여 매도인과 매수인이 각각 1부씩 보관한다.",
+    "본 계약은 당사자 간에 성립된 합의내용을 증명하며, 쌍방이 신의성실의 원칙에 따라 이행할 것을 확약한다.",
+    "2024년 3월 15일",
+    "매도인: 이영희 (인)",
+    "주소: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+    "주민등록번호: 671015-1******",
+    "연락처: 010-1234-5678",
+    "매수인: 김철수 (인)",
+    "주소: 서울특별시 서초구 서초대로 456",
+    "주민등록번호: 850322-1******",
+    "연락처: 010-9876-5432",
+    "중개업소: 강남부동산공인중개사사무소 (인)",
+    "대표: 박중개",
+    "소재지: 서울특별시 강남구 테헤란로 789",
+    "등록번호: 제12345호",
+    "연락처: 02-1234-5678"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-009-002-000-0",
         "idx_in_page": 0,
-        "text": "[3페이지] 부동산 매매계약서 매도인: 이영희, 매수인: 김철수",
+        "text": "3. 목적물이 토지대장, 건축물대장 등 공적장부상의 표시와 상이한 경우",
         "page": 3,
         "bbox": {
-          "x": 211.05,
-          "y": 95.89,
-          "width": 1325.86,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.97
-      },
-      {
-        "paragraph_id": "para-009-002-000-1",
-        "idx_in_page": 1,
-        "text": "매매대금: 금 500,000,000원",
-        "page": 3,
-        "bbox": {
-          "x": 206.97,
-          "y": 1181.52,
-          "width": 1330.67,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.94
-      },
-      {
-        "paragraph_id": "para-009-002-001-0",
-        "idx_in_page": 0,
-        "text": "[4페이지] 부동산 매매계약서 매도인: 이영희, 매수인: 김철수",
-        "page": 4,
-        "bbox": {
-          "x": 207.57,
-          "y": 102.74,
-          "width": 1306.64,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.92
-      },
-      {
-        "paragraph_id": "para-009-002-001-1",
-        "idx_in_page": 1,
-        "text": "매매대금: 금 500,000,000원",
-        "page": 4,
-        "bbox": {
-          "x": 185.1,
-          "y": 1196.08,
-          "width": 1328.06,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.91
-      },
-      {
-        "paragraph_id": "para-009-002-002-0",
-        "idx_in_page": 0,
-        "text": "[5페이지] 부동산 매매계약서 매도인: 이영희, 매수인: 김철수",
-        "page": 5,
-        "bbox": {
-          "x": 206.57,
-          "y": 102.82,
-          "width": 1261.87,
-          "height": 50
+          "x": 220.0,
+          "y": 685.0,
+          "width": 840.0,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-009-002-002-1",
+        "paragraph_id": "para-009-002-000-1",
         "idx_in_page": 1,
-        "text": "매매대금: 금 500,000,000원",
-        "page": 5,
+        "text": "제5조 (계약의 해제)",
+        "page": 3,
         "bbox": {
-          "x": 190.57,
-          "y": 1182.71,
-          "width": 1277.92,
-          "height": 50
+          "x": 200.0,
+          "y": 800.0,
+          "width": 280.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-009-002-000-2",
+        "idx_in_page": 2,
+        "text": "다음 각 호의 경우 당사자는 계약을 해제할 수 있다.",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 850.0,
+          "width": 640.0,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-009-002-000-3",
+        "idx_in_page": 3,
+        "text": "1. 매수인이 제1조의 매매대금을 지정된 일자에 지급하지 않은 경우",
+        "page": 3,
+        "bbox": {
+          "x": 220.0,
+          "y": 900.0,
+          "width": 820.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-009-002-000-4",
+        "idx_in_page": 4,
+        "text": "2. 매도인이 제2조의 소유권 이전등기에 필요한 서류 교부 및 목적물 인도의무를 이행하지 않은 경우",
+        "page": 3,
+        "bbox": {
+          "x": 220.0,
+          "y": 945.0,
+          "width": 1120.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-009-002-000-5",
+        "idx_in_page": 5,
+        "text": "3. 매도인이 제3조의 담보책임을 이행하지 못한 경우",
+        "page": 3,
+        "bbox": {
+          "x": 220.0,
+          "y": 990.0,
+          "width": 640.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-009-002-001-0",
+        "idx_in_page": 0,
+        "text": "제6조 (특약사항)",
+        "page": 4,
+        "bbox": {
+          "x": 200.0,
+          "y": 180.0,
+          "width": 240.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-009-002-001-1",
+        "idx_in_page": 1,
+        "text": "1. 기존 근저당권 금 200,000,000원은 매도인이 잔금일까지 말소한다.",
+        "page": 4,
+        "bbox": {
+          "x": 220.0,
+          "y": 230.0,
+          "width": 820.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-009-002-001-2",
+        "idx_in_page": 2,
+        "text": "2. 목적물의 관리비 및 제세공과금은 잔금일 이전까지는 매도인이, 이후는 매수인이 부담한다.",
+        "page": 4,
+        "bbox": {
+          "x": 220.0,
+          "y": 275.0,
+          "width": 1020.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-009-002-001-3",
+        "idx_in_page": 3,
+        "text": "3. 매수인은 은행 주택담보대출을 활용할 예정이며, 대출 불가시 계약은 자동 해제된다.",
+        "page": 4,
+        "bbox": {
+          "x": 220.0,
+          "y": 320.0,
+          "width": 1040.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-009-002-001-4",
+        "idx_in_page": 4,
+        "text": "제7조 (중개보수)",
+        "page": 4,
+        "bbox": {
+          "x": 200.0,
+          "y": 420.0,
+          "width": 220.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-009-002-001-5",
+        "idx_in_page": 5,
+        "text": "매도인 및 매수인은 중개업소에 각각 중개보수를 지급한다.",
+        "page": 4,
+        "bbox": {
+          "x": 200.0,
+          "y": 470.0,
+          "width": 740.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-009-002-001-6",
+        "idx_in_page": 6,
+        "text": "중개보수: 거래금액의 0.4% (부가가치세 별도)",
+        "page": 4,
+        "bbox": {
+          "x": 220.0,
+          "y": 515.0,
+          "width": 560.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-009-002-001-7",
+        "idx_in_page": 7,
+        "text": "중개업소: 강남부동산공인중개사사무소",
+        "page": 4,
+        "bbox": {
+          "x": 220.0,
+          "y": 560.0,
+          "width": 480.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-009-002-001-8",
+        "idx_in_page": 8,
+        "text": "대표: 박중개 (등록번호 제12345호)",
+        "page": 4,
+        "bbox": {
+          "x": 220.0,
+          "y": 605.0,
+          "width": 420.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-009-002-001-9",
+        "idx_in_page": 9,
+        "text": "제8조 (계약의 효력)",
+        "page": 4,
+        "bbox": {
+          "x": 200.0,
+          "y": 700.0,
+          "width": 280.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-009-002-001-10",
+        "idx_in_page": 10,
+        "text": "본 계약서는 2부를 작성하여 매도인과 매수인이 각각 1부씩 보관한다.",
+        "page": 4,
+        "bbox": {
+          "x": 200.0,
+          "y": 750.0,
+          "width": 840.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-009-002-001-11",
+        "idx_in_page": 11,
+        "text": "본 계약은 당사자 간에 성립된 합의내용을 증명하며, 쌍방이 신의성실의 원칙에 따라 이행할 것을 확약한다.",
+        "page": 4,
+        "bbox": {
+          "x": 200.0,
+          "y": 795.0,
+          "width": 1120.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-009-002-002-0",
+        "idx_in_page": 0,
+        "text": "2024년 3월 15일",
+        "page": 5,
+        "bbox": {
+          "x": 200.0,
+          "y": 180.0,
+          "width": 240.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-009-002-002-1",
+        "idx_in_page": 1,
+        "text": "매도인: 이영희 (인)",
+        "page": 5,
+        "bbox": {
+          "x": 200.0,
+          "y": 250.0,
+          "width": 240.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-009-002-002-2",
+        "idx_in_page": 2,
+        "text": "주소: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "page": 5,
+        "bbox": {
+          "x": 220.0,
+          "y": 295.0,
+          "width": 780.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-009-002-002-3",
+        "idx_in_page": 3,
+        "text": "주민등록번호: 671015-1******",
+        "page": 5,
+        "bbox": {
+          "x": 220.0,
+          "y": 335.0,
+          "width": 360.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-009-002-002-4",
+        "idx_in_page": 4,
+        "text": "연락처: 010-1234-5678",
+        "page": 5,
+        "bbox": {
+          "x": 220.0,
+          "y": 375.0,
+          "width": 280.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-009-002-002-5",
+        "idx_in_page": 5,
+        "text": "매수인: 김철수 (인)",
+        "page": 5,
+        "bbox": {
+          "x": 200.0,
+          "y": 460.0,
+          "width": 240.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-009-002-002-6",
+        "idx_in_page": 6,
+        "text": "주소: 서울특별시 서초구 서초대로 456",
+        "page": 5,
+        "bbox": {
+          "x": 220.0,
+          "y": 505.0,
+          "width": 480.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-009-002-002-7",
+        "idx_in_page": 7,
+        "text": "주민등록번호: 850322-1******",
+        "page": 5,
+        "bbox": {
+          "x": 220.0,
+          "y": 545.0,
+          "width": 360.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-009-002-002-8",
+        "idx_in_page": 8,
+        "text": "연락처: 010-9876-5432",
+        "page": 5,
+        "bbox": {
+          "x": 220.0,
+          "y": 585.0,
+          "width": 280.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-009-002-002-9",
+        "idx_in_page": 9,
+        "text": "중개업소: 강남부동산공인중개사사무소 (인)",
+        "page": 5,
+        "bbox": {
+          "x": 200.0,
+          "y": 670.0,
+          "width": 520.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-009-002-002-10",
+        "idx_in_page": 10,
+        "text": "대표: 박중개",
+        "page": 5,
+        "bbox": {
+          "x": 220.0,
+          "y": 715.0,
+          "width": 180.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-009-002-002-11",
+        "idx_in_page": 11,
+        "text": "소재지: 서울특별시 강남구 테헤란로 789",
+        "page": 5,
+        "bbox": {
+          "x": 220.0,
+          "y": 755.0,
+          "width": 480.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-009-002-002-12",
+        "idx_in_page": 12,
+        "text": "등록번호: 제12345호",
+        "page": 5,
+        "bbox": {
+          "x": 220.0,
+          "y": 795.0,
+          "width": 240.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-009-002-002-13",
+        "idx_in_page": 13,
+        "text": "연락처: 02-1234-5678",
+        "page": 5,
+        "bbox": {
+          "x": 220.0,
+          "y": 835.0,
+          "width": 260.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
       }
     ]
   },

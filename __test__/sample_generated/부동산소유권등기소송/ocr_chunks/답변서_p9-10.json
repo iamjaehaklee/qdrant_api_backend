@@ -14,37 +14,135 @@
   ],
   "chunk_number": 5,
   "paragraph_texts": [
-    "[9페이지] 피고는 원고의 청구를 다음과 같은 이유로 다툽니다. 원고가 주장하는 매매계약에는 보충합의서상 특약사항이 있었으나 원고가 이를 이행하지 않았습니다.",
-    "따라서 원고의 청구는 이유 없으므로 기각되어야 합니다.",
-    "[10페이지] 피고는 원고의 청구를 다음과 같은 이유로 다툽니다. 원고가 주장하는 매매계약에는 보충합의서상 특약사항이 있었으나 원고가 이를 이행하지 않았습니다.",
-    "따라서 원고의 청구는 이유 없으므로 기각되어야 합니다."
+    "이메일: leeyh@email.com",
+    "대리인 변호사",
+    "법무법인 정의",
+    "담당변호사: 박정의",
+    "주소: 서울특별시 서초구 서초대로 78길 22, 4층",
+    "전화: 02-1234-5678",
+    "팩스: 02-1234-5679",
+    "이메일: attorney.park@lawfirm-justice.com",
+    "사건 관련 추가 설명",
+    "본 사건은 부동산 매매계약의 해제 여부가 핵심 쟁점입니다. 피고는 다음과 같은 사실을 강조하고자 합니다:",
+    "1. 원고는 계약 체결 당시 보충합의서의 내용을 충분히 인지하고 자필로 서명하였습니다.",
+    "2. 원고의 의무 불이행으로 인해 피고는 상당한 손해를 입었으며, 이는 단순히 계약금 반환만으로 해결될 문제가 아닙니다.",
+    "3. 피고는 원고에게 수차례 이행을 최고하였으나, 원고는 이를 무시하고 의무를 이행하지 않았습니다.",
+    "4. 피고의 계약해제는 민법상 요건을 완전히 충족하는 적법한 조치입니다.",
+    "향후 절차에 대한 협조 요청",
+    "피고는 재판부의 공정한 판단을 신뢰하며, 필요한 경우 추가 증거 제출 및 증인 신청 등 모든 절차에 성실히 임할 것을 약속드립니다.",
+    "감사합니다.",
+    "이상"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-002-005-000-0",
         "idx_in_page": 0,
-        "text": "[9페이지] 피고는 원고의 청구를 다음과 같은 이유로 다툽니다. 원고가 주장하는 매매계약에는 보충합의서상 특약사항이 있었으나 원고가 이를 이행하지 않았습니다.",
+        "text": "이메일: leeyh@email.com",
         "page": 9,
         "bbox": {
-          "x": 197.23,
-          "y": 91.5,
-          "width": 1232.79,
-          "height": 50
+          "x": 180,
+          "y": 355,
+          "width": 460,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-002-005-000-1",
+        "idx_in_page": 1,
+        "text": "대리인 변호사",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 440,
+          "width": 260,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-002-005-000-2",
+        "idx_in_page": 2,
+        "text": "법무법인 정의",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 495,
+          "width": 260,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-002-005-000-3",
+        "idx_in_page": 3,
+        "text": "담당변호사: 박정의",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 535,
+          "width": 340,
+          "height": 30
         },
         "type": "body",
         "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-002-005-000-1",
-        "idx_in_page": 1,
-        "text": "따라서 원고의 청구는 이유 없으므로 기각되어야 합니다.",
+        "paragraph_id": "para-002-005-000-4",
+        "idx_in_page": 4,
+        "text": "주소: 서울특별시 서초구 서초대로 78길 22, 4층",
         "page": 9,
         "bbox": {
-          "x": 218.59,
-          "y": 1195.08,
-          "width": 1293.54,
-          "height": 50
+          "x": 180,
+          "y": 575,
+          "width": 800,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-002-005-000-5",
+        "idx_in_page": 5,
+        "text": "전화: 02-1234-5678",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 615,
+          "width": 360,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-002-005-000-6",
+        "idx_in_page": 6,
+        "text": "팩스: 02-1234-5679",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 655,
+          "width": 360,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-002-005-000-7",
+        "idx_in_page": 7,
+        "text": "이메일: attorney.park@lawfirm-justice.com",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 695,
+          "width": 760,
+          "height": 30
         },
         "type": "body",
         "confidence_score": 0.96
@@ -52,30 +150,142 @@
       {
         "paragraph_id": "para-002-005-001-0",
         "idx_in_page": 0,
-        "text": "[10페이지] 피고는 원고의 청구를 다음과 같은 이유로 다툽니다. 원고가 주장하는 매매계약에는 보충합의서상 특약사항이 있었으나 원고가 이를 이행하지 않았습니다.",
+        "text": "사건 관련 추가 설명",
         "page": 10,
         "bbox": {
-          "x": 200.68,
-          "y": 101.09,
-          "width": 1271.72,
-          "height": 50
+          "x": 180,
+          "y": 180,
+          "width": 340,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-002-005-001-1",
+        "idx_in_page": 1,
+        "text": "본 사건은 부동산 매매계약의 해제 여부가 핵심 쟁점입니다. 피고는 다음과 같은 사실을 강조하고자 합니다:",
+        "page": 10,
+        "bbox": {
+          "x": 180,
+          "y": 235,
+          "width": 1260,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-002-005-001-2",
+        "idx_in_page": 2,
+        "text": "1. 원고는 계약 체결 당시 보충합의서의 내용을 충분히 인지하고 자필로 서명하였습니다.",
+        "page": 10,
+        "bbox": {
+          "x": 180,
+          "y": 277,
+          "width": 1180,
+          "height": 32
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-002-005-001-3",
+        "idx_in_page": 3,
+        "text": "2. 원고의 의무 불이행으로 인해 피고는 상당한 손해를 입었으며, 이는 단순히 계약금 반환만으로 해결될 문제가 아닙니다.",
+        "page": 10,
+        "bbox": {
+          "x": 180,
+          "y": 319,
+          "width": 1280,
+          "height": 48
+        },
+        "type": "list",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-002-005-001-4",
+        "idx_in_page": 4,
+        "text": "3. 피고는 원고에게 수차례 이행을 최고하였으나, 원고는 이를 무시하고 의무를 이행하지 않았습니다.",
+        "page": 10,
+        "bbox": {
+          "x": 180,
+          "y": 377,
+          "width": 1220,
+          "height": 32
+        },
+        "type": "list",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-002-005-001-5",
+        "idx_in_page": 5,
+        "text": "4. 피고의 계약해제는 민법상 요건을 완전히 충족하는 적법한 조치입니다.",
+        "page": 10,
+        "bbox": {
+          "x": 180,
+          "y": 419,
+          "width": 1040,
+          "height": 32
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-002-005-001-6",
+        "idx_in_page": 6,
+        "text": "향후 절차에 대한 협조 요청",
+        "page": 10,
+        "bbox": {
+          "x": 180,
+          "y": 490,
+          "width": 420,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-002-005-001-7",
+        "idx_in_page": 7,
+        "text": "피고는 재판부의 공정한 판단을 신뢰하며, 필요한 경우 추가 증거 제출 및 증인 신청 등 모든 절차에 성실히 임할 것을 약속드립니다.",
+        "page": 10,
+        "bbox": {
+          "x": 180,
+          "y": 545,
+          "width": 1280,
+          "height": 48
         },
         "type": "body",
         "confidence_score": 0.93
       },
       {
-        "paragraph_id": "para-002-005-001-1",
-        "idx_in_page": 1,
-        "text": "따라서 원고의 청구는 이유 없으므로 기각되어야 합니다.",
+        "paragraph_id": "para-002-005-001-8",
+        "idx_in_page": 8,
+        "text": "감사합니다.",
         "page": 10,
         "bbox": {
-          "x": 211.21,
-          "y": 1179.88,
-          "width": 1269.06,
-          "height": 50
+          "x": 180,
+          "y": 630,
+          "width": 240,
+          "height": 30
         },
         "type": "body",
-        "confidence_score": 0.95
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-002-005-001-9",
+        "idx_in_page": 9,
+        "text": "이상",
+        "page": 10,
+        "bbox": {
+          "x": 180,
+          "y": 700,
+          "width": 100,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.99
       }
     ]
   },

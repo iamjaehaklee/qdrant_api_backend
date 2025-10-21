@@ -15,98 +15,477 @@
   ],
   "chunk_number": 4,
   "paragraph_texts": [
-    "[7페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
-    "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
-    "[8페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
-    "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
-    "[9페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
-    "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다."
+    "- '수'자의 마지막 획이 원고의 서명에서는 항상 위로 올라가나, 을 제1호증에서는 아래로 내려감",
+    "전체적인 필압이 원고보다 약하며, 서명 속도가 느린 것으로 추정됨 (운필이 부자연스러움)",
+    "위와 같은 구체적인 차이점들을 종합하면, 을 제1호증의 서명이 원고 본인의 필체가 아님을 충분히 입증할 수 있습니다.",
+    "따라서 필적감정 전문가의 객관적이고 과학적인 감정을 통하여, 피고가 제출한 보충합의서가 위조 문서임을 명백히 밝혀주시기 바랍니다.",
+    "6. 결론",
+    "이상의 주장과 증거자료를 종합하면 다음과 같습니다:",
+    "첫째, 피고가 제출한 을 제1호증 '보충합의서'는 원고의 서명이 위조된 문서이며, 필적감정을 통해 이를 입증할 것입니다.",
+    "둘째, 피고가 주장하는 임차인 홍길동의 퇴거일 '2024년 3월 15일'은 허위이며, 실제 퇴거일은 '2024년 2월 28일'입니다. 이는 피고 본인이 작성한 부동산관리대장과 원고에게 보낸 카카오톡 메시지로 명백히 증명됩니다.",
+    "셋째, 원고는 이러한 사실들을 뒷받침하는 명확한 증거자료(갑 제13호증, 제14호증)를 제출하였으며, 추가로 필적감정을 위한 비교 자료(갑 제15호증)도 제출할 예정입니다.",
+    "따라서 재판부께서는 피고의 허위 주장과 위조 증거를 배척하시고, 원고의 정당한 청구를 인용하여 주실 것을 간곡히 요청드립니다.",
+    "이상으로 원고의 제2차 준비서면을 제출합니다.",
+    "첨부서류",
+    "1. 갑 제13호증: 부동산관리대장 사본",
+    "2. 갑 제14호증: 카카오톡 대화내용 캡처 화면",
+    "3. 필적감정 신청서 (별첨)",
+    "2024년 9월 3일",
+    "원고 김철수 (인)",
+    "원고 소송대리인",
+    "법무법인 정의",
+    "담당변호사 박정의 (인)",
+    "서울중앙지방법원 민사합의 제12부 귀중"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-005-004-000-0",
         "idx_in_page": 0,
-        "text": "[7페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
+        "text": "- '수'자의 마지막 획이 원고의 서명에서는 항상 위로 올라가나, 을 제1호증에서는 아래로 내려감",
         "page": 7,
         "bbox": {
           "x": 191.14,
           "y": 91.46,
-          "width": 1324.13,
+          "width": 1285.62,
           "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-005-004-000-1",
+        "idx_in_page": 1,
+        "text": "전체적인 필압이 원고보다 약하며, 서명 속도가 느린 것으로 추정됨 (운필이 부자연스러움)",
+        "page": 7,
+        "bbox": {
+          "x": 191.14,
+          "y": 156.7,
+          "width": 1285.62,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-005-004-000-2",
+        "idx_in_page": 2,
+        "text": "위와 같은 구체적인 차이점들을 종합하면, 을 제1호증의 서명이 원고 본인의 필체가 아님을 충분히 입증할 수 있습니다.",
+        "page": 7,
+        "bbox": {
+          "x": 191.14,
+          "y": 236.0,
+          "width": 1289.86,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-005-004-000-3",
+        "idx_in_page": 3,
+        "text": "따라서 필적감정 전문가의 객관적이고 과학적인 감정을 통하여, 피고가 제출한 보충합의서가 위조 문서임을 명백히 밝혀주시기 바랍니다.",
+        "page": 7,
+        "bbox": {
+          "x": 191.14,
+          "y": 301.3,
+          "width": 1289.86,
+          "height": 65
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-005-004-000-4",
+        "idx_in_page": 4,
+        "text": "6. 결론",
+        "page": 7,
+        "bbox": {
+          "x": 191.14,
+          "y": 405.6,
+          "width": 150.2,
+          "height": 34
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-005-004-000-5",
+        "idx_in_page": 5,
+        "text": "이상의 주장과 증거자료를 종합하면 다음과 같습니다:",
+        "page": 7,
+        "bbox": {
+          "x": 216.25,
+          "y": 455.9,
+          "width": 820.4,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-005-004-000-6",
+        "idx_in_page": 6,
+        "text": "첫째, 피고가 제출한 을 제1호증 '보충합의서'는 원고의 서명이 위조된 문서이며, 필적감정을 통해 이를 입증할 것입니다.",
+        "page": 7,
+        "bbox": {
+          "x": 216.25,
+          "y": 521.2,
+          "width": 1264.78,
+          "height": 65
         },
         "type": "body",
         "confidence_score": 0.94
       },
       {
-        "paragraph_id": "para-005-004-000-1",
-        "idx_in_page": 1,
-        "text": "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
+        "paragraph_id": "para-005-004-000-7",
+        "idx_in_page": 7,
+        "text": "둘째, 피고가 주장하는 임차인 홍길동의 퇴거일 '2024년 3월 15일'은 허위이며, 실제 퇴거일은 '2024년 2월 28일'입니다. 이는 피고 본인이 작성한 부동산관리대장과 원고에게 보낸 카카오톡 메시지로 명백히 증명됩니다.",
         "page": 7,
         "bbox": {
-          "x": 205.33,
-          "y": 1184.64,
-          "width": 1257.24,
+          "x": 216.25,
+          "y": 625.5,
+          "width": 1264.78,
+          "height": 80
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-005-004-000-8",
+        "idx_in_page": 8,
+        "text": "셋째, 원고는 이러한 사실들을 뒷받침하는 명확한 증거자료(갑 제13호증, 제14호증)를 제출하였으며, 추가로 필적감정을 위한 비교 자료(갑 제15호증)도 제출할 예정입니다.",
+        "page": 7,
+        "bbox": {
+          "x": 216.25,
+          "y": 744.8,
+          "width": 1264.78,
+          "height": 80
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-005-004-000-9",
+        "idx_in_page": 9,
+        "text": "따라서 재판부께서는 피고의 허위 주장과 위조 증거를 배척하시고, 원고의 정당한 청구를 인용하여 주실 것을 간곡히 요청드립니다.",
+        "page": 7,
+        "bbox": {
+          "x": 216.25,
+          "y": 864.1,
+          "width": 1264.78,
+          "height": 65
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-005-004-000-10",
+        "idx_in_page": 10,
+        "text": "이상으로 원고의 제2차 준비서면을 제출합니다.",
+        "page": 7,
+        "bbox": {
+          "x": 216.25,
+          "y": 968.4,
+          "width": 720.5,
           "height": 50
         },
         "type": "body",
-        "confidence_score": 0.9
+        "confidence_score": 0.95
       },
       {
         "paragraph_id": "para-005-004-001-0",
         "idx_in_page": 0,
-        "text": "[8페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
+        "text": "첨부서류",
         "page": 8,
         "bbox": {
           "x": 198.26,
           "y": 109.27,
-          "width": 1269.95,
-          "height": 50
+          "width": 160.3,
+          "height": 34
         },
-        "type": "body",
-        "confidence_score": 0.93
+        "type": "header",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-005-004-001-1",
         "idx_in_page": 1,
-        "text": "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
+        "text": "1. 갑 제13호증: 부동산관리대장 사본",
         "page": 8,
         "bbox": {
-          "x": 190.98,
-          "y": 1191.27,
-          "width": 1263.19,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.93
-      },
-      {
-        "paragraph_id": "para-005-004-002-0",
-        "idx_in_page": 0,
-        "text": "[9페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
-        "page": 9,
-        "bbox": {
-          "x": 198.63,
-          "y": 102.67,
-          "width": 1303.08,
+          "x": 223.37,
+          "y": 164.5,
+          "width": 580.4,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.97
       },
       {
+        "paragraph_id": "para-005-004-001-2",
+        "idx_in_page": 2,
+        "text": "2. 갑 제14호증: 카카오톡 대화내용 캡처 화면",
+        "page": 8,
+        "bbox": {
+          "x": 223.37,
+          "y": 229.8,
+          "width": 680.5,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-005-004-001-3",
+        "idx_in_page": 3,
+        "text": "3. 필적감정 신청서 (별첨)",
+        "page": 8,
+        "bbox": {
+          "x": 223.37,
+          "y": 295.1,
+          "width": 420.3,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-005-004-001-4",
+        "idx_in_page": 4,
+        "text": "2024년 9월 3일",
+        "page": 8,
+        "bbox": {
+          "x": 1150.5,
+          "y": 450.0,
+          "width": 305.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-005-004-001-5",
+        "idx_in_page": 5,
+        "text": "원고 김철수 (인)",
+        "page": 8,
+        "bbox": {
+          "x": 1150.5,
+          "y": 495.3,
+          "width": 305.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-005-004-001-6",
+        "idx_in_page": 6,
+        "text": "원고 소송대리인",
+        "page": 8,
+        "bbox": {
+          "x": 1150.5,
+          "y": 585.6,
+          "width": 305.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-005-004-001-7",
+        "idx_in_page": 7,
+        "text": "법무법인 정의",
+        "page": 8,
+        "bbox": {
+          "x": 1150.5,
+          "y": 630.9,
+          "width": 305.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-005-004-001-8",
+        "idx_in_page": 8,
+        "text": "담당변호사 박정의 (인)",
+        "page": 8,
+        "bbox": {
+          "x": 1150.5,
+          "y": 676.2,
+          "width": 385.4,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-005-004-001-9",
+        "idx_in_page": 9,
+        "text": "서울중앙지방법원 민사합의 제12부 귀중",
+        "page": 8,
+        "bbox": {
+          "x": 190.98,
+          "y": 1191.27,
+          "width": 620.5,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-005-004-002-0",
+        "idx_in_page": 0,
+        "text": "[별첨] 필적감정 신청서",
+        "page": 9,
+        "bbox": {
+          "x": 630.2,
+          "y": 102.67,
+          "width": 420.6,
+          "height": 38
+        },
+        "type": "header",
+        "confidence_score": 0.98
+      },
+      {
         "paragraph_id": "para-005-004-002-1",
         "idx_in_page": 1,
-        "text": "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
+        "text": "사건번호: 2024가단123456",
+        "page": 9,
+        "bbox": {
+          "x": 198.63,
+          "y": 180.0,
+          "width": 380.4,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-005-004-002-2",
+        "idx_in_page": 2,
+        "text": "원고: 김철수",
+        "page": 9,
+        "bbox": {
+          "x": 198.63,
+          "y": 225.3,
+          "width": 200.3,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-005-004-002-3",
+        "idx_in_page": 3,
+        "text": "피고: 이영희",
+        "page": 9,
+        "bbox": {
+          "x": 198.63,
+          "y": 270.6,
+          "width": 200.3,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-005-004-002-4",
+        "idx_in_page": 4,
+        "text": "위 사건에 관하여 원고는 다음과 같이 필적감정을 신청합니다.",
+        "page": 9,
+        "bbox": {
+          "x": 198.63,
+          "y": 349.9,
+          "width": 920.5,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-005-004-002-5",
+        "idx_in_page": 5,
+        "text": "감정 대상 문서: 을 제1호증 보충합의서",
+        "page": 9,
+        "bbox": {
+          "x": 223.74,
+          "y": 429.2,
+          "width": 580.4,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-005-004-002-6",
+        "idx_in_page": 6,
+        "text": "감정 의뢰 사항: 위 문서의 '김철수' 서명이 원고 본인의 진정한 서명인지 여부",
+        "page": 9,
+        "bbox": {
+          "x": 223.74,
+          "y": 494.5,
+          "width": 1056.29,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-005-004-002-7",
+        "idx_in_page": 7,
+        "text": "감정 기관: 국립과학수사연구원 또는 대한감정평가협회",
+        "page": 9,
+        "bbox": {
+          "x": 223.74,
+          "y": 559.8,
+          "width": 780.5,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-005-004-002-8",
+        "idx_in_page": 8,
+        "text": "2024년 9월 3일",
+        "page": 9,
+        "bbox": {
+          "x": 1150.5,
+          "y": 750.0,
+          "width": 305.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-005-004-002-9",
+        "idx_in_page": 9,
+        "text": "신청인 김철수 (인)",
+        "page": 9,
+        "bbox": {
+          "x": 1150.5,
+          "y": 795.3,
+          "width": 345.3,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-005-004-002-10",
+        "idx_in_page": 10,
+        "text": "서울중앙지방법원 귀중",
         "page": 9,
         "bbox": {
           "x": 204.13,
           "y": 1180.34,
-          "width": 1272.44,
-          "height": 50
+          "width": 380.5,
+          "height": 32
         },
         "type": "body",
-        "confidence_score": 0.99
+        "confidence_score": 0.96
       }
     ]
   },

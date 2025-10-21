@@ -15,98 +15,473 @@
   ],
   "chunk_number": 4,
   "paragraph_texts": [
-    "[7페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[8페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[9페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일"
+    "- 대조 자료: 'ㅜ' 아래 점의 간격이 좁음 (약 2mm)",
+    "- 감정 대상: 'ㅜ' 아래 점의 간격이 넓음 (약 4mm)",
+    "- 대조 자료: 전체 '수' 자의 가로 폭이 넓고 안정적 (약 12mm)",
+    "- 감정 대상: 전체 '수' 자의 가로 폭이 좁고 불안정 (약 8mm)",
+    "11. 글자 크기 및 자간 분석",
+    "전체 서명의 크기 비교:",
+    "- 대조 자료: 전체 서명 길이 약 45mm, 높이 약 18mm",
+    "- 감정 대상: 전체 서명 길이 약 38mm, 높이 약 15mm (약 15% 작음)",
+    "자간 (글자 간격) 비교:",
+    "- 대조 자료: '김'과 '철' 사이 약 3mm, '철'과 '수' 사이 약 3.5mm (균등)",
+    "- 감정 대상: '김'과 '철' 사이 약 5mm, '철'과 '수' 사이 약 2mm (불균등)",
+    "12. 종합 소견",
+    "감정 대상 서명과 대조 자료 서명 간의 차이점 종합:",
+    "(가) 필적의 형태적 차이",
+    "① 각 글자의 구성 요소(자음, 모음)의 형태가 현저히 다름",
+    "② 획의 시작점, 끝점, 연결 방식이 상이함",
+    "③ 글자의 기울기, 크기, 자간이 불일치함",
+    "(나) 필적의 습관적 차이",
+    "① 필압 분포가 대조 자료는 강약 변화가 뚜렷하나, 감정 대상은 균일함",
+    "② 필순이 대조 자료와 감정 대상이 일부 글자에서 역전됨",
+    "③ 서명 작성 속도가 대조 자료는 신속하나, 감정 대상은 느림",
+    "(다) 물리적 특성 차이",
+    "① 잉크 농도 및 색상이 다름 (필기구 상이 추정)",
+    "② 획 두께의 변화 패턴이 상이함",
+    "③ 잉크 번짐 및 에지 특성이 다름",
+    "13. 결론",
+    "상기 감정 결과를 종합할 때, 을 제1호증 '보충합의서'에 기재된 '김철수' 서명은 대조 자료로 제출된 원고 김철수의 필적과 다음과 같은 이유로 동일인의 필적이 아닌 것으로 판단됨:",
+    "① 필적의 기본 형태 및 구조가 현저히 상이함",
+    "② 필압, 필순 등 필기 습관이 일치하지 않음",
+    "③ 물리적 특성(잉크, 획 두께)이 다름",
+    "④ 전체적으로 모방 필적의 특징(천천히, 조심스럽게 작성)이 관찰됨"
   ],
   "chunk_content": {
     "paragraphs": [
       {
-        "paragraph_id": "para-050-004-000-0",
-        "idx_in_page": 0,
-        "text": "[7페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "paragraph_id": "para-050-005-000-13",
+        "idx_in_page": 13,
+        "text": "- 대조 자료: 'ㅜ' 아래 점의 간격이 좁음 (약 2mm)",
         "page": 7,
         "bbox": {
-          "x": 201.61,
-          "y": 100.89,
-          "width": 1280.39,
-          "height": 50
+          "x": 220,
+          "y": 720,
+          "width": 740,
+          "height": 28
         },
-        "type": "body",
-        "confidence_score": 0.97
+        "type": "list",
+        "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-050-004-000-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "paragraph_id": "para-050-005-000-14",
+        "idx_in_page": 14,
+        "text": "- 감정 대상: 'ㅜ' 아래 점의 간격이 넓음 (약 4mm)",
         "page": 7,
         "bbox": {
-          "x": 214.83,
-          "y": 1185.34,
-          "width": 1311.2,
-          "height": 50
+          "x": 220,
+          "y": 758,
+          "width": 740,
+          "height": 28
         },
-        "type": "body",
-        "confidence_score": 0.97
-      },
-      {
-        "paragraph_id": "para-050-004-001-0",
-        "idx_in_page": 0,
-        "text": "[8페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-        "page": 8,
-        "bbox": {
-          "x": 216.84,
-          "y": 91.74,
-          "width": 1321.05,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.94
-      },
-      {
-        "paragraph_id": "para-050-004-001-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
-        "page": 8,
-        "bbox": {
-          "x": 216.79,
-          "y": 1187.7,
-          "width": 1233.56,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.94
-      },
-      {
-        "paragraph_id": "para-050-004-002-0",
-        "idx_in_page": 0,
-        "text": "[9페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-        "page": 9,
-        "bbox": {
-          "x": 213.89,
-          "y": 108.85,
-          "width": 1305.94,
-          "height": 50
-        },
-        "type": "body",
+        "type": "list",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-050-004-002-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
-        "page": 9,
+        "paragraph_id": "para-050-005-000-15",
+        "idx_in_page": 15,
+        "text": "- 대조 자료: 전체 '수' 자의 가로 폭이 넓고 안정적 (약 12mm)",
+        "page": 7,
         "bbox": {
-          "x": 189.25,
-          "y": 1190.05,
-          "width": 1294.59,
-          "height": 50
+          "x": 220,
+          "y": 796,
+          "width": 920,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-005-000-16",
+        "idx_in_page": 16,
+        "text": "- 감정 대상: 전체 '수' 자의 가로 폭이 좁고 불안정 (약 8mm)",
+        "page": 7,
+        "bbox": {
+          "x": 220,
+          "y": 834,
+          "width": 900,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-006-000-0",
+        "idx_in_page": 0,
+        "text": "11. 글자 크기 및 자간 분석",
+        "page": 8,
+        "bbox": {
+          "x": 180,
+          "y": 180,
+          "width": 420,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-050-006-000-1",
+        "idx_in_page": 1,
+        "text": "전체 서명의 크기 비교:",
+        "page": 8,
+        "bbox": {
+          "x": 180,
+          "y": 222,
+          "width": 340,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-006-000-2",
+        "idx_in_page": 2,
+        "text": "- 대조 자료: 전체 서명 길이 약 45mm, 높이 약 18mm",
+        "page": 8,
+        "bbox": {
+          "x": 220,
+          "y": 260,
+          "width": 840,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-006-000-3",
+        "idx_in_page": 3,
+        "text": "- 감정 대상: 전체 서명 길이 약 38mm, 높이 약 15mm (약 15% 작음)",
+        "page": 8,
+        "bbox": {
+          "x": 220,
+          "y": 298,
+          "width": 1000,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-006-000-4",
+        "idx_in_page": 4,
+        "text": "자간 (글자 간격) 비교:",
+        "page": 8,
+        "bbox": {
+          "x": 180,
+          "y": 340,
+          "width": 360,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-006-000-5",
+        "idx_in_page": 5,
+        "text": "- 대조 자료: '김'과 '철' 사이 약 3mm, '철'과 '수' 사이 약 3.5mm (균등)",
+        "page": 8,
+        "bbox": {
+          "x": 220,
+          "y": 378,
+          "width": 1080,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-050-006-000-6",
+        "idx_in_page": 6,
+        "text": "- 감정 대상: '김'과 '철' 사이 약 5mm, '철'과 '수' 사이 약 2mm (불균등)",
+        "page": 8,
+        "bbox": {
+          "x": 220,
+          "y": 416,
+          "width": 1100,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-006-000-7",
+        "idx_in_page": 7,
+        "text": "12. 종합 소견",
+        "page": 8,
+        "bbox": {
+          "x": 180,
+          "y": 480,
+          "width": 260,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-050-006-000-8",
+        "idx_in_page": 8,
+        "text": "감정 대상 서명과 대조 자료 서명 간의 차이점 종합:",
+        "page": 8,
+        "bbox": {
+          "x": 180,
+          "y": 522,
+          "width": 720,
+          "height": 28
         },
         "type": "body",
         "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-006-000-9",
+        "idx_in_page": 9,
+        "text": "(가) 필적의 형태적 차이",
+        "page": 8,
+        "bbox": {
+          "x": 180,
+          "y": 565,
+          "width": 360,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-006-000-10",
+        "idx_in_page": 10,
+        "text": "① 각 글자의 구성 요소(자음, 모음)의 형태가 현저히 다름",
+        "page": 8,
+        "bbox": {
+          "x": 220,
+          "y": 603,
+          "width": 900,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-006-000-11",
+        "idx_in_page": 11,
+        "text": "② 획의 시작점, 끝점, 연결 방식이 상이함",
+        "page": 8,
+        "bbox": {
+          "x": 220,
+          "y": 641,
+          "width": 720,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-006-000-12",
+        "idx_in_page": 12,
+        "text": "③ 글자의 기울기, 크기, 자간이 불일치함",
+        "page": 8,
+        "bbox": {
+          "x": 220,
+          "y": 679,
+          "width": 680,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-007-000-0",
+        "idx_in_page": 0,
+        "text": "(나) 필적의 습관적 차이",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 180,
+          "width": 360,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-007-000-1",
+        "idx_in_page": 1,
+        "text": "① 필압 분포가 대조 자료는 강약 변화가 뚜렷하나, 감정 대상은 균일함",
+        "page": 9,
+        "bbox": {
+          "x": 220,
+          "y": 218,
+          "width": 1080,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-007-000-2",
+        "idx_in_page": 2,
+        "text": "② 필순이 대조 자료와 감정 대상이 일부 글자에서 역전됨",
+        "page": 9,
+        "bbox": {
+          "x": 220,
+          "y": 256,
+          "width": 900,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-007-000-3",
+        "idx_in_page": 3,
+        "text": "③ 서명 작성 속도가 대조 자료는 신속하나, 감정 대상은 느림",
+        "page": 9,
+        "bbox": {
+          "x": 220,
+          "y": 294,
+          "width": 940,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-050-007-000-4",
+        "idx_in_page": 4,
+        "text": "(다) 물리적 특성 차이",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 340,
+          "width": 320,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-007-000-5",
+        "idx_in_page": 5,
+        "text": "① 잉크 농도 및 색상이 다름 (필기구 상이 추정)",
+        "page": 9,
+        "bbox": {
+          "x": 220,
+          "y": 378,
+          "width": 780,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-007-000-6",
+        "idx_in_page": 6,
+        "text": "② 획 두께의 변화 패턴이 상이함",
+        "page": 9,
+        "bbox": {
+          "x": 220,
+          "y": 416,
+          "width": 560,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-007-000-7",
+        "idx_in_page": 7,
+        "text": "③ 잉크 번짐 및 에지 특성이 다름",
+        "page": 9,
+        "bbox": {
+          "x": 220,
+          "y": 454,
+          "width": 580,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-007-000-8",
+        "idx_in_page": 8,
+        "text": "13. 결론",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 520,
+          "width": 180,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-050-007-000-9",
+        "idx_in_page": 9,
+        "text": "상기 감정 결과를 종합할 때, 을 제1호증 '보충합의서'에 기재된 '김철수' 서명은 대조 자료로 제출된 원고 김철수의 필적과 다음과 같은 이유로 동일인의 필적이 아닌 것으로 판단됨:",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 562,
+          "width": 1260,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-050-007-000-10",
+        "idx_in_page": 10,
+        "text": "① 필적의 기본 형태 및 구조가 현저히 상이함",
+        "page": 9,
+        "bbox": {
+          "x": 220,
+          "y": 605,
+          "width": 740,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-007-000-11",
+        "idx_in_page": 11,
+        "text": "② 필압, 필순 등 필기 습관이 일치하지 않음",
+        "page": 9,
+        "bbox": {
+          "x": 220,
+          "y": 643,
+          "width": 720,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-050-007-000-12",
+        "idx_in_page": 12,
+        "text": "③ 물리적 특성(잉크, 획 두께)이 다름",
+        "page": 9,
+        "bbox": {
+          "x": 220,
+          "y": 681,
+          "width": 640,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-050-007-000-13",
+        "idx_in_page": 13,
+        "text": "④ 전체적으로 모방 필적의 특징(천천히, 조심스럽게 작성)이 관찰됨",
+        "page": 9,
+        "bbox": {
+          "x": 220,
+          "y": 719,
+          "width": 1040,
+          "height": 28
+        },
+        "type": "list",
+        "confidence_score": 0.95
       }
     ]
   },

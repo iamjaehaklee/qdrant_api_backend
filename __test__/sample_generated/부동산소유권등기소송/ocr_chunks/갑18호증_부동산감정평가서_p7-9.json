@@ -1,5 +1,5 @@
 {
-  "chunk_id": "2971c9c9-9fee-4dfa-b2a0-394e0efcb712",
+  "chunk_id": "ce087fc1-e232-4fb1-8705-f8fca2ab129a",
   "file_id": 29,
   "project_id": 1001,
   "storage_file_name": "exhibit_a18_appraisal.pdf",
@@ -15,98 +15,233 @@
   ],
   "chunk_number": 4,
   "paragraph_texts": [
-    "[7페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[8페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[9페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일"
+    "2. 거래사례 수집 현황 (2024년 4~6월)",
+    "- 아크로타워 456동 512호 (84㎡): 518,000,000원 (2024.04.12)",
+    "- 아크로타워 457동 1805호 (85㎡): 522,000,000원 (2024.05.08)",
+    "- 아크로타워 458동 2204호 (84㎡): 510,000,000원 (2024.05.24)",
+    "- 아크로타워 456동 1512호 (84.5㎡): 515,000,000원 (2024.06.15)",
+    "3. 거래사례 분석",
+    "평균 거래가: 515,000,000원 (㎡당 약 6,095,000원)",
+    "시점수정: 평가기준시점(7월 1일) 기준 +1% 조정",
+    "개별요인 보정: 층수·향·조망 등 +0.5% 가산",
+    "거래사례비교법 평가액: 520,000,000원",
+    "V. 원가법 적용",
+    "1. 재조달원가",
+    "- 건물 신축단가: ㎡당 3,200,000원",
+    "- 대지지분 가액: 180,000,000원",
+    "- 재조달원가 합계: 450,400,000원"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-029-004-000-0",
         "idx_in_page": 0,
-        "text": "[7페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "text": "2. 거래사례 수집 현황 (2024년 4~6월)",
         "page": 7,
         "bbox": {
-          "x": 217.93,
-          "y": 98.56,
-          "width": 1310.86,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.95
-      },
-      {
-        "paragraph_id": "para-029-004-000-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
-        "page": 7,
-        "bbox": {
-          "x": 203.64,
-          "y": 1187.43,
-          "width": 1272.37,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.96
-      },
-      {
-        "paragraph_id": "para-029-004-001-0",
-        "idx_in_page": 0,
-        "text": "[8페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-        "page": 8,
-        "bbox": {
-          "x": 211.36,
-          "y": 94.19,
-          "width": 1244.64,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.98
-      },
-      {
-        "paragraph_id": "para-029-004-001-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
-        "page": 8,
-        "bbox": {
-          "x": 181.34,
-          "y": 1180.28,
-          "width": 1287.84,
-          "height": 50
+          "x": 180,
+          "y": 150,
+          "width": 1200,
+          "height": 40
         },
         "type": "body",
         "confidence_score": 0.93
       },
       {
-        "paragraph_id": "para-029-004-002-0",
-        "idx_in_page": 0,
-        "text": "[9페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-        "page": 9,
+        "paragraph_id": "para-029-004-000-1",
+        "idx_in_page": 1,
+        "text": "- 아크로타워 456동 512호 (84㎡): 518,000,000원 (2024.04.12)",
+        "page": 7,
         "bbox": {
-          "x": 205.75,
-          "y": 92.4,
-          "width": 1303.46,
-          "height": 50
+          "x": 185,
+          "y": 195,
+          "width": 1210,
+          "height": 40
         },
         "type": "body",
         "confidence_score": 0.94
       },
       {
-        "paragraph_id": "para-029-004-002-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
-        "page": 9,
+        "paragraph_id": "para-029-004-000-2",
+        "idx_in_page": 2,
+        "text": "- 아크로타워 457동 1805호 (85㎡): 522,000,000원 (2024.05.08)",
+        "page": 7,
         "bbox": {
-          "x": 201.62,
-          "y": 1180.81,
-          "width": 1267.77,
-          "height": 50
+          "x": 190,
+          "y": 240,
+          "width": 1220,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-029-004-000-3",
+        "idx_in_page": 3,
+        "text": "- 아크로타워 458동 2204호 (84㎡): 510,000,000원 (2024.05.24)",
+        "page": 7,
+        "bbox": {
+          "x": 195,
+          "y": 285,
+          "width": 1230,
+          "height": 40
         },
         "type": "body",
         "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-029-004-000-4",
+        "idx_in_page": 4,
+        "text": "- 아크로타워 456동 1512호 (84.5㎡): 515,000,000원 (2024.06.15)",
+        "page": 7,
+        "bbox": {
+          "x": 200,
+          "y": 330,
+          "width": 1240,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-029-004-001-0",
+        "idx_in_page": 0,
+        "text": "3. 거래사례 분석",
+        "page": 8,
+        "bbox": {
+          "x": 180,
+          "y": 150,
+          "width": 1200,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-029-004-001-1",
+        "idx_in_page": 1,
+        "text": "평균 거래가: 515,000,000원 (㎡당 약 6,095,000원)",
+        "page": 8,
+        "bbox": {
+          "x": 185,
+          "y": 195,
+          "width": 1210,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-029-004-001-2",
+        "idx_in_page": 2,
+        "text": "시점수정: 평가기준시점(7월 1일) 기준 +1% 조정",
+        "page": 8,
+        "bbox": {
+          "x": 190,
+          "y": 240,
+          "width": 1220,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-029-004-001-3",
+        "idx_in_page": 3,
+        "text": "개별요인 보정: 층수·향·조망 등 +0.5% 가산",
+        "page": 8,
+        "bbox": {
+          "x": 195,
+          "y": 285,
+          "width": 1230,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-029-004-001-4",
+        "idx_in_page": 4,
+        "text": "거래사례비교법 평가액: 520,000,000원",
+        "page": 8,
+        "bbox": {
+          "x": 200,
+          "y": 330,
+          "width": 1240,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-029-004-002-0",
+        "idx_in_page": 0,
+        "text": "V. 원가법 적용",
+        "page": 9,
+        "bbox": {
+          "x": 180,
+          "y": 90,
+          "width": 1200,
+          "height": 60
+        },
+        "type": "heading",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-029-004-002-1",
+        "idx_in_page": 1,
+        "text": "1. 재조달원가",
+        "page": 9,
+        "bbox": {
+          "x": 185,
+          "y": 195,
+          "width": 1210,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-029-004-002-2",
+        "idx_in_page": 2,
+        "text": "- 건물 신축단가: ㎡당 3,200,000원",
+        "page": 9,
+        "bbox": {
+          "x": 190,
+          "y": 240,
+          "width": 1220,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-029-004-002-3",
+        "idx_in_page": 3,
+        "text": "- 대지지분 가액: 180,000,000원",
+        "page": 9,
+        "bbox": {
+          "x": 195,
+          "y": 285,
+          "width": 1230,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-029-004-002-4",
+        "idx_in_page": 4,
+        "text": "- 재조달원가 합계: 450,400,000원",
+        "page": 9,
+        "bbox": {
+          "x": 200,
+          "y": 330,
+          "width": 1240,
+          "height": 40
+        },
+        "type": "body",
+        "confidence_score": 0.97
       }
     ]
   },

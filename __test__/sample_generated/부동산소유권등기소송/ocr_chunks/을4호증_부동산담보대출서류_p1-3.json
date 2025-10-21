@@ -1,5 +1,5 @@
 {
-  "chunk_id": "86e147ef-cd37-4ea5-90e4-8a0809487e2b",
+  "chunk_id": "54f0dc68-4bf9-437a-a20a-5d274b4da687",
   "file_id": 36,
   "project_id": 1001,
   "storage_file_name": "exhibit_b4_mortgage_docs.pdf",
@@ -15,98 +15,248 @@
   ],
   "chunk_number": 1,
   "paragraph_texts": [
-    "[1페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[2페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[3페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "주 택 담 보 대 출 계 약 서",
+    "국민은행 강남지점",
+    "대출번호: KB-GN-2018-00347",
+    "계약일자: 2018년 3월 10일",
+    "제1조 (대출의 목적)",
+    "본 대출은 주택구입 자금 용도로 사용하며, 그 외의 용도로 사용할 수 없다.",
+    "제2조 (당사자)",
+    "대출자(이하 '갑'): 국민은행 강남지점",
+    "차주(이하 '을'): 이영희 (주민등록번호: 750215-2******)",
+    "주소: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+    "제3조 (대출금액 및 조건)",
+    "1. 대출원금: 금 이억원정 (₩200,000,000)",
+    "2. 대출기간: 2018년 3월 10일 ~ 2038년 3월 9일 (20년)",
+    "3. 대출금리: 연 3.45% (변동금리, 3개월 CD금리 + 가산금리 1.2%)",
+    "4. 상환방법: 원리금균등분할상환",
+    "5. 월 상환액: 금 일백십칠만원정 (₩1,170,000)"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-036-001-000-0",
         "idx_in_page": 0,
-        "text": "[1페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "주 택 담 보 대 출 계 약 서",
         "page": 1,
         "bbox": {
-          "x": 194.15,
-          "y": 109.22,
-          "width": 1329.48,
-          "height": 50
+          "x": 204.81,
+          "y": 240,
+          "width": 1311.53,
+          "height": 62
         },
-        "type": "body",
+        "type": "heading",
         "confidence_score": 0.94
       },
       {
         "paragraph_id": "para-036-001-000-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "국민은행 강남지점",
         "page": 1,
         "bbox": {
-          "x": 213.8,
-          "y": 1190.44,
-          "width": 1274.26,
-          "height": 50
+          "x": 182.19,
+          "y": 196,
+          "width": 1217.49,
+          "height": 61
+        },
+        "type": "heading",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-036-001-000-2",
+        "idx_in_page": 2,
+        "text": "대출번호: KB-GN-2018-00347",
+        "page": 1,
+        "bbox": {
+          "x": 187.92,
+          "y": 364,
+          "width": 1235.24,
+          "height": 48
         },
         "type": "body",
-        "confidence_score": 0.93
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-036-001-000-3",
+        "idx_in_page": 3,
+        "text": "계약일자: 2018년 3월 10일",
+        "page": 1,
+        "bbox": {
+          "x": 208.92,
+          "y": 1226,
+          "width": 1299.31,
+          "height": 53
+        },
+        "type": "body",
+        "confidence_score": 0.91
       },
       {
         "paragraph_id": "para-036-001-001-0",
         "idx_in_page": 0,
-        "text": "[2페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "제1조 (대출의 목적)",
         "page": 2,
         "bbox": {
-          "x": 213.5,
-          "y": 90.95,
-          "width": 1310.53,
-          "height": 50
+          "x": 190.72,
+          "y": 144,
+          "width": 1300.23,
+          "height": 62
         },
-        "type": "body",
-        "confidence_score": 0.94
+        "type": "heading",
+        "confidence_score": 0.97
       },
       {
         "paragraph_id": "para-036-001-001-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "본 대출은 주택구입 자금 용도로 사용하며, 그 외의 용도로 사용할 수 없다.",
         "page": 2,
         "bbox": {
-          "x": 219.41,
-          "y": 1182.66,
-          "width": 1308.57,
-          "height": 50
+          "x": 180.47,
+          "y": 1098,
+          "width": 1321.21,
+          "height": 51
         },
         "type": "body",
         "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-036-001-001-2",
+        "idx_in_page": 2,
+        "text": "제2조 (당사자)",
+        "page": 2,
+        "bbox": {
+          "x": 217.66,
+          "y": 263,
+          "width": 1283.96,
+          "height": 68
+        },
+        "type": "heading",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-036-001-001-3",
+        "idx_in_page": 3,
+        "text": "대출자(이하 '갑'): 국민은행 강남지점",
+        "page": 2,
+        "bbox": {
+          "x": 187.55,
+          "y": 1314,
+          "width": 1230.86,
+          "height": 51
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-036-001-001-4",
+        "idx_in_page": 4,
+        "text": "차주(이하 '을'): 이영희 (주민등록번호: 750215-2******)",
+        "page": 2,
+        "bbox": {
+          "x": 200.87,
+          "y": 1242,
+          "width": 1329.39,
+          "height": 49
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-036-001-001-5",
+        "idx_in_page": 5,
+        "text": "주소: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "page": 2,
+        "bbox": {
+          "x": 195.41,
+          "y": 864,
+          "width": 1219.89,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.97
       },
       {
         "paragraph_id": "para-036-001-002-0",
         "idx_in_page": 0,
-        "text": "[3페이지] 을4호증_부동산담보대출서류 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "제3조 (대출금액 및 조건)",
         "page": 3,
         "bbox": {
-          "x": 189.93,
-          "y": 95.01,
-          "width": 1309.16,
-          "height": 50
+          "x": 180.6,
+          "y": 148,
+          "width": 1251.15,
+          "height": 61
         },
-        "type": "body",
-        "confidence_score": 0.93
+        "type": "heading",
+        "confidence_score": 0.91
       },
       {
         "paragraph_id": "para-036-001-002-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "1. 대출원금: 금 이억원정 (₩200,000,000)",
         "page": 3,
         "bbox": {
-          "x": 189.52,
-          "y": 1190.33,
-          "width": 1249.54,
+          "x": 206.32,
+          "y": 574,
+          "width": 1237.12,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-036-001-002-2",
+        "idx_in_page": 2,
+        "text": "2. 대출기간: 2018년 3월 10일 ~ 2038년 3월 9일 (20년)",
+        "page": 3,
+        "bbox": {
+          "x": 180.33,
+          "y": 1020,
+          "width": 1204.25,
+          "height": 54
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-036-001-002-3",
+        "idx_in_page": 3,
+        "text": "3. 대출금리: 연 3.45% (변동금리, 3개월 CD금리 + 가산금리 1.2%)",
+        "page": 3,
+        "bbox": {
+          "x": 195.2,
+          "y": 1069,
+          "width": 1307.82,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-036-001-002-4",
+        "idx_in_page": 4,
+        "text": "4. 상환방법: 원리금균등분할상환",
+        "page": 3,
+        "bbox": {
+          "x": 208.67,
+          "y": 915,
+          "width": 1274.96,
+          "height": 55
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-036-001-002-5",
+        "idx_in_page": 5,
+        "text": "5. 월 상환액: 금 일백십칠만원정 (₩1,170,000)",
+        "page": 3,
+        "bbox": {
+          "x": 191.24,
+          "y": 1396,
+          "width": 1256.58,
+          "height": 48
+        },
+        "type": "body",
+        "confidence_score": 0.92
       }
     ]
   },

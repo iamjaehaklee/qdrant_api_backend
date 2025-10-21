@@ -15,67 +15,220 @@
   ],
   "chunk_number": 3,
   "paragraph_texts": [
-    "[5페이지] 피고는 원고의 청구를 다음과 같은 이유로 다툽니다. 원고가 주장하는 매매계약에는 보충합의서상 특약사항이 있었으나 원고가 이를 이행하지 않았습니다.",
+    "을 제4호증    임대차계약서(박민수-이영희, 2023.1.5)",
+    "을 제5호증    부동산 등기부등본",
+    "을 제6호증    사진(부동산 현황, 2024.6.10 촬영)",
+    "을 제7호증    통화녹음파일(원고-피고, 2024.5.15)",
+    "을 제8호증    문자메시지 대화내역(원고-피고, 2024.3-6월)",
+    "결     론",
+    "원고는 매매계약상 기본적인 의무조차 이행하지 않았으면서 피고에게 소유권이전등기를 청구하고 있으나, 이는 부당합니다.",
+    "피고는 계약 체결 당시 합의된 보충합의서에 따라 원고가 의무를 이행하지 않자 적법하게 계약을 해제하였습니다.",
     "따라서 원고의 청구는 이유 없으므로 기각되어야 합니다.",
-    "[6페이지] 피고는 원고의 청구를 다음과 같은 이유로 다툽니다. 원고가 주장하는 매매계약에는 보충합의서상 특약사항이 있었으나 원고가 이를 이행하지 않았습니다.",
-    "따라서 원고의 청구는 이유 없으므로 기각되어야 합니다.",
-    "[7페이지] 피고는 원고의 청구를 다음과 같은 이유로 다툽니다. 원고가 주장하는 매매계약에는 보충합의서상 특약사항이 있었으나 원고가 이를 이행하지 않았습니다.",
-    "따라서 원고의 청구는 이유 없으므로 기각되어야 합니다."
+    "첨 부 서 류",
+    "1. 위 입증방법           각 1통",
+    "2024년 8월 2일",
+    "피고  이영희  (인)",
+    "서울중앙지방법원 귀중",
+    "추가 참고사항",
+    "피고는 본 답변서 제출 후 추가로 다음 사항을 소명할 준비가 되어 있습니다:",
+    "1. 보충합의서 작성 당시 원고가 자필로 서명한 원본 제출 가능",
+    "2. 임차인 박민수의 진술서 제출 가능(원고가 퇴거 요청을 하지 않았다는 내용)",
+    "3. 공인중개사 증인 신청 가능(보충합의서 작성 경위 설명)"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-002-003-000-0",
         "idx_in_page": 0,
-        "text": "[5페이지] 피고는 원고의 청구를 다음과 같은 이유로 다툽니다. 원고가 주장하는 매매계약에는 보충합의서상 특약사항이 있었으나 원고가 이를 이행하지 않았습니다.",
+        "text": "을 제4호증    임대차계약서(박민수-이영희, 2023.1.5)",
         "page": 5,
         "bbox": {
-          "x": 216.94,
-          "y": 104.81,
-          "width": 1266.53,
-          "height": 50
+          "x": 180,
+          "y": 495,
+          "width": 760,
+          "height": 30
         },
-        "type": "body",
-        "confidence_score": 0.95
+        "type": "list",
+        "confidence_score": 0.97
       },
       {
         "paragraph_id": "para-002-003-000-1",
         "idx_in_page": 1,
-        "text": "따라서 원고의 청구는 이유 없으므로 기각되어야 합니다.",
+        "text": "을 제5호증    부동산 등기부등본",
         "page": 5,
         "bbox": {
-          "x": 208.35,
-          "y": 1190.0,
-          "width": 1259.12,
-          "height": 50
+          "x": 180,
+          "y": 535,
+          "width": 540,
+          "height": 30
+        },
+        "type": "list",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-002-003-000-2",
+        "idx_in_page": 2,
+        "text": "을 제6호증    사진(부동산 현황, 2024.6.10 촬영)",
+        "page": 5,
+        "bbox": {
+          "x": 180,
+          "y": 575,
+          "width": 720,
+          "height": 30
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-002-003-000-3",
+        "idx_in_page": 3,
+        "text": "을 제7호증    통화녹음파일(원고-피고, 2024.5.15)",
+        "page": 5,
+        "bbox": {
+          "x": 180,
+          "y": 615,
+          "width": 760,
+          "height": 30
+        },
+        "type": "list",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-002-003-000-4",
+        "idx_in_page": 4,
+        "text": "을 제8호증    문자메시지 대화내역(원고-피고, 2024.3-6월)",
+        "page": 5,
+        "bbox": {
+          "x": 180,
+          "y": 655,
+          "width": 840,
+          "height": 30
+        },
+        "type": "list",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-002-003-001-0",
+        "idx_in_page": 0,
+        "text": "결     론",
+        "page": 6,
+        "bbox": {
+          "x": 180,
+          "y": 180,
+          "width": 180,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-002-003-001-1",
+        "idx_in_page": 1,
+        "text": "원고는 매매계약상 기본적인 의무조차 이행하지 않았으면서 피고에게 소유권이전등기를 청구하고 있으나, 이는 부당합니다.",
+        "page": 6,
+        "bbox": {
+          "x": 180,
+          "y": 235,
+          "width": 1280,
+          "height": 48
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-002-003-001-2",
+        "idx_in_page": 2,
+        "text": "피고는 계약 체결 당시 합의된 보충합의서에 따라 원고가 의무를 이행하지 않자 적법하게 계약을 해제하였습니다.",
+        "page": 6,
+        "bbox": {
+          "x": 180,
+          "y": 293,
+          "width": 1240,
+          "height": 48
         },
         "type": "body",
         "confidence_score": 0.93
       },
       {
-        "paragraph_id": "para-002-003-001-0",
-        "idx_in_page": 0,
-        "text": "[6페이지] 피고는 원고의 청구를 다음과 같은 이유로 다툽니다. 원고가 주장하는 매매계약에는 보충합의서상 특약사항이 있었으나 원고가 이를 이행하지 않았습니다.",
+        "paragraph_id": "para-002-003-001-3",
+        "idx_in_page": 3,
+        "text": "따라서 원고의 청구는 이유 없으므로 기각되어야 합니다.",
         "page": 6,
         "bbox": {
-          "x": 194.9,
-          "y": 109.31,
-          "width": 1306.75,
-          "height": 50
+          "x": 180,
+          "y": 351,
+          "width": 880,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-002-003-001-4",
+        "idx_in_page": 4,
+        "text": "첨 부 서 류",
+        "page": 6,
+        "bbox": {
+          "x": 180,
+          "y": 450,
+          "width": 240,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-002-003-001-5",
+        "idx_in_page": 5,
+        "text": "1. 위 입증방법           각 1통",
+        "page": 6,
+        "bbox": {
+          "x": 180,
+          "y": 505,
+          "width": 520,
+          "height": 30
+        },
+        "type": "list",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-002-003-001-6",
+        "idx_in_page": 6,
+        "text": "2024년 8월 2일",
+        "page": 6,
+        "bbox": {
+          "x": 180,
+          "y": 600,
+          "width": 280,
+          "height": 30
         },
         "type": "body",
         "confidence_score": 0.98
       },
       {
-        "paragraph_id": "para-002-003-001-1",
-        "idx_in_page": 1,
-        "text": "따라서 원고의 청구는 이유 없으므로 기각되어야 합니다.",
+        "paragraph_id": "para-002-003-001-7",
+        "idx_in_page": 7,
+        "text": "피고  이영희  (인)",
         "page": 6,
         "bbox": {
-          "x": 211.52,
-          "y": 1191.91,
-          "width": 1326.93,
-          "height": 50
+          "x": 180,
+          "y": 650,
+          "width": 340,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-002-003-001-8",
+        "idx_in_page": 8,
+        "text": "서울중앙지방법원 귀중",
+        "page": 6,
+        "bbox": {
+          "x": 180,
+          "y": 700,
+          "width": 420,
+          "height": 30
         },
         "type": "body",
         "confidence_score": 0.96
@@ -83,30 +236,72 @@
       {
         "paragraph_id": "para-002-003-002-0",
         "idx_in_page": 0,
-        "text": "[7페이지] 피고는 원고의 청구를 다음과 같은 이유로 다툽니다. 원고가 주장하는 매매계약에는 보충합의서상 특약사항이 있었으나 원고가 이를 이행하지 않았습니다.",
+        "text": "추가 참고사항",
         "page": 7,
         "bbox": {
-          "x": 189.74,
-          "y": 92.17,
-          "width": 1321.79,
-          "height": 50
+          "x": 180,
+          "y": 180,
+          "width": 280,
+          "height": 35
         },
-        "type": "body",
-        "confidence_score": 0.96
+        "type": "heading",
+        "confidence_score": 0.97
       },
       {
         "paragraph_id": "para-002-003-002-1",
         "idx_in_page": 1,
-        "text": "따라서 원고의 청구는 이유 없으므로 기각되어야 합니다.",
+        "text": "피고는 본 답변서 제출 후 추가로 다음 사항을 소명할 준비가 되어 있습니다:",
         "page": 7,
         "bbox": {
-          "x": 207.69,
-          "y": 1185.69,
-          "width": 1243.59,
-          "height": 50
+          "x": 180,
+          "y": 235,
+          "width": 1080,
+          "height": 32
         },
         "type": "body",
-        "confidence_score": 0.97
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-002-003-002-2",
+        "idx_in_page": 2,
+        "text": "1. 보충합의서 작성 당시 원고가 자필로 서명한 원본 제출 가능",
+        "page": 7,
+        "bbox": {
+          "x": 180,
+          "y": 277,
+          "width": 960,
+          "height": 32
+        },
+        "type": "list",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-002-003-002-3",
+        "idx_in_page": 3,
+        "text": "2. 임차인 박민수의 진술서 제출 가능(원고가 퇴거 요청을 하지 않았다는 내용)",
+        "page": 7,
+        "bbox": {
+          "x": 180,
+          "y": 319,
+          "width": 1180,
+          "height": 32
+        },
+        "type": "list",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-002-003-002-4",
+        "idx_in_page": 4,
+        "text": "3. 공인중개사 증인 신청 가능(보충합의서 작성 경위 설명)",
+        "page": 7,
+        "bbox": {
+          "x": 180,
+          "y": 361,
+          "width": 960,
+          "height": 32
+        },
+        "type": "list",
+        "confidence_score": 0.95
       }
     ]
   },

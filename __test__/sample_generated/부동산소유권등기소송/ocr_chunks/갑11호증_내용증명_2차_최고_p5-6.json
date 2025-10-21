@@ -14,68 +14,293 @@
   ],
   "chunk_number": 3,
   "paragraph_texts": [
-    "[5페이지] 내용증명 수신: 피고 이영희",
-    "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다.",
-    "[6페이지] 내용증명 수신: 피고 이영희",
-    "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다."
+    "10. 최종 당부 (계속)",
+    "본인은 귀하가 상황의 심각성을 인지하고 즉시 이행에 나서주실 것을 마지막으로 촉구합니다.",
+    "2024년 7월 10일",
+    "발신인: 김철수 (인)",
+    "주소: 서울특별시 서초구 서초대로 456, 101동 202호",
+    "전화: 010-1234-5678",
+    "이메일: kimcs@example.com",
+    "[첨부서류]",
+    "1. 1차 내용증명 사본 1부",
+    "2. 우체국 배달증명서 (1차 내용증명 수령 확인) 1부",
+    "3. 매매계약서 사본 1부",
+    "4. 잔금 입금확인증 사본 1부",
+    "5. 계좌거래내역서 사본 4부",
+    "6. 전세계약 해지 위약금 영수증 사본 1부",
+    "7. 월세 계약서 사본 1부",
+    "8. 인테리어 계약 취소 확인서 사본 1부",
+    "이상",
+    "※ 본 내용증명은 법적 효력을 가지는 최종 통지서입니다.",
+    "※ 지정 기한 내 미이행 시 즉시 법적 조치가 개시됩니다."
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-022-003-000-0",
         "idx_in_page": 0,
-        "text": "[5페이지] 내용증명 수신: 피고 이영희",
+        "text": "10. 최종 당부 (계속)",
         "page": 5,
         "bbox": {
-          "x": 218.49,
-          "y": 90.02,
-          "width": 1231.41,
-          "height": 50
+          "x": 190.0,
+          "y": 150.0,
+          "width": 1200.0,
+          "height": 35
         },
         "type": "body",
-        "confidence_score": 0.96
+        "confidence_score": 0.94
       },
       {
         "paragraph_id": "para-022-003-000-1",
         "idx_in_page": 1,
-        "text": "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다.",
+        "text": "본인은 귀하가 상황의 심각성을 인지하고 즉시 이행에 나서주실 것을 마지막으로 촉구합니다.",
         "page": 5,
         "bbox": {
-          "x": 189.84,
-          "y": 1183.95,
-          "width": 1305.67,
-          "height": 50
+          "x": 190.0,
+          "y": 230.0,
+          "width": 1200.0,
+          "height": 35
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-022-003-001-0",
-        "idx_in_page": 0,
-        "text": "[6페이지] 내용증명 수신: 피고 이영희",
-        "page": 6,
+        "paragraph_id": "para-022-003-000-2",
+        "idx_in_page": 2,
+        "text": "2024년 7월 10일",
+        "page": 5,
         "bbox": {
-          "x": 188.4,
-          "y": 100.84,
-          "width": 1254.43,
-          "height": 50
+          "x": 190.0,
+          "y": 310.0,
+          "width": 1200.0,
+          "height": 35
         },
         "type": "body",
         "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-022-003-001-1",
-        "idx_in_page": 1,
-        "text": "발신: 원고 김철수 본인은 귀하에게 소유권이전등기절차 이행을 최고합니다.",
-        "page": 6,
+        "paragraph_id": "para-022-003-000-3",
+        "idx_in_page": 3,
+        "text": "발신인: 김철수 (인)",
+        "page": 5,
         "bbox": {
-          "x": 208.09,
-          "y": 1195.17,
-          "width": 1309.01,
-          "height": 50
+          "x": 190.0,
+          "y": 390.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-022-003-000-4",
+        "idx_in_page": 4,
+        "text": "주소: 서울특별시 서초구 서초대로 456, 101동 202호",
+        "page": 5,
+        "bbox": {
+          "x": 190.0,
+          "y": 470.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-022-003-000-5",
+        "idx_in_page": 5,
+        "text": "전화: 010-1234-5678",
+        "page": 5,
+        "bbox": {
+          "x": 190.0,
+          "y": 550.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-022-003-000-6",
+        "idx_in_page": 6,
+        "text": "이메일: kimcs@example.com",
+        "page": 5,
+        "bbox": {
+          "x": 190.0,
+          "y": 630.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-022-003-000-7",
+        "idx_in_page": 7,
+        "text": "[첨부서류]",
+        "page": 5,
+        "bbox": {
+          "x": 190.0,
+          "y": 710.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-022-003-000-8",
+        "idx_in_page": 8,
+        "text": "1. 1차 내용증명 사본 1부",
+        "page": 5,
+        "bbox": {
+          "x": 190.0,
+          "y": 790.0,
+          "width": 1200.0,
+          "height": 35
         },
         "type": "body",
         "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-022-003-000-9",
+        "idx_in_page": 9,
+        "text": "2. 우체국 배달증명서 (1차 내용증명 수령 확인) 1부",
+        "page": 5,
+        "bbox": {
+          "x": 190.0,
+          "y": 870.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-022-003-001-0",
+        "idx_in_page": 0,
+        "text": "3. 매매계약서 사본 1부",
+        "page": 6,
+        "bbox": {
+          "x": 190.0,
+          "y": 150.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-022-003-001-1",
+        "idx_in_page": 1,
+        "text": "4. 잔금 입금확인증 사본 1부",
+        "page": 6,
+        "bbox": {
+          "x": 190.0,
+          "y": 230.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-022-003-001-2",
+        "idx_in_page": 2,
+        "text": "5. 계좌거래내역서 사본 4부",
+        "page": 6,
+        "bbox": {
+          "x": 190.0,
+          "y": 310.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-022-003-001-3",
+        "idx_in_page": 3,
+        "text": "6. 전세계약 해지 위약금 영수증 사본 1부",
+        "page": 6,
+        "bbox": {
+          "x": 190.0,
+          "y": 390.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-022-003-001-4",
+        "idx_in_page": 4,
+        "text": "7. 월세 계약서 사본 1부",
+        "page": 6,
+        "bbox": {
+          "x": 190.0,
+          "y": 470.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-022-003-001-5",
+        "idx_in_page": 5,
+        "text": "8. 인테리어 계약 취소 확인서 사본 1부",
+        "page": 6,
+        "bbox": {
+          "x": 190.0,
+          "y": 550.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-022-003-001-6",
+        "idx_in_page": 6,
+        "text": "이상",
+        "page": 6,
+        "bbox": {
+          "x": 190.0,
+          "y": 630.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-022-003-001-7",
+        "idx_in_page": 7,
+        "text": "※ 본 내용증명은 법적 효력을 가지는 최종 통지서입니다.",
+        "page": 6,
+        "bbox": {
+          "x": 190.0,
+          "y": 710.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-022-003-001-8",
+        "idx_in_page": 8,
+        "text": "※ 지정 기한 내 미이행 시 즉시 법적 조치가 개시됩니다.",
+        "page": 6,
+        "bbox": {
+          "x": 190.0,
+          "y": 790.0,
+          "width": 1200.0,
+          "height": 35
+        },
+        "type": "heading",
+        "confidence_score": 0.94
       }
     ]
   },

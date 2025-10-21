@@ -15,39 +15,150 @@
   ],
   "chunk_number": 2,
   "paragraph_texts": [
-    "[3페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
-    "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
-    "[4페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
-    "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
-    "[5페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
-    "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다."
+    "4. 추가 증거자료 제출",
+    "원고는 위 주장을 뒷받침하기 위하여 다음의 증거자료를 추가로 제출합니다.",
+    "갑 제13호증: 피고가 관리하던 부동산관리대장 사본 (2024년 2월 28일 임차인 홍길동 퇴거 기재 확인)",
+    "갑 제14호증: 피고가 원고에게 보낸 2024년 2월 27일자 카카오톡 대화 내용 캡처 화면",
+    "위 증거자료들을 종합적으로 검토하시어, 원고의 주장이 타당함을 확인하여 주시기 바랍니다.",
+    "2024년 9월 3일",
+    "원고 김철수 (인)",
+    "서울중앙지방법원 귀중",
+    "【갑 제13호증】",
+    "부동산 관리대장",
+    "관리업체명: 이영희 부동산중개사무소",
+    "부동산 소재지: 서울특별시 강남구 테헤란로 123, 456호",
+    "관리 기간: 2023년 1월 1일 ~ 2024년 3월 31일",
+    "임차인 정보",
+    "- 성명: 홍길동",
+    "- 입주일: 2023년 3월 1일",
+    "- 퇴거일: 2024년 2월 28일",
+    "- 보증금: 50,000,000원",
+    "- 월세: 없음 (전세)",
+    "퇴거 확인 사항",
+    "- 퇴거 점검일: 2024년 2월 28일 오후 2시",
+    "- 점검자: 이영희 (공인중개사)",
+    "- 주요 확인 사항: 시설물 파손 없음, 원상복구 완료",
+    "- 보증금 반환일: 2024년 3월 5일",
+    "- 특이사항: 없음",
+    "위 내용은 관리업체가 작성한 공식 기록으로, 임차인 홍길동이 2024년 2월 28일에 퇴거하였음을 명확히 증명합니다.",
+    "【갑 제14호증】",
+    "카카오톡 대화 내용",
+    "대화 참여자: 이영희 (피고), 김철수 (원고)",
+    "2024년 2월 27일 오후 3시 24분",
+    "이영희: 김철수님, 안녕하세요. 현재 세입자 홍길동씨가 내일(2월 28일) 이사 나간다고 연락 왔습니다.",
+    "김철수: 네, 알겠습니다. 퇴거 후 상태 확인 부탁드립니다.",
+    "이영희: 네, 내일 오후 2시에 현장 확인하고 사진 보내드리겠습니다."
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-005-002-000-0",
         "idx_in_page": 0,
-        "text": "[3페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
+        "text": "4. 추가 증거자료 제출",
         "page": 3,
         "bbox": {
           "x": 203.7,
           "y": 99.87,
-          "width": 1281.95,
-          "height": 50
+          "width": 330.2,
+          "height": 34
         },
         "type": "body",
-        "confidence_score": 0.93
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-005-002-000-1",
         "idx_in_page": 1,
-        "text": "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
+        "text": "원고는 위 주장을 뒷받침하기 위하여 다음의 증거자료를 추가로 제출합니다.",
+        "page": 3,
+        "bbox": {
+          "x": 228.81,
+          "y": 150.1,
+          "width": 1220.34,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-005-002-000-2",
+        "idx_in_page": 2,
+        "text": "갑 제13호증: 피고가 관리하던 부동산관리대장 사본 (2024년 2월 28일 임차인 홍길동 퇴거 기재 확인)",
+        "page": 3,
+        "bbox": {
+          "x": 253.92,
+          "y": 215.4,
+          "width": 1195.23,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-005-002-000-3",
+        "idx_in_page": 3,
+        "text": "갑 제14호증: 피고가 원고에게 보낸 2024년 2월 27일자 카카오톡 대화 내용 캡처 화면",
+        "page": 3,
+        "bbox": {
+          "x": 253.92,
+          "y": 280.7,
+          "width": 1195.23,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-005-002-000-4",
+        "idx_in_page": 4,
+        "text": "위 증거자료들을 종합적으로 검토하시어, 원고의 주장이 타당함을 확인하여 주시기 바랍니다.",
+        "page": 3,
+        "bbox": {
+          "x": 228.81,
+          "y": 361.0,
+          "width": 1220.34,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-005-002-000-5",
+        "idx_in_page": 5,
+        "text": "2024년 9월 3일",
+        "page": 3,
+        "bbox": {
+          "x": 1150.5,
+          "y": 1055.3,
+          "width": 305.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-005-002-000-6",
+        "idx_in_page": 6,
+        "text": "원고 김철수 (인)",
+        "page": 3,
+        "bbox": {
+          "x": 1150.5,
+          "y": 1100.6,
+          "width": 305.0,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-005-002-000-7",
+        "idx_in_page": 7,
+        "text": "서울중앙지방법원 귀중",
         "page": 3,
         "bbox": {
           "x": 216.94,
           "y": 1187.13,
-          "width": 1266.37,
-          "height": 50
+          "width": 380.5,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.97
@@ -55,26 +166,250 @@
       {
         "paragraph_id": "para-005-002-001-0",
         "idx_in_page": 0,
-        "text": "[4페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
+        "text": "【갑 제13호증】",
         "page": 4,
         "bbox": {
           "x": 191.38,
           "y": 90.02,
-          "width": 1247.91,
-          "height": 50
+          "width": 240.5,
+          "height": 36
         },
-        "type": "body",
-        "confidence_score": 0.94
+        "type": "header",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-005-002-001-1",
         "idx_in_page": 1,
-        "text": "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
+        "text": "부동산 관리대장",
+        "page": 4,
+        "bbox": {
+          "x": 191.38,
+          "y": 145.3,
+          "width": 280.2,
+          "height": 34
+        },
+        "type": "header",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-005-002-001-2",
+        "idx_in_page": 2,
+        "text": "관리업체명: 이영희 부동산중개사무소",
+        "page": 4,
+        "bbox": {
+          "x": 216.49,
+          "y": 200.6,
+          "width": 520.4,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-005-002-001-3",
+        "idx_in_page": 3,
+        "text": "부동산 소재지: 서울특별시 강남구 테헤란로 123, 456호",
+        "page": 4,
+        "bbox": {
+          "x": 216.49,
+          "y": 245.9,
+          "width": 720.3,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-005-002-001-4",
+        "idx_in_page": 4,
+        "text": "관리 기간: 2023년 1월 1일 ~ 2024년 3월 31일",
+        "page": 4,
+        "bbox": {
+          "x": 216.49,
+          "y": 291.2,
+          "width": 620.5,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-005-002-001-5",
+        "idx_in_page": 5,
+        "text": "임차인 정보",
+        "page": 4,
+        "bbox": {
+          "x": 191.38,
+          "y": 370.5,
+          "width": 200.3,
+          "height": 34
+        },
+        "type": "header",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-005-002-001-6",
+        "idx_in_page": 6,
+        "text": "- 성명: 홍길동",
+        "page": 4,
+        "bbox": {
+          "x": 216.49,
+          "y": 420.8,
+          "width": 220.5,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-005-002-001-7",
+        "idx_in_page": 7,
+        "text": "- 입주일: 2023년 3월 1일",
+        "page": 4,
+        "bbox": {
+          "x": 216.49,
+          "y": 466.1,
+          "width": 380.4,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-005-002-001-8",
+        "idx_in_page": 8,
+        "text": "- 퇴거일: 2024년 2월 28일",
+        "page": 4,
+        "bbox": {
+          "x": 216.49,
+          "y": 511.4,
+          "width": 410.6,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-005-002-001-9",
+        "idx_in_page": 9,
+        "text": "- 보증금: 50,000,000원",
+        "page": 4,
+        "bbox": {
+          "x": 216.49,
+          "y": 556.7,
+          "width": 380.5,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-005-002-001-10",
+        "idx_in_page": 10,
+        "text": "- 월세: 없음 (전세)",
+        "page": 4,
+        "bbox": {
+          "x": 216.49,
+          "y": 602.0,
+          "width": 320.4,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-005-002-001-11",
+        "idx_in_page": 11,
+        "text": "퇴거 확인 사항",
+        "page": 4,
+        "bbox": {
+          "x": 191.38,
+          "y": 681.3,
+          "width": 250.4,
+          "height": 34
+        },
+        "type": "header",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-005-002-001-12",
+        "idx_in_page": 12,
+        "text": "- 퇴거 점검일: 2024년 2월 28일 오후 2시",
+        "page": 4,
+        "bbox": {
+          "x": 216.49,
+          "y": 731.6,
+          "width": 580.5,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-005-002-001-13",
+        "idx_in_page": 13,
+        "text": "- 점검자: 이영희 (공인중개사)",
+        "page": 4,
+        "bbox": {
+          "x": 216.49,
+          "y": 776.9,
+          "width": 440.3,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-005-002-001-14",
+        "idx_in_page": 14,
+        "text": "- 주요 확인 사항: 시설물 파손 없음, 원상복구 완료",
+        "page": 4,
+        "bbox": {
+          "x": 216.49,
+          "y": 822.2,
+          "width": 680.4,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-005-002-001-15",
+        "idx_in_page": 15,
+        "text": "- 보증금 반환일: 2024년 3월 5일",
+        "page": 4,
+        "bbox": {
+          "x": 216.49,
+          "y": 867.5,
+          "width": 480.5,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-005-002-001-16",
+        "idx_in_page": 16,
+        "text": "- 특이사항: 없음",
+        "page": 4,
+        "bbox": {
+          "x": 216.49,
+          "y": 912.8,
+          "width": 280.3,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-005-002-001-17",
+        "idx_in_page": 17,
+        "text": "위 내용은 관리업체가 작성한 공식 기록으로, 임차인 홍길동이 2024년 2월 28일에 퇴거하였음을 명확히 증명합니다.",
         "page": 4,
         "bbox": {
           "x": 194.16,
-          "y": 1196.98,
-          "width": 1295.32,
+          "y": 992.1,
+          "width": 1261.05,
           "height": 50
         },
         "type": "body",
@@ -83,30 +418,100 @@
       {
         "paragraph_id": "para-005-002-002-0",
         "idx_in_page": 0,
-        "text": "[5페이지] 이 사건에 관하여 다음과 같이 주장을 보충합니다. 제출된 증거자료를 종합적으로 검토하면 당사자의 주장이 타당함을 알 수 있습니다.",
+        "text": "【갑 제14호증】",
         "page": 5,
         "bbox": {
           "x": 188.81,
           "y": 108.72,
-          "width": 1286.96,
-          "height": 50
+          "width": 240.5,
+          "height": 36
         },
-        "type": "body",
-        "confidence_score": 0.93
+        "type": "header",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-005-002-002-1",
         "idx_in_page": 1,
-        "text": "추가 증거자료를 제출하오니 참작하여 주시기 바랍니다.",
+        "text": "카카오톡 대화 내용",
         "page": 5,
         "bbox": {
-          "x": 181.57,
-          "y": 1199.14,
-          "width": 1232.23,
+          "x": 188.81,
+          "y": 164.0,
+          "width": 300.4,
+          "height": 34
+        },
+        "type": "header",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-005-002-002-2",
+        "idx_in_page": 2,
+        "text": "대화 참여자: 이영희 (피고), 김철수 (원고)",
+        "page": 5,
+        "bbox": {
+          "x": 213.92,
+          "y": 219.3,
+          "width": 620.5,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-005-002-002-3",
+        "idx_in_page": 3,
+        "text": "2024년 2월 27일 오후 3시 24분",
+        "page": 5,
+        "bbox": {
+          "x": 213.92,
+          "y": 264.6,
+          "width": 450.3,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-005-002-002-4",
+        "idx_in_page": 4,
+        "text": "이영희: 김철수님, 안녕하세요. 현재 세입자 홍길동씨가 내일(2월 28일) 이사 나간다고 연락 왔습니다.",
+        "page": 5,
+        "bbox": {
+          "x": 213.92,
+          "y": 329.9,
+          "width": 1241.31,
           "height": 50
         },
         "type": "body",
-        "confidence_score": 0.92
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-005-002-002-5",
+        "idx_in_page": 5,
+        "text": "김철수: 네, 알겠습니다. 퇴거 후 상태 확인 부탁드립니다.",
+        "page": 5,
+        "bbox": {
+          "x": 213.92,
+          "y": 395.2,
+          "width": 820.4,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-005-002-002-6",
+        "idx_in_page": 6,
+        "text": "이영희: 네, 내일 오후 2시에 현장 확인하고 사진 보내드리겠습니다.",
+        "page": 5,
+        "bbox": {
+          "x": 213.92,
+          "y": 460.5,
+          "width": 1020.5,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
       }
     ]
   },

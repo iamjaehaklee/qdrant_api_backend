@@ -79,6 +79,8 @@ class MultilingualSparseEmbedding:
             if is_korean and self.korean_embedder:
                 sparse_dict = self.korean_embedder.transform(text)
                 if sparse_dict:
+                    # Ensure Python int/float types for Qdrant compatibility
+                    sparse_dict = {int(k): float(v) for k, v in sparse_dict.items()}
                     logger.debug(f"Generated Korean sparse embedding with {len(sparse_dict)} indices")
                     return sparse_dict
 

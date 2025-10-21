@@ -221,6 +221,15 @@ class SummaryCreate(BaseModel):
     file_id: Optional[int] = None
     summary_text: str
 
+    # Metadata fields for request tracing
+    user_id: Optional[str] = Field(None, description="User ID (UUID)")
+    queue_id: Optional[str] = Field(None, description="Queue ID (tracking)")
+    original_file_name: Optional[str] = Field(None, description="Original file name")
+
+    # Distributed tracing fields (optional with auto-generation)
+    correlation_id: Optional[str] = Field(None, description="Distributed tracing correlation ID (auto-generated if not provided)")
+    request_timestamp: Optional[str] = Field(None, description="Initial request timestamp ISO 8601 (auto-generated if not provided)")
+
 
 class SummaryUpdate(BaseModel):
     """Request model for updating summary"""

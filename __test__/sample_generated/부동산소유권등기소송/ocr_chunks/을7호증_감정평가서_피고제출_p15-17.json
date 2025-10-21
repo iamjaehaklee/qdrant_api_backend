@@ -1,5 +1,5 @@
 {
-  "chunk_id": "94ecd646-2c10-42d3-bd8d-c82d3913ddbf",
+  "chunk_id": "c9d4e187-6f45-4a83-bd7e-f29a64c581d2",
   "file_id": 39,
   "project_id": 1001,
   "storage_file_name": "exhibit_b7_appraisal_defendant.pdf",
@@ -15,98 +15,503 @@
   ],
   "chunk_number": 8,
   "paragraph_texts": [
-    "[15페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[16페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일",
-    "[17페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
-    "기준시점: 2024년 6월 1일"
+    "제7장 평가 결론",
+    "1. 감정평가액",
+    "   금 560,000,000원 (오억육천만원정)",
+    "2. 평가 근거",
+    "   - 주된 방법: 거래사례비교법",
+    "   - 비교대상: 동일 건물 내 최근 3개월 거래사례 3건",
+    "   - 보정률 적용: 개별요인 충실히 반영",
+    "3. 계약가격과의 비교",
+    "   - 원고-피고 간 계약가격: 500,000,000원 (2024년 3월)",
+    "   - 현재 평가액: 560,000,000원 (2024년 9월)",
+    "   - 차액: 60,000,000원 (약 12% 상승)",
+    "4. 가격 상승 원인 분석",
+    "   - 강남권 부동산 시장 전반적 상승세",
+    "   - 금리 안정화에 따른 수요 증가",
+    "   - 해당 단지 선호도 상승 (입지 우수)",
+    "   - 공급 부족으로 인한 가격 상승 압력",
+    "5. 평가 의견",
+    "   본 감정평가는 2024년 9월 1일 기준으로",
+    "   감정평가에 관한 규칙 및 감정평가 실무기준에",
+    "   따라 적정하게 수행되었으며,",
+    "   평가액 금 560,000,000원은 해당 시점의",
+    "   적정 시장가격을 반영한 것으로 판단됩니다.",
+    "제8장 유의사항",
+    "1. 본 감정평가는 특정 시점(2024년 9월 1일)을",
+    "   기준으로 평가한 것으로, 시간 경과에 따라",
+    "   가격이 변동될 수 있습니다.",
+    "2. 본 감정평가는 소송자료 제출 목적으로",
+    "   의뢰받아 수행한 것입니다.",
+    "3. 평가에 사용된 자료는 의뢰인 제공 자료 및",
+    "   공적 장부, 시장 조사 결과를 기초로 하였습니다.",
+    "4. 등기부등본, 건축물대장 등 공적 장부의",
+    "   기재사항이 사실과 다를 경우 평가액이",
+    "   달라질 수 있습니다."
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-039-008-000-0",
         "idx_in_page": 0,
-        "text": "[15페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "text": "제7장 평가 결론",
         "page": 15,
         "bbox": {
-          "x": 181.34,
-          "y": 100.11,
-          "width": 1297.55,
+          "x": 184.56,
+          "y": 103.28,
+          "width": 1289.11,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-039-008-000-1",
+        "idx_in_page": 1,
+        "text": "1. 감정평가액",
+        "page": 15,
+        "bbox": {
+          "x": 187.22,
+          "y": 1182.64,
+          "width": 1277.8,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-039-008-000-2",
+        "idx_in_page": 2,
+        "text": "   금 560,000,000원 (오억육천만원정)",
+        "page": 15,
+        "bbox": {
+          "x": 194.05,
+          "y": 117.5,
+          "width": 1302.3,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-039-008-000-3",
+        "idx_in_page": 3,
+        "text": "2. 평가 근거",
+        "page": 15,
+        "bbox": {
+          "x": 208.41,
+          "y": 1194.62,
+          "width": 1300.39,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-039-008-000-4",
+        "idx_in_page": 4,
+        "text": "   - 주된 방법: 거래사례비교법",
+        "page": 15,
+        "bbox": {
+          "x": 218.04,
+          "y": 96.27,
+          "width": 1245.9,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-039-008-000-5",
+        "idx_in_page": 5,
+        "text": "   - 비교대상: 동일 건물 내 최근 3개월 거래사례 3건",
+        "page": 15,
+        "bbox": {
+          "x": 192.43,
+          "y": 1174.28,
+          "width": 1262.26,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-039-008-000-6",
+        "idx_in_page": 6,
+        "text": "   - 보정률 적용: 개별요인 충실히 반영",
+        "page": 15,
+        "bbox": {
+          "x": 180.96,
+          "y": 112.47,
+          "width": 1247.62,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-039-008-000-7",
+        "idx_in_page": 7,
+        "text": "3. 계약가격과의 비교",
+        "page": 15,
+        "bbox": {
+          "x": 193.79,
+          "y": 1185.85,
+          "width": 1232.05,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-039-008-000-8",
+        "idx_in_page": 8,
+        "text": "   - 원고-피고 간 계약가격: 500,000,000원 (2024년 3월)",
+        "page": 15,
+        "bbox": {
+          "x": 201.15,
+          "y": 108.24,
+          "width": 1232.55,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-039-008-000-9",
+        "idx_in_page": 9,
+        "text": "   - 현재 평가액: 560,000,000원 (2024년 9월)",
+        "page": 15,
+        "bbox": {
+          "x": 196.62,
+          "y": 1173.6,
+          "width": 1230.76,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-039-008-000-10",
+        "idx_in_page": 10,
+        "text": "   - 차액: 60,000,000원 (약 12% 상승)",
+        "page": 15,
+        "bbox": {
+          "x": 215.48,
+          "y": 101.24,
+          "width": 1322.39,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-039-008-001-0",
+        "idx_in_page": 0,
+        "text": "4. 가격 상승 원인 분석",
+        "page": 16,
+        "bbox": {
+          "x": 194.26,
+          "y": 1186.11,
+          "width": 1328.23,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.92
       },
       {
-        "paragraph_id": "para-039-008-000-1",
+        "paragraph_id": "para-039-008-001-1",
         "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
-        "page": 15,
+        "text": "   - 강남권 부동산 시장 전반적 상승세",
+        "page": 16,
         "bbox": {
-          "x": 199.04,
-          "y": 1196.2,
-          "width": 1258.69,
+          "x": 186.75,
+          "y": 93.62,
+          "width": 1282.84,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-039-008-001-2",
+        "idx_in_page": 2,
+        "text": "   - 금리 안정화에 따른 수요 증가",
+        "page": 16,
+        "bbox": {
+          "x": 210.54,
+          "y": 1181.97,
+          "width": 1320.13,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.93
       },
       {
-        "paragraph_id": "para-039-008-001-0",
-        "idx_in_page": 0,
-        "text": "[16페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "paragraph_id": "para-039-008-001-3",
+        "idx_in_page": 3,
+        "text": "   - 해당 단지 선호도 상승 (입지 우수)",
         "page": 16,
         "bbox": {
-          "x": 193.43,
-          "y": 101.9,
-          "width": 1256.05,
+          "x": 184.45,
+          "y": 100.34,
+          "width": 1300.26,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-039-008-001-4",
+        "idx_in_page": 4,
+        "text": "   - 공급 부족으로 인한 가격 상승 압력",
+        "page": 16,
+        "bbox": {
+          "x": 204.49,
+          "y": 1172.03,
+          "width": 1261.81,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-039-008-001-5",
+        "idx_in_page": 5,
+        "text": "5. 평가 의견",
+        "page": 16,
+        "bbox": {
+          "x": 201.26,
+          "y": 98.35,
+          "width": 1299.5,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.94
       },
       {
-        "paragraph_id": "para-039-008-001-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "paragraph_id": "para-039-008-001-6",
+        "idx_in_page": 6,
+        "text": "   본 감정평가는 2024년 9월 1일 기준으로",
         "page": 16,
         "bbox": {
-          "x": 188.26,
-          "y": 1182.93,
-          "width": 1329.27,
+          "x": 181.01,
+          "y": 1170.29,
+          "width": 1272.97,
           "height": 50
         },
         "type": "body",
-        "confidence_score": 0.94
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-039-008-001-7",
+        "idx_in_page": 7,
+        "text": "   감정평가에 관한 규칙 및 감정평가 실무기준에",
+        "page": 16,
+        "bbox": {
+          "x": 188.55,
+          "y": 111.65,
+          "width": 1272.15,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-039-008-001-8",
+        "idx_in_page": 8,
+        "text": "   따라 적정하게 수행되었으며,",
+        "page": 16,
+        "bbox": {
+          "x": 212.87,
+          "y": 1192.64,
+          "width": 1287.17,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-039-008-001-9",
+        "idx_in_page": 9,
+        "text": "   평가액 금 560,000,000원은 해당 시점의",
+        "page": 16,
+        "bbox": {
+          "x": 217.44,
+          "y": 102.88,
+          "width": 1293.91,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-039-008-001-10",
+        "idx_in_page": 10,
+        "text": "   적정 시장가격을 반영한 것으로 판단됩니다.",
+        "page": 16,
+        "bbox": {
+          "x": 199.19,
+          "y": 1195.58,
+          "width": 1243.34,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
       },
       {
         "paragraph_id": "para-039-008-002-0",
         "idx_in_page": 0,
-        "text": "[17페이지] 감정평가서 평가대상: 서울특별시 강남구 테헤란로 123, 아크로타워 456동 789호",
+        "text": "제8장 유의사항",
         "page": 17,
         "bbox": {
-          "x": 216.35,
-          "y": 92.03,
-          "width": 1268.18,
+          "x": 202.8,
+          "y": 116.98,
+          "width": 1234.99,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.9
+      },
+      {
+        "paragraph_id": "para-039-008-002-1",
+        "idx_in_page": 1,
+        "text": "1. 본 감정평가는 특정 시점(2024년 9월 1일)을",
+        "page": 17,
+        "bbox": {
+          "x": 190.35,
+          "y": 1191.29,
+          "width": 1240.69,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-039-008-002-2",
+        "idx_in_page": 2,
+        "text": "   기준으로 평가한 것으로, 시간 경과에 따라",
+        "page": 17,
+        "bbox": {
+          "x": 195.2,
+          "y": 91.77,
+          "width": 1281.29,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.93
       },
       {
-        "paragraph_id": "para-039-008-002-1",
-        "idx_in_page": 1,
-        "text": "기준시점: 2024년 6월 1일",
+        "paragraph_id": "para-039-008-002-3",
+        "idx_in_page": 3,
+        "text": "   가격이 변동될 수 있습니다.",
         "page": 17,
         "bbox": {
-          "x": 216.56,
-          "y": 1193.61,
-          "width": 1235.63,
+          "x": 189.75,
+          "y": 1171.6,
+          "width": 1286.45,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-039-008-002-4",
+        "idx_in_page": 4,
+        "text": "2. 본 감정평가는 소송자료 제출 목적으로",
+        "page": 17,
+        "bbox": {
+          "x": 200.48,
+          "y": 102.32,
+          "width": 1322.18,
           "height": 50
         },
         "type": "body",
         "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-039-008-002-5",
+        "idx_in_page": 5,
+        "text": "   의뢰받아 수행한 것입니다.",
+        "page": 17,
+        "bbox": {
+          "x": 188.38,
+          "y": 1176.61,
+          "width": 1235.85,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-039-008-002-6",
+        "idx_in_page": 6,
+        "text": "3. 평가에 사용된 자료는 의뢰인 제공 자료 및",
+        "page": 17,
+        "bbox": {
+          "x": 189.09,
+          "y": 105.57,
+          "width": 1310.13,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-039-008-002-7",
+        "idx_in_page": 7,
+        "text": "   공적 장부, 시장 조사 결과를 기초로 하였습니다.",
+        "page": 17,
+        "bbox": {
+          "x": 205.06,
+          "y": 1180.69,
+          "width": 1295.28,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-039-008-002-8",
+        "idx_in_page": 8,
+        "text": "4. 등기부등본, 건축물대장 등 공적 장부의",
+        "page": 17,
+        "bbox": {
+          "x": 213.71,
+          "y": 100.02,
+          "width": 1298.36,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-039-008-002-9",
+        "idx_in_page": 9,
+        "text": "   기재사항이 사실과 다를 경우 평가액이",
+        "page": 17,
+        "bbox": {
+          "x": 198.72,
+          "y": 1172.86,
+          "width": 1283.9,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-039-008-002-10",
+        "idx_in_page": 10,
+        "text": "   달라질 수 있습니다.",
+        "page": 17,
+        "bbox": {
+          "x": 212.43,
+          "y": 91.23,
+          "width": 1254.93,
+          "height": 50
+        },
+        "type": "body",
+        "confidence_score": 0.92
       }
     ]
   },
@@ -127,5 +532,5 @@
       "height": 2379
     }
   ],
-  "created_at": "2024-08-09T00:00:00+00:00"
+  "created_at": "2024-08-08T00:00:00+00:00"
 }

@@ -113,7 +113,8 @@ class KoreanSparseEmbedding:
             values = list(sparse_dict.values())
             norm = np.linalg.norm(values)
             if norm > 0:
-                sparse_dict = {k: v / norm for k, v in sparse_dict.items()}
+                # Ensure Python float type (not numpy.float64) for Qdrant compatibility
+                sparse_dict = {k: float(v / norm) for k, v in sparse_dict.items()}
 
         return sparse_dict
 

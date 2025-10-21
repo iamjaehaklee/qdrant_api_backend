@@ -15,98 +15,263 @@
   ],
   "chunk_number": 2,
   "paragraph_texts": [
-    "[3페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[4페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[5페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "【건축물 개요】 - 계속",
+    "건축면적: 9,110.25㎡",
+    "연면적: 45,627.80㎡",
+    "규모: 지하 3층, 지상 25층",
+    "높이: 84.5m",
+    "【구조 및 재료】",
+    "구조: 철근콘크리트구조",
+    "지붕: 평지붕(콘크리트)",
+    "외벽: 화강석, 알루미늄커튼월",
+    "【전유부분 현황】 (456동 789호)",
+    "위치: 7층",
+    "주용도: 공동주택",
+    "면적: 전용면적 84.5㎡, 공용면적 32.1㎡",
+    "구조: 철근콘크리트조",
+    "【사용승인 정보】",
+    "사용승인일: 2015년 12월 28일",
+    "사용승인번호: 강남구청-2015-1234호"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-024-002-000-0",
         "idx_in_page": 0,
-        "text": "[3페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "【건축물 개요】 - 계속",
         "page": 3,
         "bbox": {
-          "x": 212.3,
-          "y": 102.07,
-          "width": 1330.84,
-          "height": 50
+          "x": 215,
+          "y": 455,
+          "width": 950,
+          "height": 42
+        },
+        "type": "heading",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-024-002-000-1",
+        "idx_in_page": 1,
+        "text": "건축면적: 9,110.25㎡",
+        "page": 3,
+        "bbox": {
+          "x": 215,
+          "y": 515,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-024-002-000-2",
+        "idx_in_page": 2,
+        "text": "연면적: 45,627.80㎡",
+        "page": 3,
+        "bbox": {
+          "x": 215,
+          "y": 565,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-024-002-000-3",
+        "idx_in_page": 3,
+        "text": "규모: 지하 3층, 지상 25층",
+        "page": 3,
+        "bbox": {
+          "x": 215,
+          "y": 615,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-024-002-000-4",
+        "idx_in_page": 4,
+        "text": "높이: 84.5m",
+        "page": 3,
+        "bbox": {
+          "x": 215,
+          "y": 665,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.99
       },
       {
-        "paragraph_id": "para-024-002-000-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 3,
+        "paragraph_id": "para-024-002-001-0",
+        "idx_in_page": 0,
+        "text": "【구조 및 재료】",
+        "page": 4,
         "bbox": {
-          "x": 186.88,
-          "y": 1196.57,
-          "width": 1321.02,
-          "height": 50
+          "x": 215,
+          "y": 95,
+          "width": 950,
+          "height": 42
+        },
+        "type": "heading",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-024-002-001-1",
+        "idx_in_page": 1,
+        "text": "구조: 철근콘크리트구조",
+        "page": 4,
+        "bbox": {
+          "x": 215,
+          "y": 155,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.98
       },
       {
-        "paragraph_id": "para-024-002-001-0",
-        "idx_in_page": 0,
-        "text": "[4페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "paragraph_id": "para-024-002-001-2",
+        "idx_in_page": 2,
+        "text": "지붕: 평지붕(콘크리트)",
         "page": 4,
         "bbox": {
-          "x": 198.1,
-          "y": 107.24,
-          "width": 1309.68,
-          "height": 50
+          "x": 215,
+          "y": 205,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
-        "confidence_score": 0.95
+        "confidence_score": 0.97
       },
       {
-        "paragraph_id": "para-024-002-001-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "paragraph_id": "para-024-002-001-3",
+        "idx_in_page": 3,
+        "text": "외벽: 화강석, 알루미늄커튼월",
         "page": 4,
         "bbox": {
-          "x": 197.1,
-          "y": 1188.75,
-          "width": 1284.26,
-          "height": 50
+          "x": 215,
+          "y": 255,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
-        "confidence_score": 0.95
+        "confidence_score": 0.94
       },
       {
         "paragraph_id": "para-024-002-002-0",
         "idx_in_page": 0,
-        "text": "[5페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "【전유부분 현황】 (456동 789호)",
         "page": 5,
         "bbox": {
-          "x": 197.05,
-          "y": 96.03,
-          "width": 1293.49,
-          "height": 50
+          "x": 215,
+          "y": 95,
+          "width": 950,
+          "height": 42
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-024-002-002-1",
+        "idx_in_page": 1,
+        "text": "위치: 7층",
+        "page": 5,
+        "bbox": {
+          "x": 215,
+          "y": 155,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-024-002-002-2",
+        "idx_in_page": 2,
+        "text": "주용도: 공동주택",
+        "page": 5,
+        "bbox": {
+          "x": 215,
+          "y": 205,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-024-002-002-3",
+        "idx_in_page": 3,
+        "text": "면적: 전용면적 84.5㎡, 공용면적 32.1㎡",
+        "page": 5,
+        "bbox": {
+          "x": 215,
+          "y": 255,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.94
       },
       {
-        "paragraph_id": "para-024-002-002-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "paragraph_id": "para-024-002-002-4",
+        "idx_in_page": 4,
+        "text": "구조: 철근콘크리트조",
         "page": 5,
         "bbox": {
-          "x": 198.83,
-          "y": 1182.0,
-          "width": 1273.19,
-          "height": 50
+          "x": 215,
+          "y": 305,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-024-002-002-5",
+        "idx_in_page": 5,
+        "text": "【사용승인 정보】",
+        "page": 5,
+        "bbox": {
+          "x": 215,
+          "y": 375,
+          "width": 950,
+          "height": 42
+        },
+        "type": "heading",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-024-002-002-6",
+        "idx_in_page": 6,
+        "text": "사용승인일: 2015년 12월 28일",
+        "page": 5,
+        "bbox": {
+          "x": 215,
+          "y": 435,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-024-002-002-7",
+        "idx_in_page": 7,
+        "text": "사용승인번호: 강남구청-2015-1234호",
+        "page": 5,
+        "bbox": {
+          "x": 215,
+          "y": 485,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
       }
     ]
   },

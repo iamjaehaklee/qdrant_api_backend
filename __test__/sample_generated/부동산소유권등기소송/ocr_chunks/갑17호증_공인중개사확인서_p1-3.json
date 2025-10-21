@@ -15,98 +15,398 @@
   ],
   "chunk_number": 1,
   "paragraph_texts": [
-    "[1페이지] 갑17호증_공인중개사확인서 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[2페이지] 갑17호증_공인중개사확인서 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[3페이지] 갑17호증_공인중개사확인서 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "공인중개사 확인서",
+    "강남부동산공인중개사사무소",
+    "사업자등록번호: 123-45-67890",
+    "주소: 서울특별시 강남구 테헤란로 123, 4층",
+    "대표 공인중개사: 박중개 (등록번호: 2020-11-1234)",
+    "전화: 02-1234-5678 | 이메일: broker@kangnam.com",
+    "작성일: 2024년 7월 30일",
+    "확인 사항",
+    "본 공인중개사사무소는 다음과 같이 확인합니다:",
+    "1. 계약 체결 경위",
+    "매도인 이영희와 매수인 김철수 간 부동산 매매계약이 2024년 3월 15일 오후 2시경 본 중개사무소 상담실에서 정상적으로 체결되었습니다.",
+    "계약 물건: 서울특별시 강남구 역삼동 123-45 소재 아파트 101동 1501호 (전용면적 84.92㎡)",
+    "계약 금액: 금 구억원정 (₩900,000,000)",
+    "중개보수: 매도인 및 매수인 각 금 사백오십만원 (₩4,500,000)",
+    "2. 계약 당사자 신원 확인",
+    "매도인 이영희 (주민등록번호: 751215-2******)는 신분증(주민등록증)으로 본인 확인을 완료하였으며, 등기부등본상 소유자와 일치함을 확인하였습니다.",
+    "매수인 김철수 (주민등록번호: 850324-1******)는 신분증(운전면허증)으로 본인 확인을 완료하였습니다.",
+    "3. 특약사항 및 보충계약서",
+    "2024년 3월 15일 매매계약서 작성 시 다음의 특약사항이 합의되었습니다:",
+    "- 잔금 지급일: 2024년 6월 30일",
+    "- 명도일: 잔금 완납일로부터 7일 이내",
+    "- 기존 세입자 계약 승계: 매수인이 기존 임차인의 전세보증금(₩200,000,000) 인수",
+    "2024년 3월 18일 쌍방이 본 사무소를 재방문하여 '보충계약서'를 추가 작성하였으며, 다음의 내용이 보충되었습니다:",
+    "- 중도금 2차 지급일을 5월 31일에서 5월 20일로 변경",
+    "- 매도인의 근저당권 말소 의무 명시 (KB은행, 채권최고액 ₩540,000,000)",
+    "위 보충계약서는 본 사무소에 원본 1부가 보관 중이며, 쌍방에게 각 1부씩 교부되었습니다."
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-028-001-000-0",
         "idx_in_page": 0,
-        "text": "[1페이지] 갑17호증_공인중개사확인서 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "공인중개사 확인서",
         "page": 1,
         "bbox": {
-          "x": 194.46,
-          "y": 100.03,
-          "width": 1301.93,
-          "height": 50
+          "x": 620.5,
+          "y": 120.3,
+          "width": 440,
+          "height": 48
         },
-        "type": "body",
-        "confidence_score": 0.95
+        "type": "title",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-028-001-000-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "강남부동산공인중개사사무소",
         "page": 1,
         "bbox": {
-          "x": 183.7,
-          "y": 1193.27,
-          "width": 1231.59,
-          "height": 50
+          "x": 180.5,
+          "y": 220.8,
+          "width": 420,
+          "height": 32
         },
-        "type": "body",
-        "confidence_score": 0.94
+        "type": "heading",
+        "confidence_score": 0.97
       },
       {
-        "paragraph_id": "para-028-001-001-0",
-        "idx_in_page": 0,
-        "text": "[2페이지] 갑17호증_공인중개사확인서 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 2,
+        "paragraph_id": "para-028-001-000-2",
+        "idx_in_page": 2,
+        "text": "사업자등록번호: 123-45-67890",
+        "page": 1,
         "bbox": {
-          "x": 180.99,
-          "y": 94.22,
-          "width": 1268.47,
-          "height": 50
+          "x": 180.5,
+          "y": 270.4,
+          "width": 380,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-028-001-000-3",
+        "idx_in_page": 3,
+        "text": "주소: 서울특별시 강남구 테헤란로 123, 4층",
+        "page": 1,
+        "bbox": {
+          "x": 180.5,
+          "y": 310.2,
+          "width": 560,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-028-001-000-4",
+        "idx_in_page": 4,
+        "text": "대표 공인중개사: 박중개 (등록번호: 2020-11-1234)",
+        "page": 1,
+        "bbox": {
+          "x": 180.5,
+          "y": 350.0,
+          "width": 620,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-028-001-000-5",
+        "idx_in_page": 5,
+        "text": "전화: 02-1234-5678 | 이메일: broker@kangnam.com",
+        "page": 1,
+        "bbox": {
+          "x": 180.5,
+          "y": 389.8,
+          "width": 680,
+          "height": 28
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-028-001-001-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "paragraph_id": "para-028-001-000-6",
+        "idx_in_page": 6,
+        "text": "작성일: 2024년 7월 30일",
+        "page": 1,
+        "bbox": {
+          "x": 180.5,
+          "y": 450.6,
+          "width": 320,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-028-001-000-7",
+        "idx_in_page": 7,
+        "text": "확인 사항",
+        "page": 1,
+        "bbox": {
+          "x": 180.5,
+          "y": 540.4,
+          "width": 160,
+          "height": 36
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-028-001-000-8",
+        "idx_in_page": 8,
+        "text": "본 공인중개사사무소는 다음과 같이 확인합니다:",
+        "page": 1,
+        "bbox": {
+          "x": 180.5,
+          "y": 595.2,
+          "width": 640,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-028-001-000-9",
+        "idx_in_page": 9,
+        "text": "1. 계약 체결 경위",
+        "page": 1,
+        "bbox": {
+          "x": 180.5,
+          "y": 660.0,
+          "width": 240,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-028-001-000-10",
+        "idx_in_page": 10,
+        "text": "매도인 이영희와 매수인 김철수 간 부동산 매매계약이 2024년 3월 15일 오후 2시경 본 중개사무소 상담실에서 정상적으로 체결되었습니다.",
+        "page": 1,
+        "bbox": {
+          "x": 200.5,
+          "y": 710.8,
+          "width": 1280,
+          "height": 56
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-028-001-000-11",
+        "idx_in_page": 11,
+        "text": "계약 물건: 서울특별시 강남구 역삼동 123-45 소재 아파트 101동 1501호 (전용면적 84.92㎡)",
+        "page": 1,
+        "bbox": {
+          "x": 200.5,
+          "y": 785.6,
+          "width": 1280,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-028-001-000-12",
+        "idx_in_page": 12,
+        "text": "계약 금액: 금 구억원정 (₩900,000,000)",
+        "page": 1,
+        "bbox": {
+          "x": 200.5,
+          "y": 835.4,
+          "width": 580,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-028-001-000-13",
+        "idx_in_page": 13,
+        "text": "중개보수: 매도인 및 매수인 각 금 사백오십만원 (₩4,500,000)",
+        "page": 1,
+        "bbox": {
+          "x": 200.5,
+          "y": 885.2,
+          "width": 840,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-028-001-001-0",
+        "idx_in_page": 0,
+        "text": "2. 계약 당사자 신원 확인",
         "page": 2,
         "bbox": {
-          "x": 209.09,
-          "y": 1183.4,
-          "width": 1309.87,
-          "height": 50
+          "x": 180.5,
+          "y": 120.0,
+          "width": 340,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-028-001-001-1",
+        "idx_in_page": 1,
+        "text": "매도인 이영희 (주민등록번호: 751215-2******)는 신분증(주민등록증)으로 본인 확인을 완료하였으며, 등기부등본상 소유자와 일치함을 확인하였습니다.",
+        "page": 2,
+        "bbox": {
+          "x": 200.5,
+          "y": 170.8,
+          "width": 1280,
+          "height": 56
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-028-001-001-2",
+        "idx_in_page": 2,
+        "text": "매수인 김철수 (주민등록번호: 850324-1******)는 신분증(운전면허증)으로 본인 확인을 완료하였습니다.",
+        "page": 2,
+        "bbox": {
+          "x": 200.5,
+          "y": 245.6,
+          "width": 1180,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-028-001-001-3",
+        "idx_in_page": 3,
+        "text": "3. 특약사항 및 보충계약서",
+        "page": 2,
+        "bbox": {
+          "x": 180.5,
+          "y": 320.4,
+          "width": 380,
+          "height": 32
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-028-001-001-4",
+        "idx_in_page": 4,
+        "text": "2024년 3월 15일 매매계약서 작성 시 다음의 특약사항이 합의되었습니다:",
+        "page": 2,
+        "bbox": {
+          "x": 200.5,
+          "y": 371.2,
+          "width": 1080,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-028-001-001-5",
+        "idx_in_page": 5,
+        "text": "- 잔금 지급일: 2024년 6월 30일",
+        "page": 2,
+        "bbox": {
+          "x": 220.5,
+          "y": 421.0,
+          "width": 480,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-028-001-001-6",
+        "idx_in_page": 6,
+        "text": "- 명도일: 잔금 완납일로부터 7일 이내",
+        "page": 2,
+        "bbox": {
+          "x": 220.5,
+          "y": 460.8,
+          "width": 560,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-028-001-001-7",
+        "idx_in_page": 7,
+        "text": "- 기존 세입자 계약 승계: 매수인이 기존 임차인의 전세보증금(₩200,000,000) 인수",
+        "page": 2,
+        "bbox": {
+          "x": 220.5,
+          "y": 500.6,
+          "width": 1180,
+          "height": 28
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-028-001-001-8",
+        "idx_in_page": 8,
+        "text": "2024년 3월 18일 쌍방이 본 사무소를 재방문하여 '보충계약서'를 추가 작성하였으며, 다음의 내용이 보충되었습니다:",
+        "page": 2,
+        "bbox": {
+          "x": 200.5,
+          "y": 575.4,
+          "width": 1280,
+          "height": 56
         },
         "type": "body",
         "confidence_score": 0.94
       },
       {
-        "paragraph_id": "para-028-001-002-0",
-        "idx_in_page": 0,
-        "text": "[3페이지] 갑17호증_공인중개사확인서 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 3,
+        "paragraph_id": "para-028-001-001-9",
+        "idx_in_page": 9,
+        "text": "- 중도금 2차 지급일을 5월 31일에서 5월 20일로 변경",
+        "page": 2,
         "bbox": {
-          "x": 215.4,
-          "y": 91.58,
-          "width": 1305.07,
-          "height": 50
+          "x": 220.5,
+          "y": 650.2,
+          "width": 820,
+          "height": 28
         },
         "type": "body",
-        "confidence_score": 0.98
+        "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-028-001-002-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 3,
+        "paragraph_id": "para-028-001-001-10",
+        "idx_in_page": 10,
+        "text": "- 매도인의 근저당권 말소 의무 명시 (KB은행, 채권최고액 ₩540,000,000)",
+        "page": 2,
         "bbox": {
-          "x": 218.13,
-          "y": 1182.05,
-          "width": 1328.75,
-          "height": 50
+          "x": 220.5,
+          "y": 690.0,
+          "width": 1080,
+          "height": 28
         },
         "type": "body",
-        "confidence_score": 0.97
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-028-001-002-0",
+        "idx_in_page": 0,
+        "text": "위 보충계약서는 본 사무소에 원본 1부가 보관 중이며, 쌍방에게 각 1부씩 교부되었습니다.",
+        "page": 3,
+        "bbox": {
+          "x": 200.5,
+          "y": 120.0,
+          "width": 1180,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
       }
     ]
   },

@@ -15,98 +15,308 @@
   ],
   "chunk_number": 2,
   "paragraph_texts": [
-    "[3페이지] 을1호증_보충합의서_위조의심 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[4페이지] 을1호증_보충합의서_위조의심 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[5페이지] 을1호증_보충합의서_위조의심 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "(상기 서명은 필적감정 결과 원고 김철수의 필체가 아닌 것으로 판명됨)",
+    "피고 (매수인)",
+    "성명: 이영희",
+    "주소: 경기도 성남시 분당구 정자동 456",
+    "서명: 이영희",
+    "[첨부 서류]",
+    "1. 기존 임대차계약서 사본",
+    "2. 건물 노후화 상태 확인서",
+    "3. 인테리어 보수 견적서",
+    "[특기사항]",
+    "본 합의서 작성 경위에 대하여 원고와 피고의 진술이 상이함.",
+    "원고 주장: 본인은 이러한 합의서에 서명한 적이 없으며, 서명이 위조되었다고 주장함.",
+    "피고 주장: 2024년 3월 20일 원고 사무실에서 합의서를 작성하고 원고가 직접 서명하였다고 주장함.",
+    "[필적감정 결과]",
+    "감정기관: 국립과학수사연구원",
+    "감정일자: 2024년 7월 5일",
+    "감정결과: 본 합의서 원고 서명란의 '김철수' 서명은 원고 김철수의 진정한 필적이 아닌 것으로 판단됨.",
+    "근거: 획의 기울기, 필압 분포, 연결부 처리 방식 등이 원고의 기존 서명과 현저한 차이를 보임.",
+    "신뢰도: 95% 이상",
+    "[법원 판단]"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-033-002-000-0",
         "idx_in_page": 0,
-        "text": "[3페이지] 을1호증_보충합의서_위조의심 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "(상기 서명은 필적감정 결과 원고 김철수의 필체가 아닌 것으로 판명됨)",
         "page": 3,
         "bbox": {
-          "x": 198.16,
-          "y": 107.99,
-          "width": 1247.21,
-          "height": 50
+          "x": 200.0,
+          "y": 150.0,
+          "width": 1200.0,
+          "height": 35.0
         },
-        "type": "body",
-        "confidence_score": 0.98
+        "type": "note",
+        "confidence_score": 0.91
       },
       {
         "paragraph_id": "para-033-002-000-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "피고 (매수인)",
         "page": 3,
         "bbox": {
-          "x": 204.37,
-          "y": 1180.09,
-          "width": 1324.47,
-          "height": 50
+          "x": 205.0,
+          "y": 290.0,
+          "width": 1190.0,
+          "height": 35.0
         },
-        "type": "body",
-        "confidence_score": 0.97
+        "type": "signature_label",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-033-002-000-2",
+        "idx_in_page": 2,
+        "text": "성명: 이영희",
+        "page": 3,
+        "bbox": {
+          "x": 210.0,
+          "y": 430.0,
+          "width": 1180.0,
+          "height": 35.0
+        },
+        "type": "signature_info",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-033-002-000-3",
+        "idx_in_page": 3,
+        "text": "주소: 경기도 성남시 분당구 정자동 456",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 570.0,
+          "width": 1170.0,
+          "height": 35.0
+        },
+        "type": "signature_info",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-033-002-000-4",
+        "idx_in_page": 4,
+        "text": "서명: 이영희",
+        "page": 3,
+        "bbox": {
+          "x": 205.0,
+          "y": 2000.0,
+          "width": 1160.0,
+          "height": 35.0
+        },
+        "type": "signature",
+        "confidence_score": 0.95
       },
       {
         "paragraph_id": "para-033-002-001-0",
         "idx_in_page": 0,
-        "text": "[4페이지] 을1호증_보충합의서_위조의심 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "[첨부 서류]",
         "page": 4,
         "bbox": {
-          "x": 216.11,
-          "y": 107.5,
-          "width": 1285.09,
-          "height": 50
+          "x": 200.0,
+          "y": 150.0,
+          "width": 1200.0,
+          "height": 35.0
         },
-        "type": "body",
+        "type": "heading",
         "confidence_score": 0.91
       },
       {
         "paragraph_id": "para-033-002-001-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "1. 기존 임대차계약서 사본",
         "page": 4,
         "bbox": {
-          "x": 190.94,
-          "y": 1182.03,
-          "width": 1299.1,
-          "height": 50
+          "x": 205.0,
+          "y": 290.0,
+          "width": 1190.0,
+          "height": 35.0
+        },
+        "type": "list_item",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-033-002-001-2",
+        "idx_in_page": 2,
+        "text": "2. 건물 노후화 상태 확인서",
+        "page": 4,
+        "bbox": {
+          "x": 210.0,
+          "y": 430.0,
+          "width": 1180.0,
+          "height": 35.0
+        },
+        "type": "list_item",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-033-002-001-3",
+        "idx_in_page": 3,
+        "text": "3. 인테리어 보수 견적서",
+        "page": 4,
+        "bbox": {
+          "x": 200.0,
+          "y": 570.0,
+          "width": 1170.0,
+          "height": 35.0
+        },
+        "type": "list_item",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-033-002-001-4",
+        "idx_in_page": 4,
+        "text": "[특기사항]",
+        "page": 4,
+        "bbox": {
+          "x": 205.0,
+          "y": 710.0,
+          "width": 1160.0,
+          "height": 35.0
+        },
+        "type": "heading",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-033-002-001-5",
+        "idx_in_page": 5,
+        "text": "본 합의서 작성 경위에 대하여 원고와 피고의 진술이 상이함.",
+        "page": 4,
+        "bbox": {
+          "x": 210.0,
+          "y": 850.0,
+          "width": 1200.0,
+          "height": 35.0
         },
         "type": "body",
-        "confidence_score": 0.93
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-033-002-001-6",
+        "idx_in_page": 6,
+        "text": "원고 주장: 본인은 이러한 합의서에 서명한 적이 없으며, 서명이 위조되었다고 주장함.",
+        "page": 4,
+        "bbox": {
+          "x": 200.0,
+          "y": 990.0,
+          "width": 1190.0,
+          "height": 35.0
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-033-002-001-7",
+        "idx_in_page": 7,
+        "text": "피고 주장: 2024년 3월 20일 원고 사무실에서 합의서를 작성하고 원고가 직접 서명하였다고 주장함.",
+        "page": 4,
+        "bbox": {
+          "x": 205.0,
+          "y": 1130.0,
+          "width": 1180.0,
+          "height": 35.0
+        },
+        "type": "body",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-033-002-002-0",
         "idx_in_page": 0,
-        "text": "[5페이지] 을1호증_보충합의서_위조의심 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "[필적감정 결과]",
         "page": 5,
         "bbox": {
-          "x": 185.07,
-          "y": 92.38,
-          "width": 1270.88,
-          "height": 50
+          "x": 200.0,
+          "y": 150.0,
+          "width": 1200.0,
+          "height": 35.0
+        },
+        "type": "heading",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-033-002-002-1",
+        "idx_in_page": 1,
+        "text": "감정기관: 국립과학수사연구원",
+        "page": 5,
+        "bbox": {
+          "x": 205.0,
+          "y": 290.0,
+          "width": 1190.0,
+          "height": 35.0
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-033-002-002-2",
+        "idx_in_page": 2,
+        "text": "감정일자: 2024년 7월 5일",
+        "page": 5,
+        "bbox": {
+          "x": 210.0,
+          "y": 430.0,
+          "width": 1180.0,
+          "height": 35.0
         },
         "type": "body",
         "confidence_score": 0.93
       },
       {
-        "paragraph_id": "para-033-002-002-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "paragraph_id": "para-033-002-002-3",
+        "idx_in_page": 3,
+        "text": "감정결과: 본 합의서 원고 서명란의 '김철수' 서명은 원고 김철수의 진정한 필적이 아닌 것으로 판단됨.",
         "page": 5,
         "bbox": {
-          "x": 204.45,
-          "y": 1196.5,
-          "width": 1256.61,
-          "height": 50
+          "x": 200.0,
+          "y": 570.0,
+          "width": 1170.0,
+          "height": 35.0
         },
         "type": "body",
-        "confidence_score": 0.93
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-033-002-002-4",
+        "idx_in_page": 4,
+        "text": "근거: 획의 기울기, 필압 분포, 연결부 처리 방식 등이 원고의 기존 서명과 현저한 차이를 보임.",
+        "page": 5,
+        "bbox": {
+          "x": 205.0,
+          "y": 710.0,
+          "width": 1160.0,
+          "height": 35.0
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-033-002-002-5",
+        "idx_in_page": 5,
+        "text": "신뢰도: 95% 이상",
+        "page": 5,
+        "bbox": {
+          "x": 210.0,
+          "y": 850.0,
+          "width": 1200.0,
+          "height": 35.0
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-033-002-002-6",
+        "idx_in_page": 6,
+        "text": "[법원 판단]",
+        "page": 5,
+        "bbox": {
+          "x": 200.0,
+          "y": 990.0,
+          "width": 1190.0,
+          "height": 35.0
+        },
+        "type": "heading",
+        "confidence_score": 0.97
       }
     ]
   },

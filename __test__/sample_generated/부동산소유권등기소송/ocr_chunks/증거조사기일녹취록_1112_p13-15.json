@@ -1,5 +1,5 @@
 {
-  "chunk_id": "ebd8675a-a6d3-4284-a622-6d52e487a885",
+  "chunk_id": "d4e5f6a7-b8c9-40d1-e2f3-a4b5c6d7e8f9",
   "file_id": 48,
   "project_id": 1001,
   "storage_file_name": "evidence_hearing_1112.pdf",
@@ -15,98 +15,398 @@
   ],
   "chunk_number": 7,
   "paragraph_texts": [
-    "[13페이지] 증거조사기일녹취록_1112 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[14페이지] 증거조사기일녹취록_1112 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[15페이지] 증거조사기일녹취록_1112 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "【재판장】 가처분은 별도 절차이므로 여기서 의견을 드리기는 어렵습니다. 다만 본안 소송에서 원고 승소 시 강제집행을 통해 권리를 실현할 수 있습니다.",
+    "【원고 대리인】 알겠습니다.",
+    "【재판장】 피고 대리인, 추가 질문 있습니까?",
+    "【피고 대리인】 없습니다.",
+    "【재판장】 그럼 오늘 증거조사기일을 마치겠습니다. 다음 기일에 뵙겠습니다.",
+    "【서기관】 폐정합니다.",
+    "(오전 11시 35분 종료)",
+    "【첨부 자료 목록】",
+    "- 증인 박중개 선서문 원본",
+    "- 증인 최증인 선서문 원본",
+    "- 국과수 필적감정서 사본 (을1호증 관련)",
+    "- 갑1호증~갑20호증 원본 대조 확인",
+    "- 을1호증~을8호증 원본 대조 확인",
+    "【다음 기일 안내】",
+    "일시: 2024년 12월 10일 (화) 오전 10:00",
+    "장소: 서울중앙지방법원 402호 법정",
+    "사건: 최종 변론기일",
+    "【준비서면 제출 안내】",
+    "제출 마감: 2024년 11월 20일 (수) 18:00",
+    "제출 방법: 전자소송 또는 법원 민원실 직접 제출",
+    "내용: 최종 주장 정리 및 법리적 검토",
+    "【참고 사항】",
+    "- 증인 신문 녹취록은 별도로 정리되어 당사자에게 송달됩니다.",
+    "- 필적감정서 원본은 법원이 보관하며, 사본은 당사자가 열람 가능합니다.",
+    "- 기일 변경이 필요한 경우 최소 7일 전에 서면으로 신청하시기 바랍니다.",
+    "(이상 녹취록 작성 완료)"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-048-007-000-0",
         "idx_in_page": 0,
-        "text": "[13페이지] 증거조사기일녹취록_1112 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "【재판장】 가처분은 별도 절차이므로 여기서 의견을 드리기는 어렵습니다. 다만 본안 소송에서 원고 승소 시 강제집행을 통해 권리를 실현할 수 있습니다.",
         "page": 13,
         "bbox": {
-          "x": 202.08,
-          "y": 99.09,
-          "width": 1292.67,
-          "height": 50
+          "x": 200.0,
+          "y": 150.0,
+          "width": 1490.5,
+          "height": 45
         },
         "type": "body",
-        "confidence_score": 0.95
+        "confidence_score": 0.91
       },
       {
         "paragraph_id": "para-048-007-000-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "【원고 대리인】 알겠습니다.",
         "page": 13,
         "bbox": {
-          "x": 196.76,
-          "y": 1188.48,
-          "width": 1257.03,
-          "height": 50
+          "x": 200.0,
+          "y": 205.0,
+          "width": 1252.5,
+          "height": 45
         },
         "type": "body",
         "confidence_score": 0.92
       },
       {
-        "paragraph_id": "para-048-007-001-0",
-        "idx_in_page": 0,
-        "text": "[14페이지] 증거조사기일녹취록_1112 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 14,
+        "paragraph_id": "para-048-007-000-2",
+        "idx_in_page": 2,
+        "text": "【재판장】 피고 대리인, 추가 질문 있습니까?",
+        "page": 13,
         "bbox": {
-          "x": 218.39,
-          "y": 90.88,
-          "width": 1237.22,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.95
-      },
-      {
-        "paragraph_id": "para-048-007-001-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 14,
-        "bbox": {
-          "x": 205.19,
-          "y": 1185.58,
-          "width": 1272.3,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.95
-      },
-      {
-        "paragraph_id": "para-048-007-002-0",
-        "idx_in_page": 0,
-        "text": "[15페이지] 증거조사기일녹취록_1112 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 15,
-        "bbox": {
-          "x": 206.41,
-          "y": 96.28,
-          "width": 1270.7,
-          "height": 50
+          "x": 200.0,
+          "y": 260.0,
+          "width": 1287.5,
+          "height": 45
         },
         "type": "body",
         "confidence_score": 0.93
       },
       {
-        "paragraph_id": "para-048-007-002-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 15,
+        "paragraph_id": "para-048-007-000-3",
+        "idx_in_page": 3,
+        "text": "【피고 대리인】 없습니다.",
+        "page": 13,
         "bbox": {
-          "x": 202.45,
-          "y": 1189.61,
-          "width": 1308.34,
-          "height": 50
+          "x": 200.0,
+          "y": 315.0,
+          "width": 1249.0,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-048-007-000-4",
+        "idx_in_page": 4,
+        "text": "【재판장】 그럼 오늘 증거조사기일을 마치겠습니다. 다음 기일에 뵙겠습니다.",
+        "page": 13,
+        "bbox": {
+          "x": 200.0,
+          "y": 370.0,
+          "width": 1343.5,
+          "height": 45
         },
         "type": "body",
         "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-048-007-000-5",
+        "idx_in_page": 5,
+        "text": "【서기관】 폐정합니다.",
+        "page": 13,
+        "bbox": {
+          "x": 200.0,
+          "y": 425.0,
+          "width": 1242.0,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-048-007-000-6",
+        "idx_in_page": 6,
+        "text": "(오전 11시 35분 종료)",
+        "page": 13,
+        "bbox": {
+          "x": 200.0,
+          "y": 480.0,
+          "width": 1252.5,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-048-007-001-0",
+        "idx_in_page": 0,
+        "text": "【첨부 자료 목록】",
+        "page": 14,
+        "bbox": {
+          "x": 180.0,
+          "y": 150.0,
+          "width": 1235.0,
+          "height": 50
+        },
+        "type": "heading",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-048-007-001-1",
+        "idx_in_page": 1,
+        "text": "- 증인 박중개 선서문 원본",
+        "page": 14,
+        "bbox": {
+          "x": 200.0,
+          "y": 205.0,
+          "width": 1252.5,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-048-007-001-2",
+        "idx_in_page": 2,
+        "text": "- 증인 최증인 선서문 원본",
+        "page": 14,
+        "bbox": {
+          "x": 200.0,
+          "y": 260.0,
+          "width": 1252.5,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-048-007-001-3",
+        "idx_in_page": 3,
+        "text": "- 국과수 필적감정서 사본 (을1호증 관련)",
+        "page": 14,
+        "bbox": {
+          "x": 200.0,
+          "y": 315.0,
+          "width": 1284.0,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-048-007-001-4",
+        "idx_in_page": 4,
+        "text": "- 갑1호증~갑20호증 원본 대조 확인",
+        "page": 14,
+        "bbox": {
+          "x": 200.0,
+          "y": 370.0,
+          "width": 1273.5,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-048-007-001-5",
+        "idx_in_page": 5,
+        "text": "- 을1호증~을8호증 원본 대조 확인",
+        "page": 14,
+        "bbox": {
+          "x": 200.0,
+          "y": 425.0,
+          "width": 1270.0,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-048-007-001-6",
+        "idx_in_page": 6,
+        "text": "【다음 기일 안내】",
+        "page": 14,
+        "bbox": {
+          "x": 180.0,
+          "y": 480.0,
+          "width": 1235.0,
+          "height": 50
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-048-007-001-7",
+        "idx_in_page": 7,
+        "text": "일시: 2024년 12월 10일 (화) 오전 10:00",
+        "page": 14,
+        "bbox": {
+          "x": 200.0,
+          "y": 535.0,
+          "width": 1305.0,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-048-007-001-8",
+        "idx_in_page": 8,
+        "text": "장소: 서울중앙지방법원 402호 법정",
+        "page": 14,
+        "bbox": {
+          "x": 200.0,
+          "y": 590.0,
+          "width": 1270.0,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-048-007-001-9",
+        "idx_in_page": 9,
+        "text": "사건: 최종 변론기일",
+        "page": 14,
+        "bbox": {
+          "x": 200.0,
+          "y": 645.0,
+          "width": 1238.5,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-048-007-002-0",
+        "idx_in_page": 0,
+        "text": "【준비서면 제출 안내】",
+        "page": 15,
+        "bbox": {
+          "x": 180.0,
+          "y": 150.0,
+          "width": 1242.0,
+          "height": 50
+        },
+        "type": "heading",
+        "confidence_score": 0.91
+      },
+      {
+        "paragraph_id": "para-048-007-002-1",
+        "idx_in_page": 1,
+        "text": "제출 마감: 2024년 11월 20일 (수) 18:00",
+        "page": 15,
+        "bbox": {
+          "x": 200.0,
+          "y": 205.0,
+          "width": 1305.0,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-048-007-002-2",
+        "idx_in_page": 2,
+        "text": "제출 방법: 전자소송 또는 법원 민원실 직접 제출",
+        "page": 15,
+        "bbox": {
+          "x": 200.0,
+          "y": 260.0,
+          "width": 1294.5,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-048-007-002-3",
+        "idx_in_page": 3,
+        "text": "내용: 최종 주장 정리 및 법리적 검토",
+        "page": 15,
+        "bbox": {
+          "x": 200.0,
+          "y": 315.0,
+          "width": 1273.5,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-048-007-002-4",
+        "idx_in_page": 4,
+        "text": "【참고 사항】",
+        "page": 15,
+        "bbox": {
+          "x": 180.0,
+          "y": 370.0,
+          "width": 1224.5,
+          "height": 50
+        },
+        "type": "heading",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-048-007-002-5",
+        "idx_in_page": 5,
+        "text": "- 증인 신문 녹취록은 별도로 정리되어 당사자에게 송달됩니다.",
+        "page": 15,
+        "bbox": {
+          "x": 200.0,
+          "y": 425.0,
+          "width": 1319.0,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-048-007-002-6",
+        "idx_in_page": 6,
+        "text": "- 필적감정서 원본은 법원이 보관하며, 사본은 당사자가 열람 가능합니다.",
+        "page": 15,
+        "bbox": {
+          "x": 200.0,
+          "y": 480.0,
+          "width": 1340.0,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-048-007-002-7",
+        "idx_in_page": 7,
+        "text": "- 기일 변경이 필요한 경우 최소 7일 전에 서면으로 신청하시기 바랍니다.",
+        "page": 15,
+        "bbox": {
+          "x": 200.0,
+          "y": 535.0,
+          "width": 1343.5,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-048-007-002-8",
+        "idx_in_page": 8,
+        "text": "(이상 녹취록 작성 완료)",
+        "page": 15,
+        "bbox": {
+          "x": 200.0,
+          "y": 590.0,
+          "width": 1249.0,
+          "height": 45
+        },
+        "type": "body",
+        "confidence_score": 0.91
       }
     ]
   },

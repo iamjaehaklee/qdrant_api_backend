@@ -15,67 +15,205 @@
   ],
   "chunk_number": 2,
   "paragraph_texts": [
-    "[3페이지] 중개업자_거래확인서 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[4페이지] 중개업자_거래확인서 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[5페이지] 중개업자_거래확인서 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "전용면적: 84.92㎡ (25.69평)",
+    "공급면적: 118.21㎡ (35.76평)",
+    "거래금액",
+    "매매대금: 금 오억원정 (₩500,000,000)",
+    "계약금: 금 오천만원정 (₩50,000,000)",
+    "중도금: 금 이억오천만원정 (₩250,000,000)",
+    "잔금: 금 이억원정 (₩200,000,000)",
+    "거래일자: 2024년 3월 15일",
+    "대금 지급 조건",
+    "계약금: 계약 체결 시 지급완료 (2024년 3월 15일)",
+    "중도금: 2024년 5월 15일 금 일억원, 2024년 7월 15일 금 일억오천만원 분할 지급",
+    "잔금: 소유권 이전등기 신청과 동시에 지급 (2024년 9월 15일 예정)",
+    "대출금 승계: 없음",
+    "특약사항",
+    "본 매매는 현 상태 그대로 인도하는 조건으로 체결됨",
+    "매도인은 잔금 지급과 동시에 소유권 이전에 필요한 서류 일체를 교부함",
+    "각종 세금 및 공과금은 잔금 지급일 기준으로 일할 정산함",
+    "본 계약은 매도인과 매수인의 합의 하에 작성되었으며 쌍방은 이를 성실히 이행함"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-011-002-000-0",
         "idx_in_page": 0,
-        "text": "[3페이지] 중개업자_거래확인서 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "전용면적: 84.92㎡ (25.69평)",
         "page": 3,
         "bbox": {
-          "x": 204.73,
-          "y": 109.98,
-          "width": 1259.5,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.93
-      },
-      {
-        "paragraph_id": "para-011-002-000-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 3,
-        "bbox": {
-          "x": 189.01,
-          "y": 1195.33,
-          "width": 1243.22,
-          "height": 50
+          "x": 280.0,
+          "y": 420.0,
+          "width": 380.0,
+          "height": 35
         },
         "type": "body",
         "confidence_score": 0.96
       },
       {
-        "paragraph_id": "para-011-002-001-0",
-        "idx_in_page": 0,
-        "text": "[4페이지] 중개업자_거래확인서 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 4,
+        "paragraph_id": "para-011-002-000-1",
+        "idx_in_page": 1,
+        "text": "공급면적: 118.21㎡ (35.76평)",
+        "page": 3,
         "bbox": {
-          "x": 184.58,
-          "y": 92.68,
-          "width": 1276.7,
-          "height": 50
+          "x": 280.0,
+          "y": 470.0,
+          "width": 380.0,
+          "height": 35
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-011-002-001-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "paragraph_id": "para-011-002-001-0",
+        "idx_in_page": 0,
+        "text": "거래금액",
         "page": 4,
         "bbox": {
-          "x": 180.15,
-          "y": 1184.96,
-          "width": 1293.3,
-          "height": 50
+          "x": 250.0,
+          "y": 150.0,
+          "width": 180.0,
+          "height": 40
+        },
+        "type": "heading",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-011-002-001-1",
+        "idx_in_page": 1,
+        "text": "매매대금: 금 오억원정 (₩500,000,000)",
+        "page": 4,
+        "bbox": {
+          "x": 280.0,
+          "y": 220.0,
+          "width": 520.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-011-002-001-2",
+        "idx_in_page": 2,
+        "text": "계약금: 금 오천만원정 (₩50,000,000)",
+        "page": 4,
+        "bbox": {
+          "x": 300.0,
+          "y": 270.0,
+          "width": 480.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-011-002-001-3",
+        "idx_in_page": 3,
+        "text": "중도금: 금 이억오천만원정 (₩250,000,000)",
+        "page": 4,
+        "bbox": {
+          "x": 300.0,
+          "y": 310.0,
+          "width": 540.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-011-002-001-4",
+        "idx_in_page": 4,
+        "text": "잔금: 금 이억원정 (₩200,000,000)",
+        "page": 4,
+        "bbox": {
+          "x": 300.0,
+          "y": 350.0,
+          "width": 470.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-011-002-001-5",
+        "idx_in_page": 5,
+        "text": "거래일자: 2024년 3월 15일",
+        "page": 4,
+        "bbox": {
+          "x": 280.0,
+          "y": 410.0,
+          "width": 380.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-011-002-001-6",
+        "idx_in_page": 6,
+        "text": "대금 지급 조건",
+        "page": 4,
+        "bbox": {
+          "x": 250.0,
+          "y": 480.0,
+          "width": 240.0,
+          "height": 40
+        },
+        "type": "heading",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-011-002-001-7",
+        "idx_in_page": 7,
+        "text": "계약금: 계약 체결 시 지급완료 (2024년 3월 15일)",
+        "page": 4,
+        "bbox": {
+          "x": 280.0,
+          "y": 550.0,
+          "width": 600.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-011-002-001-8",
+        "idx_in_page": 8,
+        "text": "중도금: 2024년 5월 15일 금 일억원, 2024년 7월 15일 금 일억오천만원 분할 지급",
+        "page": 4,
+        "bbox": {
+          "x": 280.0,
+          "y": 590.0,
+          "width": 820.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-011-002-001-9",
+        "idx_in_page": 9,
+        "text": "잔금: 소유권 이전등기 신청과 동시에 지급 (2024년 9월 15일 예정)",
+        "page": 4,
+        "bbox": {
+          "x": 280.0,
+          "y": 630.0,
+          "width": 720.0,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-011-002-001-10",
+        "idx_in_page": 10,
+        "text": "대출금 승계: 없음",
+        "page": 4,
+        "bbox": {
+          "x": 280.0,
+          "y": 680.0,
+          "width": 280.0,
+          "height": 30
         },
         "type": "body",
         "confidence_score": 0.97
@@ -83,30 +221,72 @@
       {
         "paragraph_id": "para-011-002-002-0",
         "idx_in_page": 0,
-        "text": "[5페이지] 중개업자_거래확인서 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "특약사항",
         "page": 5,
         "bbox": {
-          "x": 217.95,
-          "y": 98.31,
-          "width": 1293.32,
-          "height": 50
+          "x": 250.0,
+          "y": 150.0,
+          "width": 180.0,
+          "height": 40
         },
-        "type": "body",
-        "confidence_score": 0.92
+        "type": "heading",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-011-002-002-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "본 매매는 현 상태 그대로 인도하는 조건으로 체결됨",
         "page": 5,
         "bbox": {
-          "x": 202.03,
-          "y": 1197.0,
-          "width": 1330.11,
-          "height": 50
+          "x": 280.0,
+          "y": 220.0,
+          "width": 620.0,
+          "height": 35
         },
         "type": "body",
-        "confidence_score": 0.93
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-011-002-002-2",
+        "idx_in_page": 2,
+        "text": "매도인은 잔금 지급과 동시에 소유권 이전에 필요한 서류 일체를 교부함",
+        "page": 5,
+        "bbox": {
+          "x": 280.0,
+          "y": 270.0,
+          "width": 760.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-011-002-002-3",
+        "idx_in_page": 3,
+        "text": "각종 세금 및 공과금은 잔금 지급일 기준으로 일할 정산함",
+        "page": 5,
+        "bbox": {
+          "x": 280.0,
+          "y": 320.0,
+          "width": 650.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-011-002-002-4",
+        "idx_in_page": 4,
+        "text": "본 계약은 매도인과 매수인의 합의 하에 작성되었으며 쌍방은 이를 성실히 이행함",
+        "page": 5,
+        "bbox": {
+          "x": 280.0,
+          "y": 370.0,
+          "width": 800.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.97
       }
     ]
   },

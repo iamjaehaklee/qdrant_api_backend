@@ -15,98 +15,438 @@
   ],
   "chunk_number": 1,
   "paragraph_texts": [
-    "[1페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[2페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[3페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "을 제3호증",
+    "피고 이영희와 지인 정모씨 간 문자메시지 내역",
+    "압수수색영장 집행 결과물 (2024년 8월 1일)",
+    "2024년 6월 15일 (토) 18:30",
+    "피고 이영희: 너 부동산 쪽 일 하잖아, 하나 물어볼게",
+    "정모씨: 응, 뭔데?",
+    "피고 이영희: 내가 집 팔았는데 잔금 다 받았거든",
+    "피고 이영희: 근데 등기 안 해주고 버티면 어떻게 돼?",
+    "정모씨: ?? 왜 안 해줘? 계약서 썼으면 해줘야지",
+    "피고 이영희: 집값이 계속 오르고 있잖아",
+    "피고 이영희: 등기 안 해주고 버티면 집값 더 오를 때까지 시간 벌 수 있을까?",
+    "정모씨: 미쳤어? 그러다 소송 당하면 어떡하려고?",
+    "피고 이영희: 적당히 핑계 대면 몇 개월은 버틸 수 있을 거야",
+    "피고 이영희: 서류 분실했다거나 가족 문제 생겼다거나",
+    "정모씨: 진짜 하지 마. 계약서에 위약금 조항 있을 텐데",
+    "피고 이영희: 위약금 물어도 집값 차이가 더 크면 남는 장사지",
+    "2024년 6월 16일 (일) 14:20",
+    "정모씨: 너 진짜 등기 안 해주고 있는 거야?",
+    "피고 이영희: 응, 아직 안 했어",
+    "정모씨: 산 사람이 뭐래?",
+    "피고 이영희: 자꾸 연락 오는데 무시하고 있어",
+    "피고 이영희: 변호사 선임했다고 협박하던데",
+    "정모씨: 그럼 진짜 소송 들어가는 거잖아",
+    "피고 이영희: 어차피 시간 끌면 끌수록 집값 더 오를 거 아니야"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-035-001-000-0",
         "idx_in_page": 0,
-        "text": "[1페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "을 제3호증",
         "page": 1,
         "bbox": {
-          "x": 208.71,
-          "y": 102.29,
-          "width": 1237.31,
-          "height": 50
+          "x": 720.5,
+          "y": 180.0,
+          "width": 240.0,
+          "height": 45
         },
-        "type": "body",
-        "confidence_score": 0.93
+        "type": "header",
+        "confidence_score": 0.98
       },
       {
         "paragraph_id": "para-035-001-000-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "피고 이영희와 지인 정모씨 간 문자메시지 내역",
         "page": 1,
         "bbox": {
-          "x": 182.4,
-          "y": 1196.31,
-          "width": 1245.76,
-          "height": 50
+          "x": 520.0,
+          "y": 280.0,
+          "width": 640.0,
+          "height": 42
         },
-        "type": "body",
-        "confidence_score": 0.93
+        "type": "header",
+        "confidence_score": 0.97
       },
       {
-        "paragraph_id": "para-035-001-001-0",
-        "idx_in_page": 0,
-        "text": "[2페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 2,
+        "paragraph_id": "para-035-001-000-2",
+        "idx_in_page": 2,
+        "text": "압수수색영장 집행 결과물 (2024년 8월 1일)",
+        "page": 1,
         "bbox": {
-          "x": 195.04,
-          "y": 93.12,
-          "width": 1319.8,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.94
-      },
-      {
-        "paragraph_id": "para-035-001-001-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 2,
-        "bbox": {
-          "x": 191.29,
-          "y": 1187.53,
-          "width": 1259.54,
-          "height": 50
+          "x": 550.0,
+          "y": 350.0,
+          "width": 580.0,
+          "height": 38
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-035-001-002-0",
-        "idx_in_page": 0,
-        "text": "[3페이지] 을3호증_피고문자메시지_악의적의도 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 3,
+        "paragraph_id": "para-035-001-000-3",
+        "idx_in_page": 3,
+        "text": "2024년 6월 15일 (토) 18:30",
+        "page": 1,
         "bbox": {
-          "x": 209.51,
-          "y": 91.65,
-          "width": 1278.46,
-          "height": 50
+          "x": 200.0,
+          "y": 480.0,
+          "width": 420.0,
+          "height": 35
         },
         "type": "body",
-        "confidence_score": 0.97
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-035-001-000-4",
+        "idx_in_page": 4,
+        "text": "피고 이영희: 너 부동산 쪽 일 하잖아, 하나 물어볼게",
+        "page": 1,
+        "bbox": {
+          "x": 200.0,
+          "y": 540.0,
+          "width": 850.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-035-001-000-5",
+        "idx_in_page": 5,
+        "text": "정모씨: 응, 뭔데?",
+        "page": 1,
+        "bbox": {
+          "x": 920.0,
+          "y": 600.0,
+          "width": 360.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-035-001-000-6",
+        "idx_in_page": 6,
+        "text": "피고 이영희: 내가 집 팔았는데 잔금 다 받았거든",
+        "page": 1,
+        "bbox": {
+          "x": 200.0,
+          "y": 660.0,
+          "width": 780.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-035-001-000-7",
+        "idx_in_page": 7,
+        "text": "피고 이영희: 근데 등기 안 해주고 버티면 어떻게 돼?",
+        "page": 1,
+        "bbox": {
+          "x": 200.0,
+          "y": 720.0,
+          "width": 880.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-035-001-000-8",
+        "idx_in_page": 8,
+        "text": "정모씨: ?? 왜 안 해줘? 계약서 썼으면 해줘야지",
+        "page": 1,
+        "bbox": {
+          "x": 820.0,
+          "y": 780.0,
+          "width": 660.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-035-001-000-9",
+        "idx_in_page": 9,
+        "text": "피고 이영희: 집값이 계속 오르고 있잖아",
+        "page": 1,
+        "bbox": {
+          "x": 200.0,
+          "y": 840.0,
+          "width": 680.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-035-001-000-10",
+        "idx_in_page": 10,
+        "text": "피고 이영희: 등기 안 해주고 버티면 집값 더 오를 때까지 시간 벌 수 있을까?",
+        "page": 1,
+        "bbox": {
+          "x": 200.0,
+          "y": 900.0,
+          "width": 1120.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-035-001-000-11",
+        "idx_in_page": 11,
+        "text": "정모씨: 미쳤어? 그러다 소송 당하면 어떡하려고?",
+        "page": 1,
+        "bbox": {
+          "x": 750.0,
+          "y": 960.0,
+          "width": 730.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-035-001-001-0",
+        "idx_in_page": 0,
+        "text": "피고 이영희: 적당히 핑계 대면 몇 개월은 버틸 수 있을 거야",
+        "page": 2,
+        "bbox": {
+          "x": 200.0,
+          "y": 120.0,
+          "width": 960.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-035-001-001-1",
+        "idx_in_page": 1,
+        "text": "피고 이영희: 서류 분실했다거나 가족 문제 생겼다거나",
+        "page": 2,
+        "bbox": {
+          "x": 200.0,
+          "y": 180.0,
+          "width": 880.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-035-001-001-2",
+        "idx_in_page": 2,
+        "text": "정모씨: 진짜 하지 마. 계약서에 위약금 조항 있을 텐데",
+        "page": 2,
+        "bbox": {
+          "x": 680.0,
+          "y": 240.0,
+          "width": 800.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-035-001-001-3",
+        "idx_in_page": 3,
+        "text": "피고 이영희: 위약금 물어도 집값 차이가 더 크면 남는 장사지",
+        "page": 2,
+        "bbox": {
+          "x": 200.0,
+          "y": 300.0,
+          "width": 1000.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-035-001-001-4",
+        "idx_in_page": 4,
+        "text": "2024년 6월 16일 (일) 14:20",
+        "page": 2,
+        "bbox": {
+          "x": 200.0,
+          "y": 420.0,
+          "width": 420.0,
+          "height": 35
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-035-001-001-5",
+        "idx_in_page": 5,
+        "text": "정모씨: 너 진짜 등기 안 해주고 있는 거야?",
+        "page": 2,
+        "bbox": {
+          "x": 780.0,
+          "y": 480.0,
+          "width": 700.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-035-001-001-6",
+        "idx_in_page": 6,
+        "text": "피고 이영희: 응, 아직 안 했어",
+        "page": 2,
+        "bbox": {
+          "x": 200.0,
+          "y": 540.0,
+          "width": 480.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-035-001-001-7",
+        "idx_in_page": 7,
+        "text": "정모씨: 산 사람이 뭐래?",
+        "page": 2,
+        "bbox": {
+          "x": 900.0,
+          "y": 600.0,
+          "width": 420.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-035-001-001-8",
+        "idx_in_page": 8,
+        "text": "피고 이영희: 자꾸 연락 오는데 무시하고 있어",
+        "page": 2,
+        "bbox": {
+          "x": 200.0,
+          "y": 660.0,
+          "width": 780.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-035-001-001-9",
+        "idx_in_page": 9,
+        "text": "피고 이영희: 변호사 선임했다고 협박하던데",
+        "page": 2,
+        "bbox": {
+          "x": 200.0,
+          "y": 720.0,
+          "width": 740.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-035-001-001-10",
+        "idx_in_page": 10,
+        "text": "정모씨: 그럼 진짜 소송 들어가는 거잖아",
+        "page": 2,
+        "bbox": {
+          "x": 780.0,
+          "y": 780.0,
+          "width": 660.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-035-001-001-11",
+        "idx_in_page": 11,
+        "text": "피고 이영희: 어차피 시간 끌면 끌수록 집값 더 오를 거 아니야",
+        "page": 2,
+        "bbox": {
+          "x": 200.0,
+          "y": 840.0,
+          "width": 1020.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-035-001-002-0",
+        "idx_in_page": 0,
+        "text": "정모씨: 너 정말 위험한 생각하고 있는 거 알지?",
+        "page": 3,
+        "bbox": {
+          "x": 750.0,
+          "y": 120.0,
+          "width": 730.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.94
       },
       {
         "paragraph_id": "para-035-001-002-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "피고 이영희: 위험하긴. 근데 집값 차이가 너무 커",
         "page": 3,
         "bbox": {
-          "x": 209.86,
-          "y": 1184.24,
-          "width": 1252.5,
-          "height": 50
+          "x": 200.0,
+          "y": 180.0,
+          "width": 840.0,
+          "height": 38
         },
         "type": "body",
-        "confidence_score": 0.97
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-035-001-002-2",
+        "idx_in_page": 2,
+        "text": "피고 이영희: 5억에 팔았는데 지금 5억 3천은 되잖아",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 240.0,
+          "width": 860.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-035-001-002-3",
+        "idx_in_page": 3,
+        "text": "정모씨: 그래도 계약은 계약이잖아",
+        "page": 3,
+        "bbox": {
+          "x": 820.0,
+          "y": 300.0,
+          "width": 580.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-035-001-002-4",
+        "idx_in_page": 4,
+        "text": "피고 이영희: 알아. 근데 지금 못 참겠어",
+        "page": 3,
+        "bbox": {
+          "x": 200.0,
+          "y": 360.0,
+          "width": 720.0,
+          "height": 38
+        },
+        "type": "body",
+        "confidence_score": 0.94
       }
     ]
   },

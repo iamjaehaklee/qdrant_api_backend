@@ -15,98 +15,293 @@
   ],
   "chunk_number": 1,
   "paragraph_texts": [
-    "[1페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[2페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[3페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "일반건축물대장",
+    "발급일: 2024년 7월 25일",
+    "【건축물 현황】",
+    "소재지: 서울특별시 강남구 테헤란로 123 (아크로타워)",
+    "동: 456동 789호",
+    "대지위치: 서울특별시 강남구 역삼동 789-12",
+    "도로명주소: 서울특별시 강남구 테헤란로 123",
+    "【대지 현황】",
+    "지번: 역삼동 789-12",
+    "지목: 대(垈)",
+    "대지면적: 15,234.50㎡",
+    "건폐율: 59.8%",
+    "용적률: 299.5%",
+    "【건축물 개요】",
+    "건축물명: 아크로타워",
+    "주용도: 공동주택(아파트)",
+    "기타용도: 부대시설, 복리시설",
+    "건축면적: 9,110.25㎡",
+    "연면적: 45,627.80㎡"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-024-001-000-0",
         "idx_in_page": 0,
-        "text": "[1페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "일반건축물대장",
         "page": 1,
         "bbox": {
-          "x": 198.21,
-          "y": 96.35,
-          "width": 1297.41,
-          "height": 50
+          "x": 215,
+          "y": 95,
+          "width": 950,
+          "height": 42
+        },
+        "type": "title",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-024-001-000-1",
+        "idx_in_page": 1,
+        "text": "발급일: 2024년 7월 25일",
+        "page": 1,
+        "bbox": {
+          "x": 215,
+          "y": 165,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-024-001-000-2",
+        "idx_in_page": 2,
+        "text": "【건축물 현황】",
+        "page": 1,
+        "bbox": {
+          "x": 215,
+          "y": 225,
+          "width": 950,
+          "height": 42
+        },
+        "type": "heading",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-024-001-000-3",
+        "idx_in_page": 3,
+        "text": "소재지: 서울특별시 강남구 테헤란로 123 (아크로타워)",
+        "page": 1,
+        "bbox": {
+          "x": 215,
+          "y": 285,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-024-001-000-4",
+        "idx_in_page": 4,
+        "text": "동: 456동 789호",
+        "page": 1,
+        "bbox": {
+          "x": 215,
+          "y": 335,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-024-001-000-5",
+        "idx_in_page": 5,
+        "text": "대지위치: 서울특별시 강남구 역삼동 789-12",
+        "page": 1,
+        "bbox": {
+          "x": 215,
+          "y": 385,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-024-001-000-6",
+        "idx_in_page": 6,
+        "text": "도로명주소: 서울특별시 강남구 테헤란로 123",
+        "page": 1,
+        "bbox": {
+          "x": 215,
+          "y": 435,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-024-001-001-0",
+        "idx_in_page": 0,
+        "text": "【대지 현황】",
+        "page": 2,
+        "bbox": {
+          "x": 215,
+          "y": 95,
+          "width": 950,
+          "height": 42
+        },
+        "type": "heading",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-024-001-001-1",
+        "idx_in_page": 1,
+        "text": "지번: 역삼동 789-12",
+        "page": 2,
+        "bbox": {
+          "x": 215,
+          "y": 155,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-024-001-001-2",
+        "idx_in_page": 2,
+        "text": "지목: 대(垈)",
+        "page": 2,
+        "bbox": {
+          "x": 215,
+          "y": 205,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-024-001-001-3",
+        "idx_in_page": 3,
+        "text": "대지면적: 15,234.50㎡",
+        "page": 2,
+        "bbox": {
+          "x": 215,
+          "y": 255,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-024-001-001-4",
+        "idx_in_page": 4,
+        "text": "건폐율: 59.8%",
+        "page": 2,
+        "bbox": {
+          "x": 215,
+          "y": 305,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.92
       },
       {
-        "paragraph_id": "para-024-001-000-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 1,
+        "paragraph_id": "para-024-001-001-5",
+        "idx_in_page": 5,
+        "text": "용적률: 299.5%",
+        "page": 2,
         "bbox": {
-          "x": 200.2,
-          "y": 1190.18,
-          "width": 1251.96,
-          "height": 50
+          "x": 215,
+          "y": 355,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.93
       },
       {
-        "paragraph_id": "para-024-001-001-0",
-        "idx_in_page": 0,
-        "text": "[2페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 2,
-        "bbox": {
-          "x": 202.8,
-          "y": 96.07,
-          "width": 1327.9,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.95
-      },
-      {
-        "paragraph_id": "para-024-001-001-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 2,
-        "bbox": {
-          "x": 189.93,
-          "y": 1199.33,
-          "width": 1293.84,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.95
-      },
-      {
         "paragraph_id": "para-024-001-002-0",
         "idx_in_page": 0,
-        "text": "[3페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "【건축물 개요】",
         "page": 3,
         "bbox": {
-          "x": 184.68,
-          "y": 90.23,
-          "width": 1327.99,
-          "height": 50
+          "x": 215,
+          "y": 95,
+          "width": 950,
+          "height": 42
         },
-        "type": "body",
-        "confidence_score": 0.94
+        "type": "heading",
+        "confidence_score": 0.95
       },
       {
         "paragraph_id": "para-024-001-002-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "건축물명: 아크로타워",
         "page": 3,
         "bbox": {
-          "x": 213.57,
-          "y": 1194.29,
-          "width": 1266.53,
-          "height": 50
+          "x": 215,
+          "y": 155,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-024-001-002-2",
+        "idx_in_page": 2,
+        "text": "주용도: 공동주택(아파트)",
+        "page": 3,
+        "bbox": {
+          "x": 215,
+          "y": 205,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-024-001-002-3",
+        "idx_in_page": 3,
+        "text": "기타용도: 부대시설, 복리시설",
+        "page": 3,
+        "bbox": {
+          "x": 215,
+          "y": 255,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-024-001-002-4",
+        "idx_in_page": 4,
+        "text": "건축면적: 9,110.25㎡",
+        "page": 3,
+        "bbox": {
+          "x": 215,
+          "y": 305,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-024-001-002-5",
+        "idx_in_page": 5,
+        "text": "연면적: 45,627.80㎡",
+        "page": 3,
+        "bbox": {
+          "x": 215,
+          "y": 355,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.92
       }
     ]
   },

@@ -15,98 +15,408 @@
   ],
   "chunk_number": 4,
   "paragraph_texts": [
-    "[7페이지] 갑16호증_문자메시지 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[8페이지] 갑16호증_문자메시지 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[9페이지] 갑16호증_문자메시지 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "문자메시지 내역 - 7페이지",
+    "",
+    "문자메시지 내역 - 8페이지",
+    "",
+    "문자메시지 내역 - 9페이지",
+    "",
+    "[2024-06-15 19:30] 원고 (010-1234-5678)",
+    "왜 연락이 안 되시나요?",
+    "",
+    "[2024-06-16 09:00] 원고 (010-1234-5678)",
+    "어제 연락 못 받으셨나요?",
+    "",
+    "[2024-06-16 12:00] 원고 (010-1234-5678)",
+    "등기 서류 언제 주실 건가요?",
+    "",
+    "[2024-06-16 16:00] 원고 (010-1234-5678)",
+    "답변 없으시면 법적 조치 취하겠습니다.",
+    "",
+    "[2024-06-16 20:00] 원고 (010-1234-5678)",
+    "내일까지 연락 주시기 바랍니다.",
+    "",
+    "[2024-06-17 10:00] 원고 (010-1234-5678)",
+    "이틀째 연락이 안 됩니다.",
+    "",
+    "[2024-06-17 14:00] 원고 (010-1234-5678)",
+    "변호사 통해 진행하겠습니다.",
+    "",
+    "[2024-06-17 18:00] 원고 (010-1234-5678)",
+    "법적 책임 물을 것입니다.",
+    "",
+    "[2024-06-18 09:00] 원고 (010-1234-5678)",
+    "무슨 일 있으신가요?",
+    "",
+    "[2024-06-18 12:00] 원고 (010-1234-5678)",
+    "정말 연락 안 되시네요.",
+    ""
   ],
   "chunk_content": {
     "paragraphs": [
       {
-        "paragraph_id": "para-027-004-000-0",
+        "paragraph_id": "para-027-004-007-0",
         "idx_in_page": 0,
-        "text": "[7페이지] 갑16호증_문자메시지 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "문자메시지 내역 - 7페이지",
         "page": 7,
         "bbox": {
-          "x": 191.25,
-          "y": 100.21,
-          "width": 1275.03,
-          "height": 50
+          "x": 200,
+          "y": 100,
+          "width": 1200,
+          "height": 40
         },
-        "type": "body",
-        "confidence_score": 0.94
+        "type": "header",
+        "confidence_score": 0.98
       },
       {
-        "paragraph_id": "para-027-004-000-1",
+        "paragraph_id": "para-027-004-007-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "[2024-06-15 19:30] 원고 (010-1234-5678)",
         "page": 7,
         "bbox": {
-          "x": 218.55,
-          "y": 1195.24,
-          "width": 1319.68,
-          "height": 50
+          "x": 220,
+          "y": 150,
+          "width": 1000,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-004-007-2",
+        "idx_in_page": 2,
+        "text": "왜 연락이 안 되시나요?",
+        "page": 7,
+        "bbox": {
+          "x": 240,
+          "y": 185,
+          "width": 1200,
+          "height": 30
         },
         "type": "body",
         "confidence_score": 0.94
       },
       {
-        "paragraph_id": "para-027-004-001-0",
-        "idx_in_page": 0,
-        "text": "[8페이지] 갑16호증_문자메시지 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 8,
+        "paragraph_id": "para-027-004-007-3",
+        "idx_in_page": 3,
+        "text": "[2024-06-16 09:00] 원고 (010-1234-5678)",
+        "page": 7,
         "bbox": {
-          "x": 206.33,
-          "y": 93.07,
-          "width": 1274.71,
-          "height": 50
+          "x": 220,
+          "y": 235,
+          "width": 1000,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-004-007-4",
+        "idx_in_page": 4,
+        "text": "어제 연락 못 받으셨나요?",
+        "page": 7,
+        "bbox": {
+          "x": 240,
+          "y": 270,
+          "width": 1200,
+          "height": 30
         },
         "type": "body",
         "confidence_score": 0.94
       },
       {
-        "paragraph_id": "para-027-004-001-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "paragraph_id": "para-027-004-007-5",
+        "idx_in_page": 5,
+        "text": "[2024-06-16 12:00] 원고 (010-1234-5678)",
+        "page": 7,
+        "bbox": {
+          "x": 220,
+          "y": 320,
+          "width": 1000,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-004-007-6",
+        "idx_in_page": 6,
+        "text": "등기 서류 언제 주실 건가요?",
+        "page": 7,
+        "bbox": {
+          "x": 240,
+          "y": 355,
+          "width": 1200,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-027-004-007-7",
+        "idx_in_page": 7,
+        "text": "페이지 7/18",
+        "page": 7,
+        "bbox": {
+          "x": 600,
+          "y": 2300,
+          "width": 200,
+          "height": 30
+        },
+        "type": "footer",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-027-004-008-0",
+        "idx_in_page": 0,
+        "text": "문자메시지 내역 - 8페이지",
         "page": 8,
         "bbox": {
-          "x": 219.94,
-          "y": 1182.15,
-          "width": 1261.08,
-          "height": 50
+          "x": 200,
+          "y": 100,
+          "width": 1200,
+          "height": 40
         },
-        "type": "body",
-        "confidence_score": 0.91
+        "type": "header",
+        "confidence_score": 0.98
       },
       {
-        "paragraph_id": "para-027-004-002-0",
-        "idx_in_page": 0,
-        "text": "[9페이지] 갑16호증_문자메시지 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 9,
-        "bbox": {
-          "x": 206.88,
-          "y": 108.67,
-          "width": 1317.67,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.91
-      },
-      {
-        "paragraph_id": "para-027-004-002-1",
+        "paragraph_id": "para-027-004-008-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 9,
+        "text": "[2024-06-16 16:00] 원고 (010-1234-5678)",
+        "page": 8,
         "bbox": {
-          "x": 208.02,
-          "y": 1197.61,
-          "width": 1291.54,
-          "height": 50
+          "x": 220,
+          "y": 150,
+          "width": 1000,
+          "height": 30
         },
         "type": "body",
-        "confidence_score": 0.93
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-004-008-2",
+        "idx_in_page": 2,
+        "text": "답변 없으시면 법적 조치 취하겠습니다.",
+        "page": 8,
+        "bbox": {
+          "x": 240,
+          "y": 185,
+          "width": 1200,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-027-004-008-3",
+        "idx_in_page": 3,
+        "text": "[2024-06-16 20:00] 원고 (010-1234-5678)",
+        "page": 8,
+        "bbox": {
+          "x": 220,
+          "y": 235,
+          "width": 1000,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-004-008-4",
+        "idx_in_page": 4,
+        "text": "내일까지 연락 주시기 바랍니다.",
+        "page": 8,
+        "bbox": {
+          "x": 240,
+          "y": 270,
+          "width": 1200,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-027-004-008-5",
+        "idx_in_page": 5,
+        "text": "[2024-06-17 10:00] 원고 (010-1234-5678)",
+        "page": 8,
+        "bbox": {
+          "x": 220,
+          "y": 320,
+          "width": 1000,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-004-008-6",
+        "idx_in_page": 6,
+        "text": "이틀째 연락이 안 됩니다.",
+        "page": 8,
+        "bbox": {
+          "x": 240,
+          "y": 355,
+          "width": 1200,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-027-004-008-7",
+        "idx_in_page": 7,
+        "text": "페이지 8/18",
+        "page": 8,
+        "bbox": {
+          "x": 600,
+          "y": 2300,
+          "width": 200,
+          "height": 30
+        },
+        "type": "footer",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-027-004-009-0",
+        "idx_in_page": 0,
+        "text": "문자메시지 내역 - 9페이지",
+        "page": 9,
+        "bbox": {
+          "x": 200,
+          "y": 100,
+          "width": 1200,
+          "height": 40
+        },
+        "type": "header",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-027-004-009-1",
+        "idx_in_page": 1,
+        "text": "[2024-06-17 14:00] 원고 (010-1234-5678)",
+        "page": 9,
+        "bbox": {
+          "x": 220,
+          "y": 150,
+          "width": 1000,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-004-009-2",
+        "idx_in_page": 2,
+        "text": "변호사 통해 진행하겠습니다.",
+        "page": 9,
+        "bbox": {
+          "x": 240,
+          "y": 185,
+          "width": 1200,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-027-004-009-3",
+        "idx_in_page": 3,
+        "text": "[2024-06-17 18:00] 원고 (010-1234-5678)",
+        "page": 9,
+        "bbox": {
+          "x": 220,
+          "y": 235,
+          "width": 1000,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-004-009-4",
+        "idx_in_page": 4,
+        "text": "법적 책임 물을 것입니다.",
+        "page": 9,
+        "bbox": {
+          "x": 240,
+          "y": 270,
+          "width": 1200,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-027-004-009-5",
+        "idx_in_page": 5,
+        "text": "[2024-06-18 09:00] 원고 (010-1234-5678)",
+        "page": 9,
+        "bbox": {
+          "x": 220,
+          "y": 320,
+          "width": 1000,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-004-009-6",
+        "idx_in_page": 6,
+        "text": "무슨 일 있으신가요?",
+        "page": 9,
+        "bbox": {
+          "x": 240,
+          "y": 355,
+          "width": 1200,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-027-004-009-7",
+        "idx_in_page": 7,
+        "text": "[2024-06-18 12:00] 원고 (010-1234-5678)",
+        "page": 9,
+        "bbox": {
+          "x": 220,
+          "y": 405,
+          "width": 1000,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-027-004-009-8",
+        "idx_in_page": 8,
+        "text": "정말 연락 안 되시네요.",
+        "page": 9,
+        "bbox": {
+          "x": 240,
+          "y": 440,
+          "width": 1200,
+          "height": 30
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-027-004-009-9",
+        "idx_in_page": 9,
+        "text": "페이지 9/18",
+        "page": 9,
+        "bbox": {
+          "x": 600,
+          "y": 2300,
+          "width": 200,
+          "height": 30
+        },
+        "type": "footer",
+        "confidence_score": 0.98
       }
     ]
   },

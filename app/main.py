@@ -1,6 +1,7 @@
 """
 Qdrant API Backend
 FastAPI application for OCR chunks CRUD and search operations
+# touch for reload (back to thread mode)
 """
 
 from fastapi import FastAPI
@@ -8,6 +9,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.routers import points, health, documentai_ocr, summaries, search_chunks, search_summaries
 from app.config import settings
+from app import executors
 
 # Create FastAPI application
 app = FastAPI(
@@ -15,7 +17,8 @@ app = FastAPI(
     description="FastAPI server for OCR chunks CRUD and search operations with Qdrant",
     version="0.1.0",
     docs_url="/docs",
-    redoc_url="/redoc"
+    redoc_url="/redoc",
+    redirect_slashes=False  # Disable automatic trailing slash redirect
 )
 
 # CORS middleware - allow all origins for development
@@ -57,12 +60,23 @@ async def startup_event():
     print(f"Collections: ocr_chunks, ocr_summaries")
     print(f"Qdrant URL: {settings.qdrant_url}")
     print("=" * 50)
+    # Initialize executors for CPU-bound offloading
+    try:
+        executors.init_executors()
+        print("Executors initialized for sparse offloading")
+    except Exception as e:
+        print(f"Failed to initialize executors: {e}")
 
 
 @app.on_event("shutdown")
 async def shutdown_event():
     """Shutdown event handler"""
     print("Qdrant OCR API Shutting down...")
+    # Gracefully shutdown executors
+    try:
+        executors.shutdown_executors()
+    except Exception:
+        pass
 
 
 if __name__ == "__main__":

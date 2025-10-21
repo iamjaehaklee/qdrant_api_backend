@@ -14,68 +14,248 @@
   ],
   "chunk_number": 5,
   "paragraph_texts": [
-    "[9페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다.",
-    "[10페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
-    "법원의 심리를 위해 제출합니다."
+    "【주차시설】 - 계속",
+    "법정 주차대수: 194대",
+    "확보 주차대수: 210대",
+    "주차장 위치: 지하1층~지하3층",
+    "【에너지 효율등급】",
+    "에너지효율등급: 1+++등급",
+    "녹색건축 인증: 최우수 등급",
+    "【특기사항】",
+    "없음",
+    "【발급정보】",
+    "발급일자: 2024년 7월 25일",
+    "발급기관: 서울특별시 강남구청",
+    "담당부서: 건축과",
+    "문의전화: 02-3423-5678",
+    "본 건축물대장은 「건축법」에 따라 발급된 공적 증명서입니다",
+    "- 끝 -"
   ],
   "chunk_content": {
     "paragraphs": [
       {
         "paragraph_id": "para-024-005-000-0",
         "idx_in_page": 0,
-        "text": "[9페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
+        "text": "【주차시설】 - 계속",
         "page": 9,
         "bbox": {
-          "x": 204.27,
-          "y": 92.92,
-          "width": 1284.43,
-          "height": 50
+          "x": 215,
+          "y": 585,
+          "width": 950,
+          "height": 42
         },
-        "type": "body",
-        "confidence_score": 0.96
+        "type": "heading",
+        "confidence_score": 0.92
       },
       {
         "paragraph_id": "para-024-005-000-1",
         "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
+        "text": "법정 주차대수: 194대",
         "page": 9,
         "bbox": {
-          "x": 193.88,
-          "y": 1181.18,
-          "width": 1301.49,
-          "height": 50
-        },
-        "type": "body",
-        "confidence_score": 0.98
-      },
-      {
-        "paragraph_id": "para-024-005-001-0",
-        "idx_in_page": 0,
-        "text": "[10페이지] 갑13호증_건축물대장 문서 내용 이 사건과 관련한 증거자료입니다.",
-        "page": 10,
-        "bbox": {
-          "x": 182.78,
-          "y": 108.08,
-          "width": 1274.47,
-          "height": 50
+          "x": 215,
+          "y": 645,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.95
       },
       {
-        "paragraph_id": "para-024-005-001-1",
-        "idx_in_page": 1,
-        "text": "법원의 심리를 위해 제출합니다.",
-        "page": 10,
+        "paragraph_id": "para-024-005-000-2",
+        "idx_in_page": 2,
+        "text": "확보 주차대수: 210대",
+        "page": 9,
         "bbox": {
-          "x": 210.0,
-          "y": 1181.88,
-          "width": 1300.27,
-          "height": 50
+          "x": 215,
+          "y": 695,
+          "width": 950,
+          "height": 32
         },
         "type": "body",
         "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-024-005-000-3",
+        "idx_in_page": 3,
+        "text": "주차장 위치: 지하1층~지하3층",
+        "page": 9,
+        "bbox": {
+          "x": 215,
+          "y": 745,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-024-005-001-0",
+        "idx_in_page": 0,
+        "text": "【에너지 효율등급】",
+        "page": 10,
+        "bbox": {
+          "x": 215,
+          "y": 95,
+          "width": 950,
+          "height": 42
+        },
+        "type": "heading",
+        "confidence_score": 0.95
+      },
+      {
+        "paragraph_id": "para-024-005-001-1",
+        "idx_in_page": 1,
+        "text": "에너지효율등급: 1+++등급",
+        "page": 10,
+        "bbox": {
+          "x": 215,
+          "y": 155,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-024-005-001-2",
+        "idx_in_page": 2,
+        "text": "녹색건축 인증: 최우수 등급",
+        "page": 10,
+        "bbox": {
+          "x": 215,
+          "y": 205,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.94
+      },
+      {
+        "paragraph_id": "para-024-005-001-3",
+        "idx_in_page": 3,
+        "text": "【특기사항】",
+        "page": 10,
+        "bbox": {
+          "x": 215,
+          "y": 275,
+          "width": 950,
+          "height": 42
+        },
+        "type": "heading",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-024-005-001-4",
+        "idx_in_page": 4,
+        "text": "없음",
+        "page": 10,
+        "bbox": {
+          "x": 215,
+          "y": 335,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
+      },
+      {
+        "paragraph_id": "para-024-005-001-5",
+        "idx_in_page": 5,
+        "text": "【발급정보】",
+        "page": 10,
+        "bbox": {
+          "x": 215,
+          "y": 405,
+          "width": 950,
+          "height": 42
+        },
+        "type": "heading",
+        "confidence_score": 0.96
+      },
+      {
+        "paragraph_id": "para-024-005-001-6",
+        "idx_in_page": 6,
+        "text": "발급일자: 2024년 7월 25일",
+        "page": 10,
+        "bbox": {
+          "x": 215,
+          "y": 465,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.92
+      },
+      {
+        "paragraph_id": "para-024-005-001-7",
+        "idx_in_page": 7,
+        "text": "발급기관: 서울특별시 강남구청",
+        "page": 10,
+        "bbox": {
+          "x": 215,
+          "y": 515,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-024-005-001-8",
+        "idx_in_page": 8,
+        "text": "담당부서: 건축과",
+        "page": 10,
+        "bbox": {
+          "x": 215,
+          "y": 565,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.99
+      },
+      {
+        "paragraph_id": "para-024-005-001-9",
+        "idx_in_page": 9,
+        "text": "문의전화: 02-3423-5678",
+        "page": 10,
+        "bbox": {
+          "x": 215,
+          "y": 615,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.98
+      },
+      {
+        "paragraph_id": "para-024-005-001-10",
+        "idx_in_page": 10,
+        "text": "본 건축물대장은 「건축법」에 따라 발급된 공적 증명서입니다",
+        "page": 10,
+        "bbox": {
+          "x": 215,
+          "y": 665,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.93
+      },
+      {
+        "paragraph_id": "para-024-005-001-11",
+        "idx_in_page": 11,
+        "text": "- 끝 -",
+        "page": 10,
+        "bbox": {
+          "x": 215,
+          "y": 715,
+          "width": 950,
+          "height": 32
+        },
+        "type": "body",
+        "confidence_score": 0.97
       }
     ]
   },
