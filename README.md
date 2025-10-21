@@ -91,7 +91,23 @@ The Qdrant configuration is already set up in `.env`.
 ### Development Mode
 
 ```bash
-uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+uvicorn app.main:app --reload --host 0.0.0.0 --port 6030
+```
+
+uvicorn app.main:app --host 0.0.0.0 --port 6030 --workers 3 --loop uvloop --http httptools --timeout-keep-alive 10 --backlog 2048
+
+
+
+#### If port 6030 is already in use
+
+Before starting the server on port 6030, you can stop any existing process using that port:
+
+```bash
+# macOS/Linux (graceful stop)
+kill -15 $(lsof -ti:6030) 2>/dev/null || true
+
+# If it’s still occupied (force kill)
+kill -9 $(lsof -ti:6030) 2>/dev/null || true
 ```
 
 ### Production Mode

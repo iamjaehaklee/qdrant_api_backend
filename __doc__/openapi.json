@@ -1,0 +1,3024 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Qdrant OCR API",
+    "description": "FastAPI server for OCR chunks CRUD and search operations with Qdrant",
+    "version": "0.1.0"
+  },
+  "paths": {
+    "/health": {
+      "get": {
+        "tags": [
+          "Health"
+        ],
+        "summary": "Health Check",
+        "description": "Check Qdrant connection and collection status\n\nReturns health status of the service",
+        "operationId": "health_check_health_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HealthResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/collection/info": {
+      "get": {
+        "tags": [
+          "Health"
+        ],
+        "summary": "Get Collection Info",
+        "description": "Get Qdrant collection information\n\nReturns collection statistics and configuration",
+        "operationId": "get_collection_info_collection_info_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CollectionInfoResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/points": {
+      "post": {
+        "tags": [
+          "Points"
+        ],
+        "summary": "Create Point",
+        "description": "Create a single OCR chunk point\n\nAutomatically generates embeddings from paragraph_texts",
+        "operationId": "create_point_points_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OCRChunkCreate"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "201": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "additionalProperties": true,
+                  "type": "object",
+                  "title": "Response Create Point Points Post"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/points/batch": {
+      "post": {
+        "tags": [
+          "Points"
+        ],
+        "summary": "Batch Create Points",
+        "description": "Create multiple OCR chunk points in batch\n\nAutomatically generates embeddings for all chunks",
+        "operationId": "batch_create_points_points_batch_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/BatchCreateRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "201": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "additionalProperties": true,
+                  "type": "object",
+                  "title": "Response Batch Create Points Points Batch Post"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/points/{point_id}": {
+      "get": {
+        "tags": [
+          "Points"
+        ],
+        "summary": "Get Point",
+        "description": "Retrieve an OCR chunk point by ID",
+        "operationId": "get_point_points__point_id__get",
+        "parameters": [
+          {
+            "name": "point_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Point Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/OCRChunkResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Points"
+        ],
+        "summary": "Update Point",
+        "description": "Update an OCR chunk point\n\nIf paragraph_texts is updated, embeddings will be regenerated",
+        "operationId": "update_point_points__point_id__put",
+        "parameters": [
+          {
+            "name": "point_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Point Id"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OCRChunkUpdate"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "additionalProperties": true,
+                  "title": "Response Update Point Points  Point Id  Put"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Points"
+        ],
+        "summary": "Delete Point",
+        "description": "Delete an OCR chunk point by ID",
+        "operationId": "delete_point_points__point_id__delete",
+        "parameters": [
+          {
+            "name": "point_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Point Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "additionalProperties": true,
+                  "title": "Response Delete Point Points  Point Id  Delete"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/points/batch/delete": {
+      "delete": {
+        "tags": [
+          "Points"
+        ],
+        "summary": "Batch Delete Points",
+        "description": "Delete multiple OCR chunk points in batch",
+        "operationId": "batch_delete_points_points_batch_delete_delete",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/BatchDeleteRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "additionalProperties": true,
+                  "type": "object",
+                  "title": "Response Batch Delete Points Points Batch Delete Delete"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/points/project/{project_id}": {
+      "get": {
+        "tags": [
+          "Points"
+        ],
+        "summary": "Get All Chunks By Project",
+        "description": "Retrieve all OCR chunks for a given project ID\n\nReturns all chunks without pagination limit",
+        "operationId": "get_all_chunks_by_project_points_project__project_id__get",
+        "parameters": [
+          {
+            "name": "project_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "title": "Project Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProjectChunksResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/search/dense": {
+      "post": {
+        "tags": [
+          "Search - Chunks"
+        ],
+        "summary": "Dense Search",
+        "description": "Dense vector search using Gemini embeddings\n\n- Semantic similarity search\n- Uses Gemini embedding-001 (1536 dimensions)\n- Best for: concept-based search, meaning similarity",
+        "operationId": "dense_search_search_dense_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DenseSearchRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SearchResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/search/sparse": {
+      "post": {
+        "tags": [
+          "Search - Chunks"
+        ],
+        "summary": "Sparse Search",
+        "description": "Sparse vector search using Kiwi (Korean) or FastEmbed BM25\n\n- Keyword-based search with morphological analysis\n- Korean: Kiwi morphological analyzer\n- Non-Korean: FastEmbed BM25\n- Best for: exact term matching, keyword search",
+        "operationId": "sparse_search_search_sparse_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SparseSearchRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SearchResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/search/matchtext": {
+      "post": {
+        "tags": [
+          "Search - Chunks"
+        ],
+        "summary": "Matchtext Search",
+        "description": "Full-text search using MatchText (no morphological analysis)\n\n- Fast text matching\n- No Kiwi analysis (searches as-is)\n- Requires text index on paragraph_texts field\n- Best for: phrase matching, exact text search",
+        "operationId": "matchtext_search_search_matchtext_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MatchTextSearchRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SearchResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/search/dense_sparse_rrf": {
+      "post": {
+        "tags": [
+          "Search - Chunks"
+        ],
+        "summary": "Dense Sparse Rrf Search",
+        "description": "Hybrid search combining dense + sparse using Reciprocal Rank Fusion\n\n- Combines semantic (dense) and keyword (sparse) search\n- Uses RRF algorithm to merge results\n- Formula: RRF_score = Σ(1 / (k + rank))\n- Best for: balanced search combining meaning and keywords",
+        "operationId": "dense_sparse_rrf_search_search_dense_sparse_rrf_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DenseSparseRRFRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SearchResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/search/recommend": {
+      "post": {
+        "tags": [
+          "Search - Chunks"
+        ],
+        "summary": "Recommend Search",
+        "description": "Recommendation search using positive and negative examples\n\n- Find similar items to positive examples\n- Avoid items similar to negative examples\n- Strategies: average_vector, best_score\n- Best for: \"more like this\", \"less like that\" searches",
+        "operationId": "recommend_search_search_recommend_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RecommendSearchRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SearchResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/search/discover": {
+      "post": {
+        "tags": [
+          "Search - Chunks"
+        ],
+        "summary": "Discover Search",
+        "description": "Discovery search using context pairs to explore vector space\n\n- Uses positive-negative context pairs to define search space\n- Finds items similar to target within context constraints\n- Best for: exploratory search, context-aware discovery",
+        "operationId": "discover_search_search_discover_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DiscoverSearchRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SearchResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/search/scroll": {
+      "post": {
+        "tags": [
+          "Search - Chunks"
+        ],
+        "summary": "Scroll Search",
+        "description": "Scroll search for paginated large result sets\n\n- Efficiently retrieve large numbers of results\n- Pagination support with offset\n- Supports metadata filtering\n- Best for: bulk operations, data export",
+        "operationId": "scroll_search_search_scroll_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ScrollSearchRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ScrollSearchResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/search/filter": {
+      "post": {
+        "tags": [
+          "Search - Chunks"
+        ],
+        "summary": "Filter Search",
+        "description": "Metadata filter-based search (no vector search)\n\n- Filter by project_id, file_id, language, pages\n- No semantic or keyword search\n- Best for: metadata-only queries",
+        "operationId": "filter_search_search_filter_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FilterSearchRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SearchResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/summaries/search/dense": {
+      "post": {
+        "tags": [
+          "Search - Summaries"
+        ],
+        "summary": "Dense Search",
+        "description": "Dense vector search using Gemini embeddings on summary_text\n\n- Semantic similarity search\n- Uses Gemini embedding-001 (1536 dimensions)\n- Best for: concept-based search, meaning similarity",
+        "operationId": "dense_search_summaries_search_dense_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DenseSearchRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SearchResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/summaries/search/sparse": {
+      "post": {
+        "tags": [
+          "Search - Summaries"
+        ],
+        "summary": "Sparse Search",
+        "description": "Sparse vector search using Kiwi (Korean) or FastEmbed BM25 on summary_text\n\n- Keyword-based search with morphological analysis\n- Korean: Kiwi morphological analyzer\n- Non-Korean: FastEmbed BM25\n- Best for: exact term matching, keyword search",
+        "operationId": "sparse_search_summaries_search_sparse_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SparseSearchRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SearchResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/summaries/search/matchtext": {
+      "post": {
+        "tags": [
+          "Search - Summaries"
+        ],
+        "summary": "Matchtext Search",
+        "description": "Full-text search using MatchText (no morphological analysis) on summary_text\n\n- Fast text matching\n- No Kiwi analysis (searches as-is)\n- Requires text index on summary_text field\n- Best for: phrase matching, exact text search",
+        "operationId": "matchtext_search_summaries_search_matchtext_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MatchTextSearchRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SearchResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/summaries/search/dense_sparse_rrf": {
+      "post": {
+        "tags": [
+          "Search - Summaries"
+        ],
+        "summary": "Dense Sparse Rrf Search",
+        "description": "Hybrid search combining dense + sparse using Reciprocal Rank Fusion on summary_text\n\n- Combines semantic (dense) and keyword (sparse) search\n- Uses RRF algorithm to merge results\n- Formula: RRF_score = Σ(1 / (k + rank))\n- Best for: balanced search combining meaning and keywords",
+        "operationId": "dense_sparse_rrf_search_summaries_search_dense_sparse_rrf_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DenseSparseRRFRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SearchResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/summaries/search/recommend": {
+      "post": {
+        "tags": [
+          "Search - Summaries"
+        ],
+        "summary": "Recommend Search",
+        "description": "Recommendation search using positive and negative examples\n\n- Find similar summaries to positive examples\n- Avoid summaries similar to negative examples\n- Strategies: average_vector, best_score\n- Best for: \"more like this\", \"less like that\" searches",
+        "operationId": "recommend_search_summaries_search_recommend_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RecommendSearchRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SearchResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/summaries/search/discover": {
+      "post": {
+        "tags": [
+          "Search - Summaries"
+        ],
+        "summary": "Discover Search",
+        "description": "Discovery search using context pairs to explore vector space\n\n- Uses positive-negative context pairs to define search space\n- Finds summaries similar to target within context constraints\n- Best for: exploratory search, context-aware discovery",
+        "operationId": "discover_search_summaries_search_discover_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DiscoverSearchRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SearchResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/summaries/search/scroll": {
+      "post": {
+        "tags": [
+          "Search - Summaries"
+        ],
+        "summary": "Scroll Search",
+        "description": "Scroll search for paginated large result sets\n\n- Efficiently retrieve large numbers of results\n- Pagination support with offset\n- Supports metadata filtering\n- Best for: bulk operations, data export",
+        "operationId": "scroll_search_summaries_search_scroll_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ScrollSearchRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ScrollSearchResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/summaries/search/filter": {
+      "post": {
+        "tags": [
+          "Search - Summaries"
+        ],
+        "summary": "Filter Search",
+        "description": "Metadata filter-based search (no vector search)\n\n- Filter by project_id, file_id, language, pages\n- No semantic or keyword search\n- Best for: metadata-only queries",
+        "operationId": "filter_search_summaries_search_filter_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FilterSearchRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SearchResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/summaries": {
+      "post": {
+        "tags": [
+          "Summaries"
+        ],
+        "summary": "Create Summary",
+        "description": "Create a new summary with automatic embedding generation\n\nEmbeddings are generated from summary_text field",
+        "operationId": "create_summary_summaries_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SummaryCreate"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "201": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SummaryResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/summaries/{summary_id}": {
+      "get": {
+        "tags": [
+          "Summaries"
+        ],
+        "summary": "Get Summary",
+        "description": "Retrieve a summary by ID",
+        "operationId": "get_summary_summaries__summary_id__get",
+        "parameters": [
+          {
+            "name": "summary_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Summary Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SummaryResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Summaries"
+        ],
+        "summary": "Update Summary",
+        "description": "Update a summary's payload and regenerate embeddings if summary_text changes",
+        "operationId": "update_summary_summaries__summary_id__put",
+        "parameters": [
+          {
+            "name": "summary_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Summary Id"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SummaryUpdate"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SummaryResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Summaries"
+        ],
+        "summary": "Delete Summary",
+        "description": "Delete a summary",
+        "operationId": "delete_summary_summaries__summary_id__delete",
+        "parameters": [
+          {
+            "name": "summary_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Summary Id"
+            }
+          }
+        ],
+        "responses": {
+          "204": {
+            "description": "Successful Response"
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/documentai-ocr/store-chunks": {
+      "post": {
+        "tags": [
+          "Document AI OCR"
+        ],
+        "summary": "Store Document AI OCR Results as Qdrant Chunks",
+        "description": "Process Google Document AI OCR results and store them as chunks in Qdrant.\n\n    **Process:**\n    1. Extracts paragraphs from Document AI pages\n    2. Creates 3-page sliding windows (with 1-page overlap)\n    3. Generates dense and sparse embeddings for each chunk\n    4. Stores chunks in Qdrant ocr_chunks collection\n\n    **Window Strategy:**\n    - For a 14-page document: [1-3], [3-5], [5-7], [7-9], [9-11], [11-13], [13-14]\n    - 1-page overlap ensures context continuity across chunks\n\n    **Embedding Generation:**\n    - Dense vectors: Gemini embedding-001 (1536 dimensions)\n    - Sparse vectors: TF-IDF-based token frequency",
+        "operationId": "store_documentai_ocr_chunks_api_documentai_ocr_store_chunks_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DocumentAIStoreChunksRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "201": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/DocumentAIStoreChunksResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/documentai-ocr/health": {
+      "get": {
+        "tags": [
+          "Document AI OCR"
+        ],
+        "summary": "Health Check for Document AI OCR Service",
+        "description": "Check if the Document AI OCR processing service is operational",
+        "operationId": "health_check_api_documentai_ocr_health_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/": {
+      "get": {
+        "summary": "Root",
+        "description": "Root endpoint",
+        "operationId": "root__get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "BBox": {
+        "properties": {
+          "x": {
+            "type": "number",
+            "title": "X"
+          },
+          "y": {
+            "type": "number",
+            "title": "Y"
+          },
+          "width": {
+            "type": "number",
+            "title": "Width"
+          },
+          "height": {
+            "type": "number",
+            "title": "Height"
+          }
+        },
+        "type": "object",
+        "required": [
+          "x",
+          "y",
+          "width",
+          "height"
+        ],
+        "title": "BBox",
+        "description": "Bounding box coordinates"
+      },
+      "BatchCreateRequest": {
+        "properties": {
+          "chunks": {
+            "items": {
+              "$ref": "#/components/schemas/OCRChunkCreate"
+            },
+            "type": "array",
+            "title": "Chunks"
+          }
+        },
+        "type": "object",
+        "required": [
+          "chunks"
+        ],
+        "title": "BatchCreateRequest",
+        "description": "Batch create request"
+      },
+      "BatchDeleteRequest": {
+        "properties": {
+          "point_ids": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Point Ids"
+          }
+        },
+        "type": "object",
+        "required": [
+          "point_ids"
+        ],
+        "title": "BatchDeleteRequest",
+        "description": "Batch delete request"
+      },
+      "ChunkContent-Input": {
+        "properties": {
+          "paragraphs": {
+            "items": {
+              "$ref": "#/components/schemas/Paragraph"
+            },
+            "type": "array",
+            "title": "Paragraphs"
+          }
+        },
+        "type": "object",
+        "required": [
+          "paragraphs"
+        ],
+        "title": "ChunkContent",
+        "description": "Detailed chunk content with paragraphs"
+      },
+      "ChunkContent-Output": {
+        "properties": {
+          "paragraphs": {
+            "items": {
+              "$ref": "#/components/schemas/Paragraph"
+            },
+            "type": "array",
+            "title": "Paragraphs"
+          }
+        },
+        "type": "object",
+        "required": [
+          "paragraphs"
+        ],
+        "title": "ChunkContent",
+        "description": "Detailed chunk content with paragraphs"
+      },
+      "CollectionInfoResponse": {
+        "properties": {
+          "collection_name": {
+            "type": "string",
+            "title": "Collection Name"
+          },
+          "vectors_count": {
+            "type": "integer",
+            "title": "Vectors Count"
+          },
+          "indexed_vectors_count": {
+            "type": "integer",
+            "title": "Indexed Vectors Count"
+          },
+          "points_count": {
+            "type": "integer",
+            "title": "Points Count"
+          },
+          "segments_count": {
+            "type": "integer",
+            "title": "Segments Count"
+          },
+          "status": {
+            "type": "string",
+            "title": "Status"
+          },
+          "config": {
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Config"
+          }
+        },
+        "type": "object",
+        "required": [
+          "collection_name",
+          "vectors_count",
+          "indexed_vectors_count",
+          "points_count",
+          "segments_count",
+          "status",
+          "config"
+        ],
+        "title": "CollectionInfoResponse",
+        "description": "Collection information response"
+      },
+      "ContextPair": {
+        "properties": {
+          "positive": {
+            "type": "string",
+            "title": "Positive",
+            "description": "Positive example point ID"
+          },
+          "negative": {
+            "type": "string",
+            "title": "Negative",
+            "description": "Negative example point ID"
+          }
+        },
+        "type": "object",
+        "required": [
+          "positive",
+          "negative"
+        ],
+        "title": "ContextPair",
+        "description": "Context pair for discovery search"
+      },
+      "DenseSearchRequest": {
+        "properties": {
+          "query_text": {
+            "type": "string",
+            "title": "Query Text",
+            "description": "Query text to search"
+          },
+          "limit": {
+            "type": "integer",
+            "maximum": 100.0,
+            "minimum": 1.0,
+            "title": "Limit",
+            "description": "Maximum number of results",
+            "default": 10
+          },
+          "score_threshold": {
+            "anyOf": [
+              {
+                "type": "number",
+                "maximum": 1.0,
+                "minimum": 0.0
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Score Threshold",
+            "description": "Minimum score threshold"
+          },
+          "filter_project_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Filter Project Id",
+            "description": "Filter by project ID"
+          },
+          "filter_file_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Filter File Id",
+            "description": "Filter by file ID"
+          }
+        },
+        "type": "object",
+        "required": [
+          "query_text"
+        ],
+        "title": "DenseSearchRequest",
+        "description": "Dense vector search request using Gemini embeddings"
+      },
+      "DenseSparseRRFRequest": {
+        "properties": {
+          "query_text": {
+            "type": "string",
+            "title": "Query Text",
+            "description": "Query text to search"
+          },
+          "limit": {
+            "type": "integer",
+            "maximum": 100.0,
+            "minimum": 1.0,
+            "title": "Limit",
+            "description": "Maximum number of results",
+            "default": 10
+          },
+          "score_threshold": {
+            "anyOf": [
+              {
+                "type": "number",
+                "maximum": 1.0,
+                "minimum": 0.0
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Score Threshold",
+            "description": "Minimum score threshold"
+          },
+          "rrf_k": {
+            "type": "integer",
+            "maximum": 100.0,
+            "minimum": 1.0,
+            "title": "Rrf K",
+            "description": "RRF constant k (default: 60)",
+            "default": 60
+          },
+          "filter_project_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Filter Project Id",
+            "description": "Filter by project ID"
+          },
+          "filter_file_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Filter File Id",
+            "description": "Filter by file ID"
+          }
+        },
+        "type": "object",
+        "required": [
+          "query_text"
+        ],
+        "title": "DenseSparseRRFRequest",
+        "description": "Hybrid search combining dense + sparse vectors using Reciprocal Rank Fusion"
+      },
+      "DiscoverSearchRequest": {
+        "properties": {
+          "target_text": {
+            "type": "string",
+            "title": "Target Text",
+            "description": "Target text to discover similar items"
+          },
+          "context_pairs": {
+            "items": {
+              "$ref": "#/components/schemas/ContextPair"
+            },
+            "type": "array",
+            "title": "Context Pairs",
+            "description": "List of positive-negative context pairs"
+          },
+          "limit": {
+            "type": "integer",
+            "maximum": 100.0,
+            "minimum": 1.0,
+            "title": "Limit",
+            "description": "Maximum number of results",
+            "default": 10
+          },
+          "filter_project_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Filter Project Id",
+            "description": "Filter by project ID"
+          },
+          "filter_file_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Filter File Id",
+            "description": "Filter by file ID"
+          }
+        },
+        "type": "object",
+        "required": [
+          "target_text",
+          "context_pairs"
+        ],
+        "title": "DiscoverSearchRequest",
+        "description": "Discovery search using context pairs to explore vector space"
+      },
+      "DocumentAIBlock": {
+        "properties": {
+          "layout": {
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Layout"
+          }
+        },
+        "type": "object",
+        "required": [
+          "layout"
+        ],
+        "title": "DocumentAIBlock",
+        "description": "Document AI block structure"
+      },
+      "DocumentAIPage": {
+        "properties": {
+          "pageNumber": {
+            "type": "integer",
+            "title": "Pagenumber",
+            "description": "1-based page number"
+          },
+          "dimension": {
+            "additionalProperties": {
+              "type": "number"
+            },
+            "type": "object",
+            "title": "Dimension",
+            "description": "Page dimensions {width, height}"
+          },
+          "blocks": {
+            "items": {
+              "$ref": "#/components/schemas/DocumentAIBlock"
+            },
+            "type": "array",
+            "title": "Blocks",
+            "description": "Text blocks in page"
+          },
+          "detected_languages": {
+            "anyOf": [
+              {
+                "items": {
+                  "additionalProperties": true,
+                  "type": "object"
+                },
+                "type": "array"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Detected Languages",
+            "description": "Detected languages"
+          }
+        },
+        "type": "object",
+        "required": [
+          "pageNumber",
+          "dimension"
+        ],
+        "title": "DocumentAIPage",
+        "description": "Document AI page structure"
+      },
+      "DocumentAIResult": {
+        "properties": {
+          "text": {
+            "type": "string",
+            "title": "Text",
+            "description": "Full document text (source of truth)"
+          },
+          "pages": {
+            "items": {
+              "$ref": "#/components/schemas/DocumentAIPage"
+            },
+            "type": "array",
+            "title": "Pages",
+            "description": "Page-by-page OCR results"
+          }
+        },
+        "type": "object",
+        "required": [
+          "text",
+          "pages"
+        ],
+        "title": "DocumentAIResult",
+        "description": "Google Document AI OCR result"
+      },
+      "DocumentAIStoreChunksRequest": {
+        "properties": {
+          "document_ai_result": {
+            "$ref": "#/components/schemas/DocumentAIResult",
+            "description": "Document AI OCR response"
+          },
+          "file_metadata": {
+            "$ref": "#/components/schemas/FileMetadata",
+            "description": "File metadata"
+          }
+        },
+        "type": "object",
+        "required": [
+          "document_ai_result",
+          "file_metadata"
+        ],
+        "title": "DocumentAIStoreChunksRequest",
+        "description": "Request to store Document AI OCR results as Qdrant chunks"
+      },
+      "DocumentAIStoreChunksResponse": {
+        "properties": {
+          "success": {
+            "type": "boolean",
+            "title": "Success"
+          },
+          "chunk_ids": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Chunk Ids",
+            "description": "List of created chunk IDs"
+          },
+          "total_chunks": {
+            "type": "integer",
+            "title": "Total Chunks",
+            "description": "Total number of chunks created"
+          },
+          "processing_time": {
+            "type": "number",
+            "title": "Processing Time",
+            "description": "Processing time in seconds"
+          },
+          "summary": {
+            "$ref": "#/components/schemas/ProcessingSummary",
+            "description": "Processing summary"
+          }
+        },
+        "type": "object",
+        "required": [
+          "success",
+          "chunk_ids",
+          "total_chunks",
+          "processing_time",
+          "summary"
+        ],
+        "title": "DocumentAIStoreChunksResponse",
+        "description": "Response after storing Document AI OCR results"
+      },
+      "FileMetadata": {
+        "properties": {
+          "file_id": {
+            "type": "integer",
+            "title": "File Id"
+          },
+          "project_id": {
+            "type": "integer",
+            "title": "Project Id"
+          },
+          "storage_file_name": {
+            "type": "string",
+            "title": "Storage File Name"
+          },
+          "original_file_name": {
+            "type": "string",
+            "title": "Original File Name"
+          },
+          "mime_type": {
+            "type": "string",
+            "title": "Mime Type"
+          },
+          "total_pages": {
+            "type": "integer",
+            "title": "Total Pages"
+          }
+        },
+        "type": "object",
+        "required": [
+          "file_id",
+          "project_id",
+          "storage_file_name",
+          "original_file_name",
+          "mime_type",
+          "total_pages"
+        ],
+        "title": "FileMetadata",
+        "description": "File metadata for OCR processing"
+      },
+      "FilterSearchRequest": {
+        "properties": {
+          "project_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Project Id"
+          },
+          "file_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "File Id"
+          },
+          "pages": {
+            "anyOf": [
+              {
+                "items": {
+                  "type": "integer"
+                },
+                "type": "array"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Pages"
+          },
+          "language": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Language"
+          },
+          "limit": {
+            "type": "integer",
+            "maximum": 100.0,
+            "minimum": 1.0,
+            "title": "Limit",
+            "default": 10
+          },
+          "offset": {
+            "type": "integer",
+            "minimum": 0.0,
+            "title": "Offset",
+            "default": 0
+          }
+        },
+        "type": "object",
+        "title": "FilterSearchRequest",
+        "description": "Metadata filter-based search (existing model, kept for compatibility)"
+      },
+      "HTTPValidationError": {
+        "properties": {
+          "detail": {
+            "items": {
+              "$ref": "#/components/schemas/ValidationError"
+            },
+            "type": "array",
+            "title": "Detail"
+          }
+        },
+        "type": "object",
+        "title": "HTTPValidationError"
+      },
+      "HealthResponse": {
+        "properties": {
+          "status": {
+            "type": "string",
+            "title": "Status"
+          },
+          "qdrant_connected": {
+            "type": "boolean",
+            "title": "Qdrant Connected"
+          },
+          "collection_exists": {
+            "type": "boolean",
+            "title": "Collection Exists"
+          },
+          "message": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Message"
+          }
+        },
+        "type": "object",
+        "required": [
+          "status",
+          "qdrant_connected",
+          "collection_exists"
+        ],
+        "title": "HealthResponse",
+        "description": "Health check response"
+      },
+      "MatchTextSearchRequest": {
+        "properties": {
+          "query_text": {
+            "type": "string",
+            "title": "Query Text",
+            "description": "Query text to match"
+          },
+          "limit": {
+            "type": "integer",
+            "maximum": 100.0,
+            "minimum": 1.0,
+            "title": "Limit",
+            "description": "Maximum number of results",
+            "default": 10
+          },
+          "filter_project_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Filter Project Id",
+            "description": "Filter by project ID"
+          },
+          "filter_file_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Filter File Id",
+            "description": "Filter by file ID"
+          }
+        },
+        "type": "object",
+        "required": [
+          "query_text"
+        ],
+        "title": "MatchTextSearchRequest",
+        "description": "Full-text search using MatchText (no morphological analysis)"
+      },
+      "OCRChunkCreate": {
+        "properties": {
+          "chunk_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Chunk Id",
+            "description": "UUID string for the chunk. Auto-generated if not provided or invalid.",
+            "example": "550e8400-e29b-41d4-a716-446655440000"
+          },
+          "file_id": {
+            "type": "integer",
+            "title": "File Id"
+          },
+          "project_id": {
+            "type": "integer",
+            "title": "Project Id"
+          },
+          "storage_file_name": {
+            "type": "string",
+            "title": "Storage File Name"
+          },
+          "original_file_name": {
+            "type": "string",
+            "title": "Original File Name"
+          },
+          "mime_type": {
+            "type": "string",
+            "title": "Mime Type"
+          },
+          "total_pages": {
+            "type": "integer",
+            "title": "Total Pages"
+          },
+          "processing_duration_seconds": {
+            "type": "integer",
+            "title": "Processing Duration Seconds",
+            "default": 0
+          },
+          "language": {
+            "type": "string",
+            "title": "Language"
+          },
+          "pages": {
+            "items": {
+              "type": "integer"
+            },
+            "type": "array",
+            "title": "Pages"
+          },
+          "chunk_number": {
+            "type": "integer",
+            "title": "Chunk Number"
+          },
+          "paragraph_texts": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Paragraph Texts"
+          },
+          "chunk_content": {
+            "$ref": "#/components/schemas/ChunkContent-Input"
+          },
+          "page_dimensions": {
+            "items": {
+              "$ref": "#/components/schemas/PageDimension"
+            },
+            "type": "array",
+            "title": "Page Dimensions"
+          }
+        },
+        "type": "object",
+        "required": [
+          "file_id",
+          "project_id",
+          "storage_file_name",
+          "original_file_name",
+          "mime_type",
+          "total_pages",
+          "language",
+          "pages",
+          "chunk_number",
+          "paragraph_texts",
+          "chunk_content",
+          "page_dimensions"
+        ],
+        "title": "OCRChunkCreate",
+        "description": "Request model for creating OCR chunk\nEmbeddings will be generated automatically from paragraph_texts"
+      },
+      "OCRChunkPayload-Input": {
+        "properties": {
+          "chunk_id": {
+            "type": "string",
+            "title": "Chunk Id"
+          },
+          "file_id": {
+            "type": "integer",
+            "title": "File Id"
+          },
+          "project_id": {
+            "type": "integer",
+            "title": "Project Id"
+          },
+          "storage_file_name": {
+            "type": "string",
+            "title": "Storage File Name"
+          },
+          "original_file_name": {
+            "type": "string",
+            "title": "Original File Name"
+          },
+          "mime_type": {
+            "type": "string",
+            "title": "Mime Type"
+          },
+          "total_pages": {
+            "type": "integer",
+            "title": "Total Pages"
+          },
+          "processing_duration_seconds": {
+            "type": "integer",
+            "title": "Processing Duration Seconds",
+            "default": 0
+          },
+          "language": {
+            "type": "string",
+            "title": "Language"
+          },
+          "pages": {
+            "items": {
+              "type": "integer"
+            },
+            "type": "array",
+            "title": "Pages"
+          },
+          "chunk_number": {
+            "type": "integer",
+            "title": "Chunk Number"
+          },
+          "paragraph_texts": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Paragraph Texts"
+          },
+          "chunk_content": {
+            "$ref": "#/components/schemas/ChunkContent-Input"
+          },
+          "page_dimensions": {
+            "items": {
+              "$ref": "#/components/schemas/PageDimension"
+            },
+            "type": "array",
+            "title": "Page Dimensions"
+          },
+          "created_at": {
+            "type": "string",
+            "title": "Created At"
+          }
+        },
+        "type": "object",
+        "required": [
+          "chunk_id",
+          "file_id",
+          "project_id",
+          "storage_file_name",
+          "original_file_name",
+          "mime_type",
+          "total_pages",
+          "language",
+          "pages",
+          "chunk_number",
+          "paragraph_texts",
+          "chunk_content",
+          "page_dimensions"
+        ],
+        "title": "OCRChunkPayload",
+        "description": "Complete OCR chunk payload stored in Qdrant\nBased on actual data structure"
+      },
+      "OCRChunkPayload-Output": {
+        "properties": {
+          "chunk_id": {
+            "type": "string",
+            "title": "Chunk Id"
+          },
+          "file_id": {
+            "type": "integer",
+            "title": "File Id"
+          },
+          "project_id": {
+            "type": "integer",
+            "title": "Project Id"
+          },
+          "storage_file_name": {
+            "type": "string",
+            "title": "Storage File Name"
+          },
+          "original_file_name": {
+            "type": "string",
+            "title": "Original File Name"
+          },
+          "mime_type": {
+            "type": "string",
+            "title": "Mime Type"
+          },
+          "total_pages": {
+            "type": "integer",
+            "title": "Total Pages"
+          },
+          "processing_duration_seconds": {
+            "type": "integer",
+            "title": "Processing Duration Seconds",
+            "default": 0
+          },
+          "language": {
+            "type": "string",
+            "title": "Language"
+          },
+          "pages": {
+            "items": {
+              "type": "integer"
+            },
+            "type": "array",
+            "title": "Pages"
+          },
+          "chunk_number": {
+            "type": "integer",
+            "title": "Chunk Number"
+          },
+          "paragraph_texts": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Paragraph Texts"
+          },
+          "chunk_content": {
+            "$ref": "#/components/schemas/ChunkContent-Output"
+          },
+          "page_dimensions": {
+            "items": {
+              "$ref": "#/components/schemas/PageDimension"
+            },
+            "type": "array",
+            "title": "Page Dimensions"
+          },
+          "created_at": {
+            "type": "string",
+            "title": "Created At"
+          }
+        },
+        "type": "object",
+        "required": [
+          "chunk_id",
+          "file_id",
+          "project_id",
+          "storage_file_name",
+          "original_file_name",
+          "mime_type",
+          "total_pages",
+          "language",
+          "pages",
+          "chunk_number",
+          "paragraph_texts",
+          "chunk_content",
+          "page_dimensions"
+        ],
+        "title": "OCRChunkPayload",
+        "description": "Complete OCR chunk payload stored in Qdrant\nBased on actual data structure"
+      },
+      "OCRChunkResponse": {
+        "properties": {
+          "point_id": {
+            "type": "string",
+            "title": "Point Id"
+          },
+          "payload": {
+            "$ref": "#/components/schemas/OCRChunkPayload-Output"
+          },
+          "score": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Score"
+          }
+        },
+        "type": "object",
+        "required": [
+          "point_id",
+          "payload"
+        ],
+        "title": "OCRChunkResponse",
+        "description": "Response model for OCR chunk with point ID"
+      },
+      "OCRChunkUpdate": {
+        "properties": {
+          "file_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "File Id"
+          },
+          "project_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Project Id"
+          },
+          "storage_file_name": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Storage File Name"
+          },
+          "original_file_name": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Original File Name"
+          },
+          "paragraph_texts": {
+            "anyOf": [
+              {
+                "items": {
+                  "type": "string"
+                },
+                "type": "array"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Paragraph Texts"
+          },
+          "chunk_content": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/ChunkContent-Input"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "type": "object",
+        "title": "OCRChunkUpdate",
+        "description": "Request model for updating OCR chunk"
+      },
+      "PageDimension": {
+        "properties": {
+          "page": {
+            "type": "integer",
+            "title": "Page"
+          },
+          "width": {
+            "type": "integer",
+            "title": "Width"
+          },
+          "height": {
+            "type": "integer",
+            "title": "Height"
+          }
+        },
+        "type": "object",
+        "required": [
+          "page",
+          "width",
+          "height"
+        ],
+        "title": "PageDimension",
+        "description": "Page dimension information"
+      },
+      "Paragraph": {
+        "properties": {
+          "paragraph_id": {
+            "type": "string",
+            "title": "Paragraph Id"
+          },
+          "idx_in_page": {
+            "type": "integer",
+            "title": "Idx In Page"
+          },
+          "text": {
+            "type": "string",
+            "title": "Text"
+          },
+          "page": {
+            "type": "integer",
+            "title": "Page"
+          },
+          "bbox": {
+            "$ref": "#/components/schemas/BBox"
+          },
+          "type": {
+            "type": "string",
+            "title": "Type"
+          },
+          "confidence_score": {
+            "type": "number",
+            "title": "Confidence Score"
+          }
+        },
+        "type": "object",
+        "required": [
+          "paragraph_id",
+          "idx_in_page",
+          "text",
+          "page",
+          "bbox",
+          "type",
+          "confidence_score"
+        ],
+        "title": "Paragraph",
+        "description": "Paragraph information within chunk content"
+      },
+      "ProcessingSummary": {
+        "properties": {
+          "total_pages": {
+            "type": "integer",
+            "title": "Total Pages"
+          },
+          "total_paragraphs": {
+            "type": "integer",
+            "title": "Total Paragraphs"
+          },
+          "total_windows": {
+            "type": "integer",
+            "title": "Total Windows"
+          },
+          "language": {
+            "type": "string",
+            "title": "Language"
+          }
+        },
+        "type": "object",
+        "required": [
+          "total_pages",
+          "total_paragraphs",
+          "total_windows",
+          "language"
+        ],
+        "title": "ProcessingSummary",
+        "description": "Processing summary statistics"
+      },
+      "ProjectChunksResponse": {
+        "properties": {
+          "project_id": {
+            "type": "integer",
+            "title": "Project Id"
+          },
+          "total_count": {
+            "type": "integer",
+            "title": "Total Count"
+          },
+          "chunks": {
+            "items": {
+              "$ref": "#/components/schemas/OCRChunkResponse"
+            },
+            "type": "array",
+            "title": "Chunks"
+          }
+        },
+        "type": "object",
+        "required": [
+          "project_id",
+          "total_count",
+          "chunks"
+        ],
+        "title": "ProjectChunksResponse",
+        "description": "Response for all chunks in a project"
+      },
+      "RecommendSearchRequest": {
+        "properties": {
+          "positive_ids": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Positive Ids",
+            "description": "List of positive example point IDs"
+          },
+          "negative_ids": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Negative Ids",
+            "description": "List of negative example point IDs"
+          },
+          "limit": {
+            "type": "integer",
+            "maximum": 100.0,
+            "minimum": 1.0,
+            "title": "Limit",
+            "description": "Maximum number of results",
+            "default": 10
+          },
+          "score_threshold": {
+            "anyOf": [
+              {
+                "type": "number",
+                "maximum": 1.0,
+                "minimum": 0.0
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Score Threshold",
+            "description": "Minimum score threshold"
+          },
+          "strategy": {
+            "type": "string",
+            "enum": [
+              "average_vector",
+              "best_score"
+            ],
+            "title": "Strategy",
+            "description": "Recommendation strategy",
+            "default": "average_vector"
+          },
+          "filter_project_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Filter Project Id",
+            "description": "Filter by project ID"
+          },
+          "filter_file_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Filter File Id",
+            "description": "Filter by file ID"
+          }
+        },
+        "type": "object",
+        "required": [
+          "positive_ids"
+        ],
+        "title": "RecommendSearchRequest",
+        "description": "Recommendation search using positive and negative examples"
+      },
+      "ScrollSearchRequest": {
+        "properties": {
+          "limit": {
+            "type": "integer",
+            "maximum": 1000.0,
+            "minimum": 1.0,
+            "title": "Limit",
+            "description": "Number of results per page",
+            "default": 100
+          },
+          "offset": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Offset",
+            "description": "Pagination offset from previous response"
+          },
+          "filter_project_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Filter Project Id",
+            "description": "Filter by project ID"
+          },
+          "filter_file_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Filter File Id",
+            "description": "Filter by file ID"
+          },
+          "filter_language": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Filter Language",
+            "description": "Filter by language"
+          },
+          "filter_pages": {
+            "anyOf": [
+              {
+                "items": {
+                  "type": "integer"
+                },
+                "type": "array"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Filter Pages",
+            "description": "Filter by page numbers"
+          }
+        },
+        "type": "object",
+        "title": "ScrollSearchRequest",
+        "description": "Scroll search for paginated large result sets"
+      },
+      "ScrollSearchResponse": {
+        "properties": {
+          "results": {
+            "items": {},
+            "type": "array",
+            "title": "Results"
+          },
+          "total": {
+            "type": "integer",
+            "title": "Total"
+          },
+          "limit": {
+            "type": "integer",
+            "title": "Limit"
+          },
+          "next_offset": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Next Offset",
+            "description": "Offset for next page, None if last page"
+          }
+        },
+        "type": "object",
+        "required": [
+          "results",
+          "total",
+          "limit"
+        ],
+        "title": "ScrollSearchResponse",
+        "description": "Scroll search response with next_offset"
+      },
+      "SearchResponse": {
+        "properties": {
+          "results": {
+            "items": {},
+            "type": "array",
+            "title": "Results"
+          },
+          "total": {
+            "type": "integer",
+            "title": "Total"
+          },
+          "limit": {
+            "type": "integer",
+            "title": "Limit"
+          },
+          "offset": {
+            "type": "integer",
+            "title": "Offset",
+            "default": 0
+          }
+        },
+        "type": "object",
+        "required": [
+          "results",
+          "total",
+          "limit"
+        ],
+        "title": "SearchResponse",
+        "description": "Common search response model"
+      },
+      "SparseSearchRequest": {
+        "properties": {
+          "query_text": {
+            "type": "string",
+            "title": "Query Text",
+            "description": "Query text to search"
+          },
+          "limit": {
+            "type": "integer",
+            "maximum": 100.0,
+            "minimum": 1.0,
+            "title": "Limit",
+            "description": "Maximum number of results",
+            "default": 10
+          },
+          "score_threshold": {
+            "anyOf": [
+              {
+                "type": "number",
+                "minimum": 0.0
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Score Threshold",
+            "description": "Minimum score threshold"
+          },
+          "filter_project_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Filter Project Id",
+            "description": "Filter by project ID"
+          },
+          "filter_file_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Filter File Id",
+            "description": "Filter by file ID"
+          }
+        },
+        "type": "object",
+        "required": [
+          "query_text"
+        ],
+        "title": "SparseSearchRequest",
+        "description": "Sparse vector search request using Kiwi (Korean) or FastEmbed BM25"
+      },
+      "SummaryCreate": {
+        "properties": {
+          "summary_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Summary Id",
+            "description": "UUID string for the summary. Auto-generated if not provided or invalid.",
+            "example": "550e8400-e29b-41d4-a716-446655440000"
+          },
+          "project_id": {
+            "type": "integer",
+            "title": "Project Id"
+          },
+          "file_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "File Id"
+          },
+          "summary_text": {
+            "type": "string",
+            "title": "Summary Text"
+          },
+          "user_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "User Id",
+            "description": "User ID (UUID)"
+          },
+          "queue_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Queue Id",
+            "description": "Queue ID (tracking)"
+          },
+          "original_file_name": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Original File Name",
+            "description": "Original file name"
+          },
+          "correlation_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Correlation Id",
+            "description": "Distributed tracing correlation ID (auto-generated if not provided)"
+          },
+          "request_timestamp": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Request Timestamp",
+            "description": "Initial request timestamp ISO 8601 (auto-generated if not provided)"
+          }
+        },
+        "type": "object",
+        "required": [
+          "project_id",
+          "summary_text"
+        ],
+        "title": "SummaryCreate",
+        "description": "Request model for creating summary\nEmbeddings will be generated automatically from summary_text"
+      },
+      "SummaryPayload": {
+        "properties": {
+          "summary_id": {
+            "type": "string",
+            "title": "Summary Id"
+          },
+          "project_id": {
+            "type": "integer",
+            "title": "Project Id"
+          },
+          "file_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "File Id"
+          },
+          "summary_text": {
+            "type": "string",
+            "title": "Summary Text"
+          },
+          "created_at": {
+            "type": "string",
+            "title": "Created At"
+          }
+        },
+        "type": "object",
+        "required": [
+          "summary_id",
+          "project_id",
+          "summary_text"
+        ],
+        "title": "SummaryPayload",
+        "description": "Complete summary payload stored in Qdrant ocr_summaries collection"
+      },
+      "SummaryResponse": {
+        "properties": {
+          "point_id": {
+            "type": "string",
+            "title": "Point Id"
+          },
+          "payload": {
+            "$ref": "#/components/schemas/SummaryPayload"
+          },
+          "score": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Score"
+          }
+        },
+        "type": "object",
+        "required": [
+          "point_id",
+          "payload"
+        ],
+        "title": "SummaryResponse",
+        "description": "Response model for summary with optional score"
+      },
+      "SummaryUpdate": {
+        "properties": {
+          "project_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Project Id"
+          },
+          "file_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "File Id"
+          },
+          "summary_text": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Summary Text"
+          }
+        },
+        "type": "object",
+        "title": "SummaryUpdate",
+        "description": "Request model for updating summary"
+      },
+      "ValidationError": {
+        "properties": {
+          "loc": {
+            "items": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ]
+            },
+            "type": "array",
+            "title": "Location"
+          },
+          "msg": {
+            "type": "string",
+            "title": "Message"
+          },
+          "type": {
+            "type": "string",
+            "title": "Error Type"
+          }
+        },
+        "type": "object",
+        "required": [
+          "loc",
+          "msg",
+          "type"
+        ],
+        "title": "ValidationError"
+      }
+    }
+  }
+}
